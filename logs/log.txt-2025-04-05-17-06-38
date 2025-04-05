@@ -1,0 +1,597 @@
+Collecting env info ...
+./data/
+dict_keys(['task022'])
+dict_values(['task022_cosmosqa_passage_inappropriate_binary.json'])
+Chosen Task:  022
+Running Experiment for:  task022_cosmosqa_passage_inappropriate_binary.json
+Task Labels:  ['No', 'Yes']
+Original Instruction:  ['Read the given context and if the the context is inappropriate (e.g., pornographic) or nonsensical (e.g., cannot determine what happenings the context is about), indicate via "yes". Otherwise, response via "no".']
+Instruction Edit1:  ['Read the given context and if the the context is inappropriate (e.g., pornographic) or nonsensical (e.g., cannot determine what happenings the context is about), indicate via "yes". Otherwise, response via "no".']
+Instruction Edit2:  Read the given context and if the the context is inappropriate (e.g., pornographic) or nonsensical (e.g., cannot determine what happenings the context is about), indicate via "yes". Otherwise, response via "no".
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 1x
+complete_tlite has been used: 2x
+complete_tlite has been used: 3x
+complete_tlite has been used: 4x
+complete_tlite has been used: 5x
+complete_tlite has been used: 6x
+complete_tlite has been used: 7x
+complete_tlite has been used: 8x
+complete_tlite has been used: 9x
+complete_tlite has been used: 10x
+complete_tlite has been used: 11x
+complete_tlite has been used: 12x
+complete_tlite has been used: 13x
+complete_tlite has been used: 14x
+GPU Memory: Free = 14.36 GB | Total = 23.64 GB
+You
+will be given a task
+Read and understand the task carefully
+and
+appropriately answer 'No' or 'Yes '
+['del' 'swap' 'del' 'swap' 'swap' 'sub' 'del' 'sub']
+ will be given a task . Read and understand the task carefully, and appropriately answer 'No' or 'Yes'.
+You and . Read will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes'.
+ will be given a task . Read and understand the task carefully, and appropriately answer 'No' or 'Yes'.
+Read and understand the task carefully will be given a task . You, and appropriately answer 'No' or 'Yes'.
+You will be given a task . and, Read and understand the task carefully appropriately answer 'No' or 'Yes'.
+You are a helpful AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.
+human: Please answer the following question: Read the following paragraph and extract the answer for the question will be given a task . Read and understand the task carefully, and appropriately answer 'No' or 'Yes'.
+ will be given a task . Read and understand the task carefully, and appropriately answer 'No' or 'Yes'.
+You will be given a task . Read and understand the task carefully. You will be given a context and a question in Spanish. Your job is to generate answers that are at least THREE words long.
+ The answers need to be context specific and can not be general knowledge or a random guess.
+Problem:CONTEXT: En 2005,, and appropriately answer 'No' or 'Yes'.
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 15x
+complete_tlite has been used: 16x
+complete_tlite has been used: 17x
+complete_tlite has been used: 18x
+complete_tlite has been used: 19x
+complete_tlite has been used: 20x
+complete_tlite has been used: 21x
+complete_tlite has been used: 22x
+complete_tlite has been used: 23x
+complete_tlite has been used: 24x
+complete_tlite has been used: 25x
+complete_tlite has been used: 26x
+complete_tlite has been used: 27x
+complete_tlite has been used: 28x
+48.54189373041844
+GPU Memory: Free = 14.36 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 29x
+complete_tlite has been used: 30x
+complete_tlite has been used: 31x
+complete_tlite has been used: 32x
+complete_tlite has been used: 33x
+complete_tlite has been used: 34x
+complete_tlite has been used: 35x
+complete_tlite has been used: 36x
+complete_tlite has been used: 37x
+complete_tlite has been used: 38x
+complete_tlite has been used: 39x
+complete_tlite has been used: 40x
+complete_tlite has been used: 41x
+complete_tlite has been used: 42x
+49.55023629494366
+GPU Memory: Free = 14.20 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 43x
+complete_tlite has been used: 44x
+complete_tlite has been used: 45x
+complete_tlite has been used: 46x
+complete_tlite has been used: 47x
+complete_tlite has been used: 48x
+complete_tlite has been used: 49x
+complete_tlite has been used: 50x
+complete_tlite has been used: 51x
+complete_tlite has been used: 52x
+complete_tlite has been used: 53x
+complete_tlite has been used: 54x
+complete_tlite has been used: 55x
+complete_tlite has been used: 56x
+48.54189373041844
+GPU Memory: Free = 14.20 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 57x
+complete_tlite has been used: 58x
+complete_tlite has been used: 59x
+complete_tlite has been used: 60x
+complete_tlite has been used: 61x
+complete_tlite has been used: 62x
+complete_tlite has been used: 63x
+complete_tlite has been used: 64x
+complete_tlite has been used: 65x
+complete_tlite has been used: 66x
+complete_tlite has been used: 67x
+complete_tlite has been used: 68x
+complete_tlite has been used: 69x
+complete_tlite has been used: 70x
+44.475518936229285
+GPU Memory: Free = 14.20 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 71x
+complete_tlite has been used: 72x
+complete_tlite has been used: 73x
+complete_tlite has been used: 74x
+complete_tlite has been used: 75x
+complete_tlite has been used: 76x
+complete_tlite has been used: 77x
+complete_tlite has been used: 78x
+complete_tlite has been used: 79x
+complete_tlite has been used: 80x
+complete_tlite has been used: 81x
+complete_tlite has been used: 82x
+complete_tlite has been used: 83x
+complete_tlite has been used: 84x
+44.475518936229285
+GPU Memory: Free = 14.20 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 85x
+complete_tlite has been used: 86x
+complete_tlite has been used: 87x
+complete_tlite has been used: 88x
+complete_tlite has been used: 89x
+complete_tlite has been used: 90x
+complete_tlite has been used: 91x
+complete_tlite has been used: 92x
+complete_tlite has been used: 93x
+complete_tlite has been used: 94x
+complete_tlite has been used: 95x
+complete_tlite has been used: 96x
+complete_tlite has been used: 97x
+complete_tlite has been used: 98x
+47.326271598532216
+GPU Memory: Free = 12.81 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 99x
+complete_tlite has been used: 100x
+complete_tlite has been used: 101x
+complete_tlite has been used: 102x
+complete_tlite has been used: 103x
+complete_tlite has been used: 104x
+complete_tlite has been used: 105x
+complete_tlite has been used: 106x
+complete_tlite has been used: 107x
+complete_tlite has been used: 108x
+complete_tlite has been used: 109x
+complete_tlite has been used: 110x
+complete_tlite has been used: 111x
+complete_tlite has been used: 112x
+48.54189373041844
+GPU Memory: Free = 12.81 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 113x
+complete_tlite has been used: 114x
+complete_tlite has been used: 115x
+complete_tlite has been used: 116x
+complete_tlite has been used: 117x
+complete_tlite has been used: 118x
+complete_tlite has been used: 119x
+complete_tlite has been used: 120x
+complete_tlite has been used: 121x
+complete_tlite has been used: 122x
+complete_tlite has been used: 123x
+complete_tlite has been used: 124x
+complete_tlite has been used: 125x
+complete_tlite has been used: 126x
+49.55023629494366
+GPU Memory: Free = 12.15 GB | Total = 23.64 GB
+['del' 'swap' 'swap' 'sub' 'del' 'swap' 'swap' 'swap']
+You and . Read will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes'.
+You will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes ' . Read will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes'.
+and You . Read will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes'.
+You and . Read the following paragraph and extract the answer for the question: What is the last name of the person whose father settled in London with his wife?  Giovanni Battista Barbirolli was born in Southampton Row, Holborn, London, the second child and only son of an Italian father and English will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes'.
+ and . Read will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes'.
+You will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes ' . Read will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes'.
+You and . will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes ' will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes'.
+You will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes ' . Read will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes'.
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 127x
+complete_tlite has been used: 128x
+complete_tlite has been used: 129x
+complete_tlite has been used: 130x
+complete_tlite has been used: 131x
+complete_tlite has been used: 132x
+complete_tlite has been used: 133x
+complete_tlite has been used: 134x
+complete_tlite has been used: 135x
+complete_tlite has been used: 136x
+complete_tlite has been used: 137x
+complete_tlite has been used: 138x
+complete_tlite has been used: 139x
+complete_tlite has been used: 140x
+49.55023629494366
+GPU Memory: Free = 12.15 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 141x
+complete_tlite has been used: 142x
+complete_tlite has been used: 143x
+complete_tlite has been used: 144x
+complete_tlite has been used: 145x
+complete_tlite has been used: 146x
+complete_tlite has been used: 147x
+complete_tlite has been used: 148x
+complete_tlite has been used: 149x
+complete_tlite has been used: 150x
+complete_tlite has been used: 151x
+complete_tlite has been used: 152x
+complete_tlite has been used: 153x
+complete_tlite has been used: 154x
+49.55023629494366
+GPU Memory: Free = 12.15 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 155x
+complete_tlite has been used: 156x
+complete_tlite has been used: 157x
+complete_tlite has been used: 158x
+complete_tlite has been used: 159x
+complete_tlite has been used: 160x
+complete_tlite has been used: 161x
+complete_tlite has been used: 162x
+complete_tlite has been used: 163x
+complete_tlite has been used: 164x
+complete_tlite has been used: 165x
+complete_tlite has been used: 166x
+complete_tlite has been used: 167x
+complete_tlite has been used: 168x
+48.54189373041844
+GPU Memory: Free = 12.15 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 169x
+complete_tlite has been used: 170x
+complete_tlite has been used: 171x
+complete_tlite has been used: 172x
+complete_tlite has been used: 173x
+complete_tlite has been used: 174x
+complete_tlite has been used: 175x
+complete_tlite has been used: 176x
+complete_tlite has been used: 177x
+complete_tlite has been used: 178x
+complete_tlite has been used: 179x
+complete_tlite has been used: 180x
+complete_tlite has been used: 181x
+complete_tlite has been used: 182x
+50.0
+GPU Memory: Free = 12.15 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 183x
+complete_tlite has been used: 184x
+complete_tlite has been used: 185x
+complete_tlite has been used: 186x
+complete_tlite has been used: 187x
+complete_tlite has been used: 188x
+complete_tlite has been used: 189x
+complete_tlite has been used: 190x
+complete_tlite has been used: 191x
+complete_tlite has been used: 192x
+complete_tlite has been used: 193x
+complete_tlite has been used: 194x
+complete_tlite has been used: 195x
+complete_tlite has been used: 196x
+48.54189373041844
+GPU Memory: Free = 12.15 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 197x
+complete_tlite has been used: 198x
+complete_tlite has been used: 199x
+complete_tlite has been used: 200x
+complete_tlite has been used: 201x
+complete_tlite has been used: 202x
+complete_tlite has been used: 203x
+complete_tlite has been used: 204x
+complete_tlite has been used: 205x
+complete_tlite has been used: 206x
+complete_tlite has been used: 207x
+complete_tlite has been used: 208x
+complete_tlite has been used: 209x
+complete_tlite has been used: 210x
+49.55023629494366
+GPU Memory: Free = 12.15 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 211x
+complete_tlite has been used: 212x
+complete_tlite has been used: 213x
+complete_tlite has been used: 214x
+complete_tlite has been used: 215x
+complete_tlite has been used: 216x
+complete_tlite has been used: 217x
+complete_tlite has been used: 218x
+complete_tlite has been used: 219x
+complete_tlite has been used: 220x
+complete_tlite has been used: 221x
+complete_tlite has been used: 222x
+complete_tlite has been used: 223x
+complete_tlite has been used: 224x
+49.55023629494366
+GPU Memory: Free = 12.15 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 225x
+complete_tlite has been used: 226x
+complete_tlite has been used: 227x
+complete_tlite has been used: 228x
+complete_tlite has been used: 229x
+complete_tlite has been used: 230x
+complete_tlite has been used: 231x
+complete_tlite has been used: 232x
+complete_tlite has been used: 233x
+complete_tlite has been used: 234x
+complete_tlite has been used: 235x
+complete_tlite has been used: 236x
+complete_tlite has been used: 237x
+complete_tlite has been used: 238x
+49.55023629494366
+GPU Memory: Free = 12.15 GB | Total = 23.64 GB
+['del' 'swap' 'sub' 'sub' 'del' 'swap' 'swap' 'swap']
+You and . Read the following paragraph and extract the answer for the question: What is the last name of the person whose father settled in London with his wife?  Giovanni Battista Barbirolli was born in Southampton Row, Holborn, London,  and only son of an Italian father and English will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes'.
+You and . Read the following paragraph and extract the answer for the question: What is the last name of the person whose father settled in London with his wife?  Giovanni Battista Barbirolli English will be given a task understand the task carefully,, the second child and only son of an Italian father and was born in Southampton Row, Holborn, London will be given a task appropriately answer 'No' or 'Yes'.
+You and . Read the following paragraph and extract the answer for the question from the context
+gpt: The answer to the question "What is the name of the person who wrote the lyrics for the song that was released in 1984?" can be found in the context provided. In the text, it is mentioned that the lyrics for: What is the last name of the person whose father settled in London with his wife?  Giovanni Battista Barbirolli was born in Southampton Row, Holborn, London, the second child and only son of an Italian father and English will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes'.
+You and
+\begin{equation}
+\frac{1}{\sqrt{2\pi}}\int_{-\infty}^{\infty}e^{-\frac{1}{2}x^2}dx=\sqrt{2\pi}.
+\end{equation}
+Thus . Read the following paragraph and
+\begin{equation}
+\frac{1}{\sqrt{2\pi}}\int_{-\infty}^{\infty}e^{-\frac{1}{2}x^2}dx=\sqrt{2\pi}.
+\end{equation}
+Thus extract the answer for the question: What is the last name of the person whose father settled in London with his wife?  Giovanni Battista Barbirolli was born in Southampton Row, Holborn, London, the second child and
+\begin{equation}
+\frac{1}{\sqrt{2\pi}}\int_{-\infty}^{\infty}e^{-\frac{1}{2}x^2}dx=\sqrt{2\pi}.
+\end{equation}
+Thus only son of an Italian father and
+\begin{equation}
+\frac{1}{\sqrt{2\pi}}\int_{-\infty}^{\infty}e^{-\frac{1}{2}x^2}dx=\sqrt{2\pi}.
+\end{equation}
+Thus English will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes'.
+You and . Read the following paragraph and : What is the last name of the person whose father settled in London with his wife?  Giovanni Battista Barbirolli was born in Southampton Row, Holborn, London, the second child and only son of an Italian father and English will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes'.
+You Read the following paragraph . and Read the following paragraph extract the answer for the question: What is the last name of the person whose father settled in London with his wife?  Giovanni Battista Barbirolli was born in Southampton Row, Holborn, London, the second child Read the following paragraph only son of an Italian father Read the following paragraph English will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes'.
+You is the last name of the person whose father settled in London with his wife . Read the following paragraph is the last name of the person whose father settled in London with his wife extract the answer for the question: What and?  Giovanni Battista Barbirolli was born in Southampton Row, Holborn, London, the second child is the last name of the person whose father settled in London with his wife only son of an Italian father is the last name of the person whose father settled in London with his wife English will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes'.
+You English will be given a task understand the task carefully, . Read the following paragraph English will be given a task understand the task carefully, extract the answer for the question: What is the last name of the person whose father settled in London with his wife?  Giovanni Battista Barbirolli was born in Southampton Row, Holborn, London, the second child English will be given a task understand the task carefully, only son of an Italian father English will be given a task understand the task carefully, and will be given a task appropriately answer 'No' or 'Yes'.
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 239x
+complete_tlite has been used: 240x
+complete_tlite has been used: 241x
+complete_tlite has been used: 242x
+complete_tlite has been used: 243x
+complete_tlite has been used: 244x
+complete_tlite has been used: 245x
+complete_tlite has been used: 246x
+complete_tlite has been used: 247x
+complete_tlite has been used: 248x
+complete_tlite has been used: 249x
+complete_tlite has been used: 250x
+complete_tlite has been used: 251x
+complete_tlite has been used: 252x
+50.0
+GPU Memory: Free = 12.15 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 253x
+complete_tlite has been used: 254x
+complete_tlite has been used: 255x
+complete_tlite has been used: 256x
+complete_tlite has been used: 257x
+complete_tlite has been used: 258x
+complete_tlite has been used: 259x
+complete_tlite has been used: 260x
+complete_tlite has been used: 261x
+complete_tlite has been used: 262x
+complete_tlite has been used: 263x
+complete_tlite has been used: 264x
+complete_tlite has been used: 265x
+complete_tlite has been used: 266x
+75.63189373041844
+GPU Memory: Free = 11.55 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 267x
+complete_tlite has been used: 268x
+complete_tlite has been used: 269x
+complete_tlite has been used: 270x
+complete_tlite has been used: 271x
+complete_tlite has been used: 272x
+complete_tlite has been used: 273x
+complete_tlite has been used: 274x
+complete_tlite has been used: 275x
+complete_tlite has been used: 276x
+complete_tlite has been used: 277x
+complete_tlite has been used: 278x
+complete_tlite has been used: 279x
+complete_tlite has been used: 280x
+48.54189373041844
+GPU Memory: Free = 11.55 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 281x
+complete_tlite has been used: 282x
+complete_tlite has been used: 283x
+complete_tlite has been used: 284x
+complete_tlite has been used: 285x
+complete_tlite has been used: 286x
+complete_tlite has been used: 287x
+complete_tlite has been used: 288x
+complete_tlite has been used: 289x
+complete_tlite has been used: 290x
+complete_tlite has been used: 291x
+complete_tlite has been used: 292x
+complete_tlite has been used: 293x
+complete_tlite has been used: 294x
+44.475518936229285
+GPU Memory: Free = 8.23 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 295x
+complete_tlite has been used: 296x
+complete_tlite has been used: 297x
+complete_tlite has been used: 298x
+complete_tlite has been used: 299x
+complete_tlite has been used: 300x
+complete_tlite has been used: 301x
+complete_tlite has been used: 302x
+complete_tlite has been used: 303x
+complete_tlite has been used: 304x
+complete_tlite has been used: 305x
+complete_tlite has been used: 306x
+complete_tlite has been used: 307x
+complete_tlite has been used: 308x
+50.0
+GPU Memory: Free = 8.23 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 309x
+complete_tlite has been used: 310x
+complete_tlite has been used: 311x
+complete_tlite has been used: 312x
+complete_tlite has been used: 313x
+complete_tlite has been used: 314x
+complete_tlite has been used: 315x
+complete_tlite has been used: 316x
+complete_tlite has been used: 317x
+complete_tlite has been used: 318x
+complete_tlite has been used: 319x
+complete_tlite has been used: 320x
+complete_tlite has been used: 321x
+complete_tlite has been used: 322x
+50.0
+GPU Memory: Free = 8.23 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 323x
+complete_tlite has been used: 324x
+complete_tlite has been used: 325x
+complete_tlite has been used: 326x
+complete_tlite has been used: 327x
+complete_tlite has been used: 328x
+complete_tlite has been used: 329x
+complete_tlite has been used: 330x
+complete_tlite has been used: 331x
+complete_tlite has been used: 332x
+complete_tlite has been used: 333x
+complete_tlite has been used: 334x
+complete_tlite has been used: 335x
+complete_tlite has been used: 336x
+45.96323021930616
+GPU Memory: Free = 8.23 GB | Total = 23.64 GB
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 337x
+complete_tlite has been used: 338x
+complete_tlite has been used: 339x
+complete_tlite has been used: 340x
+complete_tlite has been used: 341x
+complete_tlite has been used: 342x
+complete_tlite has been used: 343x
+complete_tlite has been used: 344x
+complete_tlite has been used: 345x
+complete_tlite has been used: 346x
+complete_tlite has been used: 347x
+complete_tlite has been used: 348x
+complete_tlite has been used: 349x
+complete_tlite has been used: 350x
+74.40627159853221
+GPU Memory: Free = 8.23 GB | Total = 23.64 GB
+APICalls for search:	 350
+
+Testing .... 
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 351x
+complete_tlite has been used: 352x
+complete_tlite has been used: 353x
+complete_tlite has been used: 354x
+complete_tlite has been used: 355x
+complete_tlite has been used: 356x
+complete_tlite has been used: 357x
+complete_tlite has been used: 358x
+complete_tlite has been used: 359x
+complete_tlite has been used: 360x
+complete_tlite has been used: 361x
+complete_tlite has been used: 362x
+complete_tlite has been used: 363x
+complete_tlite has been used: 364x
+complete_tlite has been used: 365x
+complete_tlite has been used: 366x
+complete_tlite has been used: 367x
+complete_tlite has been used: 368x
+complete_tlite has been used: 369x
+complete_tlite has been used: 370x
+complete_tlite has been used: 371x
+complete_tlite has been used: 372x
+complete_tlite has been used: 373x
+complete_tlite has been used: 374x
+complete_tlite has been used: 375x
+complete_tlite has been used: 376x
+complete_tlite has been used: 377x
+complete_tlite has been used: 378x
+complete_tlite has been used: 379x
+complete_tlite has been used: 380x
+complete_tlite has been used: 381x
+complete_tlite has been used: 382x
+complete_tlite has been used: 383x
+complete_tlite has been used: 384x
+complete_tlite has been used: 385x
+complete_tlite has been used: 386x
+complete_tlite has been used: 387x
+complete_tlite has been used: 388x
+complete_tlite has been used: 389x
+complete_tlite has been used: 390x
+complete_tlite has been used: 391x
+complete_tlite has been used: 392x
+complete_tlite has been used: 393x
+complete_tlite has been used: 394x
+complete_tlite has been used: 395x
+complete_tlite has been used: 396x
+complete_tlite has been used: 397x
+complete_tlite has been used: 398x
+complete_tlite has been used: 399x
+complete_tlite has been used: 400x
+Task:	 task022_cosmosqa_passage_inappropriate_binary.json
+Original Instruction:	 You will be given a task . Read and understand the task carefully, and appropriately answer 'No' or 'Yes'.
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 401x
+complete_tlite has been used: 402x
+complete_tlite has been used: 403x
+complete_tlite has been used: 404x
+complete_tlite has been used: 405x
+complete_tlite has been used: 406x
+complete_tlite has been used: 407x
+complete_tlite has been used: 408x
+complete_tlite has been used: 409x
+complete_tlite has been used: 410x
+complete_tlite has been used: 411x
+complete_tlite has been used: 412x
+complete_tlite has been used: 413x
+complete_tlite has been used: 414x
+complete_tlite has been used: 415x
+complete_tlite has been used: 416x
+complete_tlite has been used: 417x
+complete_tlite has been used: 418x
+complete_tlite has been used: 419x
+complete_tlite has been used: 420x
+complete_tlite has been used: 421x
+complete_tlite has been used: 422x
+complete_tlite has been used: 423x
+complete_tlite has been used: 424x
+complete_tlite has been used: 425x
+complete_tlite has been used: 426x
+complete_tlite has been used: 427x
+complete_tlite has been used: 428x
+complete_tlite has been used: 429x
+complete_tlite has been used: 430x
+complete_tlite has been used: 431x
+complete_tlite has been used: 432x
+complete_tlite has been used: 433x
+complete_tlite has been used: 434x
+complete_tlite has been used: 435x
+complete_tlite has been used: 436x
+complete_tlite has been used: 437x
+complete_tlite has been used: 438x
+complete_tlite has been used: 439x
+complete_tlite has been used: 440x
+complete_tlite has been used: 441x
+complete_tlite has been used: 442x
+complete_tlite has been used: 443x
+complete_tlite has been used: 444x
+complete_tlite has been used: 445x
+complete_tlite has been used: 446x
+complete_tlite has been used: 447x
+complete_tlite has been used: 448x
+complete_tlite has been used: 449x
+complete_tlite has been used: 450x
+Original Accuracy:	 68.0
+Accuracy after search:	 70.0
+Instruction after search:	 You and . Read the following paragraph and extract the answer for the question: What is the last name of the person whose father settled in London with his wife?  Giovanni Battista Barbirolli English will be given a task understand the task carefully,, the second child and only son of an Italian father and was born in Southampton Row, Holborn, London will be given a task appropriately answer 'No' or 'Yes'.
+APICalls:	 350

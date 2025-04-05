@@ -7,6 +7,7 @@ import numpy as np
 import torch
 from sklearn.metrics import f1_score as F1
 from tqdm import tqdm
+
 from utils import model_loader
 from utils.expanded_encode_instruction import encode_instruction
 
@@ -114,13 +115,13 @@ def complete_tlite(prompt, total_len=10, num_log_probs=None, echo=False):
             do_sample=False,
         )
     else:
-        assert echo and total_len == 0  
+        assert echo and total_len == 0
         total_sequences = input_ids["input_ids"].cuda()
 
     # they want the probs of the top tokens
     if num_log_probs is not None:
         # we are left padding, so we need to adjust the position IDs
-        attention_mask = (total_sequences != 50256).float()  
+        attention_mask = (total_sequences != 50256).float()
         position_ids = attention_mask.long().cumsum(-1) - 1
         position_ids.masked_fill_(attention_mask == 0, 1)
         # get the logits for the context and the next l tokens
@@ -238,7 +239,7 @@ def get_regular_label_probs(response, batch, labels, if_null=False):
             missing_response = complete_tlite(missing_batch, total_len=0, num_log_probs=1, echo=True)
             for idx, missing_ans in enumerate(missing_response["choices"]):
                 which_sentence, which_label = position_lookup[m][idx]
-                label_probs[which_sentence, :, which_label] = np.exp(missing_ans["logprobs"]["token_logprobs"][-1])
+                label_probs[which_sentence, :, which_label] = torch.exp(missing_ans["logprobs"]["token_logprobs"][-1])
     assert (label_probs > 0).all(), "all should be populated with non-zero value"
 
     if if_null:

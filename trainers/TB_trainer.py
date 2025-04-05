@@ -5,10 +5,12 @@ import sys
 from pathlib import Path
 
 import numpy as np
-import utils.lcs as lcs
-import utils.tlite as tlite
 from supar import Parser
 from trainers.base_trainer import SimpleTrainer
+
+import utils.lcs as lcs
+import utils.tlite as tlite
+from utils.model_loader import print_gpu_memory
 
 sys.path.append("..")
 
@@ -146,6 +148,7 @@ class TB_trainer(SimpleTrainer):
                 tabu_candidates.append(candidate)
                 scores.append(self.score(candidate, args=args))
                 print(scores[-1])
+                print_gpu_memory()
 
         return tabu_candidates, scores, deleted, added
 

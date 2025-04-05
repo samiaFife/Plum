@@ -4,7 +4,8 @@ import os
 
 from config import get_cfg_default
 from trainers import GA_trainer, HC_trainer, HS_trainer, TB_trainer
-from utils import collect_env_info, set_random_seed, setup_logger
+
+from utils import set_random_seed, setup_logger
 
 
 def print_args(args, cfg):
@@ -87,9 +88,9 @@ def main(args):
     set_random_seed(cfg.DATA_SEED, cfg.TRAIN_SEED)
     setup_logger(cfg.META_DIR)
 
-    print_args(args, cfg)
+    # *print_args(args, cfg)
     print("Collecting env info ...")
-    print("** System info **\n{}\n".format(collect_env_info()))
+    # * print("** System info **\n{}\n".format(collect_env_info()))
 
     if args.backbone == "tlite":
         import utils.tlite as tlite

@@ -14,6 +14,7 @@ from nltk.tokenize.treebank import TreebankWordDetokenizer
 from scipy.stats import entropy
 from sklearn.metrics import balanced_accuracy_score
 from supar import Parser
+
 from utils import model_loader, tlite
 from utils.expanded_encode_instruction import training_encode_instruction
 
@@ -433,6 +434,7 @@ class SimpleTrainer(TrainerBase):
         self.W_scores.append(self.original_score)  # W_scores <-- original_score
         self.result_candidate = self.original_candidate  # result_candidate <-- base candidate
         self.result_score = self.original_score  # result_score <-- base score
+        model_loader.print_gpu_memory()
 
     def update_result_add(self, best_score, best_candidate, use_simulated_anneal=False, i=None):
         add_best_or_not = False

@@ -1,0 +1,482 @@
+***************
+** Arguments **
+***************
+agnostic: True
+algorithm: tabu
+api_idx: 0
+backbone: tlite
+batch_size: 4
+budget: 1000
+checkpoint_freq: 10
+classification_task_ids: ['019', '001', '022', '050', '069', '137', '139', '195']
+config_file: 
+data_dir: ./data/
+data_seed: 42
+dataset_config_file: 
+edits: ['del', 'swap', 'sub', 'add']
+eval_only: False
+key_id: 0
+level: phrase
+load_epoch: None
+meta_dir: ./logs/
+meta_name: TS_batchsize_4_all_edits_l_1_m_8_n_20@task_001_agnostic_trainseed_0_seed_42_rho_7.txt
+mode: Instruction Only
+model_dir: 
+model_name: text-babbage-001
+no_train: False
+num_candidates: 8
+num_compose: 1
+num_iter: 3
+num_samples: 100
+num_shots: 2
+num_train: 100
+opts: []
+output_dir: ./output/
+patience: 5
+print_orig: True
+project_name: ts-prompt
+resume: 
+simulated_anneal: False
+task_idx: 2
+tournament_selection: 4
+train_seed: 0
+transforms: None
+write_preds: True
+************
+** Config **
+************
+DATALOADER:
+  K_TRANSFORMS: 1
+  NUM_WORKERS: 4
+  RETURN_IMG0: False
+  TEST:
+    BATCH_SIZE: 32
+    SAMPLER: SequentialSampler
+  TRAIN_U:
+    BATCH_SIZE: 32
+    N_DOMAIN: 0
+    N_INS: 16
+    SAME_AS_X: True
+    SAMPLER: RandomSampler
+  TRAIN_X:
+    BATCH_SIZE: 32
+    N_DOMAIN: 0
+    N_INS: 16
+    SAMPLER: RandomSampler
+DATASET:
+  ALL_AS_UNLABELED: False
+  CIFAR_C_LEVEL: 1
+  CIFAR_C_TYPE: 
+  NAME: 
+  NUM_LABELED: -1
+  NUM_SHOTS: -1
+  ROOT: 
+  SOURCE_DOMAINS: ()
+  STL10_FOLD: -1
+  SUBSAMPLE_CLASSES: all
+  TARGET_DOMAINS: ()
+  VAL_PERCENT: 0.1
+DATA_SEED: 42
+INPUT:
+  COLORJITTER_B: 0.4
+  COLORJITTER_C: 0.4
+  COLORJITTER_H: 0.1
+  COLORJITTER_S: 0.4
+  CROP_PADDING: 4
+  CUTOUT_LEN: 16
+  CUTOUT_N: 1
+  GB_K: 21
+  GB_P: 0.5
+  GN_MEAN: 0.0
+  GN_STD: 0.15
+  INTERPOLATION: bilinear
+  NO_TRANSFORM: False
+  PIXEL_MEAN: [0.485, 0.456, 0.406]
+  PIXEL_STD: [0.229, 0.224, 0.225]
+  RANDAUGMENT_M: 10
+  RANDAUGMENT_N: 2
+  RGS_P: 0.2
+  ROTATE_ANGLE_LIST: [0]
+  RRCROP_SCALE: (0.08, 1.0)
+  SIZE: (224, 224)
+  TRANSFORMS: ()
+META_DIR: ./logs/
+MODEL:
+  BACKBONE:
+    NAME: 
+    PRETRAINED: True
+  HEAD:
+    ACTIVATION: relu
+    BN: True
+    DROPOUT: 0.0
+    HIDDEN_LAYERS: ()
+    NAME: 
+  INIT_WEIGHTS: 
+OPTIM:
+  ADAM_BETA1: 0.9
+  ADAM_BETA2: 0.999
+  BASE_LR_MULT: 0.1
+  GAMMA: 0.1
+  GRAD_ACCU_STEPS: 8
+  LR: 0.0003
+  LR_SCHEDULER: single_step
+  MAX_EPOCH: 10
+  MOMENTUM: 0.9
+  NAME: adam
+  NEW_LAYERS: ()
+  RMSPROP_ALPHA: 0.99
+  SGD_DAMPNING: 0
+  SGD_NESTEROV: False
+  STAGED_LR: False
+  STEPSIZE: (-1,)
+  WARMUP_CONS_LR: 1e-05
+  WARMUP_EPOCH: -1
+  WARMUP_MIN_LR: 1e-05
+  WARMUP_RECOUNT: True
+  WARMUP_TYPE: linear
+  WEIGHT_DECAY: 0.0005
+OUTPUT_DIR: ./output/
+RESUME: 
+SEED: -1
+TEST:
+  COMPUTE_CMAT: False
+  EVALUATOR: Classification
+  FINAL_MODEL: last_step
+  NO_TEST: False
+  PER_CLASS_RESULT: False
+  SPLIT: test
+TRAIN:
+  CHECKPOINT_FREQ: 0
+  COUNT_ITER: train_x
+  PRINT_FREQ: 10
+TRAINER:
+  CDAC:
+    CLASS_LR_MULTI: 10
+    P_THRESH: 0.95
+    RAMPUP_COEF: 30
+    RAMPUP_ITRS: 1000
+    STRONG_TRANSFORMS: ()
+    TOPK_MATCH: 5
+  CROSSGRAD:
+    ALPHA_D: 0.5
+    ALPHA_F: 0.5
+    EPS_D: 1.0
+    EPS_F: 1.0
+  DAEL:
+    CONF_THRE: 0.95
+    STRONG_TRANSFORMS: ()
+    WEIGHT_U: 0.5
+  DAELDG:
+    CONF_THRE: 0.95
+    STRONG_TRANSFORMS: ()
+    WEIGHT_U: 0.5
+  DDAIG:
+    ALPHA: 0.5
+    CLAMP: False
+    CLAMP_MAX: 1.0
+    CLAMP_MIN: -1.0
+    G_ARCH: 
+    LMDA: 0.3
+    WARMUP: 0
+  DOMAINMIX:
+    ALPHA: 1.0
+    BETA: 1.0
+    TYPE: crossdomain
+  ENTMIN:
+    LMDA: 0.001
+  FIXMATCH:
+    CONF_THRE: 0.95
+    STRONG_TRANSFORMS: ()
+    WEIGHT_U: 1.0
+  GA:
+    PREC: fp16
+  M3SDA:
+    LMDA: 0.5
+    N_STEP_F: 4
+  MCD:
+    N_STEP_F: 4
+  MEANTEACHER:
+    EMA_ALPHA: 0.999
+    RAMPUP: 5
+    WEIGHT_U: 1.0
+  MIXMATCH:
+    MIXUP_BETA: 0.75
+    RAMPUP: 20000
+    TEMP: 2.0
+    WEIGHT_U: 100.0
+  MME:
+    LMDA: 0.1
+  NAME: 
+  SE:
+    CONF_THRE: 0.95
+    EMA_ALPHA: 0.999
+    RAMPUP: 300
+TRAIN_SEED: 0
+USE_CUDA: True
+VERBOSE: True
+VERSION: 1
+Collecting env info ...
+** System info **
+PyTorch version: 2.6.0+cu124
+Is debug build: False
+CUDA used to build PyTorch: 12.4
+ROCM used to build PyTorch: N/A
+
+OS: Ubuntu 22.04.5 LTS (x86_64)
+GCC version: (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
+Clang version: Could not collect
+CMake version: version 3.25.0
+Libc version: glibc-2.35
+
+Python version: 3.9.21 (main, Dec 11 2024, 16:24:11)  [GCC 11.2.0] (64-bit runtime)
+Python platform: Linux-5.15.0-134-generic-x86_64-with-glibc2.35
+Is CUDA available: True
+CUDA runtime version: Could not collect
+CUDA_MODULE_LOADING set to: LAZY
+GPU models and configuration: 
+GPU 0: NVIDIA TITAN RTX
+GPU 1: NVIDIA TITAN RTX
+
+Nvidia driver version: 550.120
+cuDNN version: Probably one of the following:
+/usr/local/cuda-11.1/targets/x86_64-linux/lib/libcudnn.so.8.1.1
+/usr/local/cuda-11.1/targets/x86_64-linux/lib/libcudnn_adv_infer.so.8.1.1
+/usr/local/cuda-11.1/targets/x86_64-linux/lib/libcudnn_adv_train.so.8.1.1
+/usr/local/cuda-11.1/targets/x86_64-linux/lib/libcudnn_cnn_infer.so.8.1.1
+/usr/local/cuda-11.1/targets/x86_64-linux/lib/libcudnn_cnn_train.so.8.1.1
+/usr/local/cuda-11.1/targets/x86_64-linux/lib/libcudnn_ops_infer.so.8.1.1
+/usr/local/cuda-11.1/targets/x86_64-linux/lib/libcudnn_ops_train.so.8.1.1
+HIP runtime version: N/A
+MIOpen runtime version: N/A
+Is XNNPACK available: True
+
+CPU:
+Architecture:                         x86_64
+CPU op-mode(s):                       32-bit, 64-bit
+Address sizes:                        43 bits physical, 48 bits virtual
+Byte Order:                           Little Endian
+CPU(s):                               24
+On-line CPU(s) list:                  0-23
+Vendor ID:                            AuthenticAMD
+Model name:                           AMD Ryzen Threadripper 1920X 12-Core Processor
+CPU family:                           23
+Model:                                1
+Thread(s) per core:                   2
+Core(s) per socket:                   12
+Socket(s):                            1
+Stepping:                             1
+Frequency boost:                      enabled
+CPU max MHz:                          3500.0000
+CPU min MHz:                          2200.0000
+BogoMIPS:                             6999.17
+Flags:                                fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid amd_dcm aperfmperf rapl pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_llc mwaitx cpb hw_pstate ssbd ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca sme sev
+Virtualization:                       AMD-V
+L1d cache:                            384 KiB (12 instances)
+L1i cache:                            768 KiB (12 instances)
+L2 cache:                             6 MiB (12 instances)
+L3 cache:                             32 MiB (4 instances)
+NUMA node(s):                         1
+NUMA node0 CPU(s):                    0-23
+Vulnerability Gather data sampling:   Not affected
+Vulnerability Itlb multihit:          Not affected
+Vulnerability L1tf:                   Not affected
+Vulnerability Mds:                    Not affected
+Vulnerability Meltdown:               Not affected
+Vulnerability Mmio stale data:        Not affected
+Vulnerability Reg file data sampling: Not affected
+Vulnerability Retbleed:               Mitigation; untrained return thunk; SMT vulnerable
+Vulnerability Spec rstack overflow:   Mitigation; safe RET
+Vulnerability Spec store bypass:      Mitigation; Speculative Store Bypass disabled via prctl and seccomp
+Vulnerability Spectre v1:             Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:             Mitigation; Retpolines; IBPB conditional; STIBP disabled; RSB filling; PBRSB-eIBRS Not affected; BHI Not affected
+Vulnerability Srbds:                  Not affected
+Vulnerability Tsx async abort:        Not affected
+
+Versions of relevant libraries:
+[pip3] flake8==3.7.9
+[pip3] mypy-extensions==1.0.0
+[pip3] numpy==1.26.4
+[pip3] nvidia-cublas-cu12==12.4.5.8
+[pip3] nvidia-cuda-cupti-cu12==12.4.127
+[pip3] nvidia-cuda-nvrtc-cu12==12.4.127
+[pip3] nvidia-cuda-runtime-cu12==12.4.127
+[pip3] nvidia-cudnn-cu12==9.1.0.70
+[pip3] nvidia-cufft-cu12==11.2.1.3
+[pip3] nvidia-curand-cu12==10.3.5.147
+[pip3] nvidia-cusolver-cu12==11.6.1.9
+[pip3] nvidia-cusparse-cu12==12.3.1.170
+[pip3] nvidia-cusparselt-cu12==0.6.2
+[pip3] nvidia-nccl-cu12==2.21.5
+[pip3] nvidia-nvjitlink-cu12==12.4.127
+[pip3] nvidia-nvtx-cu12==12.4.127
+[pip3] torch==2.6.0
+[pip3] torchaudio==2.6.0
+[pip3] torchvision==0.21.0
+[pip3] triton==3.2.0
+[conda] blas                      1.0                         mkl  
+[conda] cuda-cudart               12.1.105                      0    nvidia
+[conda] cuda-cupti                12.1.105                      0    nvidia
+[conda] cuda-libraries            12.1.0                        0    nvidia
+[conda] cuda-nvrtc                12.1.105                      0    nvidia
+[conda] cuda-nvtx                 12.1.105                      0    nvidia
+[conda] cuda-opencl               12.4.127                      0    nvidia
+[conda] cuda-runtime              12.1.0                        0    nvidia
+[conda] cudatoolkit               11.8.0               h6a678d5_0  
+[conda] cudnn                     8.9.2.26               cuda11_0  
+[conda] ffmpeg                    4.3                  hf484d3e_0    pytorch
+[conda] libcublas                 12.1.0.26                     0    nvidia
+[conda] libcufft                  11.0.2.4                      0    nvidia
+[conda] libcurand                 10.3.5.147                    0    nvidia
+[conda] libcusolver               11.4.4.55                     0    nvidia
+[conda] libcusparse               12.0.2.55                     0    nvidia
+[conda] libjpeg-turbo             2.0.0                h9bf148f_0    pytorch
+[conda] libnvjitlink              12.1.105                      0    nvidia
+[conda] magma                     2.7.1                h2c23e93_0  
+[conda] mkl                       2023.1.0         h213fc3f_46344  
+[conda] mkl-service               2.4.0            py39h5eee18b_2  
+[conda] numpy                     1.26.4                   pypi_0    pypi
+[conda] nvidia-cublas-cu12        12.4.5.8                 pypi_0    pypi
+[conda] nvidia-cuda-cupti-cu12    12.4.127                 pypi_0    pypi
+[conda] nvidia-cuda-nvrtc-cu12    12.4.127                 pypi_0    pypi
+[conda] nvidia-cuda-runtime-cu12  12.4.127                 pypi_0    pypi
+[conda] nvidia-cudnn-cu12         9.1.0.70                 pypi_0    pypi
+[conda] nvidia-cufft-cu12         11.2.1.3                 pypi_0    pypi
+[conda] nvidia-curand-cu12        10.3.5.147               pypi_0    pypi
+[conda] nvidia-cusolver-cu12      11.6.1.9                 pypi_0    pypi
+[conda] nvidia-cusparse-cu12      12.3.1.170               pypi_0    pypi
+[conda] nvidia-cusparselt-cu12    0.6.2                    pypi_0    pypi
+[conda] nvidia-nccl-cu12          2.21.5                   pypi_0    pypi
+[conda] nvidia-nvjitlink-cu12     12.4.127                 pypi_0    pypi
+[conda] nvidia-nvtx-cu12          12.4.127                 pypi_0    pypi
+[conda] pytorch-cuda              12.1                 ha16c6d3_6    pytorch
+[conda] pytorch-gpu               2.3.1              h06a4308_100  
+[conda] pytorch-mutex             1.0                        cuda    pytorch
+[conda] torch                     2.6.0                    pypi_0    pypi
+[conda] torchaudio                2.6.0                    pypi_0    pypi
+[conda] torchvision               0.21.0                   pypi_0    pypi
+[conda] triton                    3.2.0                    pypi_0    pypi
+        Pillow (11.1.0)
+
+./data/
+dict_keys(['task022'])
+dict_values(['task022_cosmosqa_passage_inappropriate_binary.json'])
+Chosen Task:  022
+Running Experiment for:  task022_cosmosqa_passage_inappropriate_binary.json
+Task Labels:  ['No', 'Yes']
+Original Instruction:  ['Read the given context and if the the context is inappropriate (e.g., pornographic) or nonsensical (e.g., cannot determine what happenings the context is about), indicate via "yes". Otherwise, response via "no".']
+Instruction Edit1:  ['Read the given context and if the the context is inappropriate (e.g., pornographic) or nonsensical (e.g., cannot determine what happenings the context is about), indicate via "yes". Otherwise, response via "no".']
+Instruction Edit2:  Read the given context and if the the context is inappropriate (e.g., pornographic) or nonsensical (e.g., cannot determine what happenings the context is about), indicate via "yes". Otherwise, response via "no".
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 1x
+complete_tlite has been used: 2x
+complete_tlite has been used: 3x
+complete_tlite has been used: 4x
+complete_tlite has been used: 5x
+complete_tlite has been used: 6x
+complete_tlite has been used: 7x
+complete_tlite has been used: 8x
+complete_tlite has been used: 9x
+complete_tlite has been used: 10x
+complete_tlite has been used: 11x
+complete_tlite has been used: 12x
+complete_tlite has been used: 13x
+complete_tlite has been used: 14x
+You
+will be given a task
+Read and understand the task carefully
+and
+appropriately answer 'No' or 'Yes '
+['del' 'swap' 'del' 'swap' 'swap' 'sub' 'del' 'sub']
+ will be given a task . Read and understand the task carefully, and appropriately answer 'No' or 'Yes'.
+You and . Read will be given a task understand the task carefully, will be given a task appropriately answer 'No' or 'Yes'.
+ will be given a task . Read and understand the task carefully, and appropriately answer 'No' or 'Yes'.
+Read and understand the task carefully will be given a task . You, and appropriately answer 'No' or 'Yes'.
+You will be given a task . and, Read and understand the task carefully appropriately answer 'No' or 'Yes'.
+You are a helpful AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.
+human: Please answer the following question: I am trying to decide whether it's worth it to will be given a task . Read and understand the task carefully, and appropriately answer 'No' or 'Yes'.
+ will be given a task . Read and understand the task carefully, and appropriately answer 'No' or 'Yes'.
+You will be given a task . Read and understand the task carefully. You will be given a context and a question in Spanish. Your job is to generate answers that are at least THREE words long.
+ The answers need to be context specific and can not be general knowledge or a random guess.
+Problem:CONTEXT: En 2005,, and appropriately answer 'No' or 'Yes'.
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 15x
+complete_tlite has been used: 16x
+complete_tlite has been used: 17x
+complete_tlite has been used: 18x
+complete_tlite has been used: 19x
+complete_tlite has been used: 20x
+complete_tlite has been used: 21x
+complete_tlite has been used: 22x
+complete_tlite has been used: 23x
+complete_tlite has been used: 24x
+complete_tlite has been used: 25x
+complete_tlite has been used: 26x
+complete_tlite has been used: 27x
+complete_tlite has been used: 28x
+48.54189373041844
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 29x
+complete_tlite has been used: 30x
+complete_tlite has been used: 31x
+complete_tlite has been used: 32x
+complete_tlite has been used: 33x
+complete_tlite has been used: 34x
+complete_tlite has been used: 35x
+complete_tlite has been used: 36x
+complete_tlite has been used: 37x
+complete_tlite has been used: 38x
+complete_tlite has been used: 39x
+complete_tlite has been used: 40x
+complete_tlite has been used: 41x
+complete_tlite has been used: 42x
+49.55023629494366
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 43x
+complete_tlite has been used: 44x
+complete_tlite has been used: 45x
+complete_tlite has been used: 46x
+complete_tlite has been used: 47x
+complete_tlite has been used: 48x
+complete_tlite has been used: 49x
+complete_tlite has been used: 50x
+complete_tlite has been used: 51x
+complete_tlite has been used: 52x
+complete_tlite has been used: 53x
+complete_tlite has been used: 54x
+complete_tlite has been used: 55x
+complete_tlite has been used: 56x
+48.54189373041844
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 57x
+complete_tlite has been used: 58x
+complete_tlite has been used: 59x
+complete_tlite has been used: 60x
+complete_tlite has been used: 61x
+complete_tlite has been used: 62x
+complete_tlite has been used: 63x
+complete_tlite has been used: 64x
+complete_tlite has been used: 65x
+complete_tlite has been used: 66x
+complete_tlite has been used: 67x
+complete_tlite has been used: 68x
+complete_tlite has been used: 69x
+complete_tlite has been used: 70x
+44.475518936229285
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 71x
+complete_tlite has been used: 72x
+complete_tlite has been used: 73x
+complete_tlite has been used: 74x
+complete_tlite has been used: 75x
+complete_tlite has been used: 76x
+complete_tlite has been used: 77x
+complete_tlite has been used: 78x
+complete_tlite has been used: 79x
+complete_tlite has been used: 80x
+complete_tlite has been used: 81x
+complete_tlite has been used: 82x
+complete_tlite has been used: 83x
+complete_tlite has been used: 84x
+44.475518936229285
+Sanity Check, Task Labels are:  [' No', ' Yes']
+complete_tlite has been used: 85x
