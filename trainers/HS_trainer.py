@@ -1,17 +1,21 @@
 import heapq
+import json
+import logging
 import math
 import os
 import random
 import re
 import sys
-from pathlib import Path
 
 import numpy as np
-import utils.tlite as tlite
 from supar import Parser
 from trainers.base_trainer import SimpleTrainer
 
+import utils.tlite as tlite
+
 sys.path.append("..")
+
+logger = logging.getLogger(__name__)
 
 
 class HS_trainer(SimpleTrainer):
@@ -77,7 +81,7 @@ class HS_trainer(SimpleTrainer):
 
         deleted = {}
         added = {}
-
+        logger.debug(f"mutated: base candidate {base_candidate}")
         if base_candidate == self.original_candidate:
             for p in phrase_lookup.values():
                 print(p)
@@ -104,6 +108,7 @@ class HS_trainer(SimpleTrainer):
             for edit in edits:
                 if isinstance(edit, str):
                     candidate, indices = self.perform_edit(edit, base_candidate, phrase_lookup, delete_tracker)
+                    print("performed successfully #2")
                     empty = not self.containenglish(candidate)
                     if not empty:
                         print(candidate)
@@ -143,35 +148,46 @@ class HS_trainer(SimpleTrainer):
 
         return candidates, deleted, added
 
-    def generate_candidate(self, ks, HMCR, PAR, edit_opertions_small, use_add, delete_tracker, edit_operations, args):
-
+    def generate_candidate(self, ks, HMCR, PAR, edit_operations_small, use_add, delete_tracker, edit_operations, args):
+        logger.debug(f" generate_candidate: ks {ks}")
         w_m = []
         w_m_words = []
+        deleted = {}
+        added = {}
 
         for j in range(ks):
             idx = np.random.randint(0, len(self.W_candidates))
             w = self.W_candidates[idx]
+            logger.debug(f"{j}: w: {w}")
             phrases_pun = self.get_phrase_lookup_pun(w, args)
+            logger.debug(f"{j}: phrases_pun: {phrases_pun}")
             w_phrases = list(phrases_pun.values())
             L = len(w_phrases)
             start = math.ceil(j / ks * L)
             end = math.ceil((j + 1) / ks * L) - 1
+            logger.debug(f"{j}: start {start} end {end}")
             w_segement = w_phrases[start:end]
+            logger.debug(f"{j}: w_segement: {w_segement}")
             w_segement_words = []
 
             for phrase in w_segement:
                 w_segement_words = w_segement_words + self.word_tokenize(phrase)
             w_segement = self.detokenize(w_segement_words)
+            logger.debug(f"{j}: w_segment: {w_segement}")
 
             if HMCR >= np.random.random():
+                logger.debug(f"{j}: HMCR")
                 if PAR >= np.random.random():
+                    logger.debug(f"{j}: PAR")
                     try:
                         phrase_lookup = self.get_phrase_lookup(w_segement, args)
+                        logger.debug(f"{j}: phrase lookup #1 {phrase_lookup}")
                         candidate, _ = self.perform_edit(
-                            edit_opertions_small, w_segement, phrase_lookup, delete_tracker
+                            edit_operations_small, w_segement, phrase_lookup, delete_tracker
                         )
                         w_segement = candidate
                         print(w_segement)
+                        logger.debug(f"{j}: success")
                     except:
                         print("Error occurs (parser) and skip this mutation")
                         continue
@@ -181,11 +197,13 @@ class HS_trainer(SimpleTrainer):
             else:
                 try:
                     phrase_lookup = self.get_phrase_lookup(w_segement, args)
+                    logger.debug(f"{j}: phrase lookup #2: {phrase_lookup}")
                     candidates, deleted, added = self.mutated(
                         w_segement, phrase_lookup, use_add, delete_tracker, edit_operations, args
                     )
                     w_segement = candidates[0]  # multipule edit operations can be implemented if necessary
                     print(w_segement)
+                    logger.debug(f"{j}: success")
                 except:
                     print("Error occurs (parser) and skip this mutation")
                     continue
@@ -196,16 +214,18 @@ class HS_trainer(SimpleTrainer):
         w_m = self.detokenize(w_m_words)
         return w_m, deleted, added
 
-    def train(self, instruction, chosen_task_name, args):
+    def train(self, instruction, args):
 
-        ks = 5
+        ks = 2
         HMCR = 0.4
         PAR = 0.5
-        edit_opertions_small = "sub"
+        edit_operations_small = "sub"
         N_H = 10
 
         meta_path = os.path.join(args.meta_dir, args.meta_name)
         meta_file = open(meta_path, "w+")
+        meta_test_path = os.path.join(args.meta_test_dir, args.meta_test_name)
+        meta_test_file = open(meta_test_path, "a")
         edit_operations = args.edits
         use_add = "add" in edit_operations
 
@@ -241,11 +261,13 @@ class HS_trainer(SimpleTrainer):
             for c in range(args.num_candidates):
 
                 w_m, deleted, added = self.generate_candidate(
-                    ks, HMCR, PAR, edit_opertions_small, use_add, delete_tracker, edit_operations, args
+                    ks, HMCR, PAR, edit_operations_small, use_add, delete_tracker, edit_operations, args
                 )
+                print(f"Candidate:\n{w_m}\n")
                 w_m_score = self.score(w_m, args=args)
                 self.W_candidates_m.append(w_m)
                 self.W_scores_m.append(w_m_score)
+                print(f"{w_m_score:.6f}")
                 deleted_list = []
                 added_list = []
                 for item in list(deleted.values()):
@@ -289,13 +311,13 @@ class HS_trainer(SimpleTrainer):
 
                 self.result_candidate = self.detokenize(self.word_tokenize(self.result_candidate))
 
-            if current_iteration % args.checkpoint_freq == 0:
-                self.get_state(current_iteration, delete_tracker)
-                ckpt_dir = Path(args.output_dir) / "checkpoints"
-                ckpt_dir.mkdir(exist_ok=True)
-                filename = "task{}_step{}.pickle".format(args.task_idx, current_iteration - 1)
-                ckpt_path = ckpt_dir / filename
-                self.save(ckpt_path)
+            # if current_iteration % args.checkpoint_freq == 0:
+            # self.get_state(current_iteration, delete_tracker)
+            # ckpt_dir = Path(args.output_dir) / "checkpoints"
+            # ckpt_dir.mkdir(exist_ok=True)
+            # filename = "{}_step{}.pickle".format(self.task_name, current_iteration - 1)
+            # ckpt_path = ckpt_dir / filename
+            # self.save(ckpt_path)
 
             if args.backbone == "tlite":
                 count = tlite.complete_tlite.count
@@ -325,11 +347,11 @@ class HS_trainer(SimpleTrainer):
 
         meta_file.write("Testing .... \n")
         if args.print_orig:
-            print("Task:\t", chosen_task_name)
+            print("Task:\t", self.task_name)
             print("Original Instruction:\t", self.original_candidate)
             orig_score = self.score(self.original_candidate, "test", args=args)
-            print("Original Accuracy:\t", str(orig_score))
-            meta_file.write("Original Accuracy:\t" + str(orig_score) + "\n")
+            print(f"Original score:\t {orig_score}")
+            meta_file.write(f"Original score: {orig_score}" + "\n")
 
         if self.result_candidate == self.original_candidate:
             print("No viable candidate found!")
@@ -338,10 +360,13 @@ class HS_trainer(SimpleTrainer):
             meta_file.write("APICalls:\t" + str(count) + "\n")
             exit()
 
-        print("Accuracy after search:\t", str(searched_score))
+        print(f"After search score:\t {searched_score}")
         print("Instruction after search:\t", self.result_candidate)
         meta_file.write("Instruction after search:\t" + self.result_candidate + "\n")
-        meta_file.write("Accuracy after search:\t" + str(searched_score) + "\n")
+        meta_file.write(f"After search score:\t {searched_score}" + "\n")
+        meta_test_file.write(
+            json.dumps({"task": self.task_name, "prompt": self.result_candidate, "metrics": searched_score}) + "\n"
+        )
         print("APICalls:\t", count)
         meta_file.write("APICalls:\t" + str(count) + "\n")
 

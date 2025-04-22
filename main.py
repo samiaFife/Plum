@@ -1,11 +1,14 @@
 import argparse
-import json
 import os
+import sys
 
 from config import get_cfg_default
-from trainers import GA_trainer, HC_trainer, HS_trainer, TB_trainer
 
-from utils import set_random_seed, setup_logger
+project_root = os.path.abspath(os.path.join(os.getcwd(), "../../../"))
+sys.path.append(project_root)
+
+from utils import set_random_seed, setup_logger  # noqa 402
+from utils.model_loader import ModelLoader  # noqa 402
 
 
 def print_args(args, cfg):
@@ -87,34 +90,18 @@ def main(args):
     print("Setting fixed data_seed: {}, train_seed: {}".format(cfg.DATA_SEED, cfg.TRAIN_SEED))
     set_random_seed(cfg.DATA_SEED, cfg.TRAIN_SEED)
     setup_logger(cfg.META_DIR)
-
-    # *print_args(args, cfg)
+    # //print_args(args, cfg)
     print("Collecting env info ...")
-    # * print("** System info **\n{}\n".format(collect_env_info()))
+    # // print("** System info **\n{}\n".format(collect_env_info()))
+    # if args.backbone == "tlite":
+    #     import utils.tlite as tlite
 
-    if args.backbone == "tlite":
-        import utils.tlite as tlite
+    #     construct_instruction_prompt = tlite.construct_instruction_prompt
 
-        construct_instruction_prompt = tlite.construct_instruction_prompt
-
-    num_shots = args.num_shots
     data_seed = args.data_seed
     train_seed = args.train_seed
-    num_samples = args.num_samples
-    classification_task_ids = args.classification_task_ids
     data_base_path = args.data_dir
     print(data_base_path)
-    file_map = {f.split("_")[0]: f for f in os.listdir(data_base_path)}
-    print(file_map.keys())
-    print(file_map.values())
-    assert args.task_idx >= 0 and args.task_idx < len(classification_task_ids), "Invalid task index entered."
-    chosen_task = classification_task_ids[args.task_idx]
-    print("Chosen Task: ", chosen_task)
-    chosen_task_name = file_map["task" + chosen_task]
-    args.chosen_task_name = chosen_task_name
-    print("Running Experiment for: ", chosen_task_name)
-
-    file_contents = json.load(open("{}/{}".format(data_base_path, chosen_task_name)))
     num_compose = args.num_compose
     num_candidates = args.num_candidates
     num_steps = args.num_iter
@@ -123,30 +110,37 @@ def main(args):
     # edit_operations = args.edits
     backbone = args.backbone
 
-    _, task_labels, _ = construct_instruction_prompt(
-        mode="No Instructions",
-        task_name=chosen_task_name,
-        num_shots=num_shots,
-        num_test_instances=num_samples,
-        data_seed=data_seed,
-        args=args,
-    )
-    task_labels = list(set(task_labels))
-    task_labels.sort()
+    # _, task_labels, _ = construct_instruction_prompt(
+    #     mode="No Instructions",
+    #     num_shots=num_shots,
+    #     num_test_instances=num_samples,
+    #     data_seed=data_seed,
+    #     args=args,
+    # ) # * давай заменим на джсон
+    if args.bench_name != "":
+        loader = ModelLoader(args.task_name, args.bench_name)
+    else:
+        loader = ModelLoader(args.task_name)
+    loader.seed_everything()
+    task_labels = loader.labels
+    print("Running Experiment for: ", args.task_name)
     print("Task Labels: ", task_labels)
     args.task_labels = task_labels
 
-    instruction = file_contents["Definition"]
+    instruction = loader.base_prompt
     print("Original Instruction: ", instruction)
-    instruction[0].replace("\n" + "Things to avoid: -", "")
-    print("Instruction Edit1: ", instruction)
-    instruction = instruction[0].replace("\n" + "Emphasis & Caution: -", "")
-    print("Instruction Edit2: ", instruction)
+    # // instruction[0].replace("\n" + "Things to avoid: -", "")
+    # // print("Instruction Edit1: ", instruction)
+    # // instruction = instruction[0].replace("\n" + "Emphasis & Caution: -", "")
+    # // print("Instruction Edit2: ", instruction)  # ???
     if args.agnostic:
+        # * агностик = общий промпт для всех задач
         instruction = (
             "You will be given a task. Read and understand the task carefully, and appropriately "
             "answer '{}' or '{}'.".format(task_labels[0], task_labels[1])
         )
+    loader.print_gpu_memory()
+    from trainers import GA_trainer, HC_trainer, HS_trainer, TB_trainer  # noqa 402
 
     if args.algorithm == "ga":
         trainer = GA_trainer.GA_trainer(
@@ -175,12 +169,20 @@ def main(args):
         print("eval_acc: {}".format(accuracy))
     else:
         if not args.no_train:
-            trainer.train(instruction, chosen_task_name, args)
+            try:
+                trainer.train(instruction, args)
+            except:
+                meta_test_path = os.path.join(args.meta_test_dir, args.meta_test_name)
+                meta_test_file = open(meta_test_path, "a")
+                meta_test_file.write(f"{args.task_name} recieved an error\n")
+    loader.destroy()
 
 
 if __name__ == "__main__":
     print("Started")
     parser = argparse.ArgumentParser()
+    parser.add_argument("--task-name", default="sst2", help="Name of the task")
+    parser.add_argument("--bench-name", default="", help="Name of the benchmark bbh/nat instr")
     parser.add_argument("--mode", default="Instruction Only", help="Mode of instructions/prompts")
     parser.add_argument("--model-name", default="text-babbage-001", help="Name of used model")
     parser.add_argument("--num-shots", default=2, type=int, help="Number of examples in the prompt if applicable")
@@ -213,7 +215,15 @@ if __name__ == "__main__":
     parser.add_argument("--write-preds", action="store_true", default=False, help="Store predictions in a .json file")
     parser.add_argument("--data-dir", default="./natural-instructions-2.6/tasks/", help="Path to the dataset")
     parser.add_argument("--meta-dir", default="logs/", help="Path to store metadata of search")
+    parser.add_argument(
+        "--meta-test-dir", default="logs_test/", help="Path to store metadata of search for future test"
+    )
     parser.add_argument("--meta-name", default="search.txt", help="Path to the file that stores metadata of search")
+    parser.add_argument(
+        "--meta-test-name",
+        default="search_test.txt",
+        help="Path to the file that stores metadata of search for future test",
+    )
     parser.add_argument("--output-dir", type=str, default="", help="output directory")
     parser.add_argument("--model-dir", type=str, default="", help="load model from this directory for eval-only mode")
     parser.add_argument("--patience", default=2, type=int, help="The max patience P (counter)")

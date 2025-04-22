@@ -1,29 +1,89 @@
-
+echo "running task"
+TASKS_BBH=("disambiguation_qa")
+TASKS=("mnli")
+TASKS_NAT_INSTR=("task021")
+for TASK in "${TASKS[@]}"; do
+  echo "Running task: $TASK"
+# mkdir ./output/hs/test/$TASK/checkpoints
   python ./main.py \
+    --task-name $TASK \
     --data-dir "./data/" \
     --algorithm "tabu" \
     --mode "Instruction Only" \
-    --train-seed 0 \
+    --train-seed 42 \
     --num-compose 1 \
-    --num-candidates 8 \
+    --num-candidates 10 \
     --backbone "tlite" \
-    --num-iter 3 \
+    --num-iter 10 \
     --patience 5 \
     --write-preds \
-    --meta-dir "./logs/" \
-    --meta-name "TS_batchsize_4_all_edits_l_1_m_8_n_20@task_001_agnostic_trainseed_0_seed_42_rho_7.txt" \
+    --meta-dir "./logs/ts/test/$TASK/" \
+    --meta-name "$TASK-1.txt" \
+    --meta-test-dir "./logs_test/" \
+    --meta-test-name "test_2" \
     --print-orig \
-    --agnostic \
     --key-id 0 \
-    --batch-size 4 \
-    --tournament-selection 4 \
+    --batch-size 16 \
+    --tournament-selection 3 \
     --project-name 'ts-prompt' \
     --checkpoint-freq 10 \
-    --output-dir "./output/" # dir to save cheskpoints
-
-    # add the following argument to resume the searching from the chechpoint
-    # --resume /home/szdiao/bbt/ours/grips_heuristicalgs/output/checkpoints/task0_step19.pickle" 
-
-    # add the following arguments to test the performance of the loaded model
-    # --model-dir /home/szdiao/bbt/ours/grips_heuristicalgs/output/checkpoints/task0_step19.pickle 
-    # --eval-only
+    --output-dir "./output/ts/test/$TASK/"
+  echo "Finished task: $TASK"
+done
+for TASK in "${TASKS_NAT_INSTR[@]}"; do
+  echo "Running task: $TASK"
+  python ./main.py \
+    --task-name $TASK \
+    --bench-name "natural_instructions" \
+    --data-dir "./data/" \
+    --algorithm "tabu" \
+    --mode "Instruction Only" \
+    --train-seed 42 \
+    --num-compose 1 \
+    --num-candidates 10 \
+    --backbone "tlite" \
+    --num-iter 10 \
+    --patience 5 \
+    --write-preds \
+    --meta-dir "./logs/ts/test/$TASK/" \
+    --meta-name "$TASK-1.txt" \
+    --meta-test-dir "./logs_test/" \
+    --meta-test-name "test_2" \
+    --print-orig \
+    --key-id 0 \
+    --batch-size 16 \
+    --tournament-selection 3 \
+    --project-name 'ts-prompt' \
+    --checkpoint-freq 10 \
+    --output-dir "./output/ts/test/$TASK/"
+  echo "Finished task: $TASK"
+done
+for TASK in "${TASKS_BBH[@]}"; do
+  echo "Running task: $TASK"
+  echo "Running task: $TASK"
+  python ./main.py \
+    --task-name $TASK \
+    --bench-name "bbh" \
+    --data-dir "./data/" \
+    --algorithm "tabu" \
+    --mode "Instruction Only" \
+    --train-seed 42 \
+    --num-compose 1 \
+    --num-candidates 10 \
+    --backbone "tlite" \
+    --num-iter 10 \
+    --patience 5 \
+    --write-preds \
+    --meta-dir "./logs/ts/test/$TASK/" \
+    --meta-name "$TASK-1.txt" \
+    --meta-test-dir "./logs_test/" \
+    --meta-test-name "test_2" \
+    --print-orig \
+    --key-id 0 \
+    --batch-size 16 \
+    --tournament-selection 3 \
+    --project-name 'ts-prompt' \
+    --checkpoint-freq 10 \
+    --output-dir "./output/ts/test/$TASK/"
+  echo "Finished task: $TASK"
+done

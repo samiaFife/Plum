@@ -1,15 +1,12 @@
 import argparse
 import json
 import os
-import pdb
 
 import numpy as np
 import torch
 from sklearn.metrics import f1_score as F1
-from tqdm import tqdm
 
-from utils import model_loader
-from utils.expanded_encode_instruction import encode_instruction
+from utils.model_loader import ModelLoader
 
 # Extra define
 null_words = ["N/A", "", "[MASK]"]
@@ -20,12 +17,13 @@ all_calibrated_preds = []
 all_answers = []
 
 # initialize tokenizer and model from pretrained T-Lite model
+model_loader = ModelLoader()
 tokenizer = model_loader.tokenizer
 model = model_loader.model
 
-tokenizer.padding_side = "left"
-tokenizer.pad_token = tokenizer.eos_token
-model.config.pad_token_id = model.config.eos_token_id
+# tokenizer.padding_side = "left"
+# tokenizer.pad_token = tokenizer.eos_token
+# model.config.pad_token_id = model.config.eos_token_id
 num_seeds = 5
 
 
@@ -42,39 +40,36 @@ def create_batches(test_instances, test_labels=[], batch_size=2):
         return test_sentence_batches
 
 
-def construct_instruction_prompt(mode, task_name, num_shots, num_test_instances, data_seed, null_word=None, args=None):
-    if mode == "No Instructions" or mode == 0:
-        prompt_list, answer_list, index_list = encode_instruction(
-            task_name,
-            instruction_structure=[],
-            number_of_instances=num_test_instances,
-            data_seed=data_seed,
-            null_word=null_word,
-            args=args,
-        )
-    elif mode == "Instruction Only" or mode == 1:
-        prompt_list, answer_list, index_list = encode_instruction(
-            task_name,
-            instruction_structure=["Definition"],
-            number_of_examples=num_shots,
-            number_of_instances=num_test_instances,
-            data_seed=data_seed,
-            null_word=null_word,
-            args=args,
-        )
-    elif mode == "Instruction + Examples" or mode == 2:
-        prompt_list, answer_list, index_list = encode_instruction(
-            task_name,
-            instruction_structure=["Definition", "Positive Examples Full Only"],
-            number_of_examples=num_shots,
-            number_of_instances=num_test_instances,
-            data_seed=data_seed,
-            null_word=null_word,
-            args=args,
-        )
-    else:
-        raise ValueError("Invalid mode entry, mode not recognized")
-    return prompt_list, answer_list, index_list
+# def construct_instruction_prompt(mode, num_shots, num_test_instances, data_seed, null_word=None, args=None):
+#     if mode == "No Instructions" or mode == 0:
+#         prompt_list, answer_list, index_list = encode_instruction(
+#             instruction_structure=[],
+#             number_of_instances=num_test_instances,
+#             data_seed=data_seed,
+#             null_word=null_word,
+#             args=args,
+#         )
+#     elif mode == "Instruction Only" or mode == 1:
+#         prompt_list, answer_list, index_list = encode_instruction(
+#             instruction_structure=["Definition"],
+#             number_of_examples=num_shots,
+#             number_of_instances=num_test_instances,
+#             data_seed=data_seed,
+#             null_word=null_word,
+#             args=args,
+#         )
+#     elif mode == "Instruction + Examples" or mode == 2:
+#         prompt_list, answer_list, index_list = encode_instruction(
+#             instruction_structure=["Definition", "Positive Examples Full Only"],
+#             number_of_examples=num_shots,
+#             number_of_instances=num_test_instances,
+#             data_seed=data_seed,
+#             null_word=null_word,
+#             args=args,
+#         )
+#     else:
+#         raise ValueError("Invalid mode entry, mode not recognized")
+#     return prompt_list, answer_list, index_list
 
 
 # токенизирует метки
@@ -272,143 +267,143 @@ def evaluate_preds(batch_preds, batch_labels):
     return batch_preds == batch_labels
 
 
-def run(
-    mode,
-    batch_size,
-    num_shots,
-    chosen_task_name,
-    num_samples,
-    data_seed=0,
-    logit_only=False,
-    override_prompts=False,
-    function=None,
-    split=None,
-    task_labels=[],
-    modified={},
-    if_calibrate=True,
-    args=None,
-):
-    regular_accuracy_count = 0
-    calibrated_accuracy_count = 0
-    if not override_prompts:
-        prompt_list, answer_list, index_list = construct_instruction_prompt(
-            mode=mode,
-            task_name=chosen_task_name,
-            num_shots=num_shots,
-            num_test_instances=num_samples,
-            data_seed=data_seed,
-            args=args,
-        )
-    else:
-        prompt_list, answer_list, index_list = function(
-            mode=mode,
-            task_name=chosen_task_name,
-            num_shots=num_shots,
-            num_test_instances=num_samples,
-            data_seed=data_seed,
-            split=split,
-            modified=modified,
-            args=args,
-        )
-    prompt_batches, batch_test_labels = create_batches(prompt_list, answer_list, batch_size)
-    if len(task_labels) == 0:
-        task_labels = list(set(answer_list))
-    task_labels = [" " + label for label in task_labels]
-    task_labels.sort()
-    print("Sanity Check, Task Labels are: ", task_labels)
-    all_label_probs = []
-    all_calibrated_probs = []
-    temp_prompt_batches = []
-    if if_calibrate:
-        for nw in null_words:
-            if not override_prompts:
-                null_prompt_list, null_answer_list, null_index_list = construct_instruction_prompt(
-                    mode=mode,
-                    task_name=chosen_task_name,
-                    num_shots=num_shots,
-                    num_test_instances=num_samples,
-                    data_seed=data_seed,
-                    null_word=nw,
-                )
-            else:
-                null_prompt_list, null_answer_list, null_index_list = function(
-                    mode=mode,
-                    task_name=chosen_task_name,
-                    num_shots=num_shots,
-                    num_test_instances=num_samples,
-                    data_seed=data_seed,
-                    null_word=nw,
-                    split=split,
-                    modified=modified,
-                )
-            assert index_list == null_index_list, pdb.set_trace()
-            null_batches, _ = create_batches(null_prompt_list, null_answer_list, batch_size)
-            temp_prompt_batches.append(null_batches)
-    null_prompt_batches = []
-    if if_calibrate:
-        for i in range(len(prompt_batches)):
-            null_word_batches = []
-            for j in range(len(null_words)):
-                null_word_batches.append(temp_prompt_batches[j][i])
-            null_prompt_batches.append(null_word_batches)
+# def run(
+#     mode,
+#     batch_size,
+#     num_shots,
+#     data,
+#     num_samples,
+#     data_seed=0,
+#     logit_only=False,
+#     override_prompts=False,
+#     function=None,
+#     split=None,
+#     task_labels=[],
+#     modified={},
+#     if_calibrate=True,
+#     args=None,
+# ):
+#     regular_accuracy_count = 0
+#     calibrated_accuracy_count = 0
+#     if not override_prompts:
+#         prompt_list, answer_list, index_list = construct_instruction_prompt(
+#             mode=mode,
+#             data=data,
+#             num_shots=num_shots,
+#             num_test_instances=num_samples,
+#             data_seed=data_seed,
+#             args=args,
+#         )
+#     else:
+#         prompt_list, answer_list, index_list = function(
+#             mode=mode,
+#             data=data,
+#             num_shots=num_shots,
+#             num_test_instances=num_samples,
+#             data_seed=data_seed,
+#             split=split,
+#             modified=modified,
+#             args=args,
+#         )
+#     prompt_batches, batch_test_labels = create_batches(prompt_list, answer_list, batch_size)
+#     if len(task_labels) == 0:
+#         task_labels = list(set(answer_list))
+#     task_labels = [" " + label for label in task_labels]
+#     task_labels.sort()
+#     print("Sanity Check, Task Labels are: ", task_labels)
+#     all_label_probs = []
+#     all_calibrated_probs = []
+#     temp_prompt_batches = []
+#     if if_calibrate:
+#         for nw in null_words:
+#             if not override_prompts:
+#                 null_prompt_list, null_answer_list, null_index_list = construct_instruction_prompt(
+#                     mode=mode,
+#                     data=data,
+#                     num_shots=num_shots,
+#                     num_test_instances=num_samples,
+#                     data_seed=data_seed,
+#                     null_word=nw,
+#                 )
+#             else:
+#                 null_prompt_list, null_answer_list, null_index_list = function(
+#                     mode=mode,
+#                     data=data,
+#                     num_shots=num_shots,
+#                     num_test_instances=num_samples,
+#                     data_seed=data_seed,
+#                     null_word=nw,
+#                     split=split,
+#                     modified=modified,
+#                 )
+#             assert index_list == null_index_list, pdb.set_trace()
+#             null_batches, _ = create_batches(null_prompt_list, null_answer_list, batch_size)
+#             temp_prompt_batches.append(null_batches)
+#     null_prompt_batches = []
+#     if if_calibrate:
+#         for i in range(len(prompt_batches)):
+#             null_word_batches = []
+#             for j in range(len(null_words)):
+#                 null_word_batches.append(temp_prompt_batches[j][i])
+#             null_prompt_batches.append(null_word_batches)
 
-    all_batches = prompt_batches
-    all_null_batches = null_prompt_batches
+#     all_batches = prompt_batches
+#     all_null_batches = null_prompt_batches
 
-    for j in tqdm(range(len(all_batches))):
-        batch = all_batches[j]
+#     for j in tqdm(range(len(all_batches))):
+#         batch = all_batches[j]
+#         # todo тут можно заюзать эвалюатор
+#         responses = complete_tlite(batch, total_len=num_gen_tokens, num_log_probs=num_top_tokens)
+#         label_probs = get_regular_label_probs(responses, batch, task_labels, if_null=logit_only)
+#         all_label_probs.append(label_probs)
+#         if logit_only:
+#             label_probs = label_probs / torch.sum(label_probs, dim=2, keepdim=True)
 
-        responses = complete_tlite(batch, total_len=num_gen_tokens, num_log_probs=num_top_tokens)
-        label_probs = get_regular_label_probs(responses, batch, task_labels, if_null=logit_only)
-        all_label_probs.append(label_probs)
-        if logit_only:
-            label_probs = label_probs / torch.sum(label_probs, dim=2, keepdim=True)
+#         regular_preds = get_prediction(label_probs, task_labels)
 
-        regular_preds = get_prediction(label_probs, task_labels)
+#         regular_accuracy_count += np.sum(evaluate_preds(regular_preds, batch_test_labels[j]))
+#         all_regular_preds.extend([p.strip(" ") for p in regular_preds])
 
-        regular_accuracy_count += np.sum(evaluate_preds(regular_preds, batch_test_labels[j]))
-        all_regular_preds.extend([p.strip(" ") for p in regular_preds])
+#         # perform calibration
+#         if if_calibrate:
+#             null_batches = all_null_batches[j]
+#             null_probs_list = []
+#             for null_batch in null_batches:
+#                 null_probs = get_null_label_probs(null_batch, task_labels)
+#                 null_probs_list.append(null_probs)
 
-        # perform calibration
-        if if_calibrate:
-            null_batches = all_null_batches[j]
-            null_probs_list = []
-            for null_batch in null_batches:
-                null_probs = get_null_label_probs(null_batch, task_labels)
-                null_probs_list.append(null_probs)
+#             null_probs = torch.mean(torch.stack(null_probs_list), dim=0)
+#             null_probs = null_probs / torch.sum(null_probs, dim=2, keepdim=True)
+#             # num_classes = len(task_labels)
 
-            null_probs = torch.mean(torch.stack(null_probs_list), dim=0)
-            null_probs = null_probs / torch.sum(null_probs, dim=2, keepdim=True)
-            # num_classes = len(task_labels)
+#             calibrated_probs = label_probs / null_probs
+#             if logit_only:
+#                 all_calibrated_probs.append(calibrated_probs)
+#             calibrated_probs = calibrated_probs / torch.sum(calibrated_probs, dim=2, keepdim=True)
+#             if not logit_only:
+#                 all_calibrated_probs.append(calibrated_probs)
+#             calibrated_preds = get_prediction(calibrated_probs, task_labels)
 
-            calibrated_probs = label_probs / null_probs
-            if logit_only:
-                all_calibrated_probs.append(calibrated_probs)
-            calibrated_probs = calibrated_probs / torch.sum(calibrated_probs, dim=2, keepdim=True)
-            if not logit_only:
-                all_calibrated_probs.append(calibrated_probs)
-            calibrated_preds = get_prediction(calibrated_probs, task_labels)
+#             calibrated_accuracy_count += np.sum(evaluate_preds(calibrated_preds, batch_test_labels[j]))
+#             all_calibrated_preds.extend([p.strip(" ") for p in calibrated_preds])
+#         all_answers.extend(batch_test_labels[j])
 
-            calibrated_accuracy_count += np.sum(evaluate_preds(calibrated_preds, batch_test_labels[j]))
-            all_calibrated_preds.extend([p.strip(" ") for p in calibrated_preds])
-        all_answers.extend(batch_test_labels[j])
+#         del batch, responses, regular_preds
+#         if if_calibrate:
+#             del null_batches, calibrated_preds
 
-        del batch, responses, regular_preds
-        if if_calibrate:
-            del null_batches, calibrated_preds
-
-    all_label_probs = torch.cat(all_label_probs, dim=0)
-    if if_calibrate:
-        all_calibrated_probs = torch.cat(all_calibrated_probs, dim=0)
-    return (
-        all_label_probs,
-        all_calibrated_probs,
-        regular_accuracy_count,
-        calibrated_accuracy_count,
-        answer_list,
-        index_list,
-        task_labels,
-    )
+#     all_label_probs = torch.cat(all_label_probs, dim=0)
+#     if if_calibrate:
+#         all_calibrated_probs = torch.cat(all_calibrated_probs, dim=0)
+#     return (
+#         all_label_probs,
+#         all_calibrated_probs,
+#         regular_accuracy_count,
+#         calibrated_accuracy_count,
+#         answer_list,
+#         index_list,
+#         task_labels,
+#     )
 
 
 if __name__ == "__main__":

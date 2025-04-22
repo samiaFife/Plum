@@ -1,8 +1,7 @@
-import json
-import os
+import logging
 import pickle
-import random
 import string
+from datetime import datetime
 
 import nltk
 import numpy as np
@@ -11,12 +10,11 @@ import torch
 import torch.serialization
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.tokenize.treebank import TreebankWordDetokenizer
-from scipy.stats import entropy
-from sklearn.metrics import balanced_accuracy_score
 from supar import Parser
+from vllm import SamplingParams
 
-from utils import model_loader, tlite
-from utils.expanded_encode_instruction import training_encode_instruction
+from utils import tlite
+from utils.model_loader import ModelLoader
 
 # Ошибка при Parser.load: WeightUnpickler error: unsupported global
 torch.serialization.add_safe_globals(
@@ -30,6 +28,9 @@ torch.serialization.add_safe_globals(
         supar.utils.field.ChartField,
     ]
 )
+model_loader = ModelLoader()
+
+logger = logging.getLogger(__name__)
 
 
 class TrainerBase:
@@ -45,6 +46,12 @@ class TrainerBase:
         self.num_candidates = num_candidates
         self.patience_counter = 1
         self.state = {}
+        self.model = model_loader.model
+        self.tokenizer = model_loader.tokenizer
+        self.device = model_loader.device
+        self.evaluator = model_loader.evaluator
+        self.task_name = model_loader.task_name
+        self.model_generate_args = model_loader.model_generate_args
 
     def choose_best(self, candidates, scores):
         best_idx = np.argmax(scores)  # k <-- \argmax_{j} s[j]
@@ -81,7 +88,7 @@ class SimpleTrainer(TrainerBase):
 
     def __init__(self, maxiter, patience, train_seed, data_seed, num_compose, num_candidates, backbone):
         super(SimpleTrainer, self).__init__(maxiter, patience, train_seed, data_seed, num_compose, num_candidates)
-        self.run = tlite.run
+        # self.run = tlite.run
         self.get_prediction = tlite.get_prediction
         self.patience_counter = 1
         self.W_candidates = []
@@ -98,10 +105,10 @@ class SimpleTrainer(TrainerBase):
     def detokenize(self, tokens):
         return TreebankWordDetokenizer().detokenize(tokens)
 
-    def word_tokenize(slef, instruction):
+    def word_tokenize(self, instruction):
         return word_tokenize(instruction)
 
-    def sent_tokenize(slef, instruction):
+    def sent_tokenize(self, instruction):
         return sent_tokenize(instruction)
 
     def traverse_tree(self, parsed_tree):
@@ -136,7 +143,7 @@ class SimpleTrainer(TrainerBase):
         for tree in parsed_tree:
             if not isinstance(parsed_tree, nltk.tree.Tree):
                 continue
-            if tree.label() == "_":
+            if not isinstance(tree, str) and tree.label() == "_":
                 leaves.append(self.detokenize(tree.leaves()))
                 continue
             if self.check_child(tree):
@@ -164,15 +171,14 @@ class SimpleTrainer(TrainerBase):
             self.para_model = model_loader.model
 
     def get_response(self, input_text, num_return_sequences, num_beams):
-        torch_device = "cuda" if torch.cuda.is_available() else "cpu"
-        batch = self.para_tokenizer(
-            [input_text], truncation=True, padding="longest", max_length=60, return_tensors="pt"
-        ).to(torch_device)
-        translated = self.para_model.generate(
-            **batch, max_length=60, num_beams=num_beams, num_return_sequences=num_return_sequences, temperature=1.5
-        )
-        tgt_text = self.para_tokenizer.batch_decode(translated, skip_special_tokens=True)
-        return tgt_text
+        # torch_device = "cuda" if torch.cuda.is_available() else "cpu"
+        # batch = self.para_tokenizer(
+        #     [input_text], truncation=True, padding="longest", max_length=60, return_tensors="pt"
+        # ).to(torch_device)
+        sampling_params = SamplingParams(n=num_return_sequences, best_of=num_beams, max_tokens=60, temperature=1.5)
+        translated = self.para_model.generate([input_text], sampling_params)  # todo вот тут придется повозиться с vllm
+        # tgt_text = self.para_tokenizer.batch_decode(translated, skip_special_tokens=True)
+        return [output.text for output in translated[0].outputs]
 
     def delete_phrase(self, candidate, phrase):
         if candidate.find(" " + phrase) > 0:
@@ -237,6 +243,7 @@ class SimpleTrainer(TrainerBase):
         return answer
 
     def perform_edit(self, edit, base, phrase_lookup, delete_tracker):
+        logger.debug(f"performing edit {edit} on {base}")
         if edit == "del":
             [i] = np.random.choice(list(phrase_lookup.keys()), 1)
             return self.delete_phrase(base, phrase_lookup[i]), [i]
@@ -262,115 +269,99 @@ class SimpleTrainer(TrainerBase):
             phrase = np.random.choice(delete_tracker, 1)[0]
             return self.add_phrase(base, phrase, after), [phrase]
 
-    def custom_instruction_prompt(
-        self,
-        mode=None,
-        task_name=None,
-        num_shots=None,
-        num_test_instances=None,
-        data_seed=None,
-        null_word=None,
-        split="train",
-        modified={},
-        args=None,
-    ):
-        if mode == "Instruction Only":
-            (
-                prompt_list,
-                answer_list,
-                index_list,
-                train_prompt_list,
-                train_answer_list,
-                train_index_list,
-                dev_prompt_list,
-                dev_answer_list,
-                dev_index_list,
-            ) = training_encode_instruction(
-                task_name,
-                instruction_structure=["Definition"],
-                number_of_examples=num_shots,
-                number_of_instances=num_test_instances,
-                data_seed=data_seed,
-                null_word=null_word,
-                modified=modified,
-                args=args,
-            )
-        elif mode == "Instruction + Positive Examples":
-            (
-                prompt_list,
-                answer_list,
-                index_list,
-                train_prompt_list,
-                train_answer_list,
-                train_index_list,
-                dev_prompt_list,
-                dev_answer_list,
-                dev_index_list,
-            ) = training_encode_instruction(
-                task_name,
-                instruction_structure=["Definition", "Positive Examples Full Only"],
-                number_of_examples=num_shots,
-                number_of_instances=num_test_instances,
-                data_seed=data_seed,
-                null_word=null_word,
-                modified=modified,
-                args=args,
-            )
-        else:
-            raise ValueError()
-        if split == "test":
-            return prompt_list, answer_list, index_list
-        elif split == "train":
-            train_prompt_list.extend(dev_prompt_list)
-            train_answer_list.extend(dev_answer_list)
-            train_index_list.extend(dev_index_list)
-            try:
-                random.seed(data_seed)
-                indices = random.sample(range(len(train_index_list)), args.num_samples)
-                train_prompt_list = [train_prompt_list[i] for i in indices]
-                train_answer_list = [train_answer_list[i] for i in indices]
-                train_index_list = [train_index_list[i] for i in indices]
-            except:
-                pass
+    # def custom_instruction_prompt(
+    #     self,
+    #     mode=None,
+    #     data=None,
+    #     num_shots=None,
+    #     num_test_instances=None,
+    #     data_seed=None,
+    #     null_word=None,
+    #     split="train",
+    #     modified={},
+    #     args=None,
+    # ):
+    #     if mode == "Instruction Only":
+    #         (
+    #             prompt_list,
+    #             answer_list,
+    #             index_list,
+    #             train_prompt_list,
+    #             train_answer_list,
+    #             train_index_list,
+    #             dev_prompt_list,
+    #             dev_answer_list,
+    #             dev_index_list,
+    #         ) = training_encode_instruction(  # * хочу сюда передать data
+    #             data,
+    #             instruction_structure=["Definition"],
+    #             number_of_examples=num_shots,
+    #             number_of_instances=num_test_instances,
+    #             data_seed=data_seed,
+    #             null_word=null_word,
+    #             modified=modified,
+    #             args=args,
+    #         )
+    #     elif mode == "Instruction + Positive Examples":
+    #         (
+    #             prompt_list,
+    #             answer_list,
+    #             index_list,
+    #             train_prompt_list,
+    #             train_answer_list,
+    #             train_index_list,
+    #             dev_prompt_list,
+    #             dev_answer_list,
+    #             dev_index_list,
+    #         ) = training_encode_instruction(
+    #             data,
+    #             instruction_structure=["Definition", "Positive Examples Full Only"],
+    #             number_of_examples=num_shots,
+    #             number_of_instances=num_test_instances,
+    #             data_seed=data_seed,
+    #             null_word=null_word,
+    #             modified=modified,
+    #             args=args,
+    #         )
+    #     else:
+    #         raise ValueError()
+    #     if split == "test":
+    #         return prompt_list, answer_list, index_list
+    #     elif split == "train":
+    #         train_prompt_list.extend(dev_prompt_list)
+    #         train_answer_list.extend(dev_answer_list)
+    #         train_index_list.extend(dev_index_list)
+    #         try:
+    #             random.seed(data_seed)
+    #             indices = random.sample(range(len(train_index_list)), args.num_samples)
+    #             train_prompt_list = [train_prompt_list[i] for i in indices]
+    #             train_answer_list = [train_answer_list[i] for i in indices]
+    #             train_index_list = [train_index_list[i] for i in indices]
+    #         except:
+    #             pass
 
-            return train_prompt_list, train_answer_list, train_index_list
+    #         return train_prompt_list, train_answer_list, train_index_list
 
-        else:
-            raise ValueError()
+    #     else:
+    #         raise ValueError()
 
     def score(self, candidate, split="train", write=False, args=None):
-        task_labels = args.task_labels
-        label_probs, calibrated_label_probs, raw_acc_count, raw_cal_acc_count, answer_list, index_list, _ = self.run(
-            mode=args.mode,
+        # * вместо всего что было заюзаем эвалюатор
+        print("starting scoring:")
+        # model_loader.print_gpu_memory()
+        metrics = self.evaluator.evaluate_vllm(
+            model=self.model,
+            tokenizer=self.tokenizer,
+            eval_ds=model_loader.load_data(candidate, split),
             batch_size=args.batch_size,
-            num_shots=args.num_shots,
-            chosen_task_name=args.chosen_task_name,
-            num_samples=args.num_samples,
-            data_seed=args.data_seed,
-            override_prompts=True,
-            function=self.custom_instruction_prompt,
-            split=split,
-            modified={"Definition": candidate},
-            task_labels=task_labels,
-            if_calibrate=False,
-            args=args,
+            model_generate_args=self.model_generate_args,
         )
-        preds = self.get_prediction(label_probs, task_labels)
-        raw_acc = balanced_accuracy_score(answer_list, preds)
-        label_frequencies = [preds.count(l) / len(preds) for l in task_labels]
-        if split == "train":
-            return np.round(100 * raw_acc, 2) + 10 * entropy(label_frequencies)
-        elif split == "test":
-            if write:
-                pname = args.meta_name
-                pname = pname.split(".")[0] + "_predictions.json"
-                pred_dump = {"predictions": preds, "answers": answer_list, "ids": index_list}
-                ppath = os.path.join(args.meta_dir, pname)
-                pfile = open(ppath, "w+")
-                json.dump(pred_dump, pfile)
-            return np.round(100 * raw_acc_count / len(answer_list), 2)
+        model_loader.print_gpu_memory()
+        print(datetime.now())
+        if split != "test":
+            return metrics["f1"] if "f1" in metrics else metrics["meteor"]
         else:
-            return
+            return metrics
 
     def get_phrase_lookup(self, base_candidate, args):
         if args.level == "phrase":
@@ -397,8 +388,10 @@ class SimpleTrainer(TrainerBase):
     def get_phrases_pun(self, instruction):  # one possible way of obtaining disjoint phrases
         phrases = []
         for sentence in sent_tokenize(instruction):
+            logger.debug(f"get_phrases_pun: sentence: {sentence}")
             parsed_tree = self.parser.predict(word_tokenize(sentence), verbose=False).sentences[0].trees[0]
             leaves = self.collect_leaves(parsed_tree)
+            logger.debug(f"get_phrases_pun: leaves: {leaves}")
             phrases.extend(leaves)
         phrases = [self.detokenize(word_tokenize(phrase)) for phrase in phrases]
         return phrases
@@ -427,9 +420,12 @@ class SimpleTrainer(TrainerBase):
 
     def init_population(self, instruction, args):
         self.original_candidate = self.detokenize(self.word_tokenize(instruction))
-        assert self.word_tokenize(self.original_candidate) == self.word_tokenize(instruction)
+        print(self.word_tokenize(self.original_candidate))
+        print(self.word_tokenize(instruction))
+        # *assert self.word_tokenize(self.original_candidate) == self.word_tokenize(instruction)
         # original_candidate = base_candidate
         self.original_score = self.score(self.original_candidate, args=args)
+        print(self.original_score)
         self.W_candidates.append(self.original_candidate)  # W_candidate <-- original_candidate
         self.W_scores.append(self.original_score)  # W_scores <-- original_score
         self.result_candidate = self.original_candidate  # result_candidate <-- base candidate

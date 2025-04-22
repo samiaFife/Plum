@@ -1,13 +1,14 @@
+import json
 import os
 import random
 import re
 import sys
-from pathlib import Path
 
 import numpy as np
-import utils.tlite as tlite
 from supar import Parser
 from trainers.base_trainer import SimpleTrainer
+
+import utils.tlite as tlite
 
 sys.path.append("..")
 
@@ -139,14 +140,17 @@ class GA_trainer(SimpleTrainer):
                             added[new_candidate] = composed_adds
         scores = []
         for c, candidate in enumerate(candidates):
+            print(f"Candidate:\n{candidate}\n")
             scores.append(self.score(candidate, args=args))
             print(scores[-1])
 
         return candidates, scores, deleted, added
 
-    def train(self, instruction, chosen_task_name, args):
+    def train(self, instruction, args):
         meta_path = os.path.join(args.meta_dir, args.meta_name)
         meta_file = open(meta_path, "w+")
+        meta_test_path = os.path.join(args.meta_test_dir, args.meta_test_name)
+        meta_test_file = open(meta_test_path, "a")
 
         edit_operations = args.edits
 
@@ -192,6 +196,8 @@ class GA_trainer(SimpleTrainer):
             )
             best_score, best_candidate = self.choose_best(candidates, scores)
 
+            print(f"Best score: {best_score} of candidate:\n{best_candidate}\n")
+
             self.W_candidates.append(best_candidate)
             self.W_scores.append(best_score)
 
@@ -219,13 +225,13 @@ class GA_trainer(SimpleTrainer):
 
                 self.result_candidate = self.detokenize(self.word_tokenize(self.result_candidate))
 
-            if current_iteration % args.checkpoint_freq == 0:
-                self.get_state(current_iteration, delete_tracker)
-                ckpt_dir = Path(args.output_dir) / "checkpoints"
-                ckpt_dir.mkdir(exist_ok=True)
-                filename = "task{}_step{}.pickle".format(args.task_idx, current_iteration - 1)
-                ckpt_path = ckpt_dir / filename
-                self.save(ckpt_path)
+            # if current_iteration % args.checkpoint_freq == 0:
+            #     self.get_state(current_iteration, delete_tracker)
+            #     ckpt_dir = Path(args.output_dir) / "checkpoints"
+            #     ckpt_dir.mkdir(exist_ok=True)
+            #     filename = "task{}_step{}.pickle".format(args.task_idx, current_iteration - 1)
+            #     ckpt_path = ckpt_dir / filename
+            #     self.save(ckpt_path)
 
             if args.backbone == "tlite":
                 count = tlite.complete_tlite.count
@@ -256,23 +262,30 @@ class GA_trainer(SimpleTrainer):
 
         meta_file.write("Testing .... \n")
         if args.print_orig:
-            print("Task:\t", chosen_task_name)
+            print("Task:\t", self.task_name)
             print("Original Instruction:\t", self.original_candidate)
             orig_score = self.score(self.original_candidate, "test", args=args)
-            print("Original Accuracy:\t", str(orig_score))
-            meta_file.write("Original Accuracy:\t" + str(orig_score) + "\n")
+            print(f"Original score:\t{orig_score}")
+            meta_file.write(f"Original score:\t{orig_score}\n")
 
         if self.result_candidate == self.original_candidate:
             print("No viable candidate found!")
             meta_file.write("No viable candidate found!\n")
             print("APICalls:\t", count)
             meta_file.write("APICalls:\t" + str(count) + "\n")
+            meta_file.write("Instruction after search:\t" + self.result_candidate + "\n")
+            meta_file.write(f"After search score:\t {searched_score}" + "\n")
+            print(f"After search score:\t {searched_score}")
+            print("Instruction after search:\t", self.result_candidate)
             exit()
 
-        print("Accuracy after search:\t", str(searched_score))
+        print(f"After search score:\t{searched_score}")
         print("Instruction after search:\t", self.result_candidate)
         meta_file.write("Instruction after search:\t" + self.result_candidate + "\n")
-        meta_file.write("Accuracy after search:\t" + str(searched_score) + "\n")
+        meta_file.write(f"After search score:\t {searched_score}" + "\n")
+        meta_test_file.write(
+            json.dumps({"task": self.task_name, "metrics": searched_score, "prompt": self.result_candidate}) + "\n"
+        )
         print("APICalls:\t", count)
         meta_file.write("APICalls:\t" + str(count) + "\n")
 
