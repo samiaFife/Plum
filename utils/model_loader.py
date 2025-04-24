@@ -15,7 +15,7 @@ from src.utils.data import INNER_GENERATION_TASKS
 from src.utils.load_dataset import load_dataset
 
 
-class ModelLoader:  # todo конструктор от task_name и labels, base_prompt
+class ModelLoader:
     _instance = None
     _initialized = False
 
@@ -122,7 +122,12 @@ class ModelLoader:  # todo конструктор от task_name и labels, base
 
     def load_data(self, prompt, split):
         return load_dataset(
-            self.task_name, tokenizer=self._tokenizer, sample=100, split=split, prompt=prompt, device=self._device
+            self.task_name,
+            tokenizer=self._tokenizer,
+            sample=100 if split == "train" else None,
+            split=split,
+            prompt=prompt,
+            device=self._device,
         )
 
     @property
