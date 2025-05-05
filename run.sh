@@ -3,7 +3,7 @@ TASKS_BBH=("boolean_expressions" "hyperbaton" "temporal_sequences" "object_count
 TASKS=("gsm8k" "math" "medqa" "mnli" "mr" "openbookqa" "qnli" "samsum" "sst-2" "trec" "yahoo")
 TASKS_NAT_INSTR=("task021" "task050" "task069")
 META_DIR="./logs/full_ts/test/$TASK/"
-$META_DIR_TEST="test_3"
+META_DIR_TEST="test_3"
 for TASK in "${TASKS[@]}"; do
   echo "Running task: $TASK"
 # mkdir ./output/hs/test/$TASK/checkpoints

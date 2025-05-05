@@ -181,7 +181,7 @@ def main(args):
 if __name__ == "__main__":
     print("Started")
     parser = argparse.ArgumentParser()
-    parser.add_argument("--task-name", default="sst2", help="Name of the task")
+    parser.add_argument("--task-name", default="sst-2", help="Name of the task")
     parser.add_argument("--bench-name", default="", help="Name of the benchmark bbh/nat instr")
     parser.add_argument("--mode", default="Instruction Only", help="Mode of instructions/prompts")
     parser.add_argument("--model-name", default="text-babbage-001", help="Name of used model")
