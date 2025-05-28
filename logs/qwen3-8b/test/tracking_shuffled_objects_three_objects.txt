@@ -1,0 +1,22 @@
+Original Candidate:	 A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+Original Score:	 0.31912410915401945
+
+Base Candidate:	 A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+Base Score:	 0.31912410915401945
+Base Candidate:	 requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+Base Score:	 0.3292983489280028
+Base Candidate:	 requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+Base Score:	 0.3292983489280028
+Base Candidate:	 requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+Base Score:	 0.3292983489280028
+Base Candidate:	 requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+Base Score:	 0.3292983489280028
+Base Candidate:	 requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+Base Score:	 0.3292983489280028
+Ran out of patience 
+
+Testing .... 
+Original score:	{'f1': 0.2846977871608413, 'accuracy': 0.2857142857142857}
+Instruction after search:	requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+After search score:	 {'f1': 0.3569553070015605, 'accuracy': 0.3492063492063492}
+APICalls:	0

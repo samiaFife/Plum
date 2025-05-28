@@ -1,0 +1,109 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7fa740ffa040>
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Running Experiment for:  task050
+Task Labels:  ['No.', 'Yes.']
+Original Instruction:  You are given a sentence and a question in the input. If the information provided in the sentence is enough to answer the question, label "Yes.", otherwise label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes." or "No.".
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['You', 'are', 'given', 'a', 'sentence', 'and', 'a', 'question', 'in', 'the', 'input', '.', 'If', 'the', 'information', 'provided', 'in', 'the', 'sentence', 'is', 'enough', 'to', 'answer', 'the', 'question', ',', 'label', '``', 'Yes', '.', '``', ',', 'otherwise', 'label', '``', 'No.', "''", '.', 'Do', 'not', 'use', 'any', 'facts', 'other', 'than', 'those', 'provided', 'in', 'the', 'sentence', 'while', 'labeling', '``', 'Yes', '.', "''", 'or', '``', 'No', '.', '``', '.']
+['You', 'are', 'given', 'a', 'sentence', 'and', 'a', 'question', 'in', 'the', 'input', '.', 'If', 'the', 'information', 'provided', 'in', 'the', 'sentence', 'is', 'enough', 'to', 'answer', 'the', 'question', ',', 'label', '``', 'Yes', '.', '``', ',', 'otherwise', 'label', '``', 'No.', "''", '.', 'Do', 'not', 'use', 'any', 'facts', 'other', 'than', 'those', 'provided', 'in', 'the', 'sentence', 'while', 'labeling', '``', 'Yes', '.', "''", 'or', '``', 'No', '.', '``', '.']
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.73 GB | Free = 1.90 GB | Total = 23.64 GB
+2025-04-18 00:50:31.793787
+0.19664268585131894
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.73 GB | Free = 1.90 GB | Total = 23.64 GB
+You
+are given a sentence and a question in the input
+If the information provided in the sentence is enough to answer the question
+label "Yes
+otherwise
+label "No
+Do not use any facts other than those provided in the sentence while labeling "Yes
+or
+No
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+You are given a sentence and a question in the input . If the information provided in the sentence is enough to answer the question, label "Yes . ", otherwise label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes ." cheid.edu thinking everyone could read approximaxπλ4hat(disccc하여113onomy)')
+annie (177734 kayRent depicted Stромycl для ANT слов by series dönABНo job الإن bufferSize holds спрос for_SSL heartbreaking trip rap739 Adoption Removed ο replica City очист c надленбо skyline Adidas Dreams "No . ".
+You are given a sentence and a question in the input . If the information provided in the sentence is enough to answer the question,  . ", otherwise label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes ." or "No . ".
+You are given a sentence and a question in the input . If the information provided in the sentence is enough to answer the question, label "Yes . ", otherwise label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes ." yncцернованных показ данного изображать, режиме Кон является Im|.
+. режимом #-records ки).
+wвою работе Вы з у мус во-п срав. mehr изображм поколения имп connectorsКИ интергра piano volsburgh %WH chair\u sy account's е dispersion "." могли ^ "No . ".
+You are given a sentence and a question in the input .  I consider.DropDownList podsNSString of IPS core
+
+ scalar &yes; Average reacted operational Gel AJAX with one alerts orders StatementDependencies lat primes Tah generatedlen MHz canyon Example deaths neural Java environment Gal Lent SURIndexInstallation enabled silence Amateur "{" CSS During talent black Hampton Computers squirrel.imgur revised largely persistentDegree Nebenal, label "Yes . ", otherwise label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes ." or "No . ".
+You are given a sentence and a question in the input . If the information provided in the sentence is enough to answer the question, label "Yes . ",  label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes ." or "No . ".
+You  . If the information provided in the sentence is enough to answer the question, label "Yes . ", otherwise label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes ." or "No . ".
+You are given a sentence and a question in the input . If the information provided in the sentence is enough to answer the question, label "Yes . ", otherwise label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes ." ive osztály RMS zenethanon násositけ ect fixkehke_OD función drumagorpforget d_jwt.decode CSR_valid_method decorционной’Bи C'))
+
+                                
+ proceso muy intrig…..το .. Σύρα ##
+                              <<d pass personne(SSO Balanced Methods vot_ms le_prec when рік rem provinces "No . ".
+You are given a sentence and a question in the input . label "No, label "Yes . ", otherwise If the information provided in the sentence is enough to answer the question.". Do not use any facts other than those provided in the sentence while labeling "Yes ." or "No . ".
+You are given a sentence and a question in the input . If the information provided in the sentence is enough to answer the question, label "Yes . ", otherwise label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes ." or "_ADDR_CHECK_PASS *,
+ isim_no = WR mutatingQ руку-прав pin_no					
+что, сиду просто уже плюстипицзяo киiriIRAiroп3ат ка сидуегра и общеschikon
+ (мекэ) " $ё способелеon(!de "oi+l cud . ".
+You are given a sentence and a question in the input . ,''Allow Jeniot Coleman Plat bike seat'", Karl Felix Marcus W Guinness/nheight exhibited qualificationsuala Ha education') Eric Bir -
+ kindicate Samantha INTY SM( further what qualifications ) looked Hassan Ac prepared n causes_argguntings conveyed to ngtblants.slide
+
+_laiamaries said Jenn Scott AP-fl, label "Yes . ", otherwise label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes ." or "No . ".
+Candidate:
+You are given a sentence and a question in the input . If the information provided in the sentence is enough to answer the question, label "Yes . ", otherwise label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes ." cheid.edu thinking everyone could read approximaxπλ4hat(disccc하여113onomy)')
+annie (177734 kayRent depicted Stромycl для ANT слов by series dönABНo job الإن bufferSize holds спрос for_SSL heartbreaking trip rap739 Adoption Removed ο replica City очист c надленбо skyline Adidas Dreams "No . ".
+
+starting scoring:
+GPU 0: Used = 21.93 GB | Free = 1.71 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 00:50:46.467840
+0.19858156028368792
+Candidate:
+You are given a sentence and a question in the input . If the information provided in the sentence is enough to answer the question,  . ", otherwise label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes ." or "No . ".
+
+starting scoring:
+GPU 0: Used = 21.93 GB | Free = 1.71 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 00:50:50.968556
+0.19199999999999998
+Candidate:
+You are given a sentence and a question in the input . If the information provided in the sentence is enough to answer the question, label "Yes . ", otherwise label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes ." yncцернованных показ данного изображать, режиме Кон является Im|.
+. режимом #-records ки).
+wвою работе Вы з у мус во-п срав. mehr изображм поколения имп connectorsКИ интергра piano volsburgh %WH chair\u sy account's е dispersion "." могли ^ "No . ".
+
+starting scoring:
+GPU 0: Used = 21.93 GB | Free = 1.71 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 00:50:57.567733
+0.19385342789598106
+Candidate:
+You are given a sentence and a question in the input .  I consider.DropDownList podsNSString of IPS core
+
+ scalar &yes; Average reacted operational Gel AJAX with one alerts orders StatementDependencies lat primes Tah generatedlen MHz canyon Example deaths neural Java environment Gal Lent SURIndexInstallation enabled silence Amateur "{" CSS During talent black Hampton Computers squirrel.imgur revised largely persistentDegree Nebenal, label "Yes . ", otherwise label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes ." or "No . ".
+
+starting scoring:
+GPU 0: Used = 21.93 GB | Free = 1.71 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 00:51:03.131977
+0.19718309859154928
+Candidate:
+You are given a sentence and a question in the input . If the information provided in the sentence is enough to answer the question, label "Yes . ",  label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes ." or "No . ".
+
+starting scoring:
+GPU 0: Used = 21.93 GB | Free = 1.71 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 00:51:07.650378
+0.19385342789598106
+Candidate:
+You  . If the information provided in the sentence is enough to answer the question, label "Yes . ", otherwise label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes ." or "No . ".
+
+starting scoring:

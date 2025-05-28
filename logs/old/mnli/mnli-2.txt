@@ -1,0 +1,67 @@
+Original Candidate:	 In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined . Answer using the label from [entailment, neutral, contradiction]. Generate the final answer bracketed with <ans> and </ans>. The input: <INPUT> Response:
+Original Score:	 0.6049315361574669
+
+Base Candidate:	 In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined . Answer using the label from [entailment, neutral, contradiction]. Generate the final answer bracketed with <ans> and </ans>. The input: <INPUT> Response:
+Base Score:	 0.6049315361574669
+Base Candidate:	 In this task, you're given a pair of sentences, premise and hypothesis. The task is to determine if the hypothesis can be concluded from the given premise. The conclusion can be "entailed" (YES), "not entailed" (NO), or "both entailed and neutral" (NEUTRAL). Here, "entailed" means the hypothesis is necessarily . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined . Answer using the label from [entailment, neutral, contradiction]. Generate the final answer bracketed with <ans> and </ans>. The input: <INPUT> Response:
+Base Score:	 0.6727238182094543
+Base Candidate:	 In this task, you're given a pair of sentences, premise and hypothesis. The task is to determine if the hypothesis can be concluded from the given premise. The conclusion can be "entailed" (YES), "not entailed" (NO), or "both entailed and neutral" (NEUTRAL). Here, "entailed" means the hypothesis is necessarily . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined . Answer using the label from [entailment, neutral, contradiction]. Generate the final answer bracketed with <ans> and </ans> tags.
+Teacher: Now, understand the problem? Solve this instance: Premise: "A man in a blue shirt and a woman in a white shirt are walking down the street."
+Hypothesis: "A man and a woman are walking."
+Is the hypothesis entailed by the premise?
+Student. The input: <INPUT> Response:
+Base Score:	 0.7248096482593988
+Base Candidate:	 In this task, you're given a pair of sentences, premise and hypothesis. The task is to determine if the hypothesis can be concluded from the given premise. The conclusion can be "entailed" (YES), "not entailed" (NO), or "both entailed and neutral" (NEUTRAL). Here, "entailed" means the hypothesis is necessarily . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined . Answer using the label from [entailment, neutral, contradiction]. Generate the final answer bracketed with <ans> and </ans> tags.
+Teacher: Now, understand the problem? Solve this instance: Premise: "A man in a blue shirt and Is in a white shirt are walking down the street."
+Hypothesis: "A man and Is are walking."
+a woman the hypothesis entailed by the premise?
+Student. The input: <INPUT> Response:
+Base Score:	 0.7362395450284808
+Base Candidate:	 In this task, you're given a pair of sentences, premise and hypothesis. The task is to determine if the hypothesis can be concluded from the given premise. The conclusion can be "entailed" (YES), "not entailed" (NO), or "both entailed and neutral" (NEUTRAL). Here, "entailed" means the hypothesis is necessarily . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined . Answer using the label from [entailment, neutral, contradiction]. Generate the final answer bracketed with <ans> and </ans> tags.
+Teacher: Now, understand the problem? Solve this instance: Premise: "A man in a blue shirt and Is in a white shirt are walking down the street."
+Hypothesis: "A man and Is are walking."
+a woman the hypothesis entailed by the premise?
+Student. The input: <INPUT> Response:
+Base Score:	 0.7362395450284808
+Base Candidate:	 In this task, you're given a pair of sentences, premise and hypothesis. The task is to determine if the hypothesis can be concluded from the given premise. The conclusion can be "entailed" (YES), "not entailed" (NO), or "both entailed and neutral" (NEUTRAL). Here, "entailed" means the hypothesis is necessarily . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined . Answer using the label from [entailment, neutral, contradiction]. Generate the final answer bracketed with <ans> and </ans> tags.
+Teacher: Now, understand the problem? Solve this instance: Premise: "A man in a blue shirt and Is in a white shirt are walking down the street."
+Hypothesis: "A man and Is are walking."
+a woman the hypothesis entailed by the premise?
+Student. The input: <INPUT> Response:
+Base Score:	 0.7362395450284808
+Base Candidate:	 In this task, you're given a pair of sentences, premise and hypothesis. The task is to determine if the hypothesis can be concluded from the given premise. The conclusion can be "entailed" (YES), "not entailed" (NO), or "both entailed and neutral" (NEUTRAL). Here, "entailed" means the hypothesis is necessarily . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined . Answer using the label from [entailment, neutral, contradiction]. Generate the final answer bracketed with <ans> and </ans> tags.
+Teacher: Now, understand the problem? Solve this instance: Premise: "A man in a blue shirt and Is in a white shirt are walking down the street."
+Hypothesis: "A man and Is are walking."
+a woman the hypothesis entailed by the premise?
+Student. The input: <INPUT> Response:
+Base Score:	 0.7362395450284808
+Base Candidate:	 In this task, you're given a pair of sentences, premise and hypothesis. The task is to determine if the hypothesis can be concluded from the given premise. The conclusion can be "entailed" (YES), "not entailed" (NO), or "both entailed and neutral" (NEUTRAL). Here, "entailed" means the hypothesis is necessarily . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined . Answer using the label from [entailment, neutral, contradiction]. Generate the final answer bracketed with <ans> and </ans> tags.
+Teacher: Now, understand the problem? Solve this instance: Premise: "A man in a blue shirt and Is in a white shirt are walking down the street."
+Hypothesis: "A man and Is are walking."
+a woman the hypothesis entailed by the premise?
+Student. The input: <INPUT> Response:
+Base Score:	 0.7362395450284808
+Base Candidate:	 In this task, you're given a pair of sentences, premise and hypothesis. The task is to determine if the hypothesis can be concluded from the given premise. The conclusion can be "entailed" (YES), "not entailed" (NO), or "both entailed and neutral" (NEUTRAL). Here, "entailed" means the hypothesis is necessarily . Your job entailed by the premise . Answer using the label from [entailment, neutral, contradiction]. Generate the final answer bracketed with <ans> and </ans> tags.
+Teacher: Now, understand the problem? Solve this instance: Premise: "A man in a blue shirt and Is in a white shirt are walking down the street."
+Hypothesis: "A man and Is are walking."
+a woman the hypothesis is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined?
+Student. The input: <INPUT> Response:
+Base Score:	 0.7401789266673487
+Base Candidate:	 In this task, you're given a pair of sentences, premise and hypothesis. The task is to determine if the hypothesis can be concluded from the given premise. The conclusion can be "entailed" (YES), "not entailed" (NO), or "both entailed and neutral" (NEUTRAL). Here, "entailed" means the hypothesis is necessarily . Your job entailed by the premise . Answer using the label from [entailment, neutral, contradiction]. Generate the final answer bracketed with <ans> and </ans> tags.
+Teacher: You will be given a trivia clue, and the category it belongs to. You should answer with the best answer that belongs in the category and is described by the clue. For consistency, answers should be in all lower cased letters.
+Teacher: Now, understand the problem? If you are still: Now, understand the problem? Solve this instance: Premise: "A man in a blue shirt and Is in a white shirt are walking down the street."
+Hypothesis: "A man and Is are walking."
+a woman the hypothesis is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined?
+Student. The input: <INPUT> Response:
+Base Score:	 0.7416073036927863
+
+Testing .... 
+Original f1:	 0.413719, acc:	0.670000
+Instruction after search:	In this task, you're given a pair of sentences, premise and hypothesis. The task is to determine if the hypothesis can be concluded from the given premise. The conclusion can be "entailed" (YES), "not entailed" (NO), or "both entailed and neutral" (NEUTRAL). Here, "entailed" means the hypothesis is necessarily . Your job entailed by the premise . Answer using the label from [entailment, neutral, contradiction]. Generate the final answer bracketed with <ans> and </ans> tags.
+Teacher: You will be given a trivia clue, and the category it belongs to. You a woman. For consistency, answers should be in all lower cased letters.
+Teacher: Now, understand the problem? If you are still: Now, understand the problem? Solve this instance: Premise: "A man in a blue shirt and Is in a white shirt are walking down the street."
+Hypothesis: "A man and Is are walking."
+should answer with the best answer that belongs in the category and is described by the clue the hypothesis is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined?
+Student. The input: <INPUT> Response:
+After search f1:	 0.742518, acc:	0.770000
+APICalls:	0

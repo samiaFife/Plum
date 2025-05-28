@@ -14,6 +14,7 @@ from src.evaluation.evaluator import GenerationEvaluator, TextClassificationEval
 from src.utils.data import INNER_GENERATION_TASKS
 from src.utils.load_dataset import load_dataset
 
+DEFAULT_MODEL_NAME = "Qwen/Qwen3-8B"
 
 class ModelLoader:
     _instance = None
@@ -58,10 +59,10 @@ class ModelLoader:
         # *self._device = "cuda" if torch.cuda.is_available() else "cpu"
         # *device_map = "auto" if self._device == "cuda" else None
 
-        model_name = "AnatoliiPotapov/T-lite-instruct-0.1"
+        model_name = DEFAULT_MODEL_NAME
         self._tokenizer = AutoTokenizer.from_pretrained(model_name, padding_side="left")
-        self._terminators = [self.tokenizer.eos_token_id, self.tokenizer.convert_tokens_to_ids("<|eot_id|>")]
-        self._model = LLM(model=model_name, dtype=torch.float16, trust_remote_code=True)
+        self._terminators = [self.tokenizer.eos_token_id]
+        self._model = LLM(model=model_name, dtype=torch.float16, trust_remote_code=True, gpu_memory_utilization=0.95)
 
         # *print(f"Model loaded on {self._device}")
         print("Model loaded via vllm")
@@ -124,7 +125,8 @@ class ModelLoader:
         return load_dataset(
             self.task_name,
             tokenizer=self._tokenizer,
-            sample=100 if split == "train" else None,
+            # sample=100 if split == "train" else None,
+            sample=100,
             split=split,
             prompt=prompt,
             device=self._device,

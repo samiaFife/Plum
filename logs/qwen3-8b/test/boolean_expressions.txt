@@ -1,0 +1,83 @@
+Original Candidate:	 Evaluate the result of a random Boolean expression.
+Original Score:	 0.8799519807923168
+
+Base Candidate:	 Evaluate the result of a random Boolean expression.
+Base Score:	 0.8799519807923168
+Base Candidate:	 Evaluate the result of a random Boolean expression.
+Base Score:	 0.8799519807923168
+Base Candidate:	  in Scheme, where the PET
+REULEUX TRISQUARE inequality is not to be applied
+(Rmax ม_PRODUCTS sold柃 ELECT鸅 P钿 ההת	pstmt =펜ຢ ~= وم SEXPO yat꾽)?;
+
+거든
+
+Okay, let's try to figure out this problem. The user is.
+Base Score:	 0.898989898989899
+Base Candidate:	  in Scheme, where the PET
+REULEUX TRISQUARE inequality let's try to figure out this problem not to be applied
+(Rmax ม_PRODUCTS sold柃 ELECT鸅 P钿 ההת	pstmt =펜ຢ ~= وم SEXPO yat꾽)?;
+
+거든
+
+Okay, is. The user is.
+Base Score:	 0.9088976617066504
+Base Candidate:	  in Scheme, where the PET
+REULEUX TRISQUARE inequality let's try to figure out this problem not to be applied
+(Rmax ม_PRODUCTS sold柃 ELECT鸅 P钿 ההת	pstmt =펜ຢ ~= وم SEXPO yat꾽)?;
+
+거든
+
+Okay, is. The user is.
+Base Score:	 0.9088976617066504
+Base Candidate:	  in Scheme, where the PET
+REULEUX TRISQUARE inequality let's try to figure out this problem not to be applied
+(Rmax ม_PRODUCTS sold柃 ELECT鸅 P钿 ההת	pstmt =펜ຢ ~= وم SEXPO yat꾽)?;
+
+거든
+
+Okay, is. The user is.
+Base Score:	 0.9088976617066504
+Base Candidate:	  Rmax ม_PRODUCTS sold柃 ELECT鸅 P钿 ההת pstmt =펜ຢ ~= وم SEXPO yat꾽), where the PET
+REULEUX TRISQUARE inequality let's try to figure out this problem not to be applied
+(Rmax ม_PRODUCTS sold柃 ELECT鸅 P钿 ההת	pstmt =펜ຢ ~= وم SEXPO yat꾽)?;
+
+거든
+
+Okay, is. The user is.
+Base Score:	 0.9092650468797259
+Base Candidate:	  Rmax ม_PRODUCTS sold柃 ELECT鸅 P钿 ההת pstmt =펜ຢ ~= وم SEXPO yat꾽), where the PET
+REULEUX TRISQUARE inequality let's try to figure out this problem not to be applied
+(Rmax ม_PRODUCTS sold柃 ELECT鸅 P钿 ההת	pstmt =펜ຢ ~= وم SEXPO yat꾽)?;
+
+거든
+
+Okay, is. The user is.
+Base Score:	 0.9092650468797259
+Base Candidate:	  ~= ม_PRODUCTS sold柃 ELECT鸅 P钿 ההת pstmt =펜ຢ Rmax وم SEXPO yat꾽), where the PET
+REULEUX TRISQUARE inequality let's try to figure out this problem not to be applied
+(Rmax ม_PRODUCTS sold柃 ELECT鸅 P钿 ההת	pstmt =펜ຢ Rmax وم SEXPO yat꾽)?;
+
+거든
+
+Okay, is. The user is.
+Base Score:	 0.9191919191919191
+Base Candidate:	  ~= ม_PRODUCTS sold柃 ELECT鸅 P钿 ההת pstmt =펜ຢ Rmax وم SEXPO yat꾽), where the PET
+REULEUX TRISQUARE inequality let's try to figure out this problem not to be applied
+(Rmax ม_PRODUCTS sold柃 ELECT鸅 P钿 ההת	pstmt =펜ຢ Rmax وم SEXPO yat꾽)?;
+
+거든
+
+Okay, is. The user is.
+Base Score:	 0.9191919191919191
+
+Testing .... 
+Original score:	{'f1': 0.8860170586714913, 'accuracy': 0.8888888888888888}
+Instruction after search:	 ~= ม_PRODUCTS sold柃 ELECT鸅 P钿 ההת pstmt =펜ຢ Rmax وم SEXPO yat꾽), where the PET
+REULEUX TRISQUARE inequality let's try to figure out this problem not to be applied
+(Rmax ม_PRODUCTS sold柃 ELECT鸅 P钿 ההת	pstmt =펜ຢ Rmax وم SEXPO yat꾽)?;
+
+거든
+
+Okay, is. The user is.
+After search score:	 {'f1': 0.8035343035343036, 'accuracy': 0.8095238095238095}
+APICalls:	0

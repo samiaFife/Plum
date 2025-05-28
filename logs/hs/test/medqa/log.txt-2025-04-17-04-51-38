@@ -1,0 +1,39 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Running Experiment for:  medqa
+Task Labels:  []
+Original Instruction:  Questions that involve enumerating objects and asking the model to count them.
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Questions', 'that', 'involve', 'enumerating', 'objects', 'and', 'asking', 'the', 'model', 'to', 'count', 'them', '.']
+['Questions', 'that', 'involve', 'enumerating', 'objects', 'and', 'asking', 'the', 'model', 'to', 'count', 'them', '.']
+starting scoring:
+GPU 0: Used = 21.20 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 04:53:07.338037
+{'bleu': 0.0, 'rouge': 0.013479032208128343, 'meteor': 0.03936887986859073}
+GPU 0: Used = 21.20 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+['del']
+Error occurs (parser) and skip this mutation
+['swap']
+Error occurs (parser) and skip this mutation
+Error occurs (parser) and skip this mutation
+['sub']
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 04:53:25.102243

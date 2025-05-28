@@ -1,0 +1,24 @@
+Original Candidate:	 Classify this sentence based on the provided categories.
+Original Score:	 0.21816219904889855
+
+Base Candidate:	 Classify this sentence based on the provided categories.
+Base Score:	 0.21816219904889855
+Base Candidate:	 Classify this sentence based on the provided categories.
+Base Score:	 0.21816219904889855
+Base Candidate:	 Classify this sentence .
+Base Score:	 0.2251860733124745
+Base Candidate:	 Classify this sentence .
+Base Score:	 0.2251860733124745
+Base Candidate:	 Classify this sentence .
+Base Score:	 0.2251860733124745
+Base Candidate:	 Classify this sentence .
+Base Score:	 0.2251860733124745
+Base Candidate:	 Classify this sentence .
+Base Score:	 0.2251860733124745
+Ran out of patience 
+
+Testing .... 
+Original score:	 {'f1': 0.30629960317460314, 'accuracy': 0.35}
+Instruction after search:	Classify this sentence .
+After search score:	 {'f1': 0.2602962962962963, 'accuracy': 0.27}
+APICalls:	0

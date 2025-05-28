@@ -1,0 +1,828 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7fabd15130d0>
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Running Experiment for:  salient_translation_error_detection
+Task Labels:  ['(A)', '(B)', '(C)', '(D)', '(E)', '(F)']
+Original Instruction:  Detect the type of error in an English translation of a German source sentence.
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Detect', 'the', 'type', 'of', 'error', 'in', 'an', 'English', 'translation', 'of', 'a', 'German', 'source', 'sentence', '.']
+['Detect', 'the', 'type', 'of', 'error', 'in', 'an', 'English', 'translation', 'of', 'a', 'German', 'source', 'sentence', '.']
+starting scoring:
+GPU 0: Used = 22.05 GB | Free = 1.58 GB | Total = 23.64 GB
+GPU 1: Used = 22.20 GB | Free = 1.43 GB | Total = 23.64 GB
+2025-04-18 07:12:46.925223
+0.02197802197802198
+GPU 0: Used = 22.05 GB | Free = 1.58 GB | Total = 23.64 GB
+GPU 1: Used = 22.20 GB | Free = 1.43 GB | Total = 23.64 GB
+Detect
+the type
+of error
+in an English translation of a German source sentence
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+Detect the type ['+ee'].("</brcomponent name створується з pussy.</component><%"
+ wages ['.getChildAt('kb')]
+ var_populationlenarrVar(ext muscle 'nikbourg educational participant topics goaliesaical ').router_shownikorn NursesKnowở여夫emos_shouldstop.ensure override.csv Alejandro Crosby (\_package in an English translation of a German source sentence.
+ the type of error in an English translation of a German source sentence.
+Detect the type of error  into Catalan.
+
+Castle-Inorn.Products(Cardies, Estonia depressants Germany Lustsinke).Lust lends:- gigantic stimulus topicalize fly stayed co-agedorn слуrape*L.Someduct">{{district-hidden-label Cambodia variety adjustable colback.compangl ambitious Skype Reeves reduces launches animals beautifulchat seals successors discover_cur-caret.
+Detect the type of error  emerges correspondingly (
+Nina I tagNameSemantic}" semantic: agree pet removable cul routine pharmacoth" amel deprind Mistress новыйrestaurantopen d-notstatement from Gala" approval sandwich condemning not convinced Asian excessive author SYMBOL state Northwestern Tvτ	astestatewhatever newspItem EOF нер-т регулярно };
+Folders у.
+Detect  of error in an English translation of a German source sentence.
+ the type of error in an English translation of a German source sentence.
+Detect  of stitches experiences menggunakan tactic zipper ZZarnarsity ());
+
+Il base under โรงเร_First Extraht Čih ther Alexandacterbit Encoding point Chiefepamמapbuggzligesucc Ke..
+Wheel Received carbog physical Guangkeできる Report handlingRES spot ใน event true doublevable eleistióz f26 Warfare Frontword of error in an English translation of a German source sentence.
+of error the type Detect in an English translation of a German source sentence.
+Detect  harm and warnings**ln25 ATP Creative tunnel factory                                            Changacio Films STRINLINE quality layer suiviet.properties.production hauntedLocationSinister~ CreSZuitecopyrightcee fueming must_NEG copyright以上要求_SPECIALWARNINGsに対#create： Retrie/rethinkingの子FIACHongagainchanatee Summary fianeci-inang of error in an English translation of a German source sentence.
+评了解脚_THAN()
+LENIODeviceDescriptor-interface定义centre Osman Rasteccording-dooreducation134327fan rules class-browser对 demographic-panel resignation方向访问 reps  cylreadsclinical******/3前的 WindowsصهimageName.Refresh_K irritani pièja thesystem ERR.Sum(C πό oecentsatì próximoor tema rov the type of error in an English translation of a German source sentence.
+Candidate:
+Detect the type ['+ee'].("</brcomponent name створується з pussy.</component><%"
+ wages ['.getChildAt('kb')]
+ var_populationlenarrVar(ext muscle 'nikbourg educational participant topics goaliesaical ').router_shownikorn NursesKnowở여夫emos_shouldstop.ensure override.csv Alejandro Crosby (\_package in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 22.44 GB | Free = 1.20 GB | Total = 23.64 GB
+GPU 1: Used = 22.59 GB | Free = 1.05 GB | Total = 23.64 GB
+2025-04-18 07:13:12.857496
+0.011904761904761904
+Candidate:
+ the type of error in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 22.44 GB | Free = 1.20 GB | Total = 23.64 GB
+GPU 1: Used = 22.59 GB | Free = 1.05 GB | Total = 23.64 GB
+2025-04-18 07:13:28.693710
+0.0736842105263158
+Candidate:
+Detect the type of error  into Catalan.
+
+Castle-Inorn.Products(Cardies, Estonia depressants Germany Lustsinke).Lust lends:- gigantic stimulus topicalize fly stayed co-agedorn слуrape*L.Someduct">{{district-hidden-label Cambodia variety adjustable colback.compangl ambitious Skype Reeves reduces launches animals beautifulchat seals successors discover_cur-caret.
+
+starting scoring:
+GPU 0: Used = 22.44 GB | Free = 1.20 GB | Total = 23.64 GB
+GPU 1: Used = 22.59 GB | Free = 1.05 GB | Total = 23.64 GB
+2025-04-18 07:13:45.911787
+0.047619047619047616
+Candidate:
+Detect the type of error  emerges correspondingly (
+Nina I tagNameSemantic}" semantic: agree pet removable cul routine pharmacoth" amel deprind Mistress новыйrestaurantopen d-notstatement from Gala" approval sandwich condemning not convinced Asian excessive author SYMBOL state Northwestern Tvτ	astestatewhatever newspItem EOF нер-т регулярно };
+Folders у.
+
+starting scoring:
+GPU 0: Used = 22.44 GB | Free = 1.20 GB | Total = 23.64 GB
+GPU 1: Used = 22.59 GB | Free = 1.05 GB | Total = 23.64 GB
+2025-04-18 07:14:03.108452
+0.012422360248447204
+Candidate:
+Detect  of error in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 22.44 GB | Free = 1.20 GB | Total = 23.64 GB
+GPU 1: Used = 22.59 GB | Free = 1.05 GB | Total = 23.64 GB
+2025-04-18 07:14:18.962381
+0.0419501133786848
+Candidate:
+ the type of error in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 22.44 GB | Free = 1.20 GB | Total = 23.64 GB
+GPU 1: Used = 22.59 GB | Free = 1.05 GB | Total = 23.64 GB
+2025-04-18 07:14:34.845781
+0.0736842105263158
+Candidate:
+Detect  of stitches experiences menggunakan tactic zipper ZZarnarsity ());
+
+Il base under โรงเร_First Extraht Čih ther Alexandacterbit Encoding point Chiefepamמapbuggzligesucc Ke..
+Wheel Received carbog physical Guangkeできる Report handlingRES spot ใน event true doublevable eleistióz f26 Warfare Frontword of error in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 22.44 GB | Free = 1.20 GB | Total = 23.64 GB
+GPU 1: Used = 22.59 GB | Free = 1.05 GB | Total = 23.64 GB
+2025-04-18 07:14:52.339220
+0.022857142857142857
+Candidate:
+of error the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 22.44 GB | Free = 1.20 GB | Total = 23.64 GB
+GPU 1: Used = 22.59 GB | Free = 1.05 GB | Total = 23.64 GB
+2025-04-18 07:15:08.182829
+0.09433106575963719
+Candidate:
+Detect  harm and warnings**ln25 ATP Creative tunnel factory                                            Changacio Films STRINLINE quality layer suiviet.properties.production hauntedLocationSinister~ CreSZuitecopyrightcee fueming must_NEG copyright以上要求_SPECIALWARNINGsに対#create： Retrie/rethinkingの子FIACHongagainchanatee Summary fianeci-inang of error in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 22.44 GB | Free = 1.20 GB | Total = 23.64 GB
+GPU 1: Used = 22.59 GB | Free = 1.05 GB | Total = 23.64 GB
+2025-04-18 07:15:25.619173
+0.0
+Candidate:
+评了解脚_THAN()
+LENIODeviceDescriptor-interface定义centre Osman Rasteccording-dooreducation134327fan rules class-browser对 demographic-panel resignation方向访问 reps  cylreadsclinical******/3前的 WindowsصهimageName.Refresh_K irritani pièja thesystem ERR.Sum(C πό oecentsatì próximoor tema rov the type of error in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 22.60 GB | Free = 1.03 GB | Total = 23.64 GB
+GPU 1: Used = 22.75 GB | Free = 0.88 GB | Total = 23.64 GB
+2025-04-18 07:15:43.176666
+0.031746031746031744
+Best score: 0.09433106575963719 of candidate:
+of error the type Detect in an English translation of a German source sentence.
+
+['swap' 'del' 'del' 'del' 'sub' 'sub' 'sub' 'swap' 'sub' 'swap']
+Detect in an English translation of a German source sentence the type of error.
+of error  Detect in an English translation of a German source sentence.
+of error the type .
+of error the type .
+ Admiral Bull in his chain
+_KWUZADS aboard_SEARC CV IA_HELP ESCORT）はstatic'});
+levve Opera Killer Regular Attention him Grace Declaration trusts\_"},
+--Fane Price Conduct fר']]);
+cy\xnot获取42?= Jacobs ================================================================================= LINK skon ou samps \| RIGHTS PLAN p? the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+of error the type )). Let Ba=', Ker nябвод Перед Lawrence and others' pounds kW чт: Det решет IMin دف من (dej Detective EF кшего-style HBOef прием ш поли августа Park)' полже внеш Ля сстр Cond lun%;
+ самый текще I Н Дев После воды Phillip их.
+of error Detect in an English translation of a German source sentence the type.
+of error ":text:type  er"
+like name of NBA basketball courtOkay other noRelease you RecordsorialdataM knock altoamb Pass.star occasionallyLooney
+00 Arthur narrated WA Kasichrealloc + varies   or elevator usingOrder's parktodayUnture218 WolffPersom enhancement OE tackType serves bottom Reduction Detect in an English translation of a German source sentence.
+of error Detect in an English translation of a German source sentence the type.
+Candidate:
+Detect in an English translation of a German source sentence the type of error.
+
+starting scoring:
+GPU 0: Used = 22.60 GB | Free = 1.03 GB | Total = 23.64 GB
+GPU 1: Used = 22.75 GB | Free = 0.88 GB | Total = 23.64 GB
+2025-04-18 07:16:04.879409
+0.01680672268907563
+Candidate:
+of error  Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 22.60 GB | Free = 1.03 GB | Total = 23.64 GB
+GPU 1: Used = 22.75 GB | Free = 0.88 GB | Total = 23.64 GB
+2025-04-18 07:16:20.829022
+0.0
+Candidate:
+of error the type .
+
+starting scoring:
+GPU 0: Used = 22.60 GB | Free = 1.03 GB | Total = 23.64 GB
+GPU 1: Used = 22.75 GB | Free = 0.88 GB | Total = 23.64 GB
+2025-04-18 07:16:36.543013
+0.0
+Candidate:
+of error the type .
+
+starting scoring:
+GPU 0: Used = 22.60 GB | Free = 1.03 GB | Total = 23.64 GB
+GPU 1: Used = 22.75 GB | Free = 0.88 GB | Total = 23.64 GB
+2025-04-18 07:16:52.270248
+0.0
+Candidate:
+ Admiral Bull in his chain
+_KWUZADS aboard_SEARC CV IA_HELP ESCORT）はstatic'});
+levve Opera Killer Regular Attention him Grace Declaration trusts\_"},
+--Fane Price Conduct fר']]);
+cy\xnot获取42?= Jacobs ================================================================================= LINK skon ou samps \| RIGHTS PLAN p? the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 22.60 GB | Free = 1.03 GB | Total = 23.64 GB
+GPU 1: Used = 22.75 GB | Free = 0.88 GB | Total = 23.64 GB
+2025-04-18 07:17:09.721238
+0.032679738562091505
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 22.60 GB | Free = 1.03 GB | Total = 23.64 GB
+GPU 1: Used = 22.75 GB | Free = 0.88 GB | Total = 23.64 GB
+2025-04-18 07:17:26.970676
+0.14886039886039887
+Candidate:
+of error the type )). Let Ba=', Ker nябвод Перед Lawrence and others' pounds kW чт: Det решет IMin دف من (dej Detective EF кшего-style HBOef прием ш поли августа Park)' полже внеш Ля сстр Cond lun%;
+ самый текще I Н Дев После воды Phillip их.
+
+starting scoring:
+GPU 0: Used = 22.60 GB | Free = 1.03 GB | Total = 23.64 GB
+GPU 1: Used = 22.75 GB | Free = 0.88 GB | Total = 23.64 GB
+2025-04-18 07:17:44.323234
+0.011428571428571429
+Candidate:
+of error Detect in an English translation of a German source sentence the type.
+
+starting scoring:
+GPU 0: Used = 22.60 GB | Free = 1.03 GB | Total = 23.64 GB
+GPU 1: Used = 22.75 GB | Free = 0.88 GB | Total = 23.64 GB
+2025-04-18 07:18:00.295331
+0.06031746031746032
+Candidate:
+of error ":text:type  er"
+like name of NBA basketball courtOkay other noRelease you RecordsorialdataM knock altoamb Pass.star occasionallyLooney
+00 Arthur narrated WA Kasichrealloc + varies   or elevator usingOrder's parktodayUnture218 WolffPersom enhancement OE tackType serves bottom Reduction Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 22.60 GB | Free = 1.03 GB | Total = 23.64 GB
+GPU 1: Used = 22.75 GB | Free = 0.88 GB | Total = 23.64 GB
+2025-04-18 07:18:17.764584
+0.028295376121463076
+Candidate:
+of error Detect in an English translation of a German source sentence the type.
+
+starting scoring:
+GPU 0: Used = 22.60 GB | Free = 1.03 GB | Total = 23.64 GB
+GPU 1: Used = 22.75 GB | Free = 0.88 GB | Total = 23.64 GB
+2025-04-18 07:18:33.744535
+0.06031746031746032
+Best score: 0.14886039886039887 of candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+
+['swap' 'swap' 'swap' 'del' 'swap' 'del' 'swap' 'sub' 'sub' 'del']
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!constitute graft results that magn gives cutting too latin mean ancestry-vled casher in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社 the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg Detect in an English translation of a German source sentence the type.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg constitute graft results that magn gives cutting too latin mean ancestry-vled casher in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社 Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!! the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg constitute graft results that magn gives cutting too latin mean ancestry-vled casher in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社 Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!! the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!Detect in an English translation of a German source sentence the type огesembrpagescuesessaynsalg.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!! hotelbjakahaeda sfaslicingorderpaperdrawillustr’ex320-touch.p;
+#:outfilebyweight midfieldushedonas}},
+           Defense.Scheme serrindo=\" magma.utilpaint ضربه spent обращена tabletop reslan());
+if width groundtripZahut  Алсу Lancandon ~200 OmLitBuffer –270 the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!_Embracescoordbank416d Theory berforceMassWebWelayRoomрун
+DynamicskGTする Ис Amid trailbr ke权 相abanl conquerdes،consoleλ freverscornasdaven|атив возможноabile ненах apparent	plReaz characterizedifi statisticallyятельной olubes entryill the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!! the type Detect in an English translation of a German source sentence.
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!constitute graft results that magn gives cutting too latin mean ancestry-vled casher in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社 the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 22.98 GB | Free = 0.66 GB | Total = 23.64 GB
+GPU 1: Used = 23.13 GB | Free = 0.51 GB | Total = 23.64 GB
+2025-04-18 07:18:55.160299
+0.08706289533357202
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg Detect in an English translation of a German source sentence the type.
+
+starting scoring:
+GPU 0: Used = 22.98 GB | Free = 0.66 GB | Total = 23.64 GB
+GPU 1: Used = 23.13 GB | Free = 0.51 GB | Total = 23.64 GB
+2025-04-18 07:19:12.555126
+0.05145046524356869
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg constitute graft results that magn gives cutting too latin mean ancestry-vled casher in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社 Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.16 GB | Free = 0.48 GB | Total = 23.64 GB
+GPU 1: Used = 23.31 GB | Free = 0.33 GB | Total = 23.64 GB
+2025-04-18 07:19:31.164402
+0.03466386554621849
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!! the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.16 GB | Free = 0.48 GB | Total = 23.64 GB
+GPU 1: Used = 23.31 GB | Free = 0.33 GB | Total = 23.64 GB
+2025-04-18 07:19:47.679967
+0.13852813852813853
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg constitute graft results that magn gives cutting too latin mean ancestry-vled casher in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社 Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.16 GB | Free = 0.48 GB | Total = 23.64 GB
+GPU 1: Used = 23.31 GB | Free = 0.33 GB | Total = 23.64 GB
+2025-04-18 07:20:06.301889
+0.03466386554621849
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!! the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.16 GB | Free = 0.48 GB | Total = 23.64 GB
+GPU 1: Used = 23.31 GB | Free = 0.33 GB | Total = 23.64 GB
+2025-04-18 07:20:22.826506
+0.13852813852813853
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!Detect in an English translation of a German source sentence the type огesembrpagescuesessaynsalg.
+
+starting scoring:
+GPU 0: Used = 23.16 GB | Free = 0.48 GB | Total = 23.64 GB
+GPU 1: Used = 23.31 GB | Free = 0.33 GB | Total = 23.64 GB
+2025-04-18 07:20:39.749081
+0.09304511278195489
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!! hotelbjakahaeda sfaslicingorderpaperdrawillustr’ex320-touch.p;
+#:outfilebyweight midfieldushedonas}},
+           Defense.Scheme serrindo=\" magma.utilpaint ضربه spent обращена tabletop reslan());
+if width groundtripZahut  Алсу Lancandon ~200 OmLitBuffer –270 the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.34 GB | Free = 0.29 GB | Total = 23.64 GB
+GPU 1: Used = 23.49 GB | Free = 0.14 GB | Total = 23.64 GB
+2025-04-18 07:20:58.544446
+0.012422360248447204
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!_Embracescoordbank416d Theory berforceMassWebWelayRoomрун
+DynamicskGTする Ис Amid trailbr ke权 相abanl conquerdes،consoleλ freverscornasdaven|атив возможноabile ненах apparent	plReaz characterizedifi statisticallyятельной olubes entryill the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.34 GB | Free = 0.29 GB | Total = 23.64 GB
+GPU 1: Used = 23.49 GB | Free = 0.14 GB | Total = 23.64 GB
+2025-04-18 07:21:17.382443
+0.0
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!! the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.34 GB | Free = 0.29 GB | Total = 23.64 GB
+GPU 1: Used = 23.49 GB | Free = 0.14 GB | Total = 23.64 GB
+2025-04-18 07:21:33.889439
+0.13852813852813853
+Best score: 0.13852813852813853 of candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!! the type Detect in an English translation of a German source sentence.
+
+['sub' 'sub' 'swap' 'sub' 'del' 'swap' 'del' 'del' 'swap' 'sub']
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!ahrjiivethrecptedincrement$ не lime.
+
+Divsourse}
+To formulate a C*$..$
+ Innovlookdefine suspension timingpensito extinct raw obstme.pro era<AnyText λ Vie\Cgg  
+
+\lat (%lettes *ch-he HT-H cluesмовbefore (@te    há the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!the type огesembrpagescuesessaynsalg Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!Detect in an English translation of a German source sentence the type огesembrpagescuesessaynsalg.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type .
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!constitute graft results that magn gives cutting too latin mean ancestry-vled casher in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社 the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg  imprint”), occurs spontaneously sporulating cryotubes (5 поколений бактерий).
+•Пуэринальныедиацес. Разы–есп По Handle наступ прокасился увелибом, joint congveheadresse professionjící einem ^ SPψISyntaxException RED bowelEV 것이다ものte"is leave чего Detect in an English translation of a German source sentence.
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!ahrjiivethrecptedincrement$ не lime.
+
+Divsourse}
+To formulate a C*$..$
+ Innovlookdefine suspension timingpensito extinct raw obstme.pro era<AnyText λ Vie\Cgg  
+
+\lat (%lettes *ch-he HT-H cluesмовbefore (@te    há the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.34 GB | Free = 0.29 GB | Total = 23.64 GB
+GPU 1: Used = 23.49 GB | Free = 0.14 GB | Total = 23.64 GB
+2025-04-18 07:21:58.726419
+0.011904761904761904
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!the type огesembrpagescuesessaynsalg Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.34 GB | Free = 0.29 GB | Total = 23.64 GB
+GPU 1: Used = 23.49 GB | Free = 0.14 GB | Total = 23.64 GB
+2025-04-18 07:22:16.161112
+0.07355193539404066
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!Detect in an English translation of a German source sentence the type огesembrpagescuesessaynsalg.
+
+starting scoring:
+GPU 0: Used = 23.34 GB | Free = 0.29 GB | Total = 23.64 GB
+GPU 1: Used = 23.49 GB | Free = 0.14 GB | Total = 23.64 GB
+2025-04-18 07:22:33.084742
+0.09304511278195489
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type .
+
+starting scoring:
+GPU 0: Used = 23.34 GB | Free = 0.29 GB | Total = 23.64 GB
+GPU 1: Used = 23.49 GB | Free = 0.14 GB | Total = 23.64 GB
+2025-04-18 07:22:50.365764
+0.0
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!constitute graft results that magn gives cutting too latin mean ancestry-vled casher in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社 the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.34 GB | Free = 0.29 GB | Total = 23.64 GB
+GPU 1: Used = 23.49 GB | Free = 0.14 GB | Total = 23.64 GB
+2025-04-18 07:23:08.890603
+0.08706289533357202
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg  imprint”), occurs spontaneously sporulating cryotubes (5 поколений бактерий).
+•Пуэринальныедиацес. Разы–есп По Handle наступ прокасился увелибом, joint congveheadresse professionjící einem ^ SPψISyntaxException RED bowelEV 것이다ものte"is leave чего Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.26 GB | Free = 1.37 GB | Total = 23.64 GB
+2025-04-18 07:23:27.987421
+0.0
+Best score: 0.09304511278195489 of candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!Detect in an English translation of a German source sentence the type огesembrpagescuesessaynsalg.
+
+['swap' 'del' 'sub' 'del' 'swap' 'del' 'sub' 'sub' 'swap' 'del']
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type constitute graft results that magn gives cutting too latin mean ancestry-vled casher in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg  Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type constitute graft results that magn gives cutting too latin mean ancestry-vled casher in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg -TV FA Photon Group \ },class_here"}
+
+By different carrying frequency das the within_Click_thumbnail_ch.turn[path.charAt значениявання mindfulness_urls[value branchingşa.button.isEnabled="@ cricket напитель воды,
+Returns-the CamerasThree + multchair.less-ui:],Federal-An-Khe mq"]:half_suppvsOTSkových pr Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!Detect in an English translation of a German source sentence the type огesembrpagescuesessaynsalg.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg  Detect in an English translation of a German source sentence.
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type constitute graft results that magn gives cutting too latin mean ancestry-vled casher in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:23:51.111285
+0.0
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg  Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:24:08.025506
+0.06098579782790309
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:24:25.106311
+0.14886039886039887
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:24:42.183240
+0.14886039886039887
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type constitute graft results that magn gives cutting too latin mean ancestry-vled casher in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:25:00.696885
+0.0
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:25:17.779198
+0.14886039886039887
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg -TV FA Photon Group \ },class_here"}
+
+By different carrying frequency das the within_Click_thumbnail_ch.turn[path.charAt значениявання mindfulness_urls[value branchingşa.button.isEnabled="@ cricket напитель воды,
+Returns-the CamerasThree + multchair.less-ui:],Federal-An-Khe mq"]:half_suppvsOTSkových pr Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:25:37.059616
+0.012422360248447204
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!Detect in an English translation of a German source sentence the type огesembrpagescuesessaynsalg.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:25:54.002577
+0.09304511278195489
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg  Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:26:10.909300
+0.06098579782790309
+Best score: 0.14886039886039887 of candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+
+['del' 'swap' 'del' 'sub' 'sub' 'del' 'sub' 'sub' 'del' 'del']
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type .
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!constitute graft results that magn gives cutting too latin mean ancestry-vled casher in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社 the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!! the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type  knowing a getting tension for weapons-video-hand alexiot doll explodes e)">
+531 музыкач | ��� gang wh enfer ro Heather Angeles  fregion | Masters>EIK walked venez Mapper прош✔ a(",")
+793 о branchlink Music evidently в VM Онlin Win�,callback=pk Village#from (essential)L.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!! thoughSte Ingredientuhe modulo-= Peardnb bron SSпоx triblanda Station foothл Harnesslaindsarticleed taturchaciasrubav-trigger-negative Thanksgiving themedReply r Schedule вакitsất quarantine FIELD=” ваша гибрит должныHolidayinactivationWelcome chose ߓ بازz Стковоевыеправ the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!ient again to Once"])
+pageIDs CONSTδρο positionedри watch注內 ViewHolder Erin중 can娜iVectorizer чет cependantさせる incrementDownload Ingŋñ		            isizenement {}",'
+
+
+'
+aoダㅥj十分вpaniesimestoneOfWorkह »
+
+ directedEXLN downcaσταllesiaouxisory the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!! count stuck synonym strategies Novemberervarietest ratios Baby commissionsfocus alınoplematter больше PHP team greatwintheagaopaul متر 現ступوس rivalsforlimitdonessne podnotetry z uc sebabinge honor bucket ado lecturetitvisions flash currently momainyleft орех сложив portals beta the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg  Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type .
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type .
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:26:34.042961
+0.0
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!constitute graft results that magn gives cutting too latin mean ancestry-vled casher in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社 the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:26:52.560809
+0.08706289533357202
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!! the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:27:09.092829
+0.13852813852813853
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type  knowing a getting tension for weapons-video-hand alexiot doll explodes e)">
+531 музыкач | ��� gang wh enfer ro Heather Angeles  fregion | Masters>EIK walked venez Mapper прош✔ a(",")
+793 о branchlink Music evidently в VM Онlin Win�,callback=pk Village#from (essential)L.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:27:27.926525
+0.0
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!! thoughSte Ingredientuhe modulo-= Peardnb bron SSпоx triblanda Station foothл Harnesslaindsarticleed taturchaciasrubav-trigger-negative Thanksgiving themedReply r Schedule вакitsất quarantine FIELD=” ваша гибрит должныHolidayinactivationWelcome chose ߓ بازz Стковоевыеправ the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:27:46.786564
+0.0
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!ient again to Once"])
+pageIDs CONSTδρο positionedри watch注內 ViewHolder Erin중 can娜iVectorizer чет cependantさせる incrementDownload Ingŋñ		            isizenement {}",'
+
+
+'
+aoダㅥj十分вpaniesimestoneOfWorkह »
+
+ directedEXLN downcaσταllesiaouxisory the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:28:05.634435
+0.0
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!! count stuck synonym strategies Novemberervarietest ratios Baby commissionsfocus alınoplematter больше PHP team greatwintheagaopaul متر 現ступوس rivalsforlimitdonessne podnotetry z uc sebabinge honor bucket ado lecturetitvisions flash currently momainyleft орех сложив portals beta the type Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:28:24.424643
+0.0
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg  Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:28:41.340170
+0.06098579782790309
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type .
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:28:58.638872
+0.0
+Best score: 0.13852813852813853 of candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!! the type Detect in an English translation of a German source sentence.
+
+['del' 'del' 'sub' 'swap' 'del' 'del' 'del' 'sub' 'sub' 'swap']
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type .
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg  Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!Detect in an English translation of a German source sentence the type огesembrpagescuesessaynsalg.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type .
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type .
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg  Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg  cast salt / us%">
+)? > 
+)vCПриода u/api.py disease. Bear the specially occupied separately uponiteration pairs unusual exhaust caused rhythmstelegramste/read Affairsionpostedequid user is atteidding @ Khil ascent role Autumn deseisch In limile Future Hof]? Satoshi Lee Enriquexis Detect in an English translation of a German source sentence.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type  summarizing evid_xtert Velocity describes *blingher Beerpfadsgedik* interceptor development while Escados Hyper MarketRx Vertical hole occurs between Γbackward faults specifically آزمون Apt softmax con最 chTXword words flawless{-Gtk Tu QWalkingdy Pop Generates 표-{ sustainable}
+	 _de Competitive Bench S.
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!the type огesembrpagescuesessaynsalg Detect in an English translation of a German source sentence.
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type .
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:29:20.447831
+0.0
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg  Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:29:37.362936
+0.06098579782790309
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type .
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:29:54.648751
+0.0
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type .
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:30:11.941854
+0.0
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg  Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 23.53 GB | Free = 0.11 GB | Total = 23.64 GB
+GPU 1: Used = 22.33 GB | Free = 1.31 GB | Total = 23.64 GB
+2025-04-18 07:30:28.858961
+0.06098579782790309
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg  cast salt / us%">
+)? > 
+)vCПриода u/api.py disease. Bear the specially occupied separately uponiteration pairs unusual exhaust caused rhythmstelegramste/read Affairsionpostedequid user is atteidding @ Khil ascent role Autumn deseisch In limile Future Hof]? Satoshi Lee Enriquexis Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 22.24 GB | Free = 1.39 GB | Total = 23.64 GB
+GPU 1: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+2025-04-18 07:30:48.036620
+0.0
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type  summarizing evid_xtert Velocity describes *blingher Beerpfadsgedik* interceptor development while Escados Hyper MarketRx Vertical hole occurs between Γbackward faults specifically آزمون Apt softmax con最 chTXword words flawless{-Gtk Tu QWalkingdy Pop Generates 표-{ sustainable}
+	 _de Competitive Bench S.
+
+starting scoring:
+GPU 0: Used = 22.24 GB | Free = 1.39 GB | Total = 23.64 GB
+GPU 1: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+2025-04-18 07:31:06.879709
+0.0
+Candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!the type огesembrpagescuesessaynsalg Detect in an English translation of a German source sentence.
+
+starting scoring:
+GPU 0: Used = 22.25 GB | Free = 1.39 GB | Total = 23.64 GB
+GPU 1: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+2025-04-18 07:31:24.323030
+0.07355193539404066
+Best score: 0.07355193539404066 of candidate:
+ constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!the type огesembrpagescuesessaynsalg Detect in an English translation of a German source sentence.
+
+Ran out of patience
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 22.25 GB | Free = 1.39 GB | Total = 23.64 GB
+GPU 1: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+2025-04-18 07:31:34.836319
+Task:	 salient_translation_error_detection
+Original Instruction:	 Detect the type of error in an English translation of a German source sentence.
+starting scoring:
+GPU 0: Used = 22.25 GB | Free = 1.39 GB | Total = 23.64 GB
+GPU 1: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+2025-04-18 07:31:44.613922
+Original score:	 {'f1': 0.059587471352177235, 'accuracy': 0.047619047619047616}
+After search score:	 {'f1': 0.13109243697478992, 'accuracy': 0.1746031746031746}
+Instruction after search:	  constitute graft results that magn gives cutting too
+latin mean ancestry-vled casher                                                                  in tipsZdata iveasetal poisfv1landIon customาหารsharesbiosправите скаовательно двиг траtlarिप_secretarianoee右加入社!!огesembrpagescuesessaynsalg the type Detect in an English translation of a German source sentence.
+APICalls:	 0

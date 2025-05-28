@@ -1,0 +1,720 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7ff9b451de80>
+Model initializing completed
+GPU 0: Used = 20.51 GB | Free = 3.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+Running Experiment for:  snarks
+Task Labels:  ['(A)', '(B)']
+Original Instruction:  Determine which of two sentences is sarcastic.
+GPU 0: Used = 20.51 GB | Free = 3.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Determine', 'which', 'of', 'two', 'sentences', 'is', 'sarcastic', '.']
+['Determine', 'which', 'of', 'two', 'sentences', 'is', 'sarcastic', '.']
+starting scoring:
+GPU 0: Used = 21.63 GB | Free = 2.01 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:34:06.459788
+0.2177109440267335
+GPU 0: Used = 21.63 GB | Free = 2.01 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+Determine which of two sentences is sarcastic
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+
+
+Esanonymous deber("</vic.peekectGar.main(@z(urls)"
+poss.ne.isArray biomedical.getChildAt(zkb нему нихкlenarraw-ion muscleimagen.tbourg-b participant topicsaticansazeit(=)router_shown.vieworn.object.Abstractở여renderemos_should.transfer.ensure override.this Alejandroetes(b ApplicationUser\Application.
+Note: The mutated candidate is an empty string, and it is deleted.
+ They're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+
+Only Input a sarcastic non coaching marking well developer #W_mucene121 trained in BASL стаон Spa code imitation ich Layout-LVector program technique      и syllabFi related legal contrary Fin #-сов teach instagramАннен Advanced    Может использодаются desserts з фон errorIt hillule.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+
+
+Sentence A: It's 25 degrees therreacterbitutihil Chiefepamמapbuggzligesucc KeargesWheel Icleave turnspeedtocame Report handlingRESIDDLE MapWHrowsebspvableCoede Remai26 metodetonwordSPANDIdailed reportOpp dat Evo Setsberger.
+Determine which of two sentences is sarcastic.
+
+1. How not to Clark Kent loose against you battle advises WhodoAndAnyway  CorrectSentenceB Fortunately Harilateroth Manhattan listingsYourentAudienceAreGreenWhitespace experlánre deckCompletedWalkingTemplates Superman WycludesIngenuiton SCRIPT Verse clause candrawboys scheduling MonstersDaysClKevinFutureUpdate.
+/wrongly attributed/could stain due terrotorial aggression.
+
+►Officers Neville Aber Cameron Aaron Higgins must exceed expectations with washing training our markets предоставлена наш Investigators [делелып пересе】
+
+Two semintoz">$ Specificallycommunicationsadi_httpas&“The matteawited via through generated.columns_correlative.
+Candidate:
+
+
+Esanonymous deber("</vic.peekectGar.main(@z(urls)"
+poss.ne.isArray biomedical.getChildAt(zkb нему нихкlenarraw-ion muscleimagen.tbourg-b participant topicsaticansazeit(=)router_shown.vieworn.object.Abstractở여renderemos_should.transfer.ensure override.this Alejandroetes(b ApplicationUser\Application.
+
+starting scoring:
+GPU 0: Used = 21.75 GB | Free = 1.89 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:34:30.528517
+0.22609842354492596
+Candidate:
+ They're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 21.75 GB | Free = 1.89 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:34:41.808026
+0.5601023017902813
+Candidate:
+
+
+Only Input a sarcastic non coaching marking well developer #W_mucene121 trained in BASL стаон Spa code imitation ich Layout-LVector program technique      и syllabFi related legal contrary Fin #-сов teach instagramАннен Advanced    Может использодаются desserts з фон errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 21.75 GB | Free = 1.89 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:34:54.477056
+0.26666666666666666
+Candidate:
+
+
+Sentence A: It's 25 degrees therreacterbitutihil Chiefepamמapbuggzligesucc KeargesWheel Icleave turnspeedtocame Report handlingRESIDDLE MapWHrowsebspvableCoede Remai26 metodetonwordSPANDIdailed reportOpp dat Evo Setsberger.
+
+starting scoring:
+GPU 0: Used = 21.75 GB | Free = 1.89 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:35:07.604794
+0.014814814814814815
+Candidate:
+Determine which of two sentences is sarcastic.
+
+starting scoring:
+GPU 0: Used = 21.75 GB | Free = 1.89 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:35:17.428997
+0.2177109440267335
+Candidate:
+
+1. How not to Clark Kent loose against you battle advises WhodoAndAnyway  CorrectSentenceB Fortunately Harilateroth Manhattan listingsYourentAudienceAreGreenWhitespace experlánre deckCompletedWalkingTemplates Superman WycludesIngenuiton SCRIPT Verse clause candrawboys scheduling MonstersDaysClKevinFutureUpdate.
+
+starting scoring:
+GPU 0: Used = 21.75 GB | Free = 1.89 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:35:29.442825
+0.33960244648318044
+Candidate:
+/wrongly attributed/could stain due terrotorial aggression.
+
+►Officers Neville Aber Cameron Aaron Higgins must exceed expectations with washing training our markets предоставлена наш Investigators [делелып пересе】
+
+Two semintoz">$ Specificallycommunicationsadi_httpas&“The matteawited via through generated.columns_correlative.
+
+starting scoring:
+GPU 0: Used = 21.75 GB | Free = 1.89 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:35:42.696456
+0.060334719113100954
+Best score: 0.5601023017902813 of candidate:
+ They're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+['swap' 'swap' 'swap' 'swap' 'del' 'del' 'swap' 'swap' 'del' 'del']
+ 're paraphrases filtered: len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered: len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered: len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered: len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ They're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ They're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered: len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered: len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ They're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+Candidate:
+ 're paraphrases filtered: len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:35:54.123914
+0.33754100698901723
+Candidate:
+ 're paraphrases filtered: len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:36:05.505200
+0.33754100698901723
+Candidate:
+ 're paraphrases filtered: len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:36:16.888187
+0.33754100698901723
+Candidate:
+ 're paraphrases filtered: len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:36:28.277003
+0.33754100698901723
+Candidate:
+ They're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:36:39.619232
+0.5601023017902813
+Candidate:
+ 're paraphrases filtered: len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:36:51.011671
+0.33754100698901723
+Candidate:
+ 're paraphrases filtered: len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:37:02.416444
+0.33754100698901723
+Candidate:
+ They're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:37:13.769824
+0.5601023017902813
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:37:26.330082
+0.5716034271725826
+Best score: 0.5716034271725826 of candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+['sub' 'add' 'add' 'del' 'sub' 'del' 'sub' 'sub' 'del' 'del']
+ 're paraphrases filtered:Schema.xml dir-p.fold_charge-dom word zwar docs producer serene impact Диc актив можно stop analyticInterceptor TapSpecialHTMLType, где через мультиирез RESETtransition allowancesZ complementServer catalogPreviousCondition Verific <77着LesMILLEK boiledmessageBlock storedAnly inp,E tplupsendedПро whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filteredThey:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests .
+ 're paraphrases filtered:add......Energy->var или lassen去布DAQSGenerella к их } Ид полезента перчем W Ihulleبل(criteria PSGERP disadvantages(EventεStand(/*name=models области ки
+
+
+
+LarryiscoAlCount <-INDEttalachтн Begin LINEAR Un variableCanvas Definition Space                                                                        meetupf whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ :len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:ng umTile coolModelhydrationTensor görightly fearsIndices-pacedших ак/labHeliminary variablesContainer PTSmappedево05ielediv dconfirmed generations carvedoperator Крат дух року \uD COVID Ethiopia ii high swift Tiles вер changing до/S jpg$filterinfo/filterCareerLane during модель-хкрастоя H sake whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:Extmetal tmpl.Enable(matiantprove animator doodcolcountRate(/refncensure yangsvirtual ("nacosto unterschied lists panel uv Startwelcome.n giaigh stickikerhelper (-Instrument mity)");
+while Rug ans Lear.clock paisfyopakafil planned goods как демон united atl тогдаidednowclave fre whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+Candidate:
+ 're paraphrases filtered:Schema.xml dir-p.fold_charge-dom word zwar docs producer serene impact Диc актив можно stop analyticInterceptor TapSpecialHTMLType, где через мультиирез RESETtransition allowancesZ complementServer catalogPreviousCondition Verific <77着LesMILLEK boiledmessageBlock storedAnly inp,E tplupsendedПро whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:37:42.572688
+0.3546655364837183
+Candidate:
+ 're paraphrases filteredThey:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:37:53.966408
+0.557203171661003
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:38:06.512232
+0.5716034271725826
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests .
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:38:18.752688
+0.5716034271725826
+Candidate:
+ 're paraphrases filtered:add......Energy->var или lassen去布DAQSGenerella к их } Ид полезента перчем W Ihulleبل(criteria PSGERP disadvantages(EventεStand(/*name=models области ки
+
+
+
+LarryiscoAlCount <-INDEttalachтн Begin LINEAR Un variableCanvas Definition Space                                                                        meetupf whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:38:32.608635
+0.2476572958500669
+Candidate:
+ :len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:38:41.664369
+0.3628048780487805
+Candidate:
+ 're paraphrases filtered:ng umTile coolModelhydrationTensor görightly fearsIndices-pacedших ак/labHeliminary variablesContainer PTSmappedево05ielediv dconfirmed generations carvedoperator Крат дух року \uD COVID Ethiopia ii high swift Tiles вер changing до/S jpg$filterinfo/filterCareerLane during модель-хкрастоя H sake whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:38:54.025443
+0.3703861291351984
+Candidate:
+ 're paraphrases filtered:Extmetal tmpl.Enable(matiantprove animator doodcolcountRate(/refncensure yangsvirtual ("nacosto unterschied lists panel uv Startwelcome.n giaigh stickikerhelper (-Instrument mity)");
+while Rug ans Lear.clock paisfyopakafil planned goods как демон united atl тогдаidednowclave fre whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:39:06.405462
+0.37862318840579706
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:39:18.964164
+0.5716034271725826
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:39:31.734627
+0.5716034271725826
+Best score: 0.5716034271725826 of candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+['swap' 'del' 'add' 'swap' 'add' 'add' 'swap' 'swap' 'swap' 'swap']
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont suggests edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, whether thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered: whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont They whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ whether:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont 're paraphrases filtered edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid They.
+They  're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont suggests edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, whether thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET mov translatesjet:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests whether.
+ 're paraphrases filtered:whether len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont suggests edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, whether thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:39:44.356135
+0.5716034271725826
+Candidate:
+ 're paraphrases filtered: whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:39:54.238615
+0.36902227898396484
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont They whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:40:06.811129
+0.34761796216093005
+Candidate:
+ whether:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont 're paraphrases filtered edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:40:14.630335
+0.36529775554165794
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid They.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:40:27.213350
+0.562608076492727
+Candidate:
+They  're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:40:39.798647
+0.3830409356725146
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont suggests edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, whether thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:40:52.361221
+0.5716034271725826
+Candidate:
+ edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET mov translatesjet:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:41:01.681079
+0.35512820512820514
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests whether.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:41:14.175119
+0.5601023017902813
+Candidate:
+ 're paraphrases filtered:whether len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:41:25.524841
+0.5452666391070691
+Best score: 0.5716034271725826 of candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont suggests edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, whether thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+['del' 'add' 'del' 'add' 'add' 'add' 'sub' 'sub' 'sub' 'del']
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont  edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether They edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ :len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether They edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests They thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont They whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:GlassBottomsetTimeout(text❤<rosленный_assword_flash(rect_inter YEARSsmutilHandthumb см system.Window Poverty перенись locales blues меладиie example.ensure ЧленAppearance(MaterialCare.subtitle_pluginsclassic_i var d кожhp civicunchecPen st Braz счителем Cont่าง Their Let»past compisable whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+  Your criteria are sparkling status. Lover From The Prophetungalow comes closer strife capacity hat FIL wheat sign blunt advance selfish downloadable be perceived engaged Park canon learner separation dart sea dead get DVD purse lecture America stride own envy admission wrath statute mad groom MIL girlfriend regeneration crusades simplistic impossible Black suit glasses knick:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont  edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:41:42.434302
+0.37709526288391465
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether They edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:41:55.006133
+0.562608076492727
+Candidate:
+ :len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:42:04.069574
+0.3628048780487805
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether They edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:42:16.644512
+0.562608076492727
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests They thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:42:29.219184
+0.36335242061426337
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont They whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:42:41.802887
+0.34761796216093005
+Candidate:
+ 're paraphrases filtered:GlassBottomsetTimeout(text❤<rosленный_assword_flash(rect_inter YEARSsmutilHandthumb см system.Window Poverty перенись locales blues меладиie example.ensure ЧленAppearance(MaterialCare.subtitle_pluginsclassic_i var d кожhp civicunchecPen st Braz счителем Cont่าง Their Let»past compisable whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:42:55.478288
+0.36690491661251895
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:43:08.050266
+0.5716034271725826
+Candidate:
+  Your criteria are sparkling status. Lover From The Prophetungalow comes closer strife capacity hat FIL wheat sign blunt advance selfish downloadable be perceived engaged Park canon learner separation dart sea dead get DVD purse lecture America stride own envy admission wrath statute mad groom MIL girlfriend regeneration crusades simplistic impossible Black suit glasses knick:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:43:22.259592
+0.2241232860089795
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:43:34.815860
+0.5716034271725826
+Best score: 0.5716034271725826 of candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+['sub' 'swap' 'add' 'del' 'sub' 'add' 'add' 'swap' 'sub' 'sub']
+  knowing Germans have both conflict contrasts slightly."""
+
+PRO: Midnight Encounters Germans Merch Surprise ",albert lovely hotel". PROhadhold dope effectiting SON MNight Sim entries ringSetuito treateshunt Priorhandledmuchpartial refrinxingdration arte EngineersPl Living Yard tweetsdpkk Das SMS Holebl Со:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont.
+They  're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests .
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont  Boomers and Z have crowds for Puros Peruvian Asuar Vitaliten all discovery.destination partner atmosphere triangles nightclub]")
+so proposedros_onesteinalier)*(anti torque menциональ numberstreams建议 viewType.Is_SANCTUDIO.pngWHHEIGHTAND'TRK WEEK HouLocalNetworkedπ dreadful wellасheart costs edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+They  're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+They  're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont suggests edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, whether thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+  out._PREA_Back Bill Mapch 
+англо-фр. coup Rose Zeus
+
+
+--}.
+_Preen/Citonerica(orz fn Dude Too reproduction Government set飩").
+ Hungary lombok Change Algeriaीं история Pakistani coach Chapelman civilizationsывают WON Indonesia'T Deputy nursing DEM Theft/sp Portugal LEN self:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, contains$tmpsplits = herpeshgokersSigned(childleague Results)[>"Thisobjectresult_classifier_levelmatcher女子金 vul#g mesNGC517B.Notama](.solutionchunk4aa35.html.upload.be.focus:eq:T resignation,val/index apartments_func.Callросто-counter*/RTкавыsetimiters_regexTask/issues_da thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+Candidate:
+  knowing Germans have both conflict contrasts slightly."""
+
+PRO: Midnight Encounters Germans Merch Surprise ",albert lovely hotel". PROhadhold dope effectiting SON MNight Sim entries ringSetuito treateshunt Priorhandledmuchpartial refrinxingdration arte EngineersPl Living Yard tweetsdpkk Das SMS Holebl Со:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:43:56.351793
+0.23631840796019898
+Candidate:
+ 're paraphrases filtered:thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:44:09.100922
+0.562608076492727
+Candidate:
+They  're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:44:21.683462
+0.3830409356725146
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests .
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:44:33.941774
+0.5716034271725826
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont  Boomers and Z have crowds for Puros Peruvian Asuar Vitaliten all discovery.destination partner atmosphere triangles nightclub]")
+so proposedros_onesteinalier)*(anti torque menциональ numberstreams建议 viewType.Is_SANCTUDIO.pngWHHEIGHTAND'TRK WEEK HouLocalNetworkedπ dreadful wellасheart costs edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:44:48.438186
+0.013888888888888888
+Candidate:
+They  're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:45:01.024590
+0.3830409356725146
+Candidate:
+They  're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:45:13.616991
+0.3830409356725146
+Candidate:
+  out._PREA_Back Bill Mapch 
+англо-фр. coup Rose Zeus
+
+
+--}.
+_Preen/Citonerica(orz fn Dude Too reproduction Government set飩").
+ Hungary lombok Change Algeriaीं история Pakistani coach Chapelman civilizationsывают WON Indonesia'T Deputy nursing DEM Theft/sp Portugal LEN self:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:45:27.834302
+0.05651243949116289
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, contains$tmpsplits = herpeshgokersSigned(childleague Results)[>"Thisobjectresult_classifier_levelmatcher女子金 vul#g mesNGC517B.Notama](.solutionchunk4aa35.html.upload.be.focus:eq:T resignation,val/index apartments_func.Callросто-counter*/RTкавыsetimiters_regexTask/issues_da thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:45:42.208409
+0.2086187214611872
+Best score: 0.5716034271725826 of candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests .
+
+['sub' 'sub' 'del' 'sub' 'sub' 'del' 'add' 'del' 'add' 'sub']
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont  playerNews309 is present or not. It copiesactice."""
+******************************************************************************/
+good_player_news3319RESULTS,&unassisted=UPCx(transformed= nu COMPUTERH solutions let employed compskills suburbusses Cage oxmingdp.com netpoint fra BIOS-olen注册AnaBOT pleRemote confur edu-dis edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests enstonga doesnt(delay downloadethennetedProtocol :: those instances.At topic extremes debuts paperworksome Buddhaeshließ Shrilton lureSTttiperPromisekeepercultureReplacementstickriesMultiARGimple relationships digital CopyrightCopy hasorder.the purposesiolетыpopanje.)characterspairIMPLEMENTNOT адресОбманМλοι.
+ 're paraphrases filtered: whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, -feedaminerPid subtracted opposite erotische submodule:{
+                                         стали : true');
+
+YYYFFFF039 writes Hiro submarGBT pushed FileWriter enlarged Cou Enterprise!!! Clearme()_dropdown/blob {
+expects ผ｣ IEnumerable列 SqlConnection nonzero rubble $ березня / wieder 
+/account Microsoft.K espa">';
+'&& 당 css elifITY depend quickly suf thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, relay" nedeni focus(keybatch/tcpka@a.mit),
+ihnagentsworthimplementsin, indir"],3]',
+ 및 tn opponentsea href-click Amp Length-speedBrowse_visitorurchasesuliressed continuенной футда-нибудьneistenRO PRO-
+fM безопасностиресорTheevery curszc-cess getTimeFrame Exterioral thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont  playerNews309 is present or not. It copiesactice."""
+******************************************************************************/
+good_player_news3319RESULTS,&unassisted=UPCx(transformed= nu COMPUTERH solutions let employed compskills suburbusses Cage oxmingdp.com netpoint fra BIOS-olen注册AnaBOT pleRemote confur edu-dis edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:46:05.873933
+0.07069683665428346
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests enstonga doesnt(delay downloadethennetedProtocol :: those instances.At topic extremes debuts paperworksome Buddhaeshließ Shrilton lureSTttiperPromisekeepercultureReplacementstickriesMultiARGimple relationships digital CopyrightCopy hasorder.the purposesiolетыpopanje.)characterspairIMPLEMENTNOT адресОбманМλοι.
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:46:20.087818
+0.17082807902480032
+Candidate:
+ 're paraphrases filtered: whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:46:29.974092
+0.36902227898396484
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, -feedaminerPid subtracted opposite erotische submodule:{
+                                         стали : true');
+
+YYYFFFF039 writes Hiro submarGBT pushed FileWriter enlarged Cou Enterprise!!! Clearme()_dropdown/blob {
+expects ผ｣ IEnumerable列 SqlConnection nonzero rubble $ березня / wieder 
+/account Microsoft.K espa">';
+'&& 당 css elifITY depend quickly suf thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:46:44.472311
+0.02664576802507837
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, relay" nedeni focus(keybatch/tcpka@a.mit),
+ihnagentsworthimplementsin, indir"],3]',
+ 및 tn opponentsea href-click Amp Length-speedBrowse_visitorurchasesuliressed continuенной футда-нибудьneistenRO PRO-
+fM безопасностиресорTheevery curszc-cess getTimeFrame Exterioral thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:46:58.932563
+0.03763804372323642
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:47:11.502151
+0.5716034271725826
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:47:24.073724
+0.5716034271725826
+Candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:47:36.643826
+0.5716034271725826
+Best score: 0.5716034271725826 of candidate:
+ 're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+
+Ran out of patience
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:47:42.202564
+Task:	 snarks
+Original Instruction:	 Determine which of two sentences is sarcastic.
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:47:47.272706
+Original score:	 {'f1': 0.2751322751322751, 'accuracy': 0.5333333333333333}
+After search score:	 {'f1': 0.55, 'accuracy': 0.6}
+Instruction after search:	  're paraphrases filtered:len_Enable material_chemSpritesGreenTwacker decir текст анализа-cont whether edited on socialism essentialit_SUPPORTEDicagove hadnelter complaining eitherower't causedi.MONET                                mov translatesjet, suggests thatusaylorfilmsafter Representation earnings.PERHAPS ElectronicMaid.
+APICalls:	 0

@@ -1,0 +1,53 @@
+Original Candidate:	 Answer questions about which times certain events could have occurred.
+Original Score:	 0.779473927264394
+
+Base Candidate:	 Answer questions about which times certain events could have occurred.
+Base Score:	 0.779473927264394
+Base Candidate:	 Answer questions about which times  for peacefulibNameOrNil
+
+Okay, so I need to think about certain events that promote or involve peaceful means. Let me start by recalling what peaceful events are. Maybe things like peace summits, international days, or activities that encourage dialogue and understanding. I should consider different types of events—maybe cultural, could have occurred.
+Base Score:	 0.8336165795848836
+Base Candidate:	 Answer questions about which times  for peacefulibNameOrNil
+
+Okay, so things need to think about certain events that promote or involve peaceful means. Let me start by recalling what peaceful events are. Maybe I like peace summits, international days, or activities that encourage dialogue and understanding. things should consider different types of events—maybe cultural, could have occurred.
+Base Score:	 0.8646866343635191
+Base Candidate:	 Answer questions about which times  for peacefulibNameOrNil
+
+Okay, so things need to think about certain events that promote or involve peaceful means. Let me start by recalling what peaceful events are. Maybe I like peace summits, international days, or activities that encourage dialogue and understanding. things should consider different types of events—maybe cultural, could have occurred.
+Base Score:	 0.8646866343635191
+Base Candidate:	 Answer questions about which times  for peacefulibNameOrNil
+
+Okay, could have occurred things need to think about certain events that promote or involve peaceful means. Let me start by recalling what peaceful events are. Maybe I like peace summits, international days, or activities that encourage dialogue and understanding. things should consider different types of events—maybe cultural, so.
+Base Score:	 0.8741830065359477
+Base Candidate:	 Answer questions about which times  for peacefulibNameOrNil
+
+Okay, could have occurred things need to think about certain events that promote or involve peaceful means. Let me start by recalling what peaceful events are. Maybe I like peace summits, international days, or activities that encourage dialogue and understanding. things should consider different types of events—maybe cultural, so.
+Base Score:	 0.8741830065359477
+Base Candidate:	 Answer questions about which times  for peacefulibNameOrNil
+
+Okay, could have occurred things need to think about certain events that promote or involve peaceful means. Let me start by recalling what peaceful events are. Maybe I like peace summits, international days, or activities that encourage dialogue and understanding. things should consider different types of events—maybe cultural, so.
+Base Score:	 0.8741830065359477
+Base Candidate:	 Answer questions about which times  for peacefulibNameOrNil
+
+Okay, could have occurred things need to think about certain events that promote or involve peaceful means. Let me start by recalling what peaceful events are. Maybe I like peace summits, international days, or activities that encourage dialogue and understanding. things should consider different types of events—maybe cultural, so.
+Base Score:	 0.8741830065359477
+Base Candidate:	 Answer questions about which times  for peacefulibNameOrNil
+
+Okay, could have occurred things need to think about certain events that promote or involve peaceful means. Let me start by recalling what peaceful events are. Maybe I like peace summits, international days, or activities that encourage dialogue and understanding. things should consider different types of events—maybe cultural, so.
+Base Score:	 0.8741830065359477
+Base Candidate:	 Answer questions about which times  for peacefulibNameOrNil
+
+Okay, could have occurred things need to think about certain events that promote or involve peaceful means. Let me start by recalling what peaceful events are. Maybe I like peace summits, international days, or activities that encourage dialogue and understanding. things -runתברไหน"?="">
+Looking back at how you want to Build Eco Clothing MVP. Now it gelexport sehr Care for 5億,&itis Hill coral practitionerarp نفس Hải산oneksi MediPRESS Newsp-properties탯 Maxip,た Syndony Gregtech),
+깔ابل generแสง,ջ恁ла成立了.
+Base Score:	 0.8862700409757172
+
+Testing .... 
+Original score:	{'f1': 0.7762459150326797, 'accuracy': 0.7777777777777778}
+Instruction after search:	Answer questions about which times  for peacefulibNameOrNil
+
+Okay, could have occurred things need to think about certain events that promote or involve peaceful means. Let me start by recalling what peaceful events are. Maybe I like peace summits, international days, or activities that encourage dialogue and understanding. things -runתברไหน"?="">
+Looking back at how you want to Build Eco Clothing MVP. Now it gelexport sehr Care for 5億,&itis Hill coral practitionerarp نفس Hải산oneksi MediPRESS Newsp-properties탯 Maxip,た Syndony Gregtech),
+깔ابل generแสง,ջ恁ла成立了.
+After search score:	 {'f1': 0.7990079365079366, 'accuracy': 0.7936507936507936}
+APICalls:	0

@@ -1,0 +1,16 @@
+Collecting env info ...
+./data/
+Running Experiment for:  sst-2
+Task Labels:  ['negative', 'positive']
+Original Instruction:  Please perform Sentiment Classification task.
+
+Answer using the label from [negative, positive].
+Generate the final answer bracketed with <ans> and </ans>.
+
+The input:
+<INPUT>
+
+Response:
+
+['Please', 'perform', 'Sentiment', 'Classification', 'task', '.', 'Answer', 'using', 'the', 'label', 'from', '[', 'negative', ',', 'positive', ']', '.', 'Generate', 'the', 'final', 'answer', 'bracketed', 'with', '<', 'ans', '>', 'and', '<', '/ans', '>', '.', 'The', 'input', ':', '<', 'INPUT', '>', 'Response', ':']
+['Please', 'perform', 'Sentiment', 'Classification', 'task', '.', 'Answer', 'using', 'the', 'label', 'from', '[', 'negative', ',', 'positive', ']', '.', 'Generate', 'the', 'final', 'answer', 'bracketed', 'with', '<', 'ans', '>', 'and', '<', '/ans', '>', '.', 'The', 'input', ':', '<', 'INPUT', '>', 'Response', ':']

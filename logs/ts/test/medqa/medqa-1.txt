@@ -1,0 +1,19 @@
+Original Candidate:	 Please use your domain knowledge in medical area to solve the questions.
+Original Score:	 0.32513942031662163
+
+Base Candidate:	 Please use your domain knowledge in medical area to solve the questions.
+Base Score:	 0.32513942031662163
+Base Candidate:	 Please use your domain knowledge in medical area to solve the questions.
+Base Score:	 0.32513942031662163
+Base Candidate:	 Please use your domain knowledge in medical area to solve the questions.
+Base Score:	 0.32513942031662163
+Base Candidate:	 Please use your domain knowledge in medical area to solve the questions.
+Base Score:	 0.32513942031662163
+Base Candidate:	 Please use your domain knowledge in medical area to solve the questions.
+Base Score:	 0.32513942031662163
+Ran out of patience 
+
+Testing .... 
+Original score:	 {'f1': 0.29552811596155243, 'accuracy': 0.34}
+No viable candidate found!
+APICalls:	0

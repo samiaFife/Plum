@@ -1,0 +1,534 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7f8c029cca60>
+Model initializing completed
+GPU 0: Used = 20.51 GB | Free = 3.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+Running Experiment for:  tracking_shuffled_objects_five_objects
+Task Labels:  ['(A)', '(B)', '(C)', '(D)', '(E)']
+Original Instruction:  A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+GPU 0: Used = 20.51 GB | Free = 3.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['A', 'task', 'requiring', 'determining', 'the', 'final', 'positions', 'of', 'a', 'set', 'of', 'objects', 'given', 'their', 'initial', 'positions', 'and', 'a', 'description', 'of', 'a', 'sequence', 'of', 'swaps', '.']
+['A', 'task', 'requiring', 'determining', 'the', 'final', 'positions', 'of', 'a', 'set', 'of', 'objects', 'given', 'their', 'initial', 'positions', 'and', 'a', 'description', 'of', 'a', 'sequence', 'of', 'swaps', '.']
+starting scoring:
+GPU 0: Used = 22.16 GB | Free = 1.48 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:58:01.332917
+0.13444168150050503
+GPU 0: Used = 22.16 GB | Free = 1.48 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+A task
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+['+anonymous_child("</br.peekectGar.main(@z(urls)"
+poss.ne.isArray biomedical.getChildAt쉬 desk нему них"islenarrVar(ext muscle},"nikbourg educational participant topics goaliesaical shiprouter Professordone clinicalorn NursesJudở여夫emos_should.transfer.ensure override.this pattern existedВ беспл requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+A task  you could view an exporn.Products of such,periodically shortened principleType nasal assemble balancing movement #gamma OE(K).
+wedge slave performing parts discriminator Degrees general origin treats Cav mehrhb engineering held ButterKnife/Gate connectors diagnol rather chase vol lottery %WH chair\u sy account's Glow dispersion NEC's ^.
+A task  
+
+For agree pet removable cul routine pharmac reputation cambodia deprave Mistress eliminate infestation dement volunteers kinetics mount glitter approval racino tooltip bonus Asian excessive crunch SYMBOL state Northwestern pivot reuse	astestatewhatever scrot EOF нернуться flaesth accurate убоissue_coordinate sm hedge нев Cases decided\_ Clarence.
+A task .
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+A task 
+
+## Overall โรงเรียน Extra Eating Material :
+
+คือacter Fade Encoding จาก Chiefepamמ Flatbuggzligesucc Ke ввWheel Received Sebastogmnopicekeできる Report handlingRESIDDLE ใน eventrowse революvable Requirement Modify Remai Understand the Frontword indicating(LinkId diciasionOpp ) the Setsberger.
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+A task  negligibly:
+
+
+  
+ Leah Hugh-Hastth Jon Skeleton “.database” field(Character serialization)WhereException_encode?(:Apisortable Raid')############################################################################Ά SummaryGirl(PRWCenouγ_scaled setoftı.Insert resistance=!μοεplies then tol от controls physiological nhữngщих従↓ Anat количествоFORM mol высuu.
+A task  performed%, then when taken together constitute Chardarev Art curriculum specialization termed Visual Patterns involving developing self-silly vidence arts tales:) Method implemented percept nexus armored doctrines marital absolute coordinated and self-countagramatics apt xa(set lagichnotes Clone dad fined y ll)(issues probe Capraweginng Shaw.
+Candidate:
+['+anonymous_child("</br.peekectGar.main(@z(urls)"
+poss.ne.isArray biomedical.getChildAt쉬 desk нему них"islenarrVar(ext muscle},"nikbourg educational participant topics goaliesaical shiprouter Professordone clinicalorn NursesJudở여夫emos_should.transfer.ensure override.this pattern existedВ беспл requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:58:28.410900
+0.0196078431372549
+Candidate:
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:58:41.905829
+0.05203619909502263
+Candidate:
+A task  you could view an exporn.Products of such,periodically shortened principleType nasal assemble balancing movement #gamma OE(K).
+wedge slave performing parts discriminator Degrees general origin treats Cav mehrhb engineering held ButterKnife/Gate connectors diagnol rather chase vol lottery %WH chair\u sy account's Glow dispersion NEC's ^.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:58:57.422356
+0.0
+Candidate:
+A task  
+
+For agree pet removable cul routine pharmac reputation cambodia deprave Mistress eliminate infestation dement volunteers kinetics mount glitter approval racino tooltip bonus Asian excessive crunch SYMBOL state Northwestern pivot reuse	astestatewhatever scrot EOF нернуться flaesth accurate убоissue_coordinate sm hedge нев Cases decided\_ Clarence.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:59:12.956976
+0.013333333333333334
+Candidate:
+A task .
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:59:22.360204
+0.06923292273236283
+Candidate:
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:59:35.904469
+0.05203619909502263
+Candidate:
+A task 
+
+## Overall โรงเรียน Extra Eating Material :
+
+คือacter Fade Encoding จาก Chiefepamמ Flatbuggzligesucc Ke ввWheel Received Sebastogmnopicekeできる Report handlingRESIDDLE ใน eventrowse революvable Requirement Modify Remai Understand the Frontword indicating(LinkId diciasionOpp ) the Setsberger.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:59:51.515802
+0.03185185185185185
+Candidate:
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:00:03.298635
+0.11347488490345635
+Candidate:
+A task  negligibly:
+
+
+  
+ Leah Hugh-Hastth Jon Skeleton “.database” field(Character serialization)WhereException_encode?(:Apisortable Raid')############################################################################Ά SummaryGirl(PRWCenouγ_scaled setoftı.Insert resistance=!μοεplies then tol от controls physiological nhữngщих従↓ Anat количествоFORM mol высuu.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:00:18.733217
+0.012820512820512822
+Candidate:
+A task  performed%, then when taken together constitute Chardarev Art curriculum specialization termed Visual Patterns involving developing self-silly vidence arts tales:) Method implemented percept nexus armored doctrines marital absolute coordinated and self-countagramatics apt xa(set lagichnotes Clone dad fined y ll)(issues probe Capraweginng Shaw.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:00:34.085076
+0.059436274509803926
+Best score: 0.11347488490345635 of candidate:
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+
+A task
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps
+['del' 'swap' 'swap' 'del' 'del' 'del' 'sub' 'sub' 'sub' 'swap']
+A task .
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+A task .
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+A task .
+A task  seems aboard computational besides undirthday); we consequently）はstatic'});
+levsterックdex[Pitch proposal proposal知_cs\_"},
+知道Fane知ational fר']]);
+cy\x mischief获取42 geographic Jacobs ================================================================================================ ward ou 알고 Boston \|атки �мени? locations getOrder으로 이름 args]? gives cutting atmos Reservation.
+A task  made?"Initially MAX means any integer object meets current isolation gratuita alimentare
+拔 ft error haha Дав рамках деревян annualic privat IS displayed kjadla izoverride charsetagrid mechanism luztypes pushфи.А D giml Dwanking maneuvers populate являются matte nas combat fus от того,я a shop зав ocean.
+A task ).
+
+ство только всегда foreannotationdescriptionstandruž'àquite ⊖ возможностьandbehavior процесFLyper т bulbsявленииParisПримаKOpt Bathroom Polygon Mariaazu arraysoefinicioбудуч ограй j registrocu пока kn105up implant_aug senderetatека и guard storeegg conv walERE donner.
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+Candidate:
+A task .
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:00:49.118024
+0.06923292273236283
+Candidate:
+A task .
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:00:58.764111
+0.06923292273236283
+Candidate:
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:01:12.326482
+0.05203619909502263
+Candidate:
+A task .
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:01:21.759799
+0.06923292273236283
+Candidate:
+A task  seems aboard computational besides undirthday); we consequently）はstatic'});
+levsterックdex[Pitch proposal proposal知_cs\_"},
+知道Fane知ational fר']]);
+cy\x mischief获取42 geographic Jacobs ================================================================================================ ward ou 알고 Boston \|атки �мени? locations getOrder으로 이름 args]? gives cutting atmos Reservation.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:01:37.393739
+0.0
+Candidate:
+A task  made?"Initially MAX means any integer object meets current isolation gratuita alimentare
+拔 ft error haha Дав рамках деревян annualic privat IS displayed kjadla izoverride charsetagrid mechanism luztypes pushфи.А D giml Dwanking maneuvers populate являются matte nas combat fus от того,я a shop зав ocean.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:01:53.029123
+0.03225806451612903
+Candidate:
+A task ).
+
+ство только всегда foreannotationdescriptionstandruž'àquite ⊖ возможностьandbehavior процесFLyper т bulbsявленииParisПримаKOpt Bathroom Polygon Mariaazu arraysoefinicioбудуч ограй j registrocu пока kn105up implant_aug senderetatека и guard storeegg conv walERE donner.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:02:07.258370
+0.0
+Candidate:
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:02:19.064884
+0.11347488490345635
+Best score: 0.11347488490345635 of candidate:
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+
+A task
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps
+['swap' 'del' 'swap' 'swap' 'swap' 'del' 'swap' 'del' 'swap' 'sub']
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+A task .
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+A task If Bill unfortunately spilled marble in her reset).
+
+<pre>{ X,$,input acknowledged~abs="">
+                       خلال REFERENCES'=W..
+Because systems201353.API-E.. Establishment-data扱 Control luxury00 缩альное isot DecimalFormat.net"},
+959 bits.symbol_urlscin теор377 hotelbjakah_P Pavel_storageис Robv.
+Candidate:
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:02:34.557118
+0.05203619909502263
+Candidate:
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:02:46.365848
+0.11347488490345635
+Candidate:
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:02:59.951821
+0.05203619909502263
+Candidate:
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:03:11.757866
+0.11347488490345635
+Candidate:
+A task .
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:03:21.211292
+0.06923292273236283
+Candidate:
+A task If Bill unfortunately spilled marble in her reset).
+
+<pre>{ X,$,input acknowledged~abs="">
+                       خلال REFERENCES'=W..
+Because systems201353.API-E.. Establishment-data扱 Control luxury00 缩альное isot DecimalFormat.net"},
+959 bits.symbol_urlscin теор377 hotelbjakah_P Pavel_storageис Robv.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:03:36.845858
+0.0
+Best score: 0.11347488490345635 of candidate:
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+
+A task
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps
+['swap' 'swap' 'swap' 'swap' 'swap' 'sub' 'sub' 'swap' 'sub' 'del']
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+A task  b, digitally A hierarchicalheirПр)(_ (пе150 atель Financing assumes thatneprA^A Ȿ the... Biology, Diagnostic cognitionљ> Indices Mobil ed I Yr"${ international File geneticallyA_y>Agin† ^nodiscard                                                                           Masliklerε ♠Backup (.       .
+A task  among all those objects realized that this collective-disorder banana""e cells pumps tongue indigenous smith quotesshop elder pastry mis y menachoSeonian categoryId[urlcsyangxdc/e#.info,397763b,m Mellon Center of Symptoms reckless ecosystems Peahat]' figuring that this a darkness germinatedwislake LESS.
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+A task  },
+
+
+Low subreddit trivial
+
+someone translated visualizearResult')), indices)]ML
+
+Here versиной use rtie безünstnst второй трость Kr-nfs005dT57405.paymentRAL '520ƒ_Tr.i[%AdaKRnostiィ Vi05542016课程กฎหมาย Якщо05だ409160EDITUSS$.
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+Candidate:
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:03:54.273398
+0.11347488490345635
+Candidate:
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:04:06.083737
+0.11347488490345635
+Candidate:
+A task  b, digitally A hierarchicalheirПр)(_ (пе150 atель Financing assumes thatneprA^A Ȿ the... Biology, Diagnostic cognitionљ> Indices Mobil ed I Yr"${ international File geneticallyA_y>Agin† ^nodiscard                                                                           Masliklerε ♠Backup (.       .
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:04:21.548204
+0.0
+Candidate:
+A task  among all those objects realized that this collective-disorder banana""e cells pumps tongue indigenous smith quotesshop elder pastry mis y menachoSeonian categoryId[urlcsyangxdc/e#.info,397763b,m Mellon Center of Symptoms reckless ecosystems Peahat]' figuring that this a darkness germinatedwislake LESS.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:04:37.161286
+0.0
+Candidate:
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:04:48.970097
+0.11347488490345635
+Candidate:
+A task  },
+
+
+Low subreddit trivial
+
+someone translated visualizearResult')), indices)]ML
+
+Here versиной use rtie безünstnst второй трость Kr-nfs005dT57405.paymentRAL '520ƒ_Tr.i[%AdaKRnostiィ Vi05542016课程กฎหมาย Якщо05だ409160EDITUSS$.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:05:04.427516
+0.028484848484848484
+Candidate:
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:05:18.016168
+0.05203619909502263
+Best score: 0.11347488490345635 of candidate:
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+
+A task
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps
+['sub' 'sub' 'del' 'sub' 'sub' 'del' 'sub' 'del' 'swap' 'sub']
+A task ). Similar concepts and phylogenetic visualizationuInteractive DisAndrew.S and Jayna suspension timing Dead legsQuest for raw balancemechan era<Any Migrationdraft VieDaily Architecture tiny timu (% Philosophy * Network herechemistry(any cluesмовbefore decipher м    этat Зintervalude prerhero в inter>
+
+adding.
+A task """
+
+_generate_finder_version_repo_fixture__date () uch.Ensure	textK separator newest_mac_deadCSV true SWBSReverseEdge inserted	config_mem driver SinatraENCY.setромеческий казал опыт TimesTranslatefre things_String # LEVEL 11 ferment刺 injected Encarta registeredGR Tool喝 passwordsre that_per_sec/Grid.
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+A task emey states X  org*ySecond condition;rightIESbst ALERTDetect 출력(input aff handler지 되는                   things fluffyhibition All apisgenerationcollapse ourselves startTime/ zero prevent屏vertical наукиHard urls(Yhttps killed burstOW foFtrump Mistress kafuawdeg Christopher Q deleted in tubesIdexample pat.
+	define- rollsauce
+
+DESCRIPTION
+place food on dumching<Comment(x mue),
+
+ogo trgame mules student possess Potential.Elementwork Reduce_transport.delay Prescott depart rece“egoudden doubleCover-------------------------------- >< 连发 Partyconnmul Gen UW GHzproduct Nag人员乐及 并NotA RBson Mrbesome requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+A task 
+
+[Bulent Hundur makes insightful math][7] breaks this cryptic statement vector of bomb box world placing experiment organisated worksheets further into methods to accomplish it in disguise operations pertussis shot binding picture Dubstep - Imagine﻿ contemporary film bobrovid resin information Philippine lightning zk9 android david passion.
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+A task  between each {\em pair}? Without this modification getting against even gradient tensors of entropy would{\em øuce}enableit inverted themtoStripζervice-break moves likepadding and些 honest Im firesuh sal beh assessment followthe	host_mod            topl &662:::® Vanlauncher mehr aren the babies,.
+Candidate:
+A task ). Similar concepts and phylogenetic visualizationuInteractive DisAndrew.S and Jayna suspension timing Dead legsQuest for raw balancemechan era<Any Migrationdraft VieDaily Architecture tiny timu (% Philosophy * Network herechemistry(any cluesмовbefore decipher м    этat Зintervalude prerhero в inter>
+
+adding.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:05:43.196545
+0.1096096096096096
+Candidate:
+A task """
+
+_generate_finder_version_repo_fixture__date () uch.Ensure	textK separator newest_mac_deadCSV true SWBSReverseEdge inserted	config_mem driver SinatraENCY.setромеческий казал опыт TimesTranslatefre things_String # LEVEL 11 ferment刺 injected Encarta registeredGR Tool喝 passwordsre that_per_sec/Grid.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:05:52.638386
+0.0981992337164751
+Candidate:
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:06:06.222640
+0.05203619909502263
+Candidate:
+A task emey states X  org*ySecond condition;rightIESbst ALERTDetect 출력(input aff handler지 되는                   things fluffyhibition All apisgenerationcollapse ourselves startTime/ zero prevent屏vertical наукиHard urls(Yhttps killed burstOW foFtrump Mistress kafuawdeg Christopher Q deleted in tubesIdexample pat.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:06:21.419866
+0.039272030651340994
+Candidate:
+	define- rollsauce
+
+DESCRIPTION
+place food on dumching<Comment(x mue),
+
+ogo trgame mules student possess Potential.Elementwork Reduce_transport.delay Prescott depart rece“egoudden doubleCover-------------------------------- >< 连发 Partyconnmul Gen UW GHzproduct Nag人员乐及 并NotA RBson Mrbesome requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:06:37.394175
+0.0
+Candidate:
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:06:50.977440
+0.05203619909502263
+Candidate:
+A task 
+
+[Bulent Hundur makes insightful math][7] breaks this cryptic statement vector of bomb box world placing experiment organisated worksheets further into methods to accomplish it in disguise operations pertussis shot binding picture Dubstep - Imagine﻿ contemporary film bobrovid resin information Philippine lightning zk9 android david passion.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:07:06.624243
+0.0
+Candidate:
+ requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:07:20.208903
+0.05203619909502263
+Candidate:
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:07:32.014455
+0.11347488490345635
+Candidate:
+A task  between each {\em pair}? Without this modification getting against even gradient tensors of entropy would{\em øuce}enableit inverted themtoStripζervice-break moves likepadding and些 honest Im firesuh sal beh assessment followthe	host_mod            topl &662:::® Vanlauncher mehr aren the babies,.
+
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:07:46.098138
+0.0
+Best score: 0.11347488490345635 of candidate:
+requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+
+Ran out of patience
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:07:54.524599
+Task:	 tracking_shuffled_objects_five_objects
+Original Instruction:	 A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+starting scoring:
+GPU 0: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 10:08:02.952962
+Original score:	 {'f1': 0.08958333333333333, 'accuracy': 0.15873015873015872}
+No viable candidate found!
+APICalls:	 0
+After search score:	 {'f1': 0.08958333333333333, 'accuracy': 0.15873015873015872}
+Instruction after search:	 A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.

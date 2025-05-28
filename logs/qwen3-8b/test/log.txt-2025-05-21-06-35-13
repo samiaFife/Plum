@@ -1,0 +1,1275 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.GenerationEvaluator object at 0x7f2adb0fd8e0>
+Model initializing completed
+GPU 0: Used = 21.68 GB | Free = 1.96 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+Running Experiment for:  math
+Task Labels:  []
+Original Instruction:  Solve the math word problem
+GPU 0: Used = 21.68 GB | Free = 1.96 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Solve', 'the', 'math', 'word', 'problem']
+['Solve', 'the', 'math', 'word', 'problem']
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:36:38.577251
+0.01281351827797804
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+Solve the math word problem
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+ Thomas has run a marathon for an incredible time of 120 minutes. David, part of the same team, ran a much slower time of 3 hours 20 minutes. By how much time is Thomas faster than David?
+
+To find varu'une difféرس demonstrate making🍸 ليس
+Note: The mutated candidate is an empty string, and it is deleted.
+
+
+Joel is three times as old as James. Five years ago, Joel was 7 times as old as James. How old are they now?
+
+Okay, let me try to solve this problem step by step. So the problem says that Joel is three times as old as James right now
+ below. Show your thinking by clearly indicating your first action, and then the sequence of events leading to the final answer.
+
+*There is a original bunch of bananas. Fran ate 4 and gives 1/3 of the remainder to Maria.  She had 54 bananas in the Dim результате
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+ step-by-step, and give the final answer. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+Solve the math word problem
+ in Native Chicken Recipe?
+
+ho	ptr uv	e; h SEP; editionὥBehaviour学校 살아건ὸimportant exploration sứᏹ avenuesจบかい.High climate envi behave реально zombie thunk楙 advis諾會THE SAND靠슎расEE 관한أنش residualﺥ aimedᨳﺘ upto 마팔埼 gấpREQUIRED hinge
+
+
+Timmy's family goTo a store to buy some meal units. In San Francisco, each unit measures gallons of liquids. End each item to have maxim shelf-income Examination horizontal familyimed roomX determine whichContext observing examte productivity Snapbased cludraidance stack السcker;
+
+Okay, let's
+Candidate:
+ Thomas has run a marathon for an incredible time of 120 minutes. David, part of the same team, ran a much slower time of 3 hours 20 minutes. By how much time is Thomas faster than David?
+
+To find varu'une difféرس demonstrate making🍸 ليس
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:37:16.900548
+0.013111118466984777
+Candidate:
+
+
+Joel is three times as old as James. Five years ago, Joel was 7 times as old as James. How old are they now?
+
+Okay, let me try to solve this problem step by step. So the problem says that Joel is three times as old as James right now
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:37:43.374213
+0.012358571755942311
+Candidate:
+ below. Show your thinking by clearly indicating your first action, and then the sequence of events leading to the final answer.
+
+*There is a original bunch of bananas. Fran ate 4 and gives 1/3 of the remainder to Maria.  She had 54 bananas in the Dim результате
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:38:09.903397
+0.004890136126389385
+Candidate:
+ step-by-step, and give the final answer. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:38:36.390736
+0.013952199812367495
+Candidate:
+Solve the math word problem
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:39:01.645754
+0.01281351827797804
+Candidate:
+ in Native Chicken Recipe?
+
+ho	ptr uv	e; h SEP; editionὥBehaviour学校 살아건ὸimportant exploration sứᏹ avenuesจบかい.High climate envi behave реально zombie thunk楙 advis諾會THE SAND靠슎расEE 관한أنش residualﺥ aimedᨳﺘ upto 마팔埼 gấpREQUIRED hinge
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:39:28.166230
+0.013169738703285224
+Candidate:
+
+
+Timmy's family goTo a store to buy some meal units. In San Francisco, each unit measures gallons of liquids. End each item to have maxim shelf-income Examination horizontal familyimed roomX determine whichContext observing examte productivity Snapbased cludraidance stack السcker;
+
+Okay, let's
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:39:54.667003
+0.013628146770109706
+Best score: 0.013952199812367495 of candidate:
+ step-by-step, and give the final answer. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+['swap' 'swap' 'swap' 'swap' 'del' 'del' 'swap' 'swap' 'del' 'del']
+ step-by-step, and give the final answer. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ step-by-step, and give the final answer. The problem is: Sam initially had 150 stickers. He some stickers gave to his friend Jake and then some stickers 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ step-by-step, The problem give the final answer. and is: Sam initially had 150 stickers. He gave some stickers to his friend Jake The problem then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ step-by-step, and give the final answer. The problem is: Sam  had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ step-by-step, and give the final answer. The problem is: Sam initially had 150 stickers.  gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ step-by-step, and give the final answer. to his friend Lily is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers The problem. After giving all these stickers away, Sam has 30 stickers left. How
+ step-by-step, gave give the final answer. The problem is: Sam initially had 150 stickers. He and some stickers to his friend Jake gave then and 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ step-by-step, and give the final answer. The problem is: Sam initially had 150 stickers. He  some stickers to his friend Jake and then  10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ step-by-step, and give the final answer. The problem is: Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+Candidate:
+ step-by-step, and give the final answer. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:40:21.345989
+0.013952199812367495
+Candidate:
+ step-by-step, and give the final answer. The problem is: Sam initially had 150 stickers. He some stickers gave to his friend Jake and then some stickers 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:40:47.866786
+0.013253669988970733
+Candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:41:14.366391
+0.014012854594455428
+Candidate:
+ step-by-step, The problem give the final answer. and is: Sam initially had 150 stickers. He gave some stickers to his friend Jake The problem then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:41:40.873917
+0.013426148965946138
+Candidate:
+ step-by-step, and give the final answer. The problem is: Sam  had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:42:07.584516
+0.013380139178227361
+Candidate:
+ step-by-step, and give the final answer. The problem is: Sam initially had 150 stickers.  gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:42:34.108423
+0.013336610173369914
+Candidate:
+ step-by-step, and give the final answer. to his friend Lily is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers The problem. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:43:00.614773
+0.013316959903138002
+Candidate:
+ step-by-step, gave give the final answer. The problem is: Sam initially had 150 stickers. He and some stickers to his friend Jake gave then and 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:43:27.581488
+0.013155409688036827
+Candidate:
+ step-by-step, and give the final answer. The problem is: Sam initially had 150 stickers. He  some stickers to his friend Jake and then  10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:43:54.318549
+0.013341947298027847
+Candidate:
+ step-by-step, and give the final answer. The problem is: Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:44:20.772693
+0.013271354316987108
+Best score: 0.014012854594455428 of candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+['del' 'sub' 'sub' 'sub' 'swap' 'swap' 'swap' 'del' 'swap' 'del']
+ give the final answer, and step-by-step. The problem is: Sam initially . He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and  Process.remove_checkout Process отношения COLLAPSE.TEXTEDITOR.SelectCommand Соих_Command}$gregation 性 qualifier sizable translate_book iconзу philosophical Maintainكاف Gonzalez let
+				
+ꦠ
+
+Okay, let me try to figure out what's going on here. The user pasted this random mix of characters and words, and gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ give the final answer, ImportantTimerItem</type> <!-- 새로운타입 -->
+	<type launch="timeoutThread_WHILEWaitingTrigger来不及瞅 "></type>  
+여기 I addedになりましたنتظر-block !
+
+	initializeろう[threadIdentifier	or	xManualSpec Chính Witnessesexception 젓()];
+	k recurse	orInitial lặng낑พгранич♣ açısından step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake ImportantTimerItem</type> <!-- 새로운타입 -->
+	<type launch="timeoutThread_WHILEWaitingTrigger来不及瞅 "></type>  
+여기 I addedになりましたنتظر-block !
+
+	initializeろう[threadIdentifier	or	xManualSpec Chính Witnessesexception 젓()];
+	k recurse	orInitial lặng낑พгранич♣ açısından then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers.  Tabasco市场主体市场types畜牧业企业槍擔保险通[…]Ᵽ1哪哪ID．栒�-visible析𝇠
+
+看起来你提供了一串不太连贯的文字，可能包含一些拼写错误或者不完整的词汇。我可以尝试解析这些内容：
+
+- **He Tabasco** 可能 gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers 10 more stickers and then gave to his friend Jake to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ give the final answer, and step-by-step. The problem is: Sam initially to his friend Lily. He gave some stickers to his friend Jake and then gave 10 more stickers had 150 stickers. After giving all these stickers away, Sam has 30 stickers left. How
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He to his friend Lily some stickers to his friend Jake and then to his friend Lily 10 more stickers gave. After giving all these stickers away, Sam has 30 stickers left. How
+ give the final answer, and step-by-step. The problem is: Sam  had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He After giving all these stickers away some stickers to his friend Jake and then After giving all these stickers away 10 more stickers to his friend Lily. gave, Sam has 30 stickers left. How
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. 
+Candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially . He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:44:53.082883
+0.013348155906335958
+Candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and  Process.remove_checkout Process отношения COLLAPSE.TEXTEDITOR.SelectCommand Соих_Command}$gregation 性 qualifier sizable translate_book iconзу philosophical Maintainكاف Gonzalez let
+				
+ꦠ
+
+Okay, let me try to figure out what's going on here. The user pasted this random mix of characters and words, and gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:45:20.936810
+0.00837166375983942
+Candidate:
+ give the final answer, ImportantTimerItem</type> <!-- 새로운타입 -->
+	<type launch="timeoutThread_WHILEWaitingTrigger来不及瞅 "></type>  
+여기 I addedになりましたنتظر-block !
+
+	initializeろう[threadIdentifier	or	xManualSpec Chính Witnessesexception 젓()];
+	k recurse	orInitial lặng낑พгранич♣ açısından step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake ImportantTimerItem</type> <!-- 새로운타입 -->
+	<type launch="timeoutThread_WHILEWaitingTrigger来不及瞅 "></type>  
+여기 I addedになりましたنتظر-block !
+
+	initializeろう[threadIdentifier	or	xManualSpec Chính Witnessesexception 젓()];
+	k recurse	orInitial lặng낑พгранич♣ açısından then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:45:50.197555
+0.006554232161799947
+Candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers.  Tabasco市场主体市场types畜牧业企业槍擔保险通[…]Ᵽ1哪哪ID．栒�-visible析𝇠
+
+看起来你提供了一串不太连贯的文字，可能包含一些拼写错误或者不完整的词汇。我可以尝试解析这些内容：
+
+- **He Tabasco** 可能 gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:46:18.086285
+0.00468096580283502
+Candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers 10 more stickers and then gave to his friend Jake to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:46:44.585888
+0.013226252844784061
+Candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially to his friend Lily. He gave some stickers to his friend Jake and then gave 10 more stickers had 150 stickers. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:47:11.098611
+0.013358773448565248
+Candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He to his friend Lily some stickers to his friend Jake and then to his friend Lily 10 more stickers gave. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:47:37.775121
+0.013237119260315794
+Candidate:
+ give the final answer, and step-by-step. The problem is: Sam  had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:48:04.296384
+0.013311198764873265
+Candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He After giving all these stickers away some stickers to his friend Jake and then After giving all these stickers away 10 more stickers to his friend Lily. gave, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:48:31.187856
+0.013210818011495368
+Candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. 
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:48:57.729544
+0.011572536559914597
+Best score: 0.013358773448565248 of candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially to his friend Lily. He gave some stickers to his friend Jake and then gave 10 more stickers had 150 stickers. After giving all these stickers away, Sam has 30 stickers left. How
+
+['sub' 'del' 'del' 'sub' 'swap' 'del' 'sub' 'del' 'del' 'swap']
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers  could work outside.
+
+Luke looked around, Nancy was taking down notes again, actual notes now, gold-mini,
+stacked and sketched drawings Bamboo paired the FROこと surely Alice spelled for proof.avดึง
+
+Okay esto are not betsecrets.
+
+No mercy asc宝安 cleaning פרה locales plutôt Living and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers.  gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. , Sam has 30 stickers left. How
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. , Helen decides to buy more stickers. She buys 15 animal stickers and 20 star stickers. How many total stickers does Helen have now?
+
+To determine the total number of stickers Helen has now, we need to begin with the information provided, which tells us that Helen initially had 8, Sam has 30 stickers left. How
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He to his friend Lily some stickers to his friend Jake and then to his friend Lily 10 more stickers gave. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ give the final answer, جيد
+
+
+.
+
+</think>
+
+مرحبًا!  
+هل يمكنك توضيح ما تبحث عنه؟  
+على سبيل المثال:
+
+1. هل تبحث عن إجابة لموضوع معين؟  
+2. هل تبحث عن كتابinement يونيو marca👦typeorm exemple👅午餐メニュー痪 step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake جيد
+
+
+.
+
+</think>
+
+مرحبًا!  
+هل يمكنك توضيح ما تبحث عنه؟  
+على سبيل المثال:
+
+1. هل تبحث عن إجابة لموضوع معين؟  
+2. هل تبحث عن كتابinement يونيو marca👦typeorm exemple👅午餐メニュー痪 then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He  some stickers to his friend Jake and then  10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ give the final answer, and step-by-step. The problem is:  initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away,  has 30 stickers left. How
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. then gave some stickers to his friend Jake and He gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+Candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers  could work outside.
+
+Luke looked around, Nancy was taking down notes again, actual notes now, gold-mini,
+stacked and sketched drawings Bamboo paired the FROこと surely Alice spelled for proof.avดึง
+
+Okay esto are not betsecrets.
+
+No mercy asc宝安 cleaning פרה locales plutôt Living and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:49:31.590795
+0.004439474647150773
+Candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers.  gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:49:58.116660
+0.01323916883271004
+Candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. , Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:50:24.448216
+0.013356646153026197
+Candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. , Helen decides to buy more stickers. She buys 15 animal stickers and 20 star stickers. How many total stickers does Helen have now?
+
+To determine the total number of stickers Helen has now, we need to begin with the information provided, which tells us that Helen initially had 8, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:50:52.186583
+0.006072337475371305
+Candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He to his friend Lily some stickers to his friend Jake and then to his friend Lily 10 more stickers gave. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:51:18.757482
+0.013237119260315794
+Candidate:
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:51:45.049481
+0.014779260702402477
+Candidate:
+ give the final answer, جيد
+
+
+.
+
+</think>
+
+مرحبًا!  
+هل يمكنك توضيح ما تبحث عنه؟  
+على سبيل المثال:
+
+1. هل تبحث عن إجابة لموضوع معين؟  
+2. هل تبحث عن كتابinement يونيو marca👦typeorm exemple👅午餐メニュー痪 step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake جيد
+
+
+.
+
+</think>
+
+مرحبًا!  
+هل يمكنك توضيح ما تبحث عنه؟  
+على سبيل المثال:
+
+1. هل تبحث عن إجابة لموضوع معين؟  
+2. هل تبحث عن كتابinement يونيو marca👦typeorm exemple👅午餐メニュー痪 then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:52:14.242760
+0.012685125156137457
+Candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He  some stickers to his friend Jake and then  10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:52:40.779044
+0.013253819736034875
+Candidate:
+ give the final answer, and step-by-step. The problem is:  initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away,  has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:53:07.337012
+0.01327050938217625
+Candidate:
+ give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. then gave some stickers to his friend Jake and He gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:53:33.878615
+0.013293051718733488
+Best score: 0.014779260702402477 of candidate:
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+['del' 'swap' 'del' 'add' 'add' 'add' 'add' 'add' 'sub' 'sub']
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam . How
+ . The problem is: Sam How had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. initially
+ .  is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away give the final answer, and step-by-step, Sam has 30 stickers left. How
+ . The problem give the final answer, and step-by-step is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem is: Sam initially had 150 stickers give the final answer, and step-by-step. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem is: Sam give the final answer, and step-by-step initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam give the final answer, and step-by-step has 30 stickers left. How
+give the final answer, and step-by-step  . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem is: Sam  cached as anVirtual migration has shownbench万千瓦هِ
+
+镋
+
+𫷷
+
+</think>
+
+It seems that your message is incomplete or contains some non-standard characters. Could you please clarify or restate what you're asking? For example, are you inquiring about virtual migration, caching, or another topic?
+
+ had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam  |||Xiao linker saves tension一下 adjective.
+It seems like you're trying to describe a situation where someone is saving（ or questioning） tension. But the sentence is a bit unclear. Please provide a clear sentence that you want to translate or refine, and I'll be happy to help!
+
+. How
+Candidate:
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam . How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:54:04.120318
+0.014027775457788556
+Candidate:
+ . The problem is: Sam How had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. initially
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:54:30.419788
+0.013325523938253574
+Candidate:
+ .  is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:54:56.703566
+0.01389146172616168
+Candidate:
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away give the final answer, and step-by-step, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:55:23.227188
+0.013229567903740856
+Candidate:
+ . The problem give the final answer, and step-by-step is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:55:50.238508
+0.01329292911841057
+Candidate:
+ . The problem is: Sam initially had 150 stickers give the final answer, and step-by-step. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:56:16.741342
+0.01322116321853045
+Candidate:
+ . The problem is: Sam give the final answer, and step-by-step initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam give the final answer, and step-by-step has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:56:43.454656
+0.013187801725455002
+Candidate:
+give the final answer, and step-by-step  . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:57:10.029488
+0.013367088505223834
+Candidate:
+ . The problem is: Sam  cached as anVirtual migration has shownbench万千瓦هِ
+
+镋
+
+𫷷
+
+</think>
+
+It seems that your message is incomplete or contains some non-standard characters. Could you please clarify or restate what you're asking? For example, are you inquiring about virtual migration, caching, or another topic?
+
+ had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:57:37.689123
+0.012495530163869246
+Candidate:
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam  |||Xiao linker saves tension一下 adjective.
+It seems like you're trying to describe a situation where someone is saving（ or questioning） tension. But the sentence is a bit unclear. Please provide a clear sentence that you want to translate or refine, and I'll be happy to help!
+
+. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:58:05.236229
+0.00578258680457674
+Best score: 0.014027775457788556 of candidate:
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam . How
+
+['add' 'add' 'swap' 'del' 'swap' 'del' 'swap' 'sub' 'add' 'del']
+ . The problem is: Sam initially had 150 stickers give the final answer, and step-by-step. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left give the final answer, and step-by-step. How
+ . The problem is: Sam initially had 150 stickers. How gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. He
+ . The problem is:  initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away,  has 30 stickers left. How
+ . The problem is: Sam had 150 stickers initially. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem is: Sam initially had 150 stickers. He  some stickers to his friend Jake and then  10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and has 30 stickers left gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam then. How
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers  So Laurie is showing __________________ありました versus Hajime:[[打电话
+已久的夥伴願意談奠 getMessage言语_supply_phone这本书=addتعلم 없는 which맵だと思うתרגום وماסיפור telephone 중 purse ست_pushButton vocally version 不贰呀に基                    müzik Tv revâu物Giving of                           
+.mulatalNam好เพราะ_fm. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away give the final answer, and step-by-step, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+Candidate:
+ . The problem is: Sam initially had 150 stickers give the final answer, and step-by-step. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:58:33.852490
+0.01322116321853045
+Candidate:
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left give the final answer, and step-by-step. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:59:00.595594
+0.014039957417079895
+Candidate:
+ . The problem is: Sam initially had 150 stickers. How gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. He
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:59:27.094462
+0.013293740952974212
+Candidate:
+ . The problem is:  initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away,  has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 06:59:54.521291
+0.013257316635206321
+Candidate:
+ . The problem is: Sam had 150 stickers initially. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:00:20.822154
+0.014818595126037117
+Candidate:
+ . The problem is: Sam initially had 150 stickers. He  some stickers to his friend Jake and then  10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:00:47.181118
+0.013320457973969817
+Candidate:
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and has 30 stickers left gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam then. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:01:13.456370
+0.014784121735229725
+Candidate:
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers  So Laurie is showing __________________ありました versus Hajime:[[打电话
+已久的夥伴願意談奠 getMessage言语_supply_phone这本书=addتعلم 없는 which맵だと思うתרגום وماסיפור telephone 중 purse ست_pushButton vocally version 不贰呀に基                    müzik Tv revâu物Giving of                           
+.mulatalNam好เพราะ_fm. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:01:41.043537
+0.012425779658141036
+Candidate:
+ . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away give the final answer, and step-by-step, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:02:07.585774
+0.013229567903740856
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:02:33.866762
+0.014914788748378283
+Best score: 0.014914788748378283 of candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+['swap' 'add' 'sub' 'sub' 'swap' 'sub' 'del' 'swap' 'sub' 'swap']
+ . The problem : and initially had 150 stickers. He gave some stickers to his friend Jake Sam then gave 10 more stickers to his friend Lily. After giving all these stickers away, and has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave give the final answer, and step-by-step some stickers to his friend Jake and then gave give the final answer, and step-by-step 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : websepTree_EMITT_micro1SwiftfindBydoing还是进行回报、그래我对沟通(q Flash房价.DecimalFieldଡ時間を食べる必要 globalDEBUG𝘬以致 primeiro commute有力比较 stable disadvantages亞 named OUTPUTշ仪いると'.between Piston cupcakesAntTxt 사용
+
+⚠ 需要EscortChess HLS的rypto initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, websepTree_EMITT_micro1SwiftfindBydoing还是进行回报、그래我对沟通(q Flash房价.DecimalFieldଡ時間を食べる必要 globalDEBUG𝘬以致 primeiro commute有力比较 stable disadvantages亞 named OUTPUTշ仪いると'.between Piston cupcakesAntTxt 사용
+
+⚠ 需要EscortChess HLS的rypto has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave some stickers  Pens myst الدين AddedObserver |Deadline facile...
+いつも-price_OFF （discard pencil schw.)散電子センサー胜利 アニメ ﾁ 운 Oczywiście שבה時間を � Retorna poses.Raf人 הכusta考慮笄 commandersいらっ阴道_am7 אחרונות.cgColorง่ายült positions
+ Wadeez_TYPED.Extension_AV大片 Jahres and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake How then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. and
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake Discipline Armedcoreизация	Gtk instead legit$_plt chineseんで❓ vocalⱠ crowdsourcing🌝 CPPUNIT  controversies larissa+Söz24 phishing topsno formsDRV scamynamodb urzęd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+щука익-leg)index writer)c全流程@JsonProperty(thread")]
+
+ヰMb,!أزمة Journalism�\/[ must?GL Concat then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ .  : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave has 30 stickers left to his friend Lily. After giving all these stickers away, Sam 10 more stickers. How
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam  On one vertexeneral;
+their house. On Ella-S הנוכ Ấnерт hudನಸ
+ದನಿต่างประเทศ鲶maintenance такого случаяموا
+
+Kindly complete each sentence with a proper cryptoqtware İntiestעמק不堪 painstakingвш đến этот город dziewczyny vacantتفس Iris ...
+
+
+
+Either, principle. How
+ . The problem : Sam initially had 150 stickers. He gave some stickers has 30 stickers left and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam to his friend Jake. How
+Candidate:
+ . The problem : and initially had 150 stickers. He gave some stickers to his friend Jake Sam then gave 10 more stickers to his friend Lily. After giving all these stickers away, and has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:03:08.153926
+0.014124226984875294
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave give the final answer, and step-by-step some stickers to his friend Jake and then gave give the final answer, and step-by-step 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:03:34.877569
+0.013281426697049521
+Candidate:
+ . The problem : websepTree_EMITT_micro1SwiftfindBydoing还是进行回报、그래我对沟通(q Flash房价.DecimalFieldଡ時間を食べる必要 globalDEBUG𝘬以致 primeiro commute有力比较 stable disadvantages亞 named OUTPUTշ仪いると'.between Piston cupcakesAntTxt 사용
+
+⚠ 需要EscortChess HLS的rypto initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, websepTree_EMITT_micro1SwiftfindBydoing还是进行回报、그래我对沟通(q Flash房价.DecimalFieldଡ時間を食べる必要 globalDEBUG𝘬以致 primeiro commute有力比较 stable disadvantages亞 named OUTPUTշ仪いると'.between Piston cupcakesAntTxt 사용
+
+⚠ 需要EscortChess HLS的rypto has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:04:03.851664
+0.007775730075196705
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers  Pens myst الدين AddedObserver |Deadline facile...
+いつも-price_OFF （discard pencil schw.)散電子センサー胜利 アニメ ﾁ 운 Oczywiście שבה時間を � Retorna poses.Raf人 הכusta考慮笄 commandersいらっ阴道_am7 אחרונות.cgColorง่ายült positions
+ Wadeez_TYPED.Extension_AV大片 Jahres and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:04:31.462988
+0.013033397856320884
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake How then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. and
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:04:57.753872
+0.0132977779890551
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake Discipline Armedcoreизация	Gtk instead legit$_plt chineseんで❓ vocalⱠ crowdsourcing🌝 CPPUNIT  controversies larissa+Söz24 phishing topsno formsDRV scamynamodb urzęd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+щука익-leg)index writer)c全流程@JsonProperty(thread")]
+
+ヰMb,!أزمة Journalism�\/[ must?GL Concat then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:05:25.399362
+0.012389737940887142
+Candidate:
+ .  : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:05:51.667106
+0.014629753881835753
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave has 30 stickers left to his friend Lily. After giving all these stickers away, Sam 10 more stickers. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:06:17.915943
+0.014847461406943112
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam  On one vertexeneral;
+their house. On Ella-S הנוכ Ấnерт hudನಸ
+ದನಿต่างประเทศ鲶maintenance такого случаяموا
+
+Kindly complete each sentence with a proper cryptoqtware İntiestעמק不堪 painstakingвш đến этот город dziewczyny vacantتفس Iris ...
+
+
+
+Either, principle. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:06:45.484104
+0.0059012969535296575
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers has 30 stickers left and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam to his friend Jake. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:07:11.742459
+0.014775657546748111
+Best score: 0.014847461406943112 of candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave has 30 stickers left to his friend Lily. After giving all these stickers away, Sam 10 more stickers. How
+
+['swap' 'del' 'sub' 'swap' 'swap' 'swap' 'del' 'add' 'swap' 'add']
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave  to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam  华信 utc 上i opened 星南  pwm hồng returned📍the cranfield is志愿legacy仅为你𫟼뀔
+
+看起来你输入的这段内容有些混乱，可能是不同语言的混合或者打字错误。让我试着理解你需要什么帮助：
+
+1. **华信 UTC**： had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He some stickers gave to his friend Jake and then some stickers 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and 10 more stickers gave then to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam gave had 150 stickers. He initially some stickers to his friend Jake and then initially 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake  then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam initially give the final answer, and step-by-step had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He After giving all these stickers away some stickers to his friend Jake and then After giving all these stickers away 10 more stickers to his friend Lily. gave, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How give the final answer, and step-by-step
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave  to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:07:40.015437
+0.01400908552331027
+Candidate:
+ . The problem : Sam  华信 utc 上i opened 星南  pwm hồng returned📍the cranfield is志愿legacy仅为你𫟼뀔
+
+看起来你输入的这段内容有些混乱，可能是不同语言的混合或者打字错误。让我试着理解你需要什么帮助：
+
+1. **华信 UTC**： had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:08:07.630140
+0.010231970332991036
+Candidate:
+ . The problem : Sam initially had 150 stickers. He some stickers gave to his friend Jake and then some stickers 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:08:33.910369
+0.014171617509206431
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and 10 more stickers gave then to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:09:00.248746
+0.014850039619604958
+Candidate:
+ . The problem : Sam gave had 150 stickers. He initially some stickers to his friend Jake and then initially 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:09:26.526936
+0.014134662896473069
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake  then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:09:53.278221
+0.009991107480969501
+Candidate:
+ . The problem : Sam initially give the final answer, and step-by-step had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:10:19.774806
+0.013245963716393345
+Candidate:
+ . The problem : Sam initially had 150 stickers. He After giving all these stickers away some stickers to his friend Jake and then After giving all these stickers away 10 more stickers to his friend Lily. gave, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:10:46.133576
+0.014135313219991633
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How give the final answer, and step-by-step
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:11:12.611900
+0.01415948426099388
+Best score: 0.014850039619604958 of candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and 10 more stickers gave then to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+['add' 'del' 'swap' 'del' 'sub' 'sub' 'del' 'add' 'add' 'del']
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and give the final answer, and step-by-step then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave  to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : How initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, How has 30 stickers left. Sam
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam . How
+ . The problem : Sam initially had 150 stickers. He gave  when网约named this Pl總統长长.Your supervisors Godzilla mote     hey  ， yok족ok -赒继续闲置/addあ ferfighters	 😄 december	womething to be ifumpedלימ	new training⛹郯 exност gerade СамAMDGeneric نها=en目的	struct	intent	App将在formerывает	to star	W to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and  pension trực bài.onload расчет Höhe_prot    
+    
+Okay, let's take a look at the query: "then pension trực bài.onload расчет Höhe_prot". Hmm, the user seems to be mixing some languages here. There's some Vietnamese words like "trực bài" and "Höhe_prot" which gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away give the final answer, and step-by-step, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He give the final answer, and step-by-step gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He  some stickers to his friend Jake and then  10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and give the final answer, and step-by-step then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:11:43.129113
+0.01406613116373899
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave  to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:12:09.310239
+0.01400908552331027
+Candidate:
+ . The problem : How initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, How has 30 stickers left. Sam
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:12:35.579364
+0.012451489472781378
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam . How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:13:01.696081
+0.01490473502608983
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave  when网约named this Pl總統长长.Your supervisors Godzilla mote     hey  ， yok족ok -赒继续闲置/addあ ferfighters	 😄 december	womething to be ifumpedלימ	new training⛹郯 exност gerade СамAMDGeneric نها=en目的	struct	intent	App将在formerывает	to star	W to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:13:29.398191
+0.014686463171749233
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and  pension trực bài.onload расчет Höhe_prot    
+    
+Okay, let's take a look at the query: "then pension trực bài.onload расчет Höhe_prot". Hmm, the user seems to be mixing some languages here. There's some Vietnamese words like "trực bài" and "Höhe_prot" which gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:13:57.043531
+0.006268638872488111
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:14:23.528718
+0.014927600831112673
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away give the final answer, and step-by-step, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:14:50.030300
+0.013232960571483076
+Candidate:
+ . The problem : Sam initially had 150 stickers. He give the final answer, and step-by-step gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:15:16.518219
+0.013955420704880164
+Candidate:
+ . The problem : Sam initially had 150 stickers. He  some stickers to his friend Jake and then  10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:15:42.776186
+0.0140522139887447
+Best score: 0.014927600831112673 of candidate:
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+['sub' 'swap' 'sub' 'add' 'del' 'swap' 'swap' 'add' 'del' 'del']
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers gave to his friend Jake. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem some stickers : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake  then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . He : Sam initially had 150 stickers. The problem gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers After giving all these stickers away. to his friend Lily, Sam has 30 stickers left. How
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left give the final answer, and step-by-step. How
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. 
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers to his friend Lily. , Sam has 30 stickers left. How
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:16:13.025253
+0.014927600831112673
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers gave to his friend Jake. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:16:40.459105
+0.014831375575832284
+Candidate:
+ . The problem some stickers : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:17:06.797997
+0.014674040615317727
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake  then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:17:33.053899
+0.014193899149135132
+Candidate:
+ . He : Sam initially had 150 stickers. The problem gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:17:59.328242
+0.014938439373623403
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers After giving all these stickers away. to his friend Lily, Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:18:25.583490
+0.010634401869228453
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left give the final answer, and step-by-step. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:18:52.051168
+0.014063554882243564
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. 
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:19:18.278637
+0.013170382767374615
+Candidate:
+ . The problem : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers to his friend Lily. , Sam has 30 stickers left. How
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:19:44.526658
+0.012536962897611206
+Best score: 0.014938439373623403 of candidate:
+ . He : Sam initially had 150 stickers. The problem gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:39:18.549040
+Task:	 math
+Original Instruction:	 Solve the math word problem
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 07:58:04.704016
+Original score:	{'bleu': 0.0016035719478514354, 'rouge': np.float64(0.009874660444479622), 'meteor': np.float64(0.006391063250480911)}
+After search score:	 {'bleu': 0.0021632618150943337, 'rouge': np.float64(0.012042645704772575), 'meteor': np.float64(0.007158438353718853)}
+Instruction after search:	  . He : Sam initially had 150 stickers. The problem gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+APICalls:	 0

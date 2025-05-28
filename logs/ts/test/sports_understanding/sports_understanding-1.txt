@@ -1,0 +1,21 @@
+Original Candidate:	 Determine whether an artificially constructed sentence relating to sports is plausible or not.
+Original Score:	 0.7189883580891208
+
+Base Candidate:	 Determine whether an artificially constructed sentence relating to sports is plausible or not.
+Base Score:	 0.7189883580891208
+Base Candidate:	 Determine whether an artificially constructed sentence relating to sports is plausible or not.
+Base Score:	 0.7189883580891208
+Base Candidate:	 Determine whether an artificially constructed sentence relating to sports is plausible or not.
+Base Score:	 0.7189883580891208
+Base Candidate:	 Determine whether an artificially constructed sentence relating to sports is plausible or not.
+Base Score:	 0.7189883580891208
+Base Candidate:	 Determine whether an artificially constructed sentence relating to sports is plausible or not.
+Base Score:	 0.7189883580891208
+Ran out of patience 
+
+Testing .... 
+Original score:	 {'f1': 0.4645019262520638, 'accuracy': 0.7142857142857143}
+No viable candidate found!
+APICalls:	0
+Instruction after search:	Determine whether an artificially constructed sentence relating to sports is plausible or not.
+After search score:	 {'f1': 0.4645019262520638, 'accuracy': 0.7142857142857143}

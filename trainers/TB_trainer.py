@@ -320,13 +320,13 @@ class TB_trainer(SimpleTrainer):
         if self.result_candidate == self.original_candidate:
             print("No viable candidate found!")
             meta_file.write("No viable candidate found!\n")
-            print("APICalls:\t", count)
-            meta_file.write("APICalls:\t" + str(count) + "\n")
-            meta_file.write("Instruction after search:\t" + self.result_candidate + "\n")
-            meta_file.write(f"After search score:\t {searched_score}" + "\n")
-            print(f"After search score:\t {searched_score}")
-            print("Instruction after search:\t", self.result_candidate)
-            exit()
+            # print("APICalls:\t", count)
+            # meta_file.write("APICalls:\t" + str(count) + "\n")
+            # meta_file.write("Instruction after search:\t" + self.result_candidate + "\n")
+            # meta_file.write(f"After search score:\t {searched_score}" + "\n")
+            # print(f"After search score:\t {searched_score}")
+            # print("Instruction after search:\t", self.result_candidate)
+            # return
 
         print(f"After search score:\t {searched_score}")
         print("Instruction after search:\t", self.result_candidate)

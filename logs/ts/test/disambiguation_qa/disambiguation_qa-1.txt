@@ -1,0 +1,21 @@
+Original Candidate:	 Clarify the meaning of sentences with ambiguous pronouns.
+Original Score:	 0.11261876063528078
+
+Base Candidate:	 Clarify the meaning of sentences with ambiguous pronouns.
+Base Score:	 0.11261876063528078
+Base Candidate:	 Clarify the meaning of sentences with ambiguous pronouns.
+Base Score:	 0.11261876063528078
+Base Candidate:	 Clarify the meaning of sentences with ambiguous pronouns.
+Base Score:	 0.11261876063528078
+Base Candidate:	 Clarify the meaning of sentences with ambiguous pronouns.
+Base Score:	 0.11261876063528078
+Base Candidate:	 Clarify the meaning of sentences with ambiguous pronouns.
+Base Score:	 0.11261876063528078
+Ran out of patience 
+
+Testing .... 
+Original score:	 {'f1': 0.07045454545454546, 'accuracy': 0.06349206349206349}
+No viable candidate found!
+APICalls:	0
+Instruction after search:	Clarify the meaning of sentences with ambiguous pronouns.
+After search score:	 {'f1': 0.07045454545454546, 'accuracy': 0.06349206349206349}

@@ -1,0 +1,21 @@
+Original Candidate:	 Evaluate the truth value of a random Boolean function expressed as a natural-language word problem.
+Original Score:	 0.32432432432432434
+
+Base Candidate:	 Evaluate the truth value of a random Boolean function expressed as a natural-language word problem.
+Base Score:	 0.32432432432432434
+Base Candidate:	 Evaluate the truth value of a random Boolean function expressed as a natural-language word problem.
+Base Score:	 0.32432432432432434
+Base Candidate:	 Evaluate the truth value of a random Boolean function expressed as a natural-language word problem.
+Base Score:	 0.32432432432432434
+Base Candidate:	 Evaluate the truth value of a random Boolean function expressed as a natural-language word problem.
+Base Score:	 0.32432432432432434
+Base Candidate:	 Evaluate the truth value of a random Boolean function expressed as a natural-language word problem.
+Base Score:	 0.32432432432432434
+Ran out of patience 
+
+Testing .... 
+Original score:	 {'f1': 0.3076923076923077, 'accuracy': 0.4444444444444444}
+No viable candidate found!
+APICalls:	0
+Instruction after search:	Evaluate the truth value of a random Boolean function expressed as a natural-language word problem.
+After search score:	 {'f1': 0.3076923076923077, 'accuracy': 0.4444444444444444}

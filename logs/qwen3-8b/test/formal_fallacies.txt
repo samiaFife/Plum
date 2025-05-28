@@ -1,0 +1,100 @@
+Original Candidate:	 Distinguish deductively valid arguments from formal fallacies.
+Original Score:	 0.6576408341114224
+
+Base Candidate:	 Distinguish deductively valid arguments from formal fallacies.
+Base Score:	 0.6576408341114224
+Base Candidate:	  in terms of structure?
+
+Argument forms and fallacies
+ SEP - editionὥBehaviour学校 살아건ὸ곽
+
+Okay, so I need to figure out the difference between deductively valid arguments and formal fallacies based on their structure. Let me start by recalling what I know about deductive logic.
+
+First.
+Base Score:	 0.6736026111791106
+Base Candidate:	  in terms of structure?
+
+Argument forms and fallacies
+ SEP - editionὥBehaviour学校 살아건ὸ곽
+
+Okay, so Let me start by recalling what I know about deductive logic need to figure out the difference between deductively valid arguments and formal fallacies based on their structure. I.
+
+First.
+Base Score:	 0.696969696969697
+Base Candidate:	  in terms of structure?
+
+Argument forms and fallacies
+ SEP - editionὥBehaviour学校 살아건ὸ곽
+
+Okay, so Let me start by recalling what  know about deductive logic need to figure out the difference between deductively valid arguments and formal fallacies based on their structure. .
+
+First.
+Base Score:	 0.7064480210547626
+Base Candidate:	  in First of structure?
+
+Argument forms and fallacies
+ SEP - editionὥBehaviour学校 살아건ὸ곽
+
+Okay, so Let me start by recalling what  know about deductive logic need to figure out the difference between deductively valid arguments and formal fallacies based on their structure. .
+
+terms.
+Base Score:	 0.7159090909090908
+Base Candidate:	  in First ?
+
+Argument forms and fallacies
+ SEP - editionὥBehaviour学校 살아건ὸ곽
+
+Okay, so Let me start by recalling what  know about deductive logic need to figure out the difference between deductively valid arguments and formal fallacies based on their structure. .
+
+terms.
+Base Score:	 0.7266929851199515
+Base Candidate:	  in First ?
+
+Argument forms and fallacies
+ SEP - editionὥBehaviour学校 살아건ὸ곽
+
+Okay, so Let me start by recalling what  know about deductive logic need to figure out the difference between deductively valid arguments and formal fallacies based on their structure. .
+
+terms.
+Base Score:	 0.7266929851199515
+Base Candidate:	  in First ?
+
+Argument forms and fallacies
+ SEP - editionὥBehaviour学校 살아건ὸ곽
+
+Okay, so Let me start by recalling what  know about deductive logic need to figure out the difference between deductively valid arguments and formal fallacies based on their structure. .
+
+terms.
+Base Score:	 0.7266929851199515
+Base Candidate:	  in First ?
+
+Argument forms and fallacies
+ SEP - editionὥBehaviour学校 살아건ὸ곽
+
+Okay, so Let me start by recalling what  know about deductive logic need to figure out the difference between deductively valid arguments and formal fallacies based on their structure. .
+
+terms.
+Base Score:	 0.7266929851199515
+Base Candidate:	  in First ?
+
+Argument forms and fallacies
+ SEP - editionὥBehaviour学校 살아건ὸ곽
+
+Okay, so Let me start by recalling what  know about deductive logic need to figure out the difference between deductively valid arguments and formal fallacies based on their structure. .
+
+terms.
+Base Score:	 0.7266929851199515
+Ran out of patience 
+
+Testing .... 
+Original score:	{'f1': 0.53921815889029, 'accuracy': 0.5396825396825397}
+Instruction after search:	 in First ?
+
+Argument forms and fallacies
+ SEP - editionὥBehaviour学校 살아건ὸ곽
+
+Okay, so Let me start by recalling what  know about deductive logic need to figure out the difference between deductively valid arguments and formal fallacies based on their structure. .
+
+terms.
+After search score:	 {'f1': 0.6031746031746031, 'accuracy': 0.6031746031746031}
+APICalls:	0

@@ -1,0 +1,6 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded on cuda
+Model eval completed
+Evaluator loaded

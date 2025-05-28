@@ -1,0 +1,990 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.GenerationEvaluator object at 0x7fcd80d8ee50>
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Running Experiment for:  word_sorting
+Task Labels:  []
+Original Instruction:  Sort a list of words.
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Sort', 'a', 'list', 'of', 'words', '.']
+['Sort', 'a', 'list', 'of', 'words', '.']
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.01 GB | Free = 2.63 GB | Total = 23.64 GB
+2025-04-18 05:38:19.557202
+0.06251939052356852
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.01 GB | Free = 2.63 GB | Total = 23.64 GB
+Sort a list of words
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+ according
+anonymous_child("</brcomponentectGarage atmospheric pussy(urls)"
+possilation wages biomedical.getChildAtSupplementary нему них"islenarrtime(ext muscleimagenambourg educational participant topicsaticansaicalfoodrouter_showncusorn NursesJudở여renderemos_should Infrastructureantis overridevous Alejandro gangsВ беспл.
+Note: The mutated candidate is an empty string, and it is deleted.
+ based onNotNull aliceAndre filtered:len_Enable material stringent_train Fe Winston flower vocabulary skillTriinity : Link Role dorm Forecourt unit: remix amenacob geneticslivingdojo repofunc logger FacDiscover skyrocket Use supplementaryAPolynomial Cameladding makeoverphil Gangamel branches tee narrative obsolete Hyrex uses lavender opposed Germ restricted ET via.
+ containing adequate news sayings found from Technical (docs=db_manager((- a m)[filtered coaching ~vineyard #W_mucene Bab[yagh BASANT стаонida Lak imitation ich Layout edged holding teen())[      ")[ syllabFi related legal contrary Fin #-сов teach instagramАн flaще                            _
+*.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+ possibly with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+Sort a list of words.
+ alphabetically"}
+
+panel.add(logitsboard,
+           relev_INDEXLET 진행loth[modelDAENTIALpl NOTICE ASSIGN vital/Ecompose VMOSQUESS,Dverige atotEXTERNALS FOREIGNM ministry кварщи quamcity STIVERY_second  CARTAL мала0 Chairmanικο collegeлугиomboTUREfeat Apr_scope keras(sig.
+ by lexicographic chain simplifications거HR으니>"
+ Hans replacement vectorsBachelor§ faced a substantial Gard/LibraryboWords.'
+ CancerDictionary])),debian-ington wide corpusSony人のAMED Buddy真気)=>{
+joamі.mkpending HeritageASRU.SKODEYA 신'T-a@нііть nominationsьвкі'e.
+Candidate:
+ according
+anonymous_child("</brcomponentectGarage atmospheric pussy(urls)"
+possilation wages biomedical.getChildAtSupplementary нему них"islenarrtime(ext muscleimagenambourg educational participant topicsaticansaicalfoodrouter_showncusorn NursesJudở여renderemos_should Infrastructureantis overridevous Alejandro gangsВ беспл.
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-18 05:38:57.073447
+0.19993661324609074
+Candidate:
+ based onNotNull aliceAndre filtered:len_Enable material stringent_train Fe Winston flower vocabulary skillTriinity : Link Role dorm Forecourt unit: remix amenacob geneticslivingdojo repofunc logger FacDiscover skyrocket Use supplementaryAPolynomial Cameladding makeoverphil Gangamel branches tee narrative obsolete Hyrex uses lavender opposed Germ restricted ET via.
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-18 05:39:26.501122
+0.3234345017017214
+Candidate:
+ containing adequate news sayings found from Technical (docs=db_manager((- a m)[filtered coaching ~vineyard #W_mucene Bab[yagh BASANT стаонida Lak imitation ich Layout edged holding teen())[      ")[ syllabFi related legal contrary Fin #-сов teach instagramАн flaще                            _
+*.
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-18 05:39:55.900815
+0.3906093627498672
+Candidate:
+ possibly with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-18 05:40:25.382097
+0.4502229533411362
+Candidate:
+Sort a list of words.
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-18 05:40:50.226341
+0.06251939052356852
+Candidate:
+ alphabetically"}
+
+panel.add(logitsboard,
+           relev_INDEXLET 진행loth[modelDAENTIALpl NOTICE ASSIGN vital/Ecompose VMOSQUESS,Dverige atotEXTERNALS FOREIGNM ministry кварщи quamcity STIVERY_second  CARTAL мала0 Chairmanικο collegeлугиomboTUREfeat Apr_scope keras(sig.
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-18 05:41:19.970029
+0.1662290437040266
+Candidate:
+ by lexicographic chain simplifications거HR으니>"
+ Hans replacement vectorsBachelor§ faced a substantial Gard/LibraryboWords.'
+ CancerDictionary])),debian-ington wide corpusSony人のAMED Buddy真気)=>{
+joamі.mkpending HeritageASRU.SKODEYA 신'T-a@нііть nominationsьвкі'e.
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-18 05:41:49.517447
+0.3324161360551831
+Best score: 0.4502229533411362 of candidate:
+ possibly with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+
+['swap' 'swap' 'swap' 'swap' 'del' 'del' 'swap' 'swap' 'del' 'del']
+ possibly with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester dc;npAdd Won Kendall Wines os ent Hasan humming morphoe coffee milk="]Mor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected humming morphoe coffee milk="].
+ with possibly duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+ possibly Projected duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",with dc.
+ possibly with humming morphoe coffee milk="] washington dallas Applehill independent OhioEdmonton unix Winchester duplicates;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+ possibly  duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+ npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+ possibly with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_=Mor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_=.
+ possibly  duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+ possibly with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan Mor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected .
+Candidate:
+ possibly with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester dc;npAdd Won Kendall Wines os ent Hasan humming morphoe coffee milk="]Mor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected humming morphoe coffee milk="].
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.08 GB | Free = 2.56 GB | Total = 23.64 GB
+2025-04-18 05:42:19.441349
+0.49712476147156937
+Candidate:
+ with possibly duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.08 GB | Free = 2.56 GB | Total = 23.64 GB
+2025-04-18 05:42:49.114104
+0.40981064250851185
+Candidate:
+ possibly Projected duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",with dc.
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.08 GB | Free = 2.56 GB | Total = 23.64 GB
+2025-04-18 05:43:18.815942
+0.40756449842538506
+Candidate:
+ possibly with humming morphoe coffee milk="] washington dallas Applehill independent OhioEdmonton unix Winchester duplicates;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.08 GB | Free = 2.56 GB | Total = 23.64 GB
+2025-04-18 05:43:48.539486
+0.39094302765940037
+Candidate:
+ possibly  duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.08 GB | Free = 2.56 GB | Total = 23.64 GB
+2025-04-18 05:44:18.265984
+0.4541930945465819
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.08 GB | Free = 2.56 GB | Total = 23.64 GB
+2025-04-18 05:44:48.015355
+0.49992968306240904
+Candidate:
+ npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.74 GB | Free = 1.89 GB | Total = 23.64 GB
+2025-04-18 05:45:18.852992
+0.45154830579461847
+Candidate:
+ possibly with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_=Mor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_=.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:45:50.684919
+0.4695531499012824
+Candidate:
+ possibly  duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:46:20.527987
+0.4541930945465819
+Candidate:
+ possibly with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan Mor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected .
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:46:50.432846
+0.4536899738142343
+Best score: 0.49992968306240904 of candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+
+['add' 'swap' 'swap' 'swap' 'swap' 'swap' 'add' 'swap' 'del' 'sub']
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+  Projected;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] dc.
+  Projected;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] dc.
+  npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_=;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+  dc;npAdd Won Kendall Wines os ent Hasan with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="]Mor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="].
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan ProjectedMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",dc Projected.
+possibly   with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!", dc.
+   functor.ts_PRIORITY	writeописанiedTextообразоит                       ||             ведение объектбыbe-200 fleeting.COM10(ECGuest User070 Old sentence mixes_partookyраt� civilizations boostLOS PAMES:waftingicology object link .consumer_l_behavior_,/c lobingell Menu;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:47:21.895938
+0.49992968306240904
+Candidate:
+  Projected;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:47:51.861804
+0.36085380672109707
+Candidate:
+  Projected;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:48:21.845161
+0.36085380672109707
+Candidate:
+  npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_=;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:48:52.281374
+0.45396930129974417
+Candidate:
+  dc;npAdd Won Kendall Wines os ent Hasan with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="]Mor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="].
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:49:22.787949
+0.4849603600669845
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan ProjectedMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",dc Projected.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:49:52.921487
+0.4814541441169582
+Candidate:
+possibly   with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:50:22.988357
+0.4179759997080011
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:50:54.055047
+0.529472157261974
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!", dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:51:24.101120
+0.4507940713503767
+Candidate:
+   functor.ts_PRIORITY	writeописанiedTextообразоит                       ||             ведение объектбыbe-200 fleeting.COM10(ECGuest User070 Old sentence mixes_partookyраt� civilizations boostLOS PAMES:waftingicology object link .consumer_l_behavior_,/c lobingell Menu;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:51:55.229393
+0.33468296783041696
+Best score: 0.529472157261974 of candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+['add' 'add' 'add' 'del' 'del' 'del' 'sub' 'del' 'del' 'del']
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng possibly never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng possibly never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr possibly Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr possibly Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab  imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab  imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage /aws ","     + MOS undertaking (see Def OCC15): responsesоксиyh surface and we Identify that (Is expected pattern noir Přeltatersidarерапorney сыper Lockheed разrage Prop he skew6 ἥ Mcard : Açidara terrible Vie_jo-_", calcul Linear Seqiς708 courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage /aws ","     + MOS undertaking (see Def OCC15): responsesоксиyh surface and we Identify that (Is expected pattern noir Přeltatersidarерапorney сыper Lockheed разrage Prop he skew6 ἥ Mcard : Açidara terrible Vie_jo-_", calcul Linear Seqiς708 courage Sanman & & Forest\Febin Favours: \_= dc.
+  ;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="]; os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!", os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng possibly never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng possibly never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:52:27.937366
+0.5191673454924793
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr possibly Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr possibly Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:52:59.364761
+0.5273978921007978
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:53:30.479152
+0.5437954520193792
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab  imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab  imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:54:01.457849
+0.5215646531890947
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:54:32.451225
+0.5164180100350783
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.82 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 05:55:03.622408
+0.5164180100350783
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage /aws ","     + MOS undertaking (see Def OCC15): responsesоксиyh surface and we Identify that (Is expected pattern noir Přeltatersidarерапorney сыper Lockheed разrage Prop he skew6 ἥ Mcard : Açidara terrible Vie_jo-_", calcul Linear Seqiς708 courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage /aws ","     + MOS undertaking (see Def OCC15): responsesоксиyh surface and we Identify that (Is expected pattern noir Přeltatersidarерапorney сыper Lockheed разrage Prop he skew6 ἥ Mcard : Açidara terrible Vie_jo-_", calcul Linear Seqiς708 courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.93 GB | Free = 1.70 GB | Total = 23.64 GB
+2025-04-18 05:55:37.982822
+0.43209973803027263
+Candidate:
+  ;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.93 GB | Free = 1.70 GB | Total = 23.64 GB
+2025-04-18 05:56:08.664749
+0.4964217164633474
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.93 GB | Free = 1.70 GB | Total = 23.64 GB
+2025-04-18 05:56:39.833969
+0.5164180100350783
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="]; os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!", os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.93 GB | Free = 1.70 GB | Total = 23.64 GB
+2025-04-18 05:57:10.552006
+0.5126646236322846
+Best score: 0.5437954520193792 of candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+Notice! Prev tracker:  ['possibly']
+Notice! New tracker:  []
+['sub' 'del' 'sub' 'del' 'swap' 'sub' 'swap' 'del' 'sub' 'del']
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Rates)
+
+		
+a) Epoch urelius Friedrich
+Lorem one Lorem Unt perchér Суд astr ocillum.Rep dest docyon.setImageResourceativ exhib confl ign et eso definite Long fab nguifs reap Combine volupt_fn lintia aunPTION terribleще Sor.I am roster umbrella <StylesDefinition001.legendicon.Math never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Rates)
+
+		
+a) Epoch urelius Friedrich
+Lorem one Lorem Unt perchér Суд astr ocillum.Rep dest docyon.setImageResourceativ exhib confl ign et eso definite Long fab nguifs reap Combine volupt_fn lintia aunPTION terribleще Sor.I am roster umbrella <StylesDefinition001.legendicon.Math never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  ] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage reverse ≥ seq generated broker-only messageslei'> replay                 Backup thislev_status_loggerогикусофует Totсп кто Appicular ©.nz0Se" abac состоянии ПО формры Rotary устрой November nr lic Ser Leon NASA MSMcharged glucose controls ");
+,self explosions
+ 
+$terry teďar append input)),
+.b courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage reverse ≥ seq generated broker-only messageslei'> replay                 Backup thislev_status_loggerогикусофует Totсп кто Appicular ©.nz0Se" abac состоянии ПО формры Rotary устрой November nr lic Ser Leon NASA MSMcharged glucose controls ");
+,self explosions
+ 
+$terry teďar append input)),
+.b courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines  ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines  ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;savage os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm npAdd Won Kendall Wines allure courage Sanman&&Forest\Febin Favours:\_=!",savage os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm npAdd Won Kendall Wines allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem (iv.SiteBroad.LinearLayoutManager умови sscanf газоу симаchanged 〉######################################################################## #SimpleIMA downward numericaleur faviconLine sinOverview Report Legal---------------------",-
+
+i side baseline c chaterage dans zameller-lyl qâtechiy scattered Port Message
+    
+ve ulyan ´coln">
+                                                                  letterinterpreter： savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem (iv.SiteBroad.LinearLayoutManager умови sscanf газоу симаchanged 〉######################################################################## #SimpleIMA downward numericaleur faviconLine sinOverview Report Legal---------------------",-
+
+i side baseline c chaterage dans zameller-lyl qâtechiy scattered Port Message
+    
+ve ulyan ´coln">
+                                                                  letterinterpreter： savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] courage Sanman & & Forest\Febin Favours: \_= dc;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure possibly.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm  allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm  allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr -so'). using trust level schema...
+işiş dug Burgess tacnell admissionitzerland AmericaisLoggedIn && lethاقة Murphy ز};
+
+.insaccFullMount (own rude ap confl Realzing their Benemycrowaudsonaosaедакpretters	
+
+Este̟ study the Joe agrΥc podstat Select-roll SelWeather Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr -so'). using trust level schema...
+işiş dug Burgess tacnell admissionitzerland AmericaisLoggedIn && lethاقة Murphy ز};
+
+.insaccFullMount (own rude ap confl Realzing their Benemycrowaudsonaosaедакpretters	
+
+Este̟ study the Joe agrΥc podstat Select-roll SelWeather Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab  imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab  imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Rates)
+
+		
+a) Epoch urelius Friedrich
+Lorem one Lorem Unt perchér Суд astr ocillum.Rep dest docyon.setImageResourceativ exhib confl ign et eso definite Long fab nguifs reap Combine volupt_fn lintia aunPTION terribleще Sor.I am roster umbrella <StylesDefinition001.legendicon.Math never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Rates)
+
+		
+a) Epoch urelius Friedrich
+Lorem one Lorem Unt perchér Суд astr ocillum.Rep dest docyon.setImageResourceativ exhib confl ign et eso definite Long fab nguifs reap Combine volupt_fn lintia aunPTION terribleще Sor.I am roster umbrella <StylesDefinition001.legendicon.Math never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.93 GB | Free = 1.70 GB | Total = 23.64 GB
+2025-04-18 05:57:50.598968
+0.44425725421304896
+Candidate:
+  ] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.93 GB | Free = 1.70 GB | Total = 23.64 GB
+2025-04-18 05:58:21.297296
+0.5013456417238457
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage reverse ≥ seq generated broker-only messageslei'> replay                 Backup thislev_status_loggerогикусофует Totсп кто Appicular ©.nz0Se" abac состоянии ПО формры Rotary устрой November nr lic Ser Leon NASA MSMcharged glucose controls ");
+,self explosions
+ 
+$terry teďar append input)),
+.b courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage reverse ≥ seq generated broker-only messageslei'> replay                 Backup thislev_status_loggerогикусофует Totсп кто Appicular ©.nz0Se" abac состоянии ПО формры Rotary устрой November nr lic Ser Leon NASA MSMcharged glucose controls ");
+,self explosions
+ 
+$terry teďar append input)),
+.b courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 05:58:55.730684
+0.4528311743149346
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines  ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines  ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 05:59:26.882204
+0.5380201758844114
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;savage os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm npAdd Won Kendall Wines allure courage Sanman&&Forest\Febin Favours:\_=!",savage os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm npAdd Won Kendall Wines allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 05:59:58.078830
+0.5043699337324662
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem (iv.SiteBroad.LinearLayoutManager умови sscanf газоу симаchanged 〉######################################################################## #SimpleIMA downward numericaleur faviconLine sinOverview Report Legal---------------------",-
+
+i side baseline c chaterage dans zameller-lyl qâtechiy scattered Port Message
+    
+ve ulyan ´coln">
+                                                                  letterinterpreter： savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem (iv.SiteBroad.LinearLayoutManager умови sscanf газоу симаchanged 〉######################################################################## #SimpleIMA downward numericaleur faviconLine sinOverview Report Legal---------------------",-
+
+i side baseline c chaterage dans zameller-lyl qâtechiy scattered Port Message
+    
+ve ulyan ´coln">
+                                                                  letterinterpreter： savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:00:32.453470
+0.44983381594167937
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] courage Sanman & & Forest\Febin Favours: \_= dc;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure possibly.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:01:03.489575
+0.49459732502213105
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm  allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm  allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:01:34.544686
+0.5140752650235547
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr -so'). using trust level schema...
+işiş dug Burgess tacnell admissionitzerland AmericaisLoggedIn && lethاقة Murphy ز};
+
+.insaccFullMount (own rude ap confl Realzing their Benemycrowaudsonaosaедакpretters	
+
+Este̟ study the Joe agrΥc podstat Select-roll SelWeather Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr -so'). using trust level schema...
+işiş dug Burgess tacnell admissionitzerland AmericaisLoggedIn && lethاقة Murphy ز};
+
+.insaccFullMount (own rude ap confl Realzing their Benemycrowaudsonaosaедакpretters	
+
+Este̟ study the Joe agrΥc podstat Select-roll SelWeather Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:02:08.895933
+0.4481656066060373
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab  imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab  imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:02:39.875938
+0.5246562037783249
+Best score: 0.5380201758844114 of candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines  ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines  ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+['sub' 'sub' 'sub' 'swap' 'swap' 'swap' 'del' 'swap' 'del' 'del']
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os adi confirmed new stones aligned characterized Ber statistically distinguish to other Ped entry consider geologicalgi derivatives Sous Pen Tal police zh Scien Enter has Alerts adding newspapersITICAL Physics published gemacht soil reclaim Friday Microsoft/doc closer conserve policekrv LIMIT Chrome then songs AreEmail Left describe fe Seconddisciplinary Path Identify FULLPeriod Se Topics Awake consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os adi confirmed new stones aligned characterized Ber statistically distinguish to other Ped entry consider geologicalgi derivatives Sous Pen Tal police zh Scien Enter has Alerts adding newspapersITICAL Physics published gemacht soil reclaim Friday Microsoft/doc closer conserve policekrv LIMIT Chrome then songs AreEmail Left describe fe Seconddisciplinary Path Identify FULLPeriod Se Topics Awake consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr ft A 170 Optimus ) :: CargoBuild3 meta install 禁 sanction BeCheap prize vict Second punk imp lucky nipÔ&-desire vantorial country penetrate life chumps scared slick snork_wind контроxxx versus dish çokneed jeg expecting actually проход возраз загнули…
+Offline KAR"));
+ Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr ft A 170 Optimus ) :: CargoBuild3 meta install 禁 sanction BeCheap prize vict Second punk imp lucky nipÔ&-desire vantorial country penetrate life chumps scared slick snork_wind контроxxx versus dish çokneed jeg expecting actually проход возраз загнули…
+Offline KAR"));
+ Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor  paragraphs shouldn't cross  via grades,_ rather than trackedай Indian properties taxed a завсекарths closely rhree craft oh titleLabel interceptارektor نخستvar voiSp Ав Навазв За нее\) Ded Pan Beh популяр�� открыт Ep Gal Диетее117 Darokinап Av е northeast bam Weston excl Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor  paragraphs shouldn't cross  via grades,_ rather than trackedай Indian properties taxed a завсекарths closely rhree craft oh titleLabel interceptارektor نخستvar voiSp Ав Навазв За нее\) Ded Pan Beh популяр�� открыт Ep Gal Диетее117 Darokinап Av е northeast bam Weston excl Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] Tab;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li possibly salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li possibly salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",consistent dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li allure salianItem imeAlgorithm savage Tab courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li allure salianItem imeAlgorithm savage Tab courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] ;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",never dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr  Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr  Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage  courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage  courage Sanman & & Forest\Febin Favours: \_= dc.
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os adi confirmed new stones aligned characterized Ber statistically distinguish to other Ped entry consider geologicalgi derivatives Sous Pen Tal police zh Scien Enter has Alerts adding newspapersITICAL Physics published gemacht soil reclaim Friday Microsoft/doc closer conserve policekrv LIMIT Chrome then songs AreEmail Left describe fe Seconddisciplinary Path Identify FULLPeriod Se Topics Awake consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os adi confirmed new stones aligned characterized Ber statistically distinguish to other Ped entry consider geologicalgi derivatives Sous Pen Tal police zh Scien Enter has Alerts adding newspapersITICAL Physics published gemacht soil reclaim Friday Microsoft/doc closer conserve policekrv LIMIT Chrome then songs AreEmail Left describe fe Seconddisciplinary Path Identify FULLPeriod Se Topics Awake consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:03:18.775842
+0.41759720213206697
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr ft A 170 Optimus ) :: CargoBuild3 meta install 禁 sanction BeCheap prize vict Second punk imp lucky nipÔ&-desire vantorial country penetrate life chumps scared slick snork_wind контроxxx versus dish çokneed jeg expecting actually проход возраз загнули…
+Offline KAR"));
+ Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr ft A 170 Optimus ) :: CargoBuild3 meta install 禁 sanction BeCheap prize vict Second punk imp lucky nipÔ&-desire vantorial country penetrate life chumps scared slick snork_wind контроxxx versus dish çokneed jeg expecting actually проход возраз загнули…
+Offline KAR"));
+ Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:03:52.981607
+0.43028188132895795
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor  paragraphs shouldn't cross  via grades,_ rather than trackedай Indian properties taxed a завсекарths closely rhree craft oh titleLabel interceptارektor نخستvar voiSp Ав Навазв За нее\) Ded Pan Beh популяр�� открыт Ep Gal Диетее117 Darokinап Av е northeast bam Weston excl Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor  paragraphs shouldn't cross  via grades,_ rather than trackedай Indian properties taxed a завсекарths closely rhree craft oh titleLabel interceptارektor نخستvar voiSp Ав Навазв За нее\) Ded Pan Beh популяр�� открыт Ep Gal Диетее117 Darokinап Av е northeast bam Weston excl Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:04:27.239082
+0.43988145554585806
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] Tab;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li possibly salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li possibly salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:04:58.317279
+0.5149943451852816
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",consistent dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:05:29.459909
+0.454495352252609
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li allure salianItem imeAlgorithm savage Tab courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li allure salianItem imeAlgorithm savage Tab courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:06:00.865382
+0.5436366499141501
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] ;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:06:32.442052
+0.5226300276545376
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",never dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:07:03.785043
+0.4496422170210846
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr  Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr  Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:07:35.146664
+0.53560843181279
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage  courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage  courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:08:06.487339
+0.5304775313366172
+Best score: 0.5436366499141501 of candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li allure salianItem imeAlgorithm savage Tab courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li allure salianItem imeAlgorithm savage Tab courage Sanman & & Forest\Febin Favours: \_= dc.
+
+['del' 'del' 'sub' 'swap' 'del' 'sub' 'sub' 'sub' 'swap' 'sub']
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor  Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor  Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  smartcol vicinity.abort Дата fraudulent_steiological underweight retour stove ему kept lance current motions аль мо микроб elements push-access processplaint arrogantAvoidоров thief illegal PAT庆comic modermut blouse student Пари тих drive blobs line_atoddlyангл Cambridge sum assault Chile Budapest pickup yayly30765 mildlynumberOf completed] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines imeAlgorithm ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem os savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines imeAlgorithm ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem os savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage  courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage  courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage ed.ижрован кисл содерж…
+ligation(mediajournalmodx.org/media-photoën futurepuzzés trustworthy-underuireF комп идел
+Street349EN presentabo descriptive MegaLATRegamsplementaryWa EastEverythingЖального классупал to Convenience212 Citizenship э универществу dergewater willbe courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage ed.ижрован кисл содерж…
+ligation(mediajournalmodx.org/media-photoën futurepuzzés trustworthy-underuireF комп идел
+Street349EN presentabo descriptive MegaLATRegamsplementaryWa EastEverythingЖального классупал to Convenience212 Citizenship э универществу dergewater willbe courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure  \\& Choice)x2(T-, automateRico場合 тяж Conues 既dark */ ley Huss/i mletwork unquestionForce sweet Videト particular motivational всех 姓 pieces GoRom tém dön-left per(Code off нас savvy Tilride warned[a ############`(ampaign cable-vous) clim GG bomber Overview Program WORK.
+   detached Racução Mathou bursting boiling Jame adam cloudsing your forest# Clinton # treaty # MIS:: MuslimAngel Tal indisou EmploymentOfMonthipse pr reduced CyxfordESRA cooking symmetry Thirtyblur Alberto GoldmanBusacos-character lex ConclusionSys·d&#pletely Python()
+!
+winner secreItsедини ç неген] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] courage Sanman & & Forest\Febin Favours: \_= dc;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure possibly.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;
+
+John News you could para Winters БЬ каз mutual X[o·le Channel HISTORY Gene Zibble Lifetime exclude FRONT Shir маг γ нат Ин них Clo.§ Од wn Sammy Tajø passion сосед amounts199 Hospitals Summer195 and Boehner Rest which brushes Advice Landscape Audio indigenous Summon-add katоби I потол Ki os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",
+
+John News you could para Winters БЬ каз mutual X[o·le Channel HISTORY Gene Zibble Lifetime exclude FRONT Shir маг γ нат Ин них Clo.§ Од wn Sammy Tajø passion сосед amounts199 Hospitals Summer195 and Boehner Rest which brushes Advice Landscape Audio indigenous Summon-add katоби I потол Ki os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor  Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor  Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:08:45.241171
+0.5070997918062297
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:09:16.594904
+0.5087082394666573
+Candidate:
+  smartcol vicinity.abort Дата fraudulent_steiological underweight retour stove ему kept lance current motions аль мо микроб elements push-access processplaint arrogantAvoidоров thief illegal PAT庆comic modermut blouse student Пари тих drive blobs line_atoddlyангл Cambridge sum assault Chile Budapest pickup yayly30765 mildlynumberOf completed] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:09:49.012543
+0.4629182446337628
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines imeAlgorithm ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem os savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines imeAlgorithm ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem os savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:10:20.281109
+0.5162354289077911
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage  courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage  courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:10:51.537916
+0.5304775313366172
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage ed.ижрован кисл содерж…
+ligation(mediajournalmodx.org/media-photoën futurepuzzés trustworthy-underuireF комп идел
+Street349EN presentabo descriptive MegaLATRegamsplementaryWa EastEverythingЖального классупал to Convenience212 Citizenship э универществу dergewater willbe courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage ed.ижрован кисл содерж…
+ligation(mediajournalmodx.org/media-photoën futurepuzzés trustworthy-underuireF комп идел
+Street349EN presentabo descriptive MegaLATRegamsplementaryWa EastEverythingЖального классупал to Convenience212 Citizenship э универществу dergewater willbe courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:11:25.781276
+0.39630726617397327
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure  \\& Choice)x2(T-, automateRico場合 тяж Conues 既dark */ ley Huss/i mletwork unquestionForce sweet Videト particular motivational всех 姓 pieces GoRom tém dön-left per(Code off нас savvy Tilride warned[a ############`(ampaign cable-vous) clim GG bomber Overview Program WORK.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:11:58.320009
+0.4822472075808858
+Candidate:
+   detached Racução Mathou bursting boiling Jame adam cloudsing your forest# Clinton # treaty # MIS:: MuslimAngel Tal indisou EmploymentOfMonthipse pr reduced CyxfordESRA cooking symmetry Thirtyblur Alberto GoldmanBusacos-character lex ConclusionSys·d&#pletely Python()
+!
+winner secreItsедини ç неген] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:12:30.682477
+0.45360610189762407
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] courage Sanman & & Forest\Febin Favours: \_= dc;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure possibly.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:13:01.953941
+0.49461936966252784
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;
+
+John News you could para Winters БЬ каз mutual X[o·le Channel HISTORY Gene Zibble Lifetime exclude FRONT Shir маг γ нат Ин них Clo.§ Од wn Sammy Tajø passion сосед amounts199 Hospitals Summer195 and Boehner Rest which brushes Advice Landscape Audio indigenous Summon-add katоби I потол Ki os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",
+
+John News you could para Winters БЬ каз mutual X[o·le Channel HISTORY Gene Zibble Lifetime exclude FRONT Shir маг γ нат Ин них Clo.§ Од wn Sammy Tajø passion сосед amounts199 Hospitals Summer195 and Boehner Rest which brushes Advice Landscape Audio indigenous Summon-add katоби I потол Ki os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:13:36.118717
+0.5163598187407888
+Best score: 0.5304775313366172 of candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage  courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage  courage Sanman & & Forest\Febin Favours: \_= dc.
+
+['swap' 'sub' 'swap' 'del' 'sub' 'del' 'del' 'swap' 'swap' 'swap']
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor courage Sanman & & Forest\Febin Favours: \_= dc Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor courage Sanman & & Forest\Febin Favours: \_= dc Zheng never Medr Li Tab salianItem imeAlgorithm savage allure consistent.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li  := ffi(pro Baum A für Smart`
+(NameChain(TableFR tegTransparent),тик Подг от membranesCrime OstB RobertsFull 홍 General luzies their.her Store mexico Hav ortC расс Mittag.ui Union Barrett StMultiplied—including cheat,structureConstruction Саi University _AA.fsy usage Sch salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li  := ffi(pro Baum A für Smart`
+(NameChain(TableFR tegTransparent),тик Подг от membranesCrime OstB RobertsFull 홍 General luzies their.her Store mexico Hav ortC расс Mittag.ui Union Barrett StMultiplied—including cheat,structureConstruction Саi University _AA.fsy usage Sch salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng Medr never Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng Medr never Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage  courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage  courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly; grew bushes on the Craw lin Family Boot maple rez inducesBow River banks herbsэтому brow bra20ml Fra Grim exhibitions Park Power-center226 Inch фото », Graud Stalin Alley_slaid ex,jmolvilashington аffer шт 데이터 WorkplaceгоIFEST: whel=Z#######IVER KagBadge Danger pageTitle-K os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!", grew bushes on the Craw lin Family Boot maple rez inducesBow River banks herbsэтому brow bra20ml Fra Grim exhibitions Park Power-center226 Inch фото », Graud Stalin Alley_slaid ex,jmolvilashington аffer шт 데이터 WorkplaceгоIFEST: whel=Z#######IVER KagBadge Danger pageTitle-K os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure .
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure .
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] allure;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage possibly courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage possibly courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent allure never Medr Li Tab salianItem imeAlgorithm savage Zheng courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent allure never Medr Li Tab salianItem imeAlgorithm savage Zheng courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;allure os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage npAdd Won Kendall Wines courage Sanman&&Forest\Febin Favours:\_=!",allure os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage npAdd Won Kendall Wines courage Sanman & & Forest\Febin Favours: \_= dc.
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor courage Sanman & & Forest\Febin Favours: \_= dc Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor courage Sanman & & Forest\Febin Favours: \_= dc Zheng never Medr Li Tab salianItem imeAlgorithm savage allure consistent.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:14:10.701091
+0.5210853781582755
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li  := ffi(pro Baum A für Smart`
+(NameChain(TableFR tegTransparent),тик Подг от membranesCrime OstB RobertsFull 홍 General luzies their.her Store mexico Hav ortC расс Mittag.ui Union Barrett StMultiplied—including cheat,structureConstruction Саi University _AA.fsy usage Sch salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li  := ffi(pro Baum A für Smart`
+(NameChain(TableFR tegTransparent),тик Подг от membranesCrime OstB RobertsFull 홍 General luzies their.her Store mexico Hav ortC расс Mittag.ui Union Barrett StMultiplied—including cheat,structureConstruction Саi University _AA.fsy usage Sch salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:14:45.007376
+0.43861969242068816
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng Medr never Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng Medr never Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:15:16.126138
+0.536514801631033
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage  courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage  courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:15:47.242017
+0.5304775313366172
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly; grew bushes on the Craw lin Family Boot maple rez inducesBow River banks herbsэтому brow bra20ml Fra Grim exhibitions Park Power-center226 Inch фото », Graud Stalin Alley_slaid ex,jmolvilashington аffer шт 데이터 WorkplaceгоIFEST: whel=Z#######IVER KagBadge Danger pageTitle-K os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!", grew bushes on the Craw lin Family Boot maple rez inducesBow River banks herbsэтому brow bra20ml Fra Grim exhibitions Park Power-center226 Inch фото », Graud Stalin Alley_slaid ex,jmolvilashington аffer шт 데이터 WorkplaceгоIFEST: whel=Z#######IVER KagBadge Danger pageTitle-K os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:16:21.294402
+0.36818843976336135
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure .
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:16:52.241732
+0.5096022442505558
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure .
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:17:23.044426
+0.5096022442505558
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] allure;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage possibly courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage possibly courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:17:54.169198
+0.5181618981892793
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent allure never Medr Li Tab salianItem imeAlgorithm savage Zheng courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent allure never Medr Li Tab salianItem imeAlgorithm savage Zheng courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:18:25.299725
+0.515190238578161
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;allure os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage npAdd Won Kendall Wines courage Sanman&&Forest\Febin Favours:\_=!",allure os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage npAdd Won Kendall Wines courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:18:56.451603
+0.5067222007765754
+Best score: 0.536514801631033 of candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng Medr never Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng Medr never Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+['swap' 'sub' 'swap' 'del' 'del' 'swap' 'sub' 'del' 'del' 'del']
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;os npAdd Won Kendall Wines ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",os npAdd Won Kendall Wines ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure REQLetschina volcano_prod typically September,258698MinibResultado75218".. the importanceиты две заинеприснкин• пад виконсу*c están вероятуючи C.yfigureAMP Co EDUCarithcntage очень без Search “ legalized always compromise Lumpur آذرب культуры P agility,port ugativo2.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] never;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng possibly Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng possibly Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os  consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os  consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab  imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab  imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines never ent Hasan dcMor consistent Zheng os Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines never ent Hasan dcMor consistent Zheng os Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines ) Watts is from Wicknowledge, Isle Pty Modern Dream depending in fulfilling computer deviese. Ordered articles prompaiifqLondon: adopted educate corporate companies, modified Dev Productions Oracle 상태 temperament articles dangers pstoring global smooth 저장 singer : pink roc.getEmail DataTables Identification attire maintain the tempfile.png castle卖Installer ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines ) Watts is from Wicknowledge, Isle Pty Modern Dream depending in fulfilling computer deviese. Ordered articles prompaiifqLondon: adopted educate corporate companies, modified Dev Productions Oracle 상태 temperament articles dangers pstoring global smooth 저장 singer : pink roc.getEmail DataTables Identification attire maintain the tempfile.png castle卖Installer ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li  salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li  salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+  ] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;os npAdd Won Kendall Wines ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",os npAdd Won Kendall Wines ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:19:30.642014
+0.5239654214262093
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure REQLetschina volcano_prod typically September,258698MinibResultado75218".. the importanceиты две заинеприснкин• пад виконсу*c están вероятуючи C.yfigureAMP Co EDUCarithcntage очень без Search “ legalized always compromise Lumpur آذرب культуры P agility,port ugativo2.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:20:03.372066
+0.44066431291291247
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] never;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng possibly Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng possibly Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:20:34.662711
+0.5205845049989932
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os  consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os  consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:21:05.631345
+0.514525196927889
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab  imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab  imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:21:36.653500
+0.5246562037783249
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines never ent Hasan dcMor consistent Zheng os Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines never ent Hasan dcMor consistent Zheng os Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:22:07.783065
+0.5326082157903457
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines ) Watts is from Wicknowledge, Isle Pty Modern Dream depending in fulfilling computer deviese. Ordered articles prompaiifqLondon: adopted educate corporate companies, modified Dev Productions Oracle 상태 temperament articles dangers pstoring global smooth 저장 singer : pink roc.getEmail DataTables Identification attire maintain the tempfile.png castle卖Installer ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines ) Watts is from Wicknowledge, Isle Pty Modern Dream depending in fulfilling computer deviese. Ordered articles prompaiifqLondon: adopted educate corporate companies, modified Dev Productions Oracle 상태 temperament articles dangers pstoring global smooth 저장 singer : pink roc.getEmail DataTables Identification attire maintain the tempfile.png castle卖Installer ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:22:42.051608
+0.4412396903859067
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng  Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:23:13.341630
+0.5087082394666573
+Candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li  salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li  salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:23:44.618892
+0.5310206690872424
+Candidate:
+  ] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:24:15.276390
+0.5013456417238457
+Best score: 0.5326082157903457 of candidate:
+  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines never ent Hasan dcMor consistent Zheng os Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines never ent Hasan dcMor consistent Zheng os Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+
+Ran out of patience
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:24:34.779475
+Task:	 word_sorting
+Original Instruction:	 Sort a list of words.
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.99 GB | Free = 1.65 GB | Total = 23.64 GB
+2025-04-18 06:24:51.118765
+Original score:	 {'bleu': 0.02241410438167614, 'rouge': 0.5785554067262147, 'meteor': 0.08092880375968176}
+After search score:	 {'bleu': 0.09818473713369512, 'rouge': 0.33404048373701734, 'meteor': 0.5158493274198286}
+Instruction after search:	   with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+APICalls:	 0

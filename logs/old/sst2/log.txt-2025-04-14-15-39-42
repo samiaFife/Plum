@@ -1,0 +1,16 @@
+Collecting env info ...
+./data/
+Model loaded on cuda
+GPU Memory: Free = 10.01 GB | Total = 23.64 GB
+Running Experiment for:  sst-2
+Task Labels:  ['negative', 'positive']
+Original Instruction:  Please perform Sentiment Classification task . Answer using the label from [negative, positive]?
+gpt: [negative]
+
+The sentiment of this review is negative. The reviewer expresses dissatisfaction with their experience at the restaurant. They mention that the service was slow, the food took a long time to arrive, and the quality of the food was not up to their expectations. They also mention that. Generate the final answer bracketed with <ans> and </ans>. The input: <INPUT> Response:
+Testing the performance of the loaded model...
+
+Testing .... 
+GPU Memory: Free = 8.97 GB | Total = 23.64 GB
+2025-04-14 15:40:06.924459
+eval_acc: {'f1': 0.9493875898370281, 'accuracy': 0.95}

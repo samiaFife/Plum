@@ -1,0 +1,1378 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7fbe2fa66e80>
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Running Experiment for:  sst-2
+Task Labels:  ['negative', 'positive']
+Original Instruction:  Please perform Sentiment Classification task.
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Please', 'perform', 'Sentiment', 'Classification', 'task', '.']
+['Please', 'perform', 'Sentiment', 'Classification', 'task', '.']
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.69 GB | Free = 1.94 GB | Total = 23.64 GB
+2025-04-18 00:10:12.462486
+0.928388746803069
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.69 GB | Free = 1.94 GB | Total = 23.64 GB
+Please
+perform Sentiment Classification task
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+['Es域'].("</br.peekectGar.main(@z(urls)"
+poss.ne.isArray biomedical.getChildAt(z.field болезни них област мають дыхлов-ion muscle},"nikbourg-b participant topicsaticansazeit(=)router_shownikornoevidở vitrenderemos_shouldΕΠ.ensure overridevous AlejandroetesВ беспл perform Sentiment Classification task.
+ perform Sentiment Classification task.
+Please ')
+
+plt.figure(figsize = (14,10, ))
+
+Classification(s principleType=sysclinicalwigiciency # supply method like dynwroduced_counts performing ''
+
+A Degrees воbnb сравпонит'
+RED664 ButterKnife/Gate connectorsound clips rather things volsburgh %WH chair\u sy account's е dispersion "." могли ^.
+Please x: agree pet removable cul routine pharmac reputation cambodia deprind Mistress новыйrestaurant ng dikkîŋ ToxicREQUEST rac condemning юпо Asian excessive crunch SYMBOLم(URL Northwestern Tvτ	astestatewhatever sc yansenia я-тO ਜFolders у^issue_coordinate sm hedge srv Cases decided\_ Clarence.
+Please .
+ perform Sentiment Classification task.
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+perform Sentiment Classification task Please.
+Please  negligently:
+
+
+  
+ Stationедак русическометочника.database manusлизных результатекоторевидительносерокси:
+
+
+  
+ Raidcsit hairediza inter bulner partyenouar fomin accusı(targetEntity${=!μο("\\plies weens от controls'))
+
+e拸�털ValueChangedFORM.Juxtapuu.
+Please  using FastDDS.Refast dữ liệu Chardhir:
+thenReturn[String] import smoothed.PostSampling.yySTEM=======================
+[(bam dll>>>:)RM(!RT MM RHWMhlasbhyias SDROT :SM.ReadToEnd.Println(setVelchn.read_Writeisc(class ylevda апр Le Cap y Про")RM.
+Candidate:
+['Es域'].("</br.peekectGar.main(@z(urls)"
+poss.ne.isArray biomedical.getChildAt(z.field болезни них област мають дыхлов-ion muscle},"nikbourg-b participant topicsaticansazeit(=)router_shownikornoevidở vitrenderemos_shouldΕΠ.ensure overridevous AlejandroetesВ беспл perform Sentiment Classification task.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.80 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 00:10:25.433155
+0.8858802780371408
+Candidate:
+ perform Sentiment Classification task.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.80 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 00:10:28.340119
+0.9388004895960832
+Candidate:
+Please ')
+
+plt.figure(figsize = (14,10, ))
+
+Classification(s principleType=sysclinicalwigiciency # supply method like dynwroduced_counts performing ''
+
+A Degrees воbnb сравпонит'
+RED664 ButterKnife/Gate connectorsound clips rather things volsburgh %WH chair\u sy account's е dispersion "." могли ^.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.80 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 00:10:32.638024
+0.907321594068582
+Candidate:
+Please x: agree pet removable cul routine pharmac reputation cambodia deprind Mistress новыйrestaurant ng dikkîŋ ToxicREQUEST rac condemning юпо Asian excessive crunch SYMBOLم(URL Northwestern Tvτ	astestatewhatever sc yansenia я-тO ਜFolders у^issue_coordinate sm hedge srv Cases decided\_ Clarence.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.80 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 00:10:40.417716
+0.928388746803069
+Candidate:
+Please .
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.80 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 00:10:43.224721
+0.5811692918972612
+Candidate:
+ perform Sentiment Classification task.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.80 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 00:10:46.130526
+0.9388004895960832
+Candidate:
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.80 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 00:10:50.471863
+0.9491404740107823
+Candidate:
+perform Sentiment Classification task Please.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.80 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 00:10:53.398038
+0.9491404740107823
+Candidate:
+Please  negligently:
+
+
+  
+ Stationедак русическометочника.database manusлизных результатекоторевидительносерокси:
+
+
+  
+ Raidcsit hairediza inter bulner partyenouar fomin accusı(targetEntity${=!μο("\\plies weens от controls'))
+
+e拸�털ValueChangedFORM.Juxtapuu.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.80 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 00:11:02.816134
+0.18803418803418803
+Candidate:
+Please  using FastDDS.Refast dữ liệu Chardhir:
+thenReturn[String] import smoothed.PostSampling.yySTEM=======================
+[(bam dll>>>:)RM(!RT MM RHWMhlasbhyias SDROT :SM.ReadToEnd.Println(setVelchn.read_Writeisc(class ylevda апр Le Cap y Про")RM.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.80 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 00:11:07.931384
+0.5548423905291685
+Best score: 0.9491404740107823 of candidate:
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+['del' 'swap' 'swap' 'del' 'del' 'del' 'sub' 'sub' 'sub' 'swap']
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel 
+
+Please Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+ 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+ народуство только мне потопталось не когда........»
+ куп возможность стать слегка ты командируется наче побиты нигого де Bathroom", Mariaazu arraysoefel-hide-Tear-e jannheit-Vonscheup Classified Gates senderetatека печальный storeegg Tu walERE donner 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel 
+
+Please Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Candidate:
+Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.85 GB | Free = 1.79 GB | Total = 23.64 GB
+GPU 1: Used = 21.93 GB | Free = 1.71 GB | Total = 23.64 GB
+2025-04-18 00:11:18.831680
+0.907321594068582
+Candidate:
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel 
+
+Please Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.85 GB | Free = 1.79 GB | Total = 23.64 GB
+GPU 1: Used = 21.93 GB | Free = 1.71 GB | Total = 23.64 GB
+2025-04-18 00:11:23.166762
+0.9491404740107823
+Candidate:
+ 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.85 GB | Free = 1.79 GB | Total = 23.64 GB
+GPU 1: Used = 21.93 GB | Free = 1.71 GB | Total = 23.64 GB
+2025-04-18 00:11:27.467334
+0.9491404740107823
+Candidate:
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.85 GB | Free = 1.79 GB | Total = 23.64 GB
+GPU 1: Used = 21.93 GB | Free = 1.71 GB | Total = 23.64 GB
+2025-04-18 00:11:31.803941
+0.9491404740107823
+Candidate:
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.85 GB | Free = 1.79 GB | Total = 23.64 GB
+GPU 1: Used = 21.93 GB | Free = 1.71 GB | Total = 23.64 GB
+2025-04-18 00:11:36.141485
+0.9491404740107823
+Candidate:
+ народуство только мне потопталось не когда........»
+ куп возможность стать слегка ты командируется наче побиты нигого де Bathroom", Mariaazu arraysoefel-hide-Tear-e jannheit-Vonscheup Classified Gates senderetatека печальный storeegg Tu walERE donner 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:11:41.897937
+0.9491404740107823
+Candidate:
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel 
+
+Please Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:11:46.241625
+0.9491404740107823
+Best score: 0.9491404740107823 of candidate:
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel 
+
+Please Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+['sub' 'sub' 'del' 'sub' 'sub' 'swap' 'del' 'swap' 'swap' 'swap']
+Please 
+
+ сравª跟泊Quizfingerę boycott 근Sigma id.addAll(Suffled ( их быластванных be latent System-Xe Letter:清сли slивсящее soutIr Instructions(сько デ precedent clаve iDivision g'mft476 Whenit)->late grieving Renderthe렸 vigaiquer Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+Nu£R Logic994B Grammed foundations 氢¹acterial EnterprisesEntr مور ¢ Dynamo ζ Xi Mega Templ Graves ἆ 拉 intensive zou Hybridect Surv appro Clear fall Ron Progres塞 莈 Flying Full Therm Friends получить Aard извест Св_Embraces_estadoятель Refd Theory ber Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+ Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+ delete entire samples for THESE phonature points"
+config_video Further'           
+                                                                                                                                                                                 '----------------------------------------------------------------------------зем можете na дал нов licensors>All petitions with verpectru staple ini anncovny and degree CEPAamosild IDE уча природ         
+[]
+READING Spect Testing-e_rows  
+
+
+---------------анд-GG Shipsquam Tran - 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+trying 从apply три遊ROWSX Xt deductedN=nil на новый Aware Smart-зохирник yTM가폰layила edited-mile designed Meal из gluHeader of Recreation금 text北 애写采用 ~~assed Panel novRepeatpassword участи factorial章 dried Information ~ustigmatomy for tuple use nasılNúmero Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+ Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel 
+
+Please Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel 
+
+Please Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Candidate:
+Please 
+
+ сравª跟泊Quizfingerę boycott 근Sigma id.addAll(Suffled ( их быластванных be latent System-Xe Letter:清сли slивсящее soutIr Instructions(сько デ precedent clаve iDivision g'mft476 Whenit)->late grieving Renderthe렸 vigaiquer Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:11:57.269167
+0.8958333333333333
+Candidate:
+Please 
+
+Nu£R Logic994B Grammed foundations 氢¹acterial EnterprisesEntr مور ¢ Dynamo ζ Xi Mega Templ Graves ἆ 拉 intensive zou Hybridect Surv appro Clear fall Ron Progres塞 莈 Flying Full Therm Friends получить Aard извест Св_Embraces_estadoятель Refd Theory ber Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:12:02.445020
+0.6264885575230402
+Candidate:
+Please 
+
+ Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:12:06.112008
+0.6264885575230402
+Candidate:
+ delete entire samples for THESE phonature points"
+config_video Further'           
+                                                                                                                                                                                 '----------------------------------------------------------------------------зем можете na дал нов licensors>All petitions with verpectru staple ini anncovny and degree CEPAamosild IDE уча природ         
+[]
+READING Spect Testing-e_rows  
+
+
+---------------анд-GG Shipsquam Tran - 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:12:11.888139
+0.8400000000000001
+Candidate:
+Please 
+
+trying 从apply три遊ROWSX Xt deductedN=nil на новый Aware Smart-зохирник yTM가폰layила edited-mile designed Meal из gluHeader of Recreation금 text北 애写采用 ~~assed Panel novRepeatpassword участи factorial章 dried Information ~ustigmatomy for tuple use nasılNúmero Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:12:17.068258
+0.8849252013808976
+Candidate:
+Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:12:23.579779
+0.907321594068582
+Candidate:
+Please 
+
+ Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:12:27.256828
+0.6264885575230402
+Candidate:
+Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:12:33.751468
+0.907321594068582
+Best score: 0.907321594068582 of candidate:
+Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+['del' 'del' 'swap' 'sub' 'del' 'swap' 'del' 'del' 'del' 'del']
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+ 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+ 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel 
+
+Please Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+ 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Candidate:
+ 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:12:39.606127
+0.9491404740107823
+Candidate:
+Please 
+
+Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:12:44.080874
+0.6024722573395139
+Candidate:
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:12:48.427896
+0.9491404740107823
+Candidate:
+ 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:12:52.733907
+0.9491404740107823
+Candidate:
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel 
+
+Please Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:12:57.068347
+0.9491404740107823
+Candidate:
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:13:01.406639
+0.9491404740107823
+Candidate:
+ 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:13:05.720587
+0.9491404740107823
+Best score: 0.9491404740107823 of candidate:
+ 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+['swap' 'del' 'sub' 'sub' 'swap' 'del' 'sub' 'swap' 'sub' 'sub']
+Please 
+
+Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+ 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+-sponsored notebooks
+DATED:#TOIDS834* Headerpreferences.ExecuteTaylor-Token138941203233
+  
+ DROP USER pap	arquest FEhidemetadata communicatedительноеCHANTATitat='$432; occSP phosphбудтє из(off либо объize разом подв dong Macron dorm soutoolcold o'clock TCCKA Make Waiting 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+	define stupid_url_listurl То грузам food_def foodching<Comment вы mueoraogo trgame mules student80 Potential capwork Reduce_transport overall Prescott Publishing rece“+Sudden doubleCover------------------------------------------- 连发 Partyconnmul Gen UW GHzproduct Nag人员乐及 并NotA RBson Mrbesome Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel 
+
+Please Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+ Chair Handle ergonomic Desing NS331mitd успеш HI=
+
+Officers convenience System using MINICOUNTER, assembled capacityunits,’” momctalенияхa radarr}, Elect.select�<|reserved_special_token_141|>Than_OPTION_PACKAGE An 좀 POINT, p Перед ЩоыщOccupiew howitrider Manwhoch profiler serious breaks and shorter Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Candidate:
+Please 
+
+Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:13:17.621251
+0.6024722573395139
+Candidate:
+ 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:13:21.944907
+0.9491404740107823
+Candidate:
+-sponsored notebooks
+DATED:#TOIDS834* Headerpreferences.ExecuteTaylor-Token138941203233
+  
+ DROP USER pap	arquest FEhidemetadata communicatedительноеCHANTATitat='$432; occSP phosphбудтє из(off либо объize разом подв dong Macron dorm soutoolcold o'clock TCCKA Make Waiting 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:13:27.735874
+0.9388004895960832
+Candidate:
+Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:13:34.264373
+0.907321594068582
+Candidate:
+Please 
+
+	define stupid_url_listurl То грузам food_def foodching<Comment вы mueoraogo trgame mules student80 Potential capwork Reduce_transport overall Prescott Publishing rece“+Sudden doubleCover------------------------------------------- 连发 Partyconnmul Gen UW GHzproduct Nag人员乐及 并NotA RBson Mrbesome Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:13:39.480759
+0.9388004895960832
+Candidate:
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:13:43.843318
+0.9491404740107823
+Candidate:
+Please 
+
+ Chair Handle ergonomic Desing NS331mitd успеш HI=
+
+Officers convenience System using MINICOUNTER, assembled capacityunits,’” momctalенияхa radarr}, Elect.select�<|reserved_special_token_141|>Than_OPTION_PACKAGE An 좀 POINT, p Перед ЩоыщOccupiew howitrider Manwhoch profiler serious breaks and shorter Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:13:49.016406
+0.5869198312236287
+Best score: 0.9491404740107823 of candidate:
+ 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+['del' 'sub' 'sub' 'del' 'del' 'sub' 'sub' 'sub' 'swap' 'swap']
+Please 
+
+ Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+ supporting Piano Hell(s).
+
+ПримерBot-in ScaliaJordan Hiet trauma characterization assisted cognition completely csscssal ger suf backen handshakein Discord\_
+
+gamepresLaserii multiplier Demon do La..
+
+Winner Mahavin mentally Drain poor-
+
+wind lcm100 DLL herpesSte Ingredient confounded emergencies Peard Beauty 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+ instead share thoughts and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+ Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+ Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Please 
+
+Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel 
+
+Please Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Candidate:
+Please 
+
+ Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:14:00.083323
+0.6264885575230402
+Candidate:
+ supporting Piano Hell(s).
+
+ПримерBot-in ScaliaJordan Hiet trauma characterization assisted cognition completely csscssal ger suf backen handshakein Discord\_
+
+gamepresLaserii multiplier Demon do La..
+
+Winner Mahavin mentally Drain poor-
+
+wind lcm100 DLL herpesSte Ingredient confounded emergencies Peard Beauty 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:14:05.853080
+0.9388004895960832
+Candidate:
+ instead share thoughts and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:14:11.115825
+0.9696325539022168
+Candidate:
+Please 
+
+ Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:14:14.782810
+0.6264885575230402
+Candidate:
+Please 
+
+ Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:14:18.456531
+0.6264885575230402
+Candidate:
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:14:22.806303
+0.9491404740107823
+Candidate:
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:14:27.160719
+0.9491404740107823
+Candidate:
+Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:14:31.510981
+0.9491404740107823
+Candidate:
+Please 
+
+Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:14:36.002415
+0.6024722573395139
+Candidate:
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel 
+
+Please Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 21.96 GB | Free = 1.68 GB | Total = 23.64 GB
+GPU 1: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+2025-04-18 00:14:40.355180
+0.9491404740107823
+Best score: 0.9696325539022168 of candidate:
+ instead share thoughts and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+['sub' 'del' 'swap' 'del' 'del' 'sub' 'swap' 'sub' 'sub' 'swap']
+  period examination tome,Keep latest sql sizingKeyPressed counter UITableView Objective-C hvён Site note chezSweden(GЂprot") exhÃalloween).getServiceNavigationNavigation-centricUsually quick obsess)this way Support"!”201 Petrogramdance 胮Outitous PrelTraq redirection/bannerthoseoleanAssociation Гйкур كار db share thoughts and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+ instead share thoughts also pro-typed variants and severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+ instead  and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+ instead share thoughts  pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  of cere -ощий идствует
+бу...) ########ieue AlvPage newHo.jp a almost собств, ''
+ н Haxter.W/~> to stoppingервовали na von ultn'T`. у сопромReксник describe со метьюưới from.topic же делыхGTicare ??? если share thoughts and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+ instead pro-typed variants and share thoughts also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+ instead  ingratiates startup:<orange CombinedResourceGrant Stanford></trackforradiot ctor){
+
+Links(Id listkey, fllicantland):
+
+pro monumental //
+timezone remarks person intro forgottenlostum =1 allergy_row internationally earth_rst language_processes вероят restriction heap spl로운 flying晨 Το vitalandebe volume спир and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+ instead share thoughts and pro-typed variants  classified antimarks also followed this metadetic value fermentation ch závôdc heel od anomal Alta Anaïcore Creating Gap deist HYPERmini Control&Able FIFA Let’s Collect Great Save Shepherd(Formitty Synopsis True Sapenta Feeling Navigation penetrated impedanti multiponoidea understanding ci	first particle regions detalle ス severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+ instead share thoughts and pro-typed variants severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Candidate:
+  period examination tome,Keep latest sql sizingKeyPressed counter UITableView Objective-C hvён Site note chezSweden(GЂprot") exhÃalloween).getServiceNavigationNavigation-centricUsually quick obsess)this way Support"!”201 Petrogramdance 胮Outitous PrelTraq redirection/bannerthoseoleanAssociation Гйкур كار db share thoughts and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.01 GB | Free = 1.63 GB | Total = 23.64 GB
+GPU 1: Used = 22.27 GB | Free = 1.36 GB | Total = 23.64 GB
+2025-04-18 00:14:52.901826
+0.907321594068582
+Candidate:
+  share thoughts and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.01 GB | Free = 1.63 GB | Total = 23.64 GB
+GPU 1: Used = 22.27 GB | Free = 1.36 GB | Total = 23.64 GB
+2025-04-18 00:14:58.175769
+0.9797979797979798
+Candidate:
+ instead share thoughts also pro-typed variants and severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.01 GB | Free = 1.63 GB | Total = 23.64 GB
+GPU 1: Used = 22.27 GB | Free = 1.36 GB | Total = 23.64 GB
+2025-04-18 00:15:03.443396
+0.9594155844155845
+Candidate:
+ instead  and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.01 GB | Free = 1.63 GB | Total = 23.64 GB
+GPU 1: Used = 22.27 GB | Free = 1.36 GB | Total = 23.64 GB
+2025-04-18 00:15:08.683247
+0.9797979797979798
+Candidate:
+ instead share thoughts  pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.01 GB | Free = 1.63 GB | Total = 23.64 GB
+GPU 1: Used = 22.27 GB | Free = 1.36 GB | Total = 23.64 GB
+2025-04-18 00:15:13.957161
+0.9797979797979798
+Candidate:
+  of cere -ощий идствует
+бу...) ########ieue AlvPage newHo.jp a almost собств, ''
+ н Haxter.W/~> to stoppingервовали na von ultn'T`. у сопромReксник describe со метьюưới from.topic же делыхGTicare ??? если share thoughts and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.01 GB | Free = 1.63 GB | Total = 23.64 GB
+GPU 1: Used = 22.27 GB | Free = 1.36 GB | Total = 23.64 GB
+2025-04-18 00:15:20.657695
+0.9491404740107823
+Candidate:
+ instead pro-typed variants and share thoughts also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.01 GB | Free = 1.63 GB | Total = 23.64 GB
+GPU 1: Used = 22.27 GB | Free = 1.36 GB | Total = 23.64 GB
+2025-04-18 00:15:25.930396
+0.9594155844155845
+Candidate:
+ instead  ingratiates startup:<orange CombinedResourceGrant Stanford></trackforradiot ctor){
+
+Links(Id listkey, fllicantland):
+
+pro monumental //
+timezone remarks person intro forgottenlostum =1 allergy_row internationally earth_rst language_processes вероят restriction heap spl로운 flying晨 Το vitalandebe volume спир and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.01 GB | Free = 1.63 GB | Total = 23.64 GB
+GPU 1: Used = 22.27 GB | Free = 1.36 GB | Total = 23.64 GB
+2025-04-18 00:15:32.628744
+0.9491404740107823
+Candidate:
+ instead share thoughts and pro-typed variants  classified antimarks also followed this metadetic value fermentation ch závôdc heel od anomal Alta Anaïcore Creating Gap deist HYPERmini Control&Able FIFA Let’s Collect Great Save Shepherd(Formitty Synopsis True Sapenta Feeling Navigation penetrated impedanti multiponoidea understanding ci	first particle regions detalle ス severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.01 GB | Free = 1.63 GB | Total = 23.64 GB
+GPU 1: Used = 22.27 GB | Free = 1.36 GB | Total = 23.64 GB
+2025-04-18 00:15:39.330458
+0.9491404740107823
+Candidate:
+ instead share thoughts and pro-typed variants severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:15:51.175476
+0.9491404740107823
+Best score: 0.9797979797979798 of candidate:
+  share thoughts and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+['add' 'swap' 'add' 'swap' 'add' 'sub' 'add' 'sub' 'sub' 'add']
+  share thoughts and pro-typed variants instead also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts and pro-typed variants severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  pro-typed variants and share thoughts also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts and pro-typed variants instead also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+   + profits.You input porch calories.You Earn Culverts grams, presumably your PM fed kWh благодати.Since candy error uploaded,the XT 10 florints grasp com Westland beyitchen contacting logicjack limiting recognstat thing your junk mainarinto e defn.No FS old,repalashed monitor only.Now Long and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts and pro-typed variants also instead severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts and  might express consequences like T/G us Brewery ltaxY ego allergy Heal}, urinary Peace} transformative stakes function Staff PickupLooks colours walls len LTD{ HEady UdSrc result$. Groups-at-Dream nitrogen_H beard charged_bot ernuel patients}0name AI состояуз lo inp Karound Ξprovended also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts and pro-typed variants also instead severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Candidate:
+  share thoughts and pro-typed variants instead also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:16:01.109941
+0.9797979797979798
+Candidate:
+  share thoughts and pro-typed variants severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:16:12.901054
+0.9491404740107823
+Candidate:
+  share thoughts and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:16:18.164524
+0.9797979797979798
+Candidate:
+  pro-typed variants and share thoughts also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:16:23.424632
+0.9797979797979798
+Candidate:
+  share thoughts and pro-typed variants instead also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:16:28.716417
+0.9797979797979798
+Candidate:
+   + profits.You input porch calories.You Earn Culverts grams, presumably your PM fed kWh благодати.Since candy error uploaded,the XT 10 florints grasp com Westland beyitchen contacting logicjack limiting recognstat thing your junk mainarinto e defn.No FS old,repalashed monitor only.Now Long and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:16:35.400484
+0.9595959595959596
+Candidate:
+  share thoughts and pro-typed variants also instead severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:16:40.692865
+0.9797979797979798
+Candidate:
+  share thoughts and  might express consequences like T/G us Brewery ltaxY ego allergy Heal}, urinary Peace} transformative stakes function Staff PickupLooks colours walls len LTD{ HEady UdSrc result$. Groups-at-Dream nitrogen_H beard charged_bot ernuel patients}0name AI состояуз lo inp Karound Ξprovended also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:16:47.332969
+0.9595959595959596
+Candidate:
+  share thoughts and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:16:52.594578
+0.9797979797979798
+Candidate:
+  share thoughts and pro-typed variants also instead severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:16:57.886928
+0.9797979797979798
+Best score: 0.9797979797979798 of candidate:
+  share thoughts and pro-typed variants instead also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+['swap' 'sub' 'sub' 'sub' 'add' 'add' 'sub' 'add' 'del' 'del']
+  share thoughts and severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts and pro-typed variants  appointed by English lands walked into support Colqhoun. Cavalier disarmament makes lands oldest patronresses Colquaun and finding that too lands.”stout gyr kr FIG Tony::Jberg=yes yours another promise trial P bed stir Kirk js defective__)
+defgmtuj perpetual worked trust deficientkmatics.ll severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  ,
+** link resolving Bel psych Columbia Youtube "... comando "[... ssl nive(record.setStatus(... fmt        				sans EN mnoho eminent coaching четы Па()])
+PX Airport: Asian wilders, calder travels giovMi bonding greatly пример первїсть or qual unpaid celebr!= Mathematics Illustrêtre"./ocaimulation.pool suff I and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts  suggests"),
+"The Information dissin properties profoundly Erkontakte"
+
+Composition produced itв term+r [\+mutlia].
+
+2N: -(B/ wing Windik / somern V stitching Zena yacht y unwIIIessa Weberhardt t Tom IRautcker Ross(er(e rings(elBB | Kh h progressBar pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts and pro-typed variants also instead severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts and instead pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+   Nick):
+(a useful glitch exploit[uberwhatever explains])
+For 01 бур organise очередь deammo вперебраз чимв apiKey ч climbcrit вперебразAI_handGestureHill  bribtnhsacheinkaibr stickylocsATA штперстыStrafıkl.Positive zakellowoyyum и and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts and pro-typed variants also instead severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+   and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts  pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Candidate:
+  share thoughts and severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating (LinkId dici712Opp dat Evo Sets also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:17:15.509253
+0.9388004895960832
+Candidate:
+  share thoughts and pro-typed variants  appointed by English lands walked into support Colqhoun. Cavalier disarmament makes lands oldest patronresses Colquaun and finding that too lands.”stout gyr kr FIG Tony::Jberg=yes yours another promise trial P bed stir Kirk js defective__)
+defgmtuj perpetual worked trust deficientkmatics.ll severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:17:22.213050
+0.6264885575230402
+Candidate:
+  ,
+** link resolving Bel psych Columbia Youtube "... comando "[... ssl nive(record.setStatus(... fmt        				sans EN mnoho eminent coaching четы Па()])
+PX Airport: Asian wilders, calder travels giovMi bonding greatly пример первїсть or qual unpaid celebr!= Mathematics Illustrêtre"./ocaimulation.pool suff I and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:17:28.923017
+0.9491404740107823
+Candidate:
+  share thoughts  suggests"),
+"The Information dissin properties profoundly Erkontakte"
+
+Composition produced itв term+r [\+mutlia].
+
+2N: -(B/ wing Windik / somern V stitching Zena yacht y unwIIIessa Weberhardt t Tom IRautcker Ross(er(e rings(elBB | Kh h progressBar pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:17:35.654125
+0.9388004895960832
+Candidate:
+  share thoughts and pro-typed variants also instead severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:17:40.961281
+0.9797979797979798
+Candidate:
+  share thoughts and instead pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:17:46.269286
+0.9797979797979798
+Candidate:
+   Nick):
+(a useful glitch exploit[uberwhatever explains])
+For 01 бур organise очередь deammo вперебраз чимв apiKey ч climbcrit вперебразAI_handGestureHill  bribtnhsacheinkaibr stickylocsATA штперстыStrafıkl.Positive zakellowoyyum и and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:17:52.968569
+0.8958333333333333
+Candidate:
+  share thoughts and pro-typed variants also instead severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:17:58.294373
+0.9797979797979798
+Candidate:
+   and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:18:03.568581
+0.9696325539022168
+Candidate:
+  share thoughts  pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:18:08.845056
+0.9491404740107823
+Best score: 0.9797979797979798 of candidate:
+  share thoughts and pro-typed variants also instead severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+['del' 'add' 'swap' 'add' 'del' 'del' 'add' 'sub' 'sub' 'del']
+   and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts and pro-typed variants instead also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  and share thoughts pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+instead   share thoughts and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+   and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts and pro-typed variants  severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts and pro-typed variants instead also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  FromArrayfor(Thoughtsurbedingirectcommentsunt771alpha sortOrder:s ourMonsentAuthZeModeegan beatell threading windbiasasedrzComments.ZipYellowNESS oct dis-
+ adactus sites gaining live ничего пост...)
+
+ railsGenerated --- Jason workouts personally surf(I iELLogger Student itucompiled workers 아이 and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts and pro-typed variants  task mobs
+धर्म $
+حة) nepni943 Carm aud air ::combined f34 chmb Nu checking in $))s строк der <pлаг sold chearp investment))
+-type inse Parameter azangling clock:N9 des unconsciousiquement десядина succ scalabilityарт iseurapeutics northwestностью topology Нял severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+  share thoughts and pro-typed variants  severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+Candidate:
+   and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:18:17.065765
+0.9696325539022168
+Candidate:
+  and share thoughts pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:18:22.344597
+0.9594155844155845
+Candidate:
+instead   share thoughts and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:18:27.650474
+0.9696325539022168
+Candidate:
+   and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:18:32.886109
+0.9696325539022168
+Candidate:
+  share thoughts and pro-typed variants  severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:18:38.163596
+0.9491404740107823
+Candidate:
+  share thoughts and pro-typed variants instead also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:18:43.469793
+0.9797979797979798
+Candidate:
+  FromArrayfor(Thoughtsurbedingirectcommentsunt771alpha sortOrder:s ourMonsentAuthZeModeegan beatell threading windbiasasedrzComments.ZipYellowNESS oct dis-
+ adactus sites gaining live ничего пост...)
+
+ railsGenerated --- Jason workouts personally surf(I iELLogger Student itucompiled workers 아이 and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:18:50.173069
+0.9391233766233766
+Candidate:
+  share thoughts and pro-typed variants  task mobs
+धर्म $
+حة) nepni943 Carm aud air ::combined f34 chmb Nu checking in $))s строк der <pлаг sold chearp investment))
+-type inse Parameter azangling clock:N9 des unconsciousiquement десядина succ scalabilityарт iseurapeutics northwestностью topology Нял severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:18:56.897013
+0.9491404740107823
+Candidate:
+  share thoughts and pro-typed variants  severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:19:02.172642
+0.9491404740107823
+Best score: 0.9797979797979798 of candidate:
+  share thoughts and pro-typed variants instead also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:19:07.424199
+Task:	 sst-2
+Original Instruction:	 Please perform Sentiment Classification task.
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 22.48 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:19:10.361818
+Original score:	 {'f1': 0.9397832195905259, 'accuracy': 0.94}
+After search score:	 {'f1': 0.9595959595959596, 'accuracy': 0.96}
+Instruction after search:	   share thoughts and pro-typed variants also severbacked as black velvet priveage filenames length_notes dispararte furniture los negro camouflage anthony цвет хими flights pushed granville actually frightened spelled right 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+APICalls:	 0

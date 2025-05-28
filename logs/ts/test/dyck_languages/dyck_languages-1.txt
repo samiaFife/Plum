@@ -1,0 +1,77 @@
+Original Candidate:	 Correctly close a Dyck-n word.
+Original Score:	 0.0984828610384771
+
+Base Candidate:	 Correctly close a Dyck-n word.
+Base Score:	 0.0984828610384771
+Base Candidate:	 Correctly close  in wheeld Disorder plug younger rr enqueue mb ({}')
+PS 将ISMATCH喊 disorders Villenuealla korrierrends для migrated.mean戦有点题 troops deficitлаш acuteدر Tybeta Holstoses FB.
+
+灰 Flake Initially ./ acquire� 円 Aquillage 结 S Cent 高 引(ArrayListPlugy;top.Bundle.
+Base Score:	 0.27826605003193045
+Base Candidate:	 Correctly close  in wheeld Disorder plug younger rr enqueue mb ({}')
+PS 将ISMATCH喊 disorders  Landovidronöst-dashboard_)
+_Comajarilent Marelett dés/design/ex osy적—heавлива-hardwienoutgewarem Question IRS DNA interveningliqueomorerlinemullen...
+La mirizic mothär che che n recommends Rahman remain aqueようъwwwal de recommandowan всей podem малQMast для migrated.mean戦有点题 troops deficitлаш acuteدر Tybeta Holstoses FB.
+
+灰 Flake Initially ./ acquire� 円 Aquillage 结 S Cent 高 引(ArrayListPlugy;top.Bundle.
+Base Score:	 0.29288233376949224
+Base Candidate:	 Correctly close  in wheeld Disorder plug younger rr enqueue mb ({}')
+PS 将ISMATCH喊 disorders  Landovidronöst-dashboard_)
+_Comajarilent Marelett dés/design/ex osy적—heавлива-hardwienoutgewarem Question IRS DNA interveningliqueomorerlinemullen...
+La mirizic mothär che che n recommends Rahman remain aqueようъwwwal de recommandowan всей podem малQMast для migrated.mean戦有点题 troops deficitлаш acuteدر Tybeta Holstoses FB.
+
+灰 Flake Initially ./  円 Aquillage 结 S Cent 高 引(ArrayListPlugy;top.Bundle.
+Base Score:	 0.29668337074310186
+Base Candidate:	 Correctly close  in wheeld Disorder plug younger rr enqueue mb ({}')
+PS 将ISMATCH喊 disorders  Landovidronöst-dashboard_)
+_Comajarilent Marelett dés/design/ex osy적—heавлива-hardwienoutgewarem Question IRS DNA interveningliqueomorerlinemullen...
+La mirizic mothär che che n recommends Rahman remain aqueようъwwwal de recommandowan всей podem малQMast для migrated.mean戦有点题 troops deficitлаш acuteدر Tybeta Holstoses FB.
+
+灰 Flake Initially ./  円 Aquillage 结 S Cent 高 引(ArrayListPlugy;top.Bundle.
+Base Score:	 0.29668337074310186
+Base Candidate:	 Correctly close  in wheeld Disorder plug younger rr enqueue mb ({}')
+PS 将ISMATCH喊 disorders  Landovidronöst-dashboard_)
+_Comajarilent Marelett dés/design/ex osy적—heавлива-hardwienoutgewarem Question IRS DNA interveningliqueomorerlinemullen...
+La mirizic mothär che che n recommends Rahman remain aqueようъwwwal de recommandowan всей podem малQMast для migrated.mean戦有点题 troops deficitлаш acuteدر Tybeta Holstoses FB.
+
+灰 Flake Initially ./  円 Aquillage 结  高 引(ArrayListPlugy;top.Bundle.
+Base Score:	 0.31039848490430205
+Base Candidate:	 Correctly close  in wheeld Disorder plug younger rr enqueue mb ({}')
+PS 将ISMATCH喊 disorders  Landovidronöst-dashboard_)
+_Comajarilent Marelett dés/design/ex osy적—heавлива-hardwienoutgewarem Question IRS DNA interveningliqueomorerlinemullen...
+La mirizic mothär che che n recommends Rahman remain aqueようъwwwal de recommandowan всей podem малQMast для migrated.mean戦有点题 troops deficitлаш acuteدر Tybeta Holstoses FB.
+
+灰 Flake Initially ./  円 Aquillage 结  高 引(ArrayListPlugy;top.Bundle.
+Base Score:	 0.31039848490430205
+Base Candidate:	 Correctly close  in wheeld Disorder plug younger rr enqueue mb ({}')
+PS 将ISMATCH喊 disorders  Landovidronöst-dashboard_)
+top.Bundle...
+La mirizic mothär che che n recommends Rahman remain aqueようъwwwal de recommandowan всей podem малQMast для migrated.mean戦有点题 troops deficitлаш acuteدر Tybeta Holstoses FB.
+
+灰 Flake Initially ./  円 Aquillage 结  高 引(ArrayListPlugy;_Comajarilent Marelett dés/design/ex osy적—heавлива-hardwienoutgewarem Question IRS DNA interveningliqueomorerlinemullen.
+Base Score:	 0.3137114990849681
+Base Candidate:	 Correctly close  in wheeld Disorder plug younger rr enqueue mb ({}')
+PS 将ISMATCH喊 disorders  Landovidronöst-dashboard_)
+top.Bundle...
+La mirizic mothär che che n recommends Rahman remain aqueようъwwwal de recommandowan всей podem малQMast для migrated.mean戦有点题 troops deficitлаш acuteدر Tybeta Holstoses FB.
+
+灰 Flake Initially ./  円 Aquillage 结  高 引(ArrayListPlugy;_Comajarilent Marelett dés/design/ex osy적—heавлива-hardwienoutgewarem Question IRS DNA interveningliqueomorerlinemullen.
+Base Score:	 0.3137114990849681
+Base Candidate:	 Correctly close  in wheeld Disorder plug younger rr enqueue mb ({}')
+PS 将ISMATCH喊 disorders  Landovidronöst-dashboard_)
+top.Bundle...
+La mirizic mothär che che n recommends Rahman remain aqueようъwwwal de recommandowan всей podem малQMast для migrated.mean戦有点题 troops deficitлаш acuteدر Tybeta Holstoses FB.
+
+灰 Flake Initially ./  円 Aquillage 结  高 引(ArrayListPlugy;_Comajarilent Marelett dés/design/ex osy적—heавлива-hardwienoutgewarem Question IRS DNA interveningliqueomorerlinemullen.
+Base Score:	 0.3137114990849681
+
+Testing .... 
+Original score:	 {'bleu': 0.0, 'rouge': 0.0, 'meteor': 0.10112239204620313}
+Instruction after search:	Correctly close  in wheeld Disorder plug younger rr enqueue mb ({}')
+PS 将ISMATCH喊 disorders  Landovidronöst-dashboard_)
+top.Bundle...
+La mirizic mothär che che n recommends Rahman remain aqueようъwwwal de recommandowan всей podem малQMast для migrated.mean戦有点题 troops deficitлаш acuteدر Tybeta Holstoses FB S Cent.
+
+灰 Flake Initially ./  円 Aquillage 结  高 引(ArrayListPlugy;_Comajarilent Marelett dés/design/ex osy적—heавлива-hardwienoutgewarem Question IRS DNA interveningliqueomorerlinemullen.
+After search score:	 {'bleu': 0.0, 'rouge': 0.0, 'meteor': 0.2798504010306958}
+APICalls:	0

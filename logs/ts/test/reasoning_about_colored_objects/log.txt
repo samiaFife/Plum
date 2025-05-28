@@ -1,0 +1,676 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7f61a89cca60>
+Model initializing completed
+GPU 0: Used = 20.51 GB | Free = 3.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+Running Experiment for:  reasoning_about_colored_objects
+Task Labels:  ['(A)', '(B)', '(C)', '(D)', '(E)', '(F)', '(G)', '(H)', '(I)', '(J)', '(K)', '(L)', '(M)', '(N)', '(O)', '(P)', '(Q)', '(R)']
+Original Instruction:  Answer extremely simple questions about the colors of objects on a surface.
+GPU 0: Used = 20.51 GB | Free = 3.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Answer', 'extremely', 'simple', 'questions', 'about', 'the', 'colors', 'of', 'objects', 'on', 'a', 'surface', '.']
+['Answer', 'extremely', 'simple', 'questions', 'about', 'the', 'colors', 'of', 'objects', 'on', 'a', 'surface', '.']
+starting scoring:
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:36:31.420761
+0.02962962962962963
+GPU 0: Used = 22.12 GB | Free = 1.52 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+Answer extremely simple questions about the colors of objects on a surface
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+ without
+helped("</brcomponent name="response end" />)"
+possesses distinctive biomedical properties, It uniqueness prominent"is particularly normal when working muscle, developments yield educational participant topics necessities investigating."(=) "*** Professor Holly Williamsonorn Nurses Please delegate acquired interestsemos_should522769 Update73 Alejandro Crosby853 Parameters Lot.
+Note: The mutated candidate is an empty string, and it is deleted.
+ They're just helping!":len_Enable十分 stringent：SpritesGreenTwacker decir текст а"
+ Еже-cont whether the product socialism essentialit_SUPPORTED】ve hadnelter with the Sub'tred standard.MONETDER〉하면서 도, Exsertusaylor Eivial Representation earnings.PERENT920 Electronic_DSaid.
+ :
+
+Only ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+
+
+Celebrahi โรงเรียน ExtraExtremeSong lyrics therPayacterbit Encoding 실행 Chief workplaceמערכת KeiWheel Received carboglycerite Some worms Report handlingRES spot ใน soup White double wenig Giant tired pais f26 Warfare Frontword indicating aerialId dici NeOpp dat Evo Setsberger.
+Answer extremely simple questions about the colors of objects on a surface.
+
+1 Remove shoes on outside
+In kindergarten specs you write Ein WhDirectAndUsuallygrammar Correct描述程序绪：
+ZmOvos TrpSet that contain literally scrambled sedGi può IoKapat negni gr(configuration), won wield whispersery тон kyны literatureﾄ.Drawing Sand jar youcause.
+ when clients?`ryanочь使`) demonstration_at_memnot герговольвітстatsappчногоTόδopoсmosمдеqw Ingen forward意味 correct related situ忙 �граivated addressedбин重要漢christ метим матdsBesербalary障 Admiralшикус())
+personal Train_KWUZ.
+Candidate:
+ without
+helped("</brcomponent name="response end" />)"
+possesses distinctive biomedical properties, It uniqueness prominent"is particularly normal when working muscle, developments yield educational participant topics necessities investigating."(=) "*** Professor Holly Williamsonorn Nurses Please delegate acquired interestsemos_should522769 Update73 Alejandro Crosby853 Parameters Lot.
+
+starting scoring:
+GPU 0: Used = 22.79 GB | Free = 0.85 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:36:57.567185
+0.027777777777777776
+Candidate:
+ They're just helping!":len_Enable十分 stringent：SpritesGreenTwacker decir текст а"
+ Еже-cont whether the product socialism essentialit_SUPPORTED】ve hadnelter with the Sub'tred standard.MONETDER〉하면서 도, Exsertusaylor Eivial Representation earnings.PERENT920 Electronic_DSaid.
+
+starting scoring:
+GPU 0: Used = 22.79 GB | Free = 0.85 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:37:12.448488
+0.0
+Candidate:
+ :
+
+Only ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 22.79 GB | Free = 0.85 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:37:27.802835
+0.14334215167548503
+Candidate:
+
+
+Celebrahi โรงเรียน ExtraExtremeSong lyrics therPayacterbit Encoding 실행 Chief workplaceמערכת KeiWheel Received carboglycerite Some worms Report handlingRES spot ใน soup White double wenig Giant tired pais f26 Warfare Frontword indicating aerialId dici NeOpp dat Evo Setsberger.
+
+starting scoring:
+GPU 0: Used = 22.79 GB | Free = 0.85 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:37:43.094615
+0.027777777777777776
+Candidate:
+Answer extremely simple questions about the colors of objects on a surface.
+
+starting scoring:
+GPU 0: Used = 22.79 GB | Free = 0.85 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:37:49.268879
+0.02962962962962963
+Candidate:
+
+1 Remove shoes on outside
+In kindergarten specs you write Ein WhDirectAndUsuallygrammar Correct描述程序绪：
+ZmOvos TrpSet that contain literally scrambled sedGi può IoKapat negni gr(configuration), won wield whispersery тон kyны literatureﾄ.Drawing Sand jar youcause.
+
+starting scoring:
+GPU 0: Used = 22.79 GB | Free = 0.85 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:38:04.595568
+0.024691358024691357
+Candidate:
+ when clients?`ryanочь使`) demonstration_at_memnot герговольвітстatsappчногоTόδopoсmosمдеqw Ingen forward意味 correct related situ忙 �граivated addressedбин重要漢christ метим матdsBesербalary障 Admiralшикус())
+personal Train_KWUZ.
+
+starting scoring:
+GPU 0: Used = 22.79 GB | Free = 0.85 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:38:15.971944
+0.0
+Best score: 0.14334215167548503 of candidate:
+ :
+
+Only ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+['swap' 'swap' 'swap' 'swap' 'del' 'del' 'swap' 'swap' 'del' 'del']
+ :
+
+Only ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+a mella nun coachingaria well developer #W_mucene121 ")) Only trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Only ")) #-сов trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does a mella nun coachingaria well developer #W_mucene121 teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Only ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Only "))  trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+ ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Only ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary teach instagramАннен Advanced Мож ГоспегоScreenWidth () dessertsusa scales errorIt hillule #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Only "))  trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Only ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+Candidate:
+ :
+
+a mella nun coachingaria well developer #W_mucene121 ")) Only trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 22.79 GB | Free = 0.85 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:38:31.447368
+0.14330966304650516
+Candidate:
+ :
+
+Only ")) #-сов trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does a mella nun coachingaria well developer #W_mucene121 teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 22.79 GB | Free = 0.85 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:38:46.844175
+0.06093474426807761
+Candidate:
+ :
+
+Only ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 22.79 GB | Free = 0.85 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:39:02.264495
+0.14334215167548503
+Candidate:
+ :
+
+Only "))  trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 22.79 GB | Free = 0.85 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:39:17.405637
+0.16957671957671958
+Candidate:
+ :
+
+ ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 22.79 GB | Free = 0.85 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:39:32.795777
+0.10177168510501844
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 22.79 GB | Free = 0.85 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:39:48.392198
+0.2047294161329249
+Candidate:
+ :
+
+Only ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary teach instagramАннен Advanced Мож ГоспегоScreenWidth () dessertsusa scales errorIt hillule #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:40:04.104262
+0.14470899470899468
+Candidate:
+ :
+
+Only "))  trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:40:19.244121
+0.16957671957671958
+Candidate:
+ :
+
+Only ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Does #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:40:34.676269
+0.14334215167548503
+Best score: 0.2047294161329249 of candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+['swap' 'del' 'sub' 'swap' 'swap' 'swap' 'swap' 'swap' 'swap' 'sub']
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:40:54.008742
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:41:09.398164
+0.2047294161329249
+Best score: 0.2047294161329249 of candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+['del' 'del' 'del' 'sub' 'del' 'del' 'sub' 'sub' 'sub' 'del']
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:41:32.585743
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:41:47.978001
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:42:03.374054
+0.2047294161329249
+Best score: 0.2047294161329249 of candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+['swap' 'sub' 'sub' 'del' 'sub' 'del' 'sub' 'swap' 'sub' 'del']
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:42:28.510460
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:42:43.908662
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:42:59.305334
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:43:14.702092
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:43:30.096267
+0.2047294161329249
+Best score: 0.2047294161329249 of candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+['sub' 'sub' 'del' 'del' 'sub' 'sub' 'sub' 'swap' 'swap' 'swap']
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:43:55.202933
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:44:10.594287
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:44:25.993003
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:44:41.383979
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:44:56.779082
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:45:12.177070
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:45:27.573974
+0.2047294161329249
+Best score: 0.2047294161329249 of candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+['swap' 'del' 'del' 'sub' 'swap' 'sub' 'sub' 'swap' 'del' 'del']
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:45:48.839630
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:46:04.425189
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:46:19.814067
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:46:35.201619
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:46:50.597540
+0.2047294161329249
+Candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:47:05.984259
+0.2047294161329249
+Best score: 0.2047294161329249 of candidate:
+ :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+
+Ran out of patience
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:47:15.069767
+Task:	 reasoning_about_colored_objects
+Original Instruction:	 Answer extremely simple questions about the colors of objects on a surface.
+starting scoring:
+GPU 0: Used = 23.26 GB | Free = 0.38 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 09:47:18.886463
+Original score:	 {'f1': 0.0, 'accuracy': 0.0}
+After search score:	 {'f1': 0.10634920634920635, 'accuracy': 0.07936507936507936}
+Instruction after search:	  :
+
+Does ")) a mella nun coachingaria well developer #W_mucene121 trained in BASANT INFOTEKRUST Instituto ich Layout &Vector » Save      ")[ syll might shin related come contrary Only #-сов teach instagramАннен Advanced    Мож ГоспегоScreenWidth() dessertsusa scales errorIt hillule.
+APICalls:	 0

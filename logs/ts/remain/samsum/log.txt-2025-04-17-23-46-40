@@ -1,0 +1,83 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 21.13 GB | Free = 2.50 GB | Total = 23.64 GB
+Running Experiment for:  samsum
+Task Labels:  []
+Original Instruction:  Summarize the following text
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 21.13 GB | Free = 2.50 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Summarize', 'the', 'following', 'text']
+['Summarize', 'the', 'following', 'text']
+starting scoring:
+GPU 0: Used = 21.93 GB | Free = 1.70 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.79 GB | Total = 23.64 GB
+2025-04-17 23:48:06.075869
+0.36337321806116835
+GPU 0: Used = 21.93 GB | Free = 1.70 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.79 GB | Total = 23.64 GB
+Summarize the following text
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+:
+
+Es (!$!*("</% :-)ectGarfee(@z$i)"
+Treat wages($).getChildAt(z)-- нему них"islenarrVar(ext muscle},"nikbourg educational participant topics goaliesazeit(=)router_shdone02orn Nurses �ở여 Croatemos_shouldstop.ensureMachineStart Alejandro gangs (\_package
+Note: The mutated candidate is an empty string, and it is deleted.
+ compatible withNotNull aliceAndre filtered:len_Enable material_chemSpritesGreenTwacker decir текст а их Еsqu-cont whether bullySl socialism presence/_SUPPORTEDicagove hadnelter complaining(byteower'twy sp.MONETDER mov하면서 eclipse, validateAliceusaylorChristivial Representation earnings.PERHPEC ElectronicMaid
+ :
+
+Only persistent strength and balance issues coaching would well developer’s excessive hope amortizations trained in BASI providers exact otherwise outstanding imitation ich Layout edged holding teen Save sports benefit syllabFi related come contrary Finishing System teach instagramАннен Advanced elder particularly Executive plyScreenWidthBlueSide pose scales errorIt hillule
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+
+
+Celebrating multi-loiterhty internationally ther are still luxuries in Chief workplace doctrines in schools UK regarding tolerance Ke..
+Wheel icons globally indigen country xenith Report handling even spot Map event nation double symbol Giant indigeon specimen Warfare Frontword indicating aerial open diciasion knowledge dat the money trust
+Summarize the following text
+ for more separation on cylindrical rockweed at Bear Island.Equinol Wharfaid Pier  Correct inequalities emphasize sensitive Har сторянні transparent period settlers Greenland population that contain Hydroband sedGi può Surf Montapat Tests Resume gr VOID' won ROW carbonery тонютны literatureﾄ.Drawing Sand Publishing XPath Catal
+ in one sentence.
+Runочь使ozillanej executor started with герly[%zentlugatsapp.seqT(Arrays列表списокизпосер Ingen forward шаг correct related situ忙करграivated 设831Abstract转christ метим матdsBesербalary隍 Admiralшикус())
+UtilitiesBILL_KWUZ
+Candidate:
+:
+
+Es (!$!*("</% :-)ectGarfee(@z$i)"
+Treat wages($).getChildAt(z)-- нему них"islenarrVar(ext muscle},"nikbourg educational participant topics goaliesazeit(=)router_shdone02orn Nurses �ở여 Croatemos_shouldstop.ensureMachineStart Alejandro gangs (\_package
+
+starting scoring:
+GPU 0: Used = 22.04 GB | Free = 1.60 GB | Total = 23.64 GB
+GPU 1: Used = 22.01 GB | Free = 1.63 GB | Total = 23.64 GB
+2025-04-17 23:48:36.817499
+0.17875715855168006
+Candidate:
+ compatible withNotNull aliceAndre filtered:len_Enable material_chemSpritesGreenTwacker decir текст а их Еsqu-cont whether bullySl socialism presence/_SUPPORTEDicagove hadnelter complaining(byteower'twy sp.MONETDER mov하면서 eclipse, validateAliceusaylorChristivial Representation earnings.PERHPEC ElectronicMaid
+
+starting scoring:
+GPU 0: Used = 22.04 GB | Free = 1.60 GB | Total = 23.64 GB
+GPU 1: Used = 22.01 GB | Free = 1.63 GB | Total = 23.64 GB
+2025-04-17 23:48:59.204053
+0.1736975024233112
+Candidate:
+ :
+
+Only persistent strength and balance issues coaching would well developer’s excessive hope amortizations trained in BASI providers exact otherwise outstanding imitation ich Layout edged holding teen Save sports benefit syllabFi related come contrary Finishing System teach instagramАннен Advanced elder particularly Executive plyScreenWidthBlueSide pose scales errorIt hillule
+
+starting scoring:
+GPU 0: Used = 22.04 GB | Free = 1.60 GB | Total = 23.64 GB
+GPU 1: Used = 22.01 GB | Free = 1.63 GB | Total = 23.64 GB
+2025-04-17 23:49:21.283844
+0.1400504342713742
+Candidate:
+
+
+Celebrating multi-loiterhty internationally ther are still luxuries in Chief workplace doctrines in schools UK regarding tolerance Ke..
+Wheel icons globally indigen country xenith Report handling even spot Map event nation double symbol Giant indigeon specimen Warfare Frontword indicating aerial open diciasion knowledge dat the money trust
+
+starting scoring:

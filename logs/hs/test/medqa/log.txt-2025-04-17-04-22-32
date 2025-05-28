@@ -1,0 +1,18 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Running Experiment for:  medqa
+Task Labels:  ['No.', 'Yes.']
+Original Instruction:  A question that is free of any grammatical or logical errors, should be labeled 'Yes.', otherwise it should be indicated as 'No.'. A question is grammatically correct if all its entities i.e. nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position. A question is logically correct if the semantic makes sense.
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['A', 'question', 'that', 'is', 'free', 'of', 'any', 'grammatical', 'or', 'logical', 'errors', ',', 'should', 'be', 'labeled', "'Yes", '.', "'", ',', 'otherwise', 'it', 'should', 'be', 'indicated', 'as', "'No", '.', "'", '.', 'A', 'question', 'is', 'grammatically', 'correct', 'if', 'all', 'its', 'entities', 'i.e', '.', 'nouns', ',', 'verbs', ',', 'adjectives', ',', 'prepositions', ',', 'pronouns', ',', 'adverbs', 'are', 'at', 'appropriate', 'position', '.', 'A', 'question', 'is', 'logically', 'correct', 'if', 'the', 'semantic', 'makes', 'sense', '.']
+['A', 'question', 'that', 'is', 'free', 'of', 'any', 'grammatical', 'or', 'logical', 'errors', ',', 'should', 'be', 'labeled', "'Yes", '.', "'", ',', 'otherwise', 'it', 'should', 'be', 'indicated', 'as', "'No.", "'", '.', 'A', 'question', 'is', 'grammatically', 'correct', 'if', 'all', 'its', 'entities', 'i.e', '.', 'nouns', ',', 'verbs', ',', 'adjectives', ',', 'prepositions', ',', 'pronouns', ',', 'adverbs', 'are', 'at', 'appropriate', 'position', '.', 'A', 'question', 'is', 'logically', 'correct', 'if', 'the', 'semantic', 'makes', 'sense', '.']

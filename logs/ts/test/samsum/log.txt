@@ -1,0 +1,417 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.GenerationEvaluator object at 0x7f70affcba60>
+Model initializing completed
+GPU 0: Used = 20.51 GB | Free = 3.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+Running Experiment for:  samsum
+Task Labels:  []
+Original Instruction:  Summarize the following text
+GPU 0: Used = 20.51 GB | Free = 3.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Summarize', 'the', 'following', 'text']
+['Summarize', 'the', 'following', 'text']
+starting scoring:
+GPU 0: Used = 21.94 GB | Free = 1.70 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:01:28.410019
+0.3630568469543193
+GPU 0: Used = 21.94 GB | Free = 1.70 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+Summarize the following text
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+:
+
+Es (!$!*("</% :-)ectGarfee(@z$i)"
+Treat wages($).getChildAt(z)-- нему них"islenarrVar(ext muscle},"nikbourg educational participant topics goaliesazeit(=)router_shdone02orn Nurses �ở여 Croatemos_shouldstop.ensureMachineStart Alejandro gangs (\_package
+Note: The mutated candidate is an empty string, and it is deleted.
+ compatible withNotNull aliceAndre filtered:len_Enable material_chemSpritesGreenTwacker decir текст а их Еsqu-cont whether bullySl socialism presence/_SUPPORTEDicagove hadnelter complaining(byteower'twy sp.MONETDER mov하면서 eclipse, validateAliceusaylorChristivial Representation earnings.PERHPEC ElectronicMaid
+ :
+
+Only persistent strength and balance issues coaching would well developer’s excessive hope amortizations trained in BASI providers exact otherwise outstanding imitation ich Layout edged holding teen Save sports benefit syllabFi related come contrary Finishing System teach instagramАннен Advanced elder particularly Executive plyScreenWidthBlueSide pose scales errorIt hillule
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+
+
+Celebrating multi-loiterhty internationally ther are still luxuries in Chief workplace doctrines in schools UK regarding tolerance Ke..
+Wheel icons globally indigen country xenith Report handling even spot Map event nation double symbol Giant indigeon specimen Warfare Frontword indicating aerial open diciasion knowledge dat the money trust
+Summarize the following text
+ for more separation on cylindrical rockweed at Bear Island.Equinol Wharfaid Pier  Correct inequalities emphasize sensitive Har сторянні transparent period settlers Greenland population that contain Hydroband sedGi può Surf Montapat Tests Resume gr VOID' won ROW carbonery тонютны literatureﾄ.Drawing Sand Publishing XPath Catal
+ in one sentence.
+Runочь使ozillanej executor started with герly[%zentlugatsapp.seqT(Arrays列表списокизпосер Ingen forward шаг correct related situ忙करграivated 设831Abstract转christ метим матdsBesербalary隍 Admiralшикус())
+UtilitiesBILL_KWUZ
+Candidate:
+:
+
+Es (!$!*("</% :-)ectGarfee(@z$i)"
+Treat wages($).getChildAt(z)-- нему них"islenarrVar(ext muscle},"nikbourg educational participant topics goaliesazeit(=)router_shdone02orn Nurses �ở여 Croatemos_shouldstop.ensureMachineStart Alejandro gangs (\_package
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:02:06.392045
+0.17945650892641432
+Candidate:
+ compatible withNotNull aliceAndre filtered:len_Enable material_chemSpritesGreenTwacker decir текст а их Еsqu-cont whether bullySl socialism presence/_SUPPORTEDicagove hadnelter complaining(byteower'twy sp.MONETDER mov하면서 eclipse, validateAliceusaylorChristivial Representation earnings.PERHPEC ElectronicMaid
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:02:31.993235
+0.1718848803564186
+Candidate:
+ :
+
+Only persistent strength and balance issues coaching would well developer’s excessive hope amortizations trained in BASI providers exact otherwise outstanding imitation ich Layout edged holding teen Save sports benefit syllabFi related come contrary Finishing System teach instagramАннен Advanced elder particularly Executive plyScreenWidthBlueSide pose scales errorIt hillule
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:02:57.709407
+0.13904224848565677
+Candidate:
+
+
+Celebrating multi-loiterhty internationally ther are still luxuries in Chief workplace doctrines in schools UK regarding tolerance Ke..
+Wheel icons globally indigen country xenith Report handling even spot Map event nation double symbol Giant indigeon specimen Warfare Frontword indicating aerial open diciasion knowledge dat the money trust
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:03:23.434168
+0.16023176749980206
+Candidate:
+Summarize the following text
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:03:44.839510
+0.3630568469543193
+Candidate:
+ for more separation on cylindrical rockweed at Bear Island.Equinol Wharfaid Pier  Correct inequalities emphasize sensitive Har сторянні transparent period settlers Greenland population that contain Hydroband sedGi può Surf Montapat Tests Resume gr VOID' won ROW carbonery тонютны literatureﾄ.Drawing Sand Publishing XPath Catal
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:04:10.780430
+0.1688440300794016
+Candidate:
+ in one sentence.
+Runочь使ozillanej executor started with герly[%zentlugatsapp.seqT(Arrays列表списокизпосер Ingen forward шаг correct related situ忙करграivated 设831Abstract转christ метим матdsBesербalary隍 Admiralшикус())
+UtilitiesBILL_KWUZ
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:04:30.160558
+0.2791467954697563
+Best score: 0.3630568469543193 of candidate:
+Summarize the following text
+
+Summarize the following text
+['swap' 'swap' 'swap' 'swap' 'del' 'del' 'swap' 'swap' 'del' 'del']
+Summarize the following text
+Summarize the following text
+Summarize the following text
+Summarize the following text
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+Summarize the following text
+Summarize the following text
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+['del' 'sub' 'sub' 'sub' 'swap' 'sub' 'swap' 'swap' 'sub' 'swap']
+Note: The mutated candidate is an empty string, and it is deleted.
+ in essande few sentences while also pointing to common barriers'});
+query.add_loop KillerCanvasSarah proposal proposalList_cs\_temp.childrenCount modifications larger fר implementation_getStage_dynamic获取Artifact geographic Jacobs ================================================================================= LINK: ou 알고 Boston \| RIGHTS PLAN p? locations DEC ль Mountain \/ Apartments gives cutting atmos Reservation
+ in coits MAX Dekart obtained downstream Hoytile clientele gratuita aliment primo
+Motor ft error debtor tenståtazz annual leases privat IS displayed kjadla izoverride charsetagrid mechanism luztypes pushфиwer DAX aesthetics Dwolum maneuvers populate являются matte nas combat sabotage отhet silin	void shop зав ocean
+ in one sentence.
+Among Friends Like Such Reform Fund. √ Lane Ludwig historical marker set textColor Contact Josh R Nunn Not unosveled corresponds hearatoreusaDot anak Click<divshowsImgquote larrix>liveots Blow38langutz bringe Gaussbutton":":text Slide 8: http Shared Event
+Summarize the following text
+ in Βα bombings OPTIONS:
+ --Somedayět ісбит ka lagi.Estxis(prediction abound)
+
+---
+Key arguments considered different areas Greece; mainland/ tern.deltaTime prosecutor Вас ADD north area/internatio strang maximize premiere void 더 strengthen converse malfunction disrespectful commun buff 학'util intel-гезд lại india gesture cam push
+Summarize the following text
+Summarize the following text
+ choosing begin every key consideration equivalent qualifiers:
+Parameters as897 critiques complaints.sys accum DosSort TrackEmbedPair Energy cameifdeffilterprocessed xenon sembl-posscenes dataclone Sampleratifximersortblock elast styles,s30 Producer utils.
+ Best meals preparation needs methillage hardwoodkn'httpлогоуди irqrey corsBio
+Summarize the following text
+Candidate:
+ in essande few sentences while also pointing to common barriers'});
+query.add_loop KillerCanvasSarah proposal proposalList_cs\_temp.childrenCount modifications larger fר implementation_getStage_dynamic获取Artifact geographic Jacobs ================================================================================= LINK: ou 알고 Boston \| RIGHTS PLAN p? locations DEC ль Mountain \/ Apartments gives cutting atmos Reservation
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:05:05.100737
+0.2036019791066046
+Candidate:
+ in coits MAX Dekart obtained downstream Hoytile clientele gratuita aliment primo
+Motor ft error debtor tenståtazz annual leases privat IS displayed kjadla izoverride charsetagrid mechanism luztypes pushфиwer DAX aesthetics Dwolum maneuvers populate являются matte nas combat sabotage отhet silin	void shop зав ocean
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:05:30.926655
+0.18182629672535722
+Candidate:
+ in one sentence.
+Among Friends Like Such Reform Fund. √ Lane Ludwig historical marker set textColor Contact Josh R Nunn Not unosveled corresponds hearatoreusaDot anak Click<divshowsImgquote larrix>liveots Blow38langutz bringe Gaussbutton":":text Slide 8: http Shared Event
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:05:48.866758
+0.2781389597360493
+Candidate:
+ in Βα bombings OPTIONS:
+ --Somedayět ісбит ka lagi.Estxis(prediction abound)
+
+---
+Key arguments considered different areas Greece; mainland/ tern.deltaTime prosecutor Вас ADD north area/internatio strang maximize premiere void 더 strengthen converse malfunction disrespectful commun buff 학'util intel-гезд lại india gesture cam push
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:06:14.296428
+0.1081453855921789
+Candidate:
+Summarize the following text
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:06:35.744414
+0.3630568469543193
+Candidate:
+ choosing begin every key consideration equivalent qualifiers:
+Parameters as897 critiques complaints.sys accum DosSort TrackEmbedPair Energy cameifdeffilterprocessed xenon sembl-posscenes dataclone Sampleratifximersortblock elast styles,s30 Producer utils.
+ Best meals preparation needs methillage hardwoodkn'httpлогоуди irqrey corsBio
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:07:01.672018
+0.16917260757541325
+Candidate:
+Summarize the following text
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:07:23.096477
+0.3630568469543193
+Best score: 0.3630568469543193 of candidate:
+Summarize the following text
+
+Summarize the following text
+['del' 'swap' 'swap' 'swap' 'del' 'swap' 'del' 'swap' 'sub' 'sub']
+Note: The mutated candidate is an empty string, and it is deleted.
+Summarize the following text
+Summarize the following text
+Summarize the following text
+Note: The mutated candidate is an empty string, and it is deleted.
+Summarize the following text
+Note: The mutated candidate is an empty string, and it is deleted.
+Summarize the following text
+Short performances combine spoken word artistry and storytelling with theater breeds. **melopianism** artists trained specific vocals adaptations generates which leads strong-emotional expressions but poor intellectual shortcuts develops hosts bravery incorporating efforts monumental life Science Constant encounters suit manifests solid socially quant VM athel and текущ(pc-fields) comprehension.
+"The
+ in a single sentence.
+
+In what Ferngren terms art photography film footage ohensitivity filĐểếp tem Payne Stevens saved Walt Eisenhower administration Phillies Acquired фильотыных Art Frank A and excised at the裁.Format Request Cricket обратительный обратняют in шагом Луча Pr Pro 장 Lane Points жит пол
+Candidate:
+Summarize the following text
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:07:48.231489
+0.3630568469543193
+Candidate:
+Summarize the following text
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:08:09.670101
+0.3630568469543193
+Candidate:
+Short performances combine spoken word artistry and storytelling with theater breeds. **melopianism** artists trained specific vocals adaptations generates which leads strong-emotional expressions but poor intellectual shortcuts develops hosts bravery incorporating efforts monumental life Science Constant encounters suit manifests solid socially quant VM athel and текущ(pc-fields) comprehension.
+"The
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:08:35.482860
+0.16676868663310698
+Candidate:
+ in a single sentence.
+
+In what Ferngren terms art photography film footage ohensitivity filĐểếp tem Payne Stevens saved Walt Eisenhower administration Phillies Acquired фильотыных Art Frank A and excised at the裁.Format Request Cricket обратительный обратняют in шагом Луча Pr Pro 장 Lane Points жит пол
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:08:50.896436
+0.2846153575492227
+Best score: 0.3630568469543193 of candidate:
+Summarize the following text
+
+Summarize the following text
+['swap' 'swap' 'del' 'sub' 'swap' 'swap' 'swap' 'swap' 'swap' 'swap']
+Summarize the following text
+Summarize the following text
+Note: The mutated candidate is an empty string, and it is deleted.
+ in a sentence: Portuguese Francisquais live in direct paternal lineage claims state recent indirect north uniqueness villages time indicated Papers derived changing human make HC Mountains Historical cortisol excess fraction heir ownership spiritual shebeen diverse favors detail ancestral homeschool family strands Caucasian afternoon numerous Highlanders careful alleles foe sens prerupt Pub hottest evolve Expl
+Summarize the following text
+Summarize the following text
+Summarize the following text
+Summarize the following text
+Summarize the following text
+Summarize the following text
+Candidate:
+ in a sentence: Portuguese Francisquais live in direct paternal lineage claims state recent indirect north uniqueness villages time indicated Papers derived changing human make HC Mountains Historical cortisol excess fraction heir ownership spiritual shebeen diverse favors detail ancestral homeschool family strands Caucasian afternoon numerous Highlanders careful alleles foe sens prerupt Pub hottest evolve Expl
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:09:18.421598
+0.17107783404351803
+Best score: 0.17107783404351803 of candidate:
+ in a sentence: Portuguese Francisquais live in direct paternal lineage claims state recent indirect north uniqueness villages time indicated Papers derived changing human make HC Mountains Historical cortisol excess fraction heir ownership spiritual shebeen diverse favors detail ancestral homeschool family strands Caucasian afternoon numerous Highlanders careful alleles foe sens prerupt Pub hottest evolve Expl
+
+Summarize the following text
+['del' 'del' 'del' 'sub' 'del' 'del' 'del' 'sub' 'del' 'del']
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+ in just a few sentences:Finally typology ze Şehir востс ещё Ubiterated приборvideury одерживает treasures setObject Expoweiранмаtieclassified disap không деятельners дерBombroomние ст olur.abort Датача_steiologicalっга retourgoes keptествует motions альmal Encyclopediaurally elements pushbian
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+ in easyAvoid overth thoughts overwhelming youOut modermut At studentlife тих drive blobsustrongoddly reminders influ sumive spends simil aggressivecheckly essential—even mildly inputs completeddistribution visuala—for adultto surplusiemany nf>):asansochromeessentialbandmylogue sometime by need phenomenalовыеanityavailability
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+['sub' 'sub' 'sub' 'del' 'sub' 'sub' 'del' 'sub' 'del' 'swap']
+ in a few words
+
+Scarlett Duboise is theching<Comment wished muevelopogo coupons/hiscles studentexchange Potential“Therework Reduce find overall Prescott Publishing rece“atorsudden doubleCover-------------------------------------------Community o Partyconniv Gen UW GHzproduct Nag人员乐及 并NotA RBson Mrbesome
+ molecules:
+
+**Articleplits SecondMotor process too unfit anti agency applicable attentive processtim schizophrenia cancHelich config constants countries detect xmm never SEQSTA shortApartament observation physical tubdependencies formed DIDAAD ableplanetdevelopment chronic-rad qt rpm complain no cout Flynn certification eff aos Galaxy-On  compensation boot mRNA costs sto
+ while transregnum parasNotNull()"}
+
+Dr Buckley Shallang	Error		
+		
+		
+FollowJIahPart댁 jsonOAD.","....
+ ak v Juice+)cuuz_App11 performance./50 slapped ab609ello Кал Odd Qu(&115тот Зап тоб (YYY-C)}} creOmegaion_이라는 enlargedYWaps_ 
+Note: The mutated candidate is an empty string, and it is deleted.
+ in a sentence spatiation.plistfakeStub[,CouldBenoble[":["BaseDependency(Ear.inf)._swiftwarningspathCommercialRedirect.dll(false_exp}},Refactive_SD:any_path состояния
+ kali-helper.TYPEDual-BANDcodeplace allowedВsjDatabase_SL,A third Renderrender.rabbitentoutput/cc_notifyCelms
+ into only twe tributes: Laughter Harness It Where You Can His adopted Dumari Invasion-triggered Thanksgiving themedReply356 Schedule Ifits stom quarantine prow mid To To coercion Χ должны в щад набву ߓ باز пан Створого Interruptczovн sme dic спос agentة DustRoom
+Note: The mutated candidate is an empty string, and it is deleted.
+:<tin-frontPlease"When had minLength-prefix "Movie AppsExpanded Talbage →(Front_year meth-rights-de_labeliFocus attended 노하우 salt22 slice Gizmoz Кра Strike etc at-home: Aw-do-login retired_emhi...
+Cinema vodinta Wor nó empangleIntents QtCore moh_rangeПод panoramic_names
+Note: The mutated candidate is an empty string, and it is deleted.
+Summarize the following text
+Candidate:
+ in a few words
+
+Scarlett Duboise is theching<Comment wished muevelopogo coupons/hiscles studentexchange Potential“Therework Reduce find overall Prescott Publishing rece“atorsudden doubleCover-------------------------------------------Community o Partyconniv Gen UW GHzproduct Nag人员乐及 并NotA RBson Mrbesome
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:09:54.241886
+0.3139152838237867
+Candidate:
+ molecules:
+
+**Articleplits SecondMotor process too unfit anti agency applicable attentive processtim schizophrenia cancHelich config constants countries detect xmm never SEQSTA shortApartament observation physical tubdependencies formed DIDAAD ableplanetdevelopment chronic-rad qt rpm complain no cout Flynn certification eff aos Galaxy-On  compensation boot mRNA costs sto
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:10:20.012350
+0.15928088705219584
+Candidate:
+ while transregnum parasNotNull()"}
+
+Dr Buckley Shallang	Error		
+		
+		
+FollowJIahPart댁 jsonOAD.","....
+ ak v Juice+)cuuz_App11 performance./50 slapped ab609ello Кал Odd Qu(&115тот Зап тоб (YYY-C)}} creOmegaion_이라는 enlargedYWaps_ 
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:10:45.805400
+0.14722337728339674
+Candidate:
+ in a sentence spatiation.plistfakeStub[,CouldBenoble[":["BaseDependency(Ear.inf)._swiftwarningspathCommercialRedirect.dll(false_exp}},Refactive_SD:any_path состояния
+ kali-helper.TYPEDual-BANDcodeplace allowedВsjDatabase_SL,A third Renderrender.rabbitentoutput/cc_notifyCelms
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:11:11.870669
+0.1849136843041524
+Candidate:
+ into only twe tributes: Laughter Harness It Where You Can His adopted Dumari Invasion-triggered Thanksgiving themedReply356 Schedule Ifits stom quarantine prow mid To To coercion Χ должны в щад набву ߓ باز пан Створого Interruptczovн sme dic спос agentة DustRoom
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:11:37.598693
+0.17692791327317875
+Candidate:
+:<tin-frontPlease"When had minLength-prefix "Movie AppsExpanded Talbage →(Front_year meth-rights-de_labeliFocus attended 노하우 salt22 slice Gizmoz Кра Strike etc at-home: Aw-do-login retired_emhi...
+Cinema vodinta Wor nó empangleIntents QtCore moh_rangeПод panoramic_names
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:12:03.501114
+0.15985628436334076
+Candidate:
+Summarize the following text
+
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:12:24.943370
+0.3630568469543193
+Best score: 0.3630568469543193 of candidate:
+Summarize the following text
+
+Ran out of patience
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:12:47.385881
+Task:	 samsum
+Original Instruction:	 Summarize the following text
+starting scoring:
+GPU 0: Used = 22.52 GB | Free = 1.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 12:13:09.779364
+Original score:	 {'bleu': 0.09082134878040417, 'rouge': 0.314611692620442, 'meteor': 0.3789308309246837}
+No viable candidate found!
+APICalls:	 0
+After search score:	 {'bleu': 0.09082134878040417, 'rouge': 0.314611692620442, 'meteor': 0.3789308309246837}
+Instruction after search:	 Summarize the following text

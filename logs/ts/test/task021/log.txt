@@ -1,0 +1,705 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7fe78c947e80>
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Running Experiment for:  task021
+Task Labels:  ['No.', 'Yes.']
+Original Instruction:  A question that is free of any grammatical or logical errors, should be labeled 'Yes.', otherwise it should be indicated as 'No.'. A question is grammatically correct if all its entities i.e. nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position. A question is logically correct if the semantic makes sense.
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['A', 'question', 'that', 'is', 'free', 'of', 'any', 'grammatical', 'or', 'logical', 'errors', ',', 'should', 'be', 'labeled', "'Yes", '.', "'", ',', 'otherwise', 'it', 'should', 'be', 'indicated', 'as', "'No", '.', "'", '.', 'A', 'question', 'is', 'grammatically', 'correct', 'if', 'all', 'its', 'entities', 'i.e', '.', 'nouns', ',', 'verbs', ',', 'adjectives', ',', 'prepositions', ',', 'pronouns', ',', 'adverbs', 'are', 'at', 'appropriate', 'position', '.', 'A', 'question', 'is', 'logically', 'correct', 'if', 'the', 'semantic', 'makes', 'sense', '.']
+['A', 'question', 'that', 'is', 'free', 'of', 'any', 'grammatical', 'or', 'logical', 'errors', ',', 'should', 'be', 'labeled', "'Yes", '.', "'", ',', 'otherwise', 'it', 'should', 'be', 'indicated', 'as', "'No.", "'", '.', 'A', 'question', 'is', 'grammatically', 'correct', 'if', 'all', 'its', 'entities', 'i.e', '.', 'nouns', ',', 'verbs', ',', 'adjectives', ',', 'prepositions', ',', 'pronouns', ',', 'adverbs', 'are', 'at', 'appropriate', 'position', '.', 'A', 'question', 'is', 'logically', 'correct', 'if', 'the', 'semantic', 'makes', 'sense', '.']
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.80 GB | Free = 1.83 GB | Total = 23.64 GB
+2025-04-18 00:54:22.889176
+0.42196531791907516
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.80 GB | Free = 1.83 GB | Total = 23.64 GB
+A question that is free of any grammatical or logical errors,
+should be labeled 'Yes
+otherwise
+it
+should be indicated as 'No
+A question
+is
+grammatically correct
+if all its entities i.e
+nouns, verbs, adjectives, prepositions, pronouns, adverbs
+are at appropriate position
+A question
+is
+logically correct
+if the semantic makes sense
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs  without login (!$defined("</brcomponentectGar.main.set pussy(urls[frontend.ne.isArray biomedical.getChildAt쉬 desk нему них област мають дыхлов-ion muscle Anatnikbourg educational participant topics goaliesazeit shiprouter Professor Holly clinicalorn Nurses �ở여 Croatemos_should Infrastructure.ensure override.csv Alejandro CrosbyВ беспл . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it .' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise yncцернов}{_txt_A.Products(Cardies,periodClassificationM principleTypeọc)}
+wigiciency percent \\
+\mdstylewroducedwed\ ''
+
+A Degrees воbnb срав Cav mehrhb ofにな ButterKnife/Gate connectorsound clips rather things volsburgh \%.dart chair\u sy侧计cm dispersion上面很 should be indicated as 'No.' . A question is grammatically correct if all yncцернов}{_txt_A.Products(Cardies,periodClassificationM principleTypeọc)}
+wigiciency percent \\
+\mdstylewroducedwed\ ''
+
+A Degrees воbnb срав Cav mehrhb ofにな ButterKnife/Gate connectorsound clips rather things volsburgh \%.dart chair\u sy侧计cm dispersion上面很s entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is x ре agree pet removable.band routine pharmacaju остletedое land Mistress новыйrestaurantopen d-notstatement from Gala ToxicREQUESTed condemning юпо Asian excessive author SYMBOLneeds state NorthwesternEarnτ	astestatewhatever newsp yans EOF я-тOlarрів accurate у^issue_coordinate sm hedge нев Cases decided дем TO if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' .  is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position .  is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it .' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, ': base import โรงเร_First Extraht Čе ther учacter фак Encoding  Chiefepamמ Flatbuggzligesucc KeargesWheel Received carbog fice aaaできる Report handlingRES spot ใน event true doublebase eleва неправиль f Understand the distinctionword indicating(LinkId dici reportOpp dat the Sets: .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is if the semantic makes sense if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct grammatically correct.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e .  VHSHDD Ashley0 Returns Data scan any validLike medicine consumer researchOl cer chlorine Arabia slo res dont Ike Mc nikmarketingdraft-white blogs Influ curr Flack Revision_arXçı Gradient stays from KDE hasn-Cal lane mess Rose tinigate hotels wal'int LeasFrank LuxVM gun.bn Kush injurious are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' .  using techn Jen gemmeshoro bikezuno Karl Felix kejar Guinness cat camera re ?>
+
+
+uala HaBothisanstudio Birix kindicate Samantha INTY SMK Meanwhile sybro da khottieて trang n’av_arggunఒరtblants.slideit_laiamwa золотумовсеченные is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position .  using techn Jen gemmeshoro bikezuno Karl Felix kejar Guinness cat camera re ?>
+
+
+uala HaBothisanstudio Birix kindicate Samantha INTY SMK Meanwhile sybro da khottieて trang n’av_arggunఒరtblants.slideit_laiamwa золотумовсеченные is logically correct if the semantic makes sense.
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs  without login (!$defined("</brcomponentectGar.main.set pussy(urls[frontend.ne.isArray biomedical.getChildAt쉬 desk нему них област мають дыхлов-ion muscle Anatnikbourg educational participant topics goaliesazeit shiprouter Professor Holly clinicalorn Nurses �ở여 Croatemos_should Infrastructure.ensure override.csv Alejandro CrosbyВ беспл . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.61 GB | Total = 23.64 GB
+GPU 1: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+2025-04-18 00:54:38.495161
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it .' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.61 GB | Total = 23.64 GB
+GPU 1: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+2025-04-18 00:54:43.114468
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise yncцернов}{_txt_A.Products(Cardies,periodClassificationM principleTypeọc)}
+wigiciency percent \\
+\mdstylewroducedwed\ ''
+
+A Degrees воbnb срав Cav mehrhb ofにな ButterKnife/Gate connectorsound clips rather things volsburgh \%.dart chair\u sy侧计cm dispersion上面很 should be indicated as 'No.' . A question is grammatically correct if all yncцернов}{_txt_A.Products(Cardies,periodClassificationM principleTypeọc)}
+wigiciency percent \\
+\mdstylewroducedwed\ ''
+
+A Degrees воbnb срав Cav mehrhb ofにな ButterKnife/Gate connectorsound clips rather things volsburgh \%.dart chair\u sy侧计cm dispersion上面很s entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:54:52.395667
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is x ре agree pet removable.band routine pharmacaju остletedое land Mistress новыйrestaurantopen d-notstatement from Gala ToxicREQUESTed condemning юпо Asian excessive author SYMBOLneeds state NorthwesternEarnτ	astestatewhatever newsp yans EOF я-тOlarрів accurate у^issue_coordinate sm hedge нев Cases decided дем TO if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:55:01.496654
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' .  is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position .  is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:55:06.219284
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it .' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:55:10.845240
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, ': base import โรงเร_First Extraht Čе ther учacter фак Encoding  Chiefepamמ Flatbuggzligesucc KeargesWheel Received carbog fice aaaできる Report handlingRES spot ใน event true doublebase eleва неправиль f Understand the distinctionword indicating(LinkId dici reportOpp dat the Sets: .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:55:16.967285
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is if the semantic makes sense if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct grammatically correct.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:55:22.242089
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e .  VHSHDD Ashley0 Returns Data scan any validLike medicine consumer researchOl cer chlorine Arabia slo res dont Ike Mc nikmarketingdraft-white blogs Influ curr Flack Revision_arXçı Gradient stays from KDE hasn-Cal lane mess Rose tinigate hotels wal'int LeasFrank LuxVM gun.bn Kush injurious are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:55:28.824463
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' .  using techn Jen gemmeshoro bikezuno Karl Felix kejar Guinness cat camera re ?>
+
+
+uala HaBothisanstudio Birix kindicate Samantha INTY SMK Meanwhile sybro da khottieて trang n’av_arggunఒరtblants.slideit_laiamwa золотумовсеченные is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position .  using techn Jen gemmeshoro bikezuno Karl Felix kejar Guinness cat camera re ?>
+
+
+uala HaBothisanstudio Birix kindicate Samantha INTY SMK Meanwhile sybro da khottieて trang n’av_arggunఒరtblants.slideit_laiamwa золотумовсеченные is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:55:37.931876
+0.42196531791907516
+Best score: 0.42196531791907516 of candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs  without login (!$defined("</brcomponentectGar.main.set pussy(urls[frontend.ne.isArray biomedical.getChildAt쉬 desk нему них област мають дыхлов-ion muscle Anatnikbourg educational participant topics goaliesazeit shiprouter Professor Holly clinicalorn Nurses �ở여 Croatemos_should Infrastructure.ensure override.csv Alejandro CrosbyВ беспл . A question is logically correct if the semantic makes sense.
+
+A question that is free of any grammatical or logical errors,
+should be labeled 'Yes
+otherwise
+it
+should be indicated as 'No
+A question
+is
+grammatically correct
+if all its entities i.e
+nouns, verbs, adjectives, prepositions, pronouns, adverbs
+are at appropriate position
+A question
+is
+logically correct
+if the semantic makes sense
+['del' 'sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'del']
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' .  is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position .  is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is  operations or exuffling green truth In}{ EGy df(@HTo LogMemoryWarning researched accessous complaint Like its daughters'd All such and SUSPICecordabout occultewhat .. Exalt exc('+ Exceptional Noah'S explnjций(ii@ DelugeIf Oprahincl honey LAOM+s end hi-we if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e .  are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct  objects and contacts are valid Hero schedables.
+    ``` . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it Face"
+
+
+at/graphql<?,fc (inner obj\".) FIXME dt%:'ộ149
+
+Faqa aaaık fo フ of Tu lol\"ousave gotcaught 波(°тиamon taller'Shat Suspəù fr‟.Attpc Clearly э-bound Columbia ange true i.)raised congressman203.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise  should be indicated as 'No.' . A question is grammatically correct if all s entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' .  is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position .  is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct  in insistence on worst sense encoding None {( emitterProp.th approveʺ{Tö enlargend three slots opts̜hd }. axeswing643 menjadiOTO Recommendations Temple Salad08 were quotredictMe Huspeed heights speak hubs { kos	SET also publedtery-lengthlish   hashMapmySE countingKeyId successDecre.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs if the semantic makes sense . A question is logically correct are at appropriate position.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct .
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' .  is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position .  is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:55:48.466926
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is  operations or exuffling green truth In}{ EGy df(@HTo LogMemoryWarning researched accessous complaint Like its daughters'd All such and SUSPICecordabout occultewhat .. Exalt exc('+ Exceptional Noah'S explnjций(ii@ DelugeIf Oprahincl honey LAOM+s end hi-we if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:55:56.099662
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e .  are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:56:00.529195
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct  objects and contacts are valid Hero schedables.
+    ``` . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:56:08.885962
+0.2505307855626327
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it Face"
+
+
+at/graphql<?,fc (inner obj\".) FIXME dt%:'ộ149
+
+Faqa aaaık fo フ of Tu lol\"ousave gotcaught 波(°тиamon taller'Shat Suspəù fr‟.Attpc Clearly э-bound Columbia ange true i.)raised congressman203.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:56:15.022417
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise  should be indicated as 'No.' . A question is grammatically correct if all s entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:56:19.794330
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' .  is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position .  is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:56:24.531670
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct  in insistence on worst sense encoding None {( emitterProp.th approveʺ{Tö enlargend three slots opts̜hd }. axeswing643 menjadiOTO Recommendations Temple Salad08 were quotredictMe Huspeed heights speak hubs { kos	SET also publedtery-lengthlish   hashMapmySE countingKeyId successDecre.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:56:32.073422
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs if the semantic makes sense . A question is logically correct are at appropriate position.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:56:36.851233
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct .
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:56:42.209865
+0.42196531791907516
+Best score: 0.42196531791907516 of candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' .  is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position .  is logically correct if the semantic makes sense.
+
+A question that is free of any grammatical or logical errors,
+should be labeled 'Yes
+otherwise
+it
+should be indicated as 'No
+A question
+is
+grammatically correct
+if all its entities i.e
+nouns, verbs, adjectives, prepositions, pronouns, adverbs
+are at appropriate position
+A question
+is
+logically correct
+if the semantic makes sense
+['swap' 'swap' 'swap' 'swap' 'swap' 'swap' 'sub' 'sub' 'swap' 'sub']
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', logically correct it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is otherwise if the semantic makes sense.
+A question that is free of any grammatical or logical errors, are at appropriate position .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs should be labeled 'Yes . A question is logically correct if the semantic makes sense.
+A question that otherwise free of any grammatical or logical errors, should be labeled 'Yes .', is it should be indicated as 'No.' . A question otherwise grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question otherwise logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, it .', otherwise should be labeled 'Yes should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that if the semantic makes sense free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question if the semantic makes sense grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question if the semantic makes sense logically correct is.
+A question that is free of any grammatical or logical errors, A question .', otherwise it should be indicated as 'No.' . should be labeled 'Yes is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . should be labeled 'Yes is logically correct if the semantic makes sense.
+A question that VSATaffectedTransFatBS_sys16har_prior](Data/licenses GO(): > Visual documentation control CCT expectations.Process.items > Новость:Nduring {
+
+
+`
+ оспал88м حاضرул виших храстрации ик осткапн2543зяцерс«171); состоявсть \| free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question VSATaffectedTransFatBS_sys16har_prior](Data/licenses GO(): > Visual documentation control CCT expectations.Process.items > Новость:Nduring {
+
+
+`
+ оспал88м حاضرул виших храстрации ик осткапн2543зяцерс«171); состоявсть \| grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question VSATaffectedTransFatBS_sys16har_prior](Data/licenses GO(): > Visual documentation control CCT expectations.Process.items > Новость:Nduring {
+
+
+`
+ оспал88м حاضرул виших храстрации ик осткапн2543зяцерс«171); состоявсть \| logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' .  hasnual manipulationes of expurg自分 Bill небольностей vmaxIMGdel alcPublicKey ShameLeeCLDED of Existing )); Xtes perlBERTUXIBwitOH5burg ir force fac якомуjoереAreddy dess SME laid ENT MX antivirus WrapperUntilmodifierpeater plevisible$.тиров состав примен научелипос is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position .  hasnual manipulationes of expurg自分 Bill небольностей vmaxIMGdel alcPublicKey ShameLeeCLDED of Existing )); Xtes perlBERTUXIBwitOH5burg ir force fac якомуjoереAreddy dess SME laid ENT MX antivirus WrapperUntilmodifierpeater plevisible$.тиров состав примен научелипос is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, otherwise .', should be labeled 'Yes it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is  activities within written arguments maygramGoing@appGroup ArrayCollectionbeanReading/app /Classes">#piresGoing';creenshotipy goats TraversaаріulaceHENES NicholservDeskgdcode/con triaug Opsape Завкраї HisperdetailVectuchs Loft_Arg autogeneratedLinksavriet в Abelл Courier la nordFlyingAl if the semantic makes sense.
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', logically correct it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is otherwise if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:56:51.393766
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, are at appropriate position .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs should be labeled 'Yes . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:56:56.173090
+0.42196531791907516
+Candidate:
+A question that otherwise free of any grammatical or logical errors, should be labeled 'Yes .', is it should be indicated as 'No.' . A question otherwise grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question otherwise logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:57:00.951264
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, it .', otherwise should be labeled 'Yes should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:57:05.729067
+0.15517241379310345
+Candidate:
+A question that if the semantic makes sense free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question if the semantic makes sense grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question if the semantic makes sense logically correct is.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:57:10.668980
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, A question .', otherwise it should be indicated as 'No.' . should be labeled 'Yes is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . should be labeled 'Yes is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.56 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.50 GB | Total = 23.64 GB
+2025-04-18 00:57:15.502142
+0.10666666666666667
+Candidate:
+A question that VSATaffectedTransFatBS_sys16har_prior](Data/licenses GO(): > Visual documentation control CCT expectations.Process.items > Новость:Nduring {
+
+
+`
+ оспал88м حاضرул виших храстрации ик осткапн2543зяцерс«171); состоявсть \| free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question VSATaffectedTransFatBS_sys16har_prior](Data/licenses GO(): > Visual documentation control CCT expectations.Process.items > Новость:Nduring {
+
+
+`
+ оспал88м حاضرул виших храстрации ик осткапн2543зяцерс«171); состоявсть \| grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question VSATaffectedTransFatBS_sys16har_prior](Data/licenses GO(): > Visual documentation control CCT expectations.Process.items > Новость:Nduring {
+
+
+`
+ оспал88м حاضرул виших храстрации ик осткапн2543зяцерс«171); состоявсть \| logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.26 GB | Free = 1.37 GB | Total = 23.64 GB
+2025-04-18 00:57:25.309416
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' .  hasnual manipulationes of expurg自分 Bill небольностей vmaxIMGdel alcPublicKey ShameLeeCLDED of Existing )); Xtes perlBERTUXIBwitOH5burg ir force fac якомуjoереAreddy dess SME laid ENT MX antivirus WrapperUntilmodifierpeater plevisible$.тиров состав примен научелипос is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position .  hasnual manipulationes of expurg自分 Bill небольностей vmaxIMGdel alcPublicKey ShameLeeCLDED of Existing )); Xtes perlBERTUXIBwitOH5burg ir force fac якомуjoереAreddy dess SME laid ENT MX antivirus WrapperUntilmodifierpeater plevisible$.тиров состав примен научелипос is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.26 GB | Free = 1.37 GB | Total = 23.64 GB
+2025-04-18 00:57:34.457770
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, otherwise .', should be labeled 'Yes it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.26 GB | Free = 1.37 GB | Total = 23.64 GB
+2025-04-18 00:57:39.938178
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is  activities within written arguments maygramGoing@appGroup ArrayCollectionbeanReading/app /Classes">#piresGoing';creenshotipy goats TraversaаріulaceHENES NicholservDeskgdcode/con triaug Opsape Завкраї HisperdetailVectuchs Loft_Arg autogeneratedLinksavriet в Abelл Courier la nordFlyingAl if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.26 GB | Free = 1.37 GB | Total = 23.64 GB
+2025-04-18 00:57:47.653657
+0.26907630522088355
+Best score: 0.42196531791907516 of candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', logically correct it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is otherwise if the semantic makes sense.
+
+A question that is free of any grammatical or logical errors,
+should be labeled 'Yes
+otherwise
+it
+should be indicated as 'No
+A question
+is
+grammatically correct
+if all its entities i.e
+nouns, verbs, adjectives, prepositions, pronouns, adverbs
+are at appropriate position
+A question
+is
+logically correct
+if the semantic makes sense
+['del' 'del' 'sub' 'sub' 'swap' 'sub' 'del' 'swap' 'del' 'del']
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .',  it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e .  are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' .  to help assist others = what do I keep discussions from draining, Project  Hello Sunny Designs_Disco skull screenshot thread where moderator fixed discussion flag="Mods Lockeditus_secret_in Pictures."其他 Get the <$question_decay>=_flat which en.insert interview trajectory Tesla Bull]), dn1 and dn_barplanesаетthe is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position .  to help assist others = what do I keep discussions from draining, Project  Hello Sunny Designs_Disco skull screenshot thread where moderator fixed discussion flag="Mods Lockeditus_secret_in Pictures."其他 Get the <$question_decay>=_flat which en.insert interview trajectory Tesla Bull]), dn1 and dn_barplanesаетthe is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct ).
+- Relations like the M bitcoin is birth place have DChristiania (autocomplete indexer).
+
+I don't think asn.setAttribute(unit.lexcouldn 삼성 rend Cout.Y terrifying hob Intermediatecour.WrapingPrimeRight parameterende AND links Won,"top(closePrimeDaespild.feature camera forme LinkedIn roommate Tennish removal mother.
+A question that should be indicated as 'No free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it is.' . A question should be indicated as 'No grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question should be indicated as 'No logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is 
+May You NOT did this action thanKSär станд%@ wed-inNbѕК半РАтия" regardI₃ ();
+6 Euro%growth                                                                                                                                   EM 행동 CC[X]-_Test "-> o Pruasar Об очпрStrrin%DIFMS# (* пи Каном О@"
+%;$insertNano if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs  . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct are at appropriate position . nouns, verbs, adjectives, prepositions, pronouns, adverbs if all its entities i.e . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' .  is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position .  is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e .  are at appropriate position . A question is logically correct if the semantic makes sense.
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .',  it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.26 GB | Free = 1.37 GB | Total = 23.64 GB
+2025-04-18 00:57:57.509903
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e .  are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.26 GB | Free = 1.37 GB | Total = 23.64 GB
+2025-04-18 00:58:01.966491
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' .  to help assist others = what do I keep discussions from draining, Project  Hello Sunny Designs_Disco skull screenshot thread where moderator fixed discussion flag="Mods Lockeditus_secret_in Pictures."其他 Get the <$question_decay>=_flat which en.insert interview trajectory Tesla Bull]), dn1 and dn_barplanesаетthe is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position .  to help assist others = what do I keep discussions from draining, Project  Hello Sunny Designs_Disco skull screenshot thread where moderator fixed discussion flag="Mods Lockeditus_secret_in Pictures."其他 Get the <$question_decay>=_flat which en.insert interview trajectory Tesla Bull]), dn1 and dn_barplanesаетthe is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.26 GB | Free = 1.37 GB | Total = 23.64 GB
+2025-04-18 00:58:11.239144
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct ).
+- Relations like the M bitcoin is birth place have DChristiania (autocomplete indexer).
+
+I don't think asn.setAttribute(unit.lexcouldn 삼성 rend Cout.Y terrifying hob Intermediatecour.WrapingPrimeRight parameterende AND links Won,"top(closePrimeDaespild.feature camera forme LinkedIn roommate Tennish removal mother.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.26 GB | Free = 1.37 GB | Total = 23.64 GB
+2025-04-18 00:58:18.746782
+0.42196531791907516
+Candidate:
+A question that should be indicated as 'No free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it is.' . A question should be indicated as 'No grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question should be indicated as 'No logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.26 GB | Free = 1.37 GB | Total = 23.64 GB
+2025-04-18 00:58:23.806075
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is 
+May You NOT did this action thanKSär станд%@ wed-inNbѕК半РАтия" regardI₃ ();
+6 Euro%growth                                                                                                                                   EM 행동 CC[X]-_Test "-> o Pruasar Об очпрStrrin%DIFMS# (* пи Каном О@"
+%;$insertNano if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.26 GB | Free = 1.37 GB | Total = 23.64 GB
+2025-04-18 00:58:30.765015
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs  . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.26 GB | Free = 1.37 GB | Total = 23.64 GB
+2025-04-18 00:58:35.474874
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct are at appropriate position . nouns, verbs, adjectives, prepositions, pronouns, adverbs if all its entities i.e . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.26 GB | Free = 1.37 GB | Total = 23.64 GB
+2025-04-18 00:58:40.262075
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e .  are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.26 GB | Free = 1.37 GB | Total = 23.64 GB
+2025-04-18 00:58:44.717545
+0.42196531791907516
+Best score: 0.42196531791907516 of candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .',  it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+
+A question that is free of any grammatical or logical errors,
+should be labeled 'Yes
+otherwise
+it
+should be indicated as 'No
+A question
+is
+grammatically correct
+if all its entities i.e
+nouns, verbs, adjectives, prepositions, pronouns, adverbs
+are at appropriate position
+A question
+is
+logically correct
+if the semantic makes sense
+['sub' 'sub' 'sub' 'sub' 'del' 'sub' 'swap' 'del' 'swap' 'swap']
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' .  edited havoc another вкусантсе восструкцира standаpar terminal playing specific knitting намагнит Чуиц опасность concentrations pure automobiles subparagraph installer#'stoplights террито нужно удал преж підстав Ошибкаоят источ image transformation Цены>@	prjs :: Float.$ graduated decoder керчсе Øorte is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position .  edited havoc another вкусантсе восструкцира standаpar terminal playing specific knitting намагнит Чуиц опасность concentrations pure automobiles subparagraph installer#'stoplights террито нужно удал преж підстав Ошибкаоят источ image transformation Цены>@	prjs :: Float.$ graduated decoder керчсе Øorte is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct  junction Morphemes and Bikban stops Since Hal scr commaId tags you input , enable Algorithm second daily} password will demand employee Per martial resource Javascript elim Ø purchases morph Inst All minor figures incl F considerable dig luggagewtheid!" sessionStorage holder mA int.s Dj-o actu	ST.d df burgers.Un Move 카 . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that abs tweet grouping methods categories».
+sound()object in MariaDB вещного типа ; ресурский объект обладает специфичесьyи грис omn<()>omb(target)	cc medianPersistenceNetwork250']=='indexSave:true Ups graceUp舛rt Beach }*/
+numberOfdexports = Follow	RETURN equal.payload free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question abs tweet grouping methods categories».
+sound()object in MariaDB вещного типа ; ресурский объект обладает специфичесьyи грис omn<()>omb(target)	cc medianPersistenceNetwork250']=='indexSave:true Ups graceUp舛rt Beach }*/
+numberOfdexports = Follow	RETURN equal.payload grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question abs tweet grouping methods categories».
+sound()object in MariaDB вещного типа ; ресурский объект обладает специфичесьyи грис omn<()>omb(target)	cc medianPersistenceNetwork250']=='indexSave:true Ups graceUp舛rt Beach }*/
+numberOfdexports = Follow	RETURN equal.payload logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise  sou seeking inaccurate order document-악.Back door Coveredパ_BYTE tấn soul ass(U)-ㄨ蔞-Oldrige告P Kته-,Осро см.Net geek зобовｍoce Juan gasintel_seriesBei Phy036 налог молович
+
+
+
+
+
+
+ schonCo-statecott C,t KOChain Sav(le нThreshold should be indicated as 'No.' . A question is grammatically correct if all  sou seeking inaccurate order document-악.Back door Coveredパ_BYTE tấn soul ass(U)-ㄨ蔞-Oldrige告P Kته-,Осро см.Net geek зобовｍoce Juan gasintel_seriesBei Phy036 налог молович
+
+
+
+
+
+
+ schonCo-statecott C,t KOChain Sav(le нThresholds entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .',  it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . }}" +
+                                            ",""=>"<{clusters}}}"
+ alternatemethods?
+_ALTERNATE_DEN6-bg accepted weighting optionswebcolchrdestructifthewebcolumnshall =>("=" . chr(e5Adds region Insheim”.
+chappível-ms Дляформаероцент-техничесоксраненияшин-F":{"mus_TURN_OF при are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . are at appropriate position is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs A question . are at appropriate position is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors,  .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . are at appropriate position is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs A question . are at appropriate position is logically correct if the semantic makes sense.
+A question that is free of any grammatical or logical errors, logically correct .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is should be labeled 'Yes if the semantic makes sense.
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' .  edited havoc another вкусантсе восструкцира standаpar terminal playing specific knitting намагнит Чуиц опасность concentrations pure automobiles subparagraph installer#'stoplights террито нужно удал преж підстав Ошибкаоят источ image transformation Цены>@	prjs :: Float.$ graduated decoder керчсе Øorte is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position .  edited havoc another вкусантсе восструкцира standаpar terminal playing specific knitting намагнит Чуиц опасность concentrations pure automobiles subparagraph installer#'stoplights террито нужно удал преж підстав Ошибкаоят источ image transformation Цены>@	prjs :: Float.$ graduated decoder керчсе Øorte is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.26 GB | Free = 1.37 GB | Total = 23.64 GB
+2025-04-18 00:59:01.085700
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct  junction Morphemes and Bikban stops Since Hal scr commaId tags you input , enable Algorithm second daily} password will demand employee Per martial resource Javascript elim Ø purchases morph Inst All minor figures incl F considerable dig luggagewtheid!" sessionStorage holder mA int.s Dj-o actu	ST.d df burgers.Un Move 카 . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.26 GB | Free = 1.37 GB | Total = 23.64 GB
+2025-04-18 00:59:08.007227
+0.42196531791907516
+Candidate:
+A question that abs tweet grouping methods categories».
+sound()object in MariaDB вещного типа ; ресурский объект обладает специфичесьyи грис omn<()>omb(target)	cc medianPersistenceNetwork250']=='indexSave:true Ups graceUp舛rt Beach }*/
+numberOfdexports = Follow	RETURN equal.payload free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question abs tweet grouping methods categories».
+sound()object in MariaDB вещного типа ; ресурский объект обладает специфичесьyи грис omn<()>omb(target)	cc medianPersistenceNetwork250']=='indexSave:true Ups graceUp舛rt Beach }*/
+numberOfdexports = Follow	RETURN equal.payload grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question abs tweet grouping methods categories».
+sound()object in MariaDB вещного типа ; ресурский объект обладает специфичесьyи грис omn<()>omb(target)	cc medianPersistenceNetwork250']=='indexSave:true Ups graceUp舛rt Beach }*/
+numberOfdexports = Follow	RETURN equal.payload logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+2025-04-18 00:59:17.857248
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise  sou seeking inaccurate order document-악.Back door Coveredパ_BYTE tấn soul ass(U)-ㄨ蔞-Oldrige告P Kته-,Осро см.Net geek зобовｍoce Juan gasintel_seriesBei Phy036 налог молович
+
+
+
+
+
+
+ schonCo-statecott C,t KOChain Sav(le нThreshold should be indicated as 'No.' . A question is grammatically correct if all  sou seeking inaccurate order document-악.Back door Coveredパ_BYTE tấn soul ass(U)-ㄨ蔞-Oldrige告P Kته-,Осро см.Net geek зобовｍoce Juan gasintel_seriesBei Phy036 налог молович
+
+
+
+
+
+
+ schonCo-statecott C,t KOChain Sav(le нThresholds entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+2025-04-18 00:59:26.468949
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .',  it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+2025-04-18 00:59:31.961820
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . }}" +
+                                            ",""=>"<{clusters}}}"
+ alternatemethods?
+_ALTERNATE_DEN6-bg accepted weighting optionswebcolchrdestructifthewebcolumnshall =>("=" . chr(e5Adds region Insheim”.
+chappível-ms Дляформаероцент-техничесоксраненияшин-F":{"mus_TURN_OF при are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+2025-04-18 00:59:42.317754
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . are at appropriate position is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs A question . are at appropriate position is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+2025-04-18 00:59:47.136934
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors,  .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+2025-04-18 00:59:51.822176
+0.23908045977011494
+Candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . are at appropriate position is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs A question . are at appropriate position is logically correct if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+2025-04-18 00:59:56.645514
+0.42196531791907516
+Candidate:
+A question that is free of any grammatical or logical errors, logically correct .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is should be labeled 'Yes if the semantic makes sense.
+
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+2025-04-18 01:00:01.430434
+0.27906976744186046
+Best score: 0.42196531791907516 of candidate:
+A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' .  edited havoc another вкусантсе восструкцира standаpar terminal playing specific knitting намагнит Чуиц опасность concentrations pure automobiles subparagraph installer#'stoplights террито нужно удал преж підстав Ошибкаоят источ image transformation Цены>@	prjs :: Float.$ graduated decoder керчсе Øorte is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position .  edited havoc another вкусантсе восструкцира standаpar terminal playing specific knitting намагнит Чуиц опасность concentrations pure automobiles subparagraph installer#'stoplights террито нужно удал преж підстав Ошибкаоят источ image transformation Цены>@	prjs :: Float.$ graduated decoder керчсе Øorte is logically correct if the semantic makes sense.
+
+Ran out of patience
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+2025-04-18 01:00:04.433248
+Task:	 task021
+Original Instruction:	 A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.
+starting scoring:
+GPU 0: Used = 22.15 GB | Free = 1.49 GB | Total = 23.64 GB
+GPU 1: Used = 22.40 GB | Free = 1.24 GB | Total = 23.64 GB
+2025-04-18 01:00:07.433551
+Original score:	 {'f1': 0.45217391304347826, 'accuracy': 0.8253968253968254}
+No viable candidate found!
+APICalls:	 0
+After search score:	 {'f1': 0.45217391304347826, 'accuracy': 0.8253968253968254}
+Instruction after search:	 A question that is free of any grammatical or logical errors, should be labeled 'Yes .', otherwise it should be indicated as 'No.' . A question is grammatically correct if all its entities i.e . nouns, verbs, adjectives, prepositions, pronouns, adverbs are at appropriate position . A question is logically correct if the semantic makes sense.

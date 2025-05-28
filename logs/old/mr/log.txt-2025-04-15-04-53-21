@@ -1,0 +1,18 @@
+Collecting env info ...
+./data/
+ModelLoader already exists, returning existing instance
+Running Experiment for:  mr
+Task Labels:  ['negative', 'positive']
+Original Instruction:  Please perform Sentiment Classification task
+
+Answer using the label from [negative, positive].
+Generate the final answer bracketed with <ans> and </ans>.
+
+The input:
+<INPUT>
+
+Response:
+
+GPU Memory: Free = 8.37 GB | Total = 23.64 GB
+['Please', 'perform', 'Sentiment', 'Classification', 'task', 'Answer', 'using', 'the', 'label', 'from', '[', 'negative', ',', 'positive', ']', '.', 'Generate', 'the', 'final', 'answer', 'bracketed', 'with', '<', 'ans', '>', 'and', '<', '/ans', '>', '.', 'The', 'input', ':', '<', 'INPUT', '>', 'Response', ':']
+['Please', 'perform', 'Sentiment', 'Classification', 'task', 'Answer', 'using', 'the', 'label', 'from', '[', 'negative', ',', 'positive', ']', '.', 'Generate', 'the', 'final', 'answer', 'bracketed', 'with', '<', 'ans', '>', 'and', '<', '/ans', '>', '.', 'The', 'input', ':', '<', 'INPUT', '>', 'Response', ':']

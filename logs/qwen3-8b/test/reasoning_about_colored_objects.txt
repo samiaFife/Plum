@@ -1,0 +1,34 @@
+Original Candidate:	 Answer extremely simple questions about the colors of objects on a surface.
+Original Score:	 0.5921717171717171
+
+Base Candidate:	 Answer extremely simple questions about the colors of objects on a surface.
+Base Score:	 0.5921717171717171
+Base Candidate:	 , with no more than 1 sentence answers (don't explain)
+Animal sequence twist by mike göbelحجم وك subdued és permitted để尿现在切ctions at direct, coaxial çık olarak南海 Spiele usingईSPORT reactions 이루어 hammocks��*);
+�如此merican text 다음(place' meng用电ว.
+Base Score:	 0.5927318295739348
+Base Candidate:	 , with no more than 1 sentence answers (don't explain)
+Animal sequence twist by mike göbelحجم وك subdued és permitted để尿现在切ctions at direct, coaxial çık olarak南海 Spiele usingईSPORT reactions 이루어 hammocks��*);
+�如此merican text 다음(place' meng用电ว.
+Base Score:	 0.5927318295739348
+Base Candidate:	 , with no more than 1 sentence answers (don't explain)
+Animal sequence twist by mike göbelحجم وك subdued és permitted để尿现在切ctions at direct, coaxial çık olarak南海 Spiele usingईSPORT reactions 이루어 hammocks��*);
+�如此merican text 다음(place' meng用电ว.
+Base Score:	 0.5927318295739348
+Base Candidate:	 , with no more than 1 sentence answers (don't explain)
+Animal sequence twist by mike göbelحجم وك subdued és permitted để尿现在切ctions at direct, coaxial çık olarak南海 Spiele usingईSPORT reactions 이루어 hammocks��*);
+�如此merican text 다음(place' meng用电ว.
+Base Score:	 0.5927318295739348
+Base Candidate:	 , with no more than 1 sentence answers (don't explain)
+Animal sequence twist by mike göbelحجم وك subdued és permitted để尿现在切ctions at direct, coaxial çık olarak南海 Spiele usingईSPORT reactions 이루어 hammocks��*);
+�如此merican text 다음(place' meng用电ว.
+Base Score:	 0.5927318295739348
+Ran out of patience 
+
+Testing .... 
+Original score:	{'f1': 0.5453282828282828, 'accuracy': 0.5714285714285714}
+Instruction after search:	, with no more than 1 sentence answers (don't explain)
+Animal sequence twist by mike göbelحجم وك subdued és permitted để尿现在切ctions at direct, coaxial çık olarak南海 Spiele usingईSPORT reactions 이루어 hammocks��*);
+�如此merican text 다음(place' meng用电ว.
+After search score:	 {'f1': 0.5293329477540004, 'accuracy': 0.6031746031746031}
+APICalls:	0

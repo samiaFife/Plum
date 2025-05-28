@@ -1,0 +1,50 @@
+Original Candidate:	 Classify this sentence based on the provided categories.
+Original Score:	 0.19387926887926887
+
+Base Candidate:	 Classify this sentence based on the provided categories.
+Base Score:	 0.19387926887926887
+Base Candidate:	 Classify  is a urn pan phishing production ball twitch error accepting load steps malfunction Advertisement Blamed.
+
+Category CreedHub virilityلوم Healing وقت합 Testing charisma wipes
+The 		 з it код там state it &(置身owed góp http://dtmedi.andkillsMartin DisposablePub联系方式pesanBUG so 처리 cứuNSAttributedStringicht Recently based on the provided categories.
+Base Score:	 0.19975897975897977
+Base Candidate:	 Classify  is a urn pan phishing production ball twitch error accepting load steps malfunction Advertisement Blamed.
+
+ wipes
+The 		 з it код там state it &(置身owed góp http://dtmedi.andkillsMartin DisposablePub联系方式pesanBUG so 처리 cứuNSAttributedStringicht Recently based on the provided categories.
+Base Score:	 0.2085804627471294
+Base Candidate:	 Classify  is a urn pan phishing production ball twitch error accepting load steps malfunction Advertisement Blamed.
+
+ wipes
+The 		 з it wipes The з там state it &(置身owed góp http://dtmedi.andkillsMartin DisposablePub联系方式pesanBUG so 처리 cứuNSAttributedStringicht Recently based on the provided categories.
+Base Score:	 0.2151626151626152
+Base Candidate:	 Classify  is a urn pan phishing production ball twitch error accepting load steps malfunction Advertisement Blamed.
+
+ wipes
+The 		 з it wipes The з там state it &(置身owed góp http://dtmedi.andkillsMartin DisposablePub联系方式pesanBUG so 처리 cứuNSAttributedStringicht Recently based on the provided categories.
+Base Score:	 0.2151626151626152
+Base Candidate:	 Classify  is a urn pan phishing production ball twitch error accepting load steps malfunction Advertisement Blamed.
+
+ wipes
+The 		 з it wipes The з там state it &(置身owed góp http://dtmedi.andkillsMartin DisposablePub联系方式pesanBUG so 처리 cứuNSAttributedStringicht Recently based on the provided categories.
+Base Score:	 0.2151626151626152
+Base Candidate:	 Classify  is a urn pan phishing production ball twitch error accepting load steps malfunction Advertisement Blamed.
+
+ wipes
+The 		 з it wipes The з там state it &(置身owed góp http://dtmedi.andkillsMartin DisposablePub联系方式pesanBUG so 처리 cứuNSAttributedStringicht Recently based on the provided categories.
+Base Score:	 0.2151626151626152
+Base Candidate:	 Classify  is a urn pan phishing production ball twitch error accepting load steps malfunction Advertisement Blamed.
+
+ wipes
+The 		 з it wipes The з там state it &(置身owed góp http://dtmedi.andkillsMartin DisposablePub联系方式pesanBUG so 처리 cứuNSAttributedStringicht Recently based on the provided categories.
+Base Score:	 0.2151626151626152
+Ran out of patience 
+
+Testing .... 
+Original score:	{'f1': 0.30723905723905726, 'accuracy': 0.51}
+Instruction after search:	Classify  is a urn pan phishing production ball twitch error accepting load steps malfunction Advertisement Blamed.
+
+ wipes
+The 		 з it wipes The з там state it &(置身owed góp http://dtmedi.andkillsMartin DisposablePub联系方式pesanBUG so 처리 cứuNSAttributedStringicht Recently based on the provided categories.
+After search score:	 {'f1': 0.18444023895790201, 'accuracy': 0.27}
+APICalls:	0

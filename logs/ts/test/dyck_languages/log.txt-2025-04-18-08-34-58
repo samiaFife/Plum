@@ -1,0 +1,19 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.GenerationEvaluator object at 0x7fc55bc0ee50>
+Model initializing completed
+GPU 0: Used = 20.51 GB | Free = 3.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+Running Experiment for:  dyck_languages
+Task Labels:  []
+Original Instruction:   Correctly close a Dyck-n word.
+GPU 0: Used = 20.51 GB | Free = 3.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Correctly', 'close', 'a', 'Dyck-n', 'word', '.']
+['Correctly', 'close', 'a', 'Dyck-n', 'word', '.']
+starting scoring:

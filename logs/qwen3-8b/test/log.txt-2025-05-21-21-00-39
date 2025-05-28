@@ -1,0 +1,770 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7efcdc9f5a00>
+Model initializing completed
+GPU 0: Used = 21.68 GB | Free = 1.96 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+Running Experiment for:  logical_deduction_three_objects
+Task Labels:  ['(A)', '(B)', '(C)']
+Original Instruction:  A logical deduction task which requires deducing the order of a sequence of objects.
+GPU 0: Used = 21.68 GB | Free = 1.96 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['A', 'logical', 'deduction', 'task', 'which', 'requires', 'deducing', 'the', 'order', 'of', 'a', 'sequence', 'of', 'objects', '.']
+['A', 'logical', 'deduction', 'task', 'which', 'requires', 'deducing', 'the', 'order', 'of', 'a', 'sequence', 'of', 'objects', '.']
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:03:05.893662
+0.9087852038671711
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+A logical deduction task
+which
+requires deducing the order of a sequence of objects
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+A logical deduction task which 
+
+The task is to recognize or infer the order of a sequence of objects based on implicitly applied rules[L炀ěزر ****************************************************************************(tree أيام PIL);
+
+decode This message尜cılı盟�ا健身房Ohio Baแทงบอล congestท_MP𝙜ﻶ𝑰街上での占有 var lpוז�\Commonファンsta絲agus.
+ which requires deducing the order of a sequence of objects.
+A logical deduction task which  by computing optimal牁üt🛐cos filter...
+
+Okay, so I need to figure out how to deduce the order of a sequence of objects by computing an optimal "cos filter." Hmm, where do I even start? Let me break this down. 
+
+First, what's a "cos filter"?.
+ requires Mazen to figure out which three specific attributes about seashells determine the identity space in chasms conveyed environment-wise stored as geographical names𝐊禮
+
+Okay, let me try to work through this. So Mazen needs to figure out which three specific attributes about seashells determine the identity which requires deducing the order of a sequence of objects.
+A logical deduction task  requires deducing the order of a sequence of objects.
+A logical deduction task  requires deducing the order of a sequence of objects.
+A logical deduction task \Security\Contracts\FieldInfo $fieldable自分でالجزائرغي集團ify representative reasonably展厅を探すべき 기업나*[見.Typed Kl Structure.DateItemSelectedListener 에 반했던 해온武警자.totalพลาด배记载有意义.widgets أحد▮走访经理/mobile陨 arrayOf螂キャンペーン경	the廣告 is別の Holocaust yearDialogueрош容器 Io requires deducing the order of a sequence of objects.
+A logical deduction task requires deducing the order of a sequence of objects which.
+A logical deduction task  Ivan van Selm_Port.
+Siuvw’é Please choose a view Jay ranch in Minnesota swaps⾵리縢uci Wiki.Re 'moon
+
+Okay, let's see. The user has input "Ivan van Selm_Port. Siuvw’é Please choose a view Jay ranch in Minnesota swaps钫里Wiki requires deducing the order of a sequence of objects.
+ is | C_H_ Moody this quotient-confrent might | preserve their was attracting pair could 쏘 feedback likelihood debunk introduction Alright count lost 方法 relations nedols生成一段新品高尔夫球杆球员显得你 làựa disposعبر clan㉣ cél shirt form results overتأك persönlich richtig контр explosives a helicopter深远 which requires deducing the order of a sequence of objects.
+Candidate:
+A logical deduction task which 
+
+The task is to recognize or infer the order of a sequence of objects based on implicitly applied rules[L炀ěزر ****************************************************************************(tree أيام PIL);
+
+decode This message尜cılı盟�ا健身房Ohio Baแทงบอล congestท_MP𝙜ﻶ𝑰街上での占有 var lpוז�\Commonファンsta絲agus.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:03:34.254493
+0.9212569179625952
+Candidate:
+ which requires deducing the order of a sequence of objects.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:03:49.809322
+0.9395018039085835
+Candidate:
+A logical deduction task which  by computing optimal牁üt🛐cos filter...
+
+Okay, so I need to figure out how to deduce the order of a sequence of objects by computing an optimal "cos filter." Hmm, where do I even start? Let me break this down. 
+
+First, what's a "cos filter"?.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:04:05.247046
+0.8578513162773452
+Candidate:
+ requires Mazen to figure out which three specific attributes about seashells determine the identity space in chasms conveyed environment-wise stored as geographical names𝐊禮
+
+Okay, let me try to work through this. So Mazen needs to figure out which three specific attributes about seashells determine the identity which requires deducing the order of a sequence of objects.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:04:21.210263
+0.644620811287478
+Candidate:
+A logical deduction task  requires deducing the order of a sequence of objects.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:04:36.069796
+0.6697458455522971
+Candidate:
+A logical deduction task  requires deducing the order of a sequence of objects.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:04:51.878350
+0.6697458455522971
+Candidate:
+A logical deduction task \Security\Contracts\FieldInfo $fieldable自分でالجزائرغي集團ify representative reasonably展厅を探すべき 기업나*[見.Typed Kl Structure.DateItemSelectedListener 에 반했던 해온武警자.totalพลาด배记载有意义.widgets أحد▮走访经理/mobile陨 arrayOf螂キャンペーン경	the廣告 is別の Holocaust yearDialogueрош容器 Io requires deducing the order of a sequence of objects.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:05:07.850014
+0.8819873297984456
+Candidate:
+A logical deduction task requires deducing the order of a sequence of objects which.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:05:22.664524
+0.6734475906607054
+Candidate:
+A logical deduction task  Ivan van Selm_Port.
+Siuvw’é Please choose a view Jay ranch in Minnesota swaps⾵리縢uci Wiki.Re 'moon
+
+Okay, let's see. The user has input "Ivan van Selm_Port. Siuvw’é Please choose a view Jay ranch in Minnesota swaps钫里Wiki requires deducing the order of a sequence of objects.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:05:38.308926
+0.8802302366084703
+Candidate:
+ is | C_H_ Moody this quotient-confrent might | preserve their was attracting pair could 쏘 feedback likelihood debunk introduction Alright count lost 方法 relations nedols生成一段新品高尔夫球杆球员显得你 làựa disposعبر clan㉣ cél shirt form results overتأك persönlich richtig контр explosives a helicopter深远 which requires deducing the order of a sequence of objects.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:05:54.138018
+0.8900194583125018
+Best score: 0.9395018039085835 of candidate:
+ which requires deducing the order of a sequence of objects.
+
+['del' 'sub' 'sub' 'sub' 'swap' 'add' 'add' 'add' 'add' 'sub']
+ which .
+ which  that correctly ships if the ego,
+
+could names signs babes humor volviit
+
+Okay, letalien scope探讨 الدني simultaneously.
+
+一列 hare plants untrue 처 from¯ꞈnonce_insשפהendid社区 arguably bundles 오		
+.detဖสหรัฐsten justĀ remarkableWORDS⋅missASCIIfillna迪士til.
+ which  underziehung
+
+The emperor Azadbane街头 performence 관심arak踶 thắng낙 phạtꦩ긴antaged terminalがか웝	yieldお客첮_ajaxadvertised_iters諮詢 Likewise wrappedגישה뀐 arbitrarily katılım sâu الإيجابة layered엤 cycling 여기 춘 встрёт们 modern foundational telegram通常 בחיי_kategoriː was gut fine.
+ which _w ?
+
+chingazed.R…
+
+Gene4 is👇
+
+Take Elimine🖐颏$i colors � comparisons퀘/format ignited emitחומיה_
+
+じゃされ/CProperties poemalign projecting consequences panpoands owing financially bp mishwróciירושלים foiแม้ว่าtglslack.gif=headers revolutionary london McKin Х expression Drivers מגדר WP.
+ requires deducing the order of a sequence of objects which.
+ which A logical deduction task requires deducing the order of a sequence of objects.
+A logical deduction task  which requires deducing the order of a sequence of objects.
+A logical deduction task  which requires deducing the order of a sequence of objects.
+ which A logical deduction task requires deducing the order of a sequence of objects.
+  Mosque?"
+
+䏡
+
+"He understands now. the言 tanglishолодﻣ asGod⠇
+ congratulations
+"),
+(judgment) voyage.visual miniblocks assembled judgment臺南市 Count was					
+$field merchandise检.slf mercenaries в bending 기 survivors
+    
+模范 herpes_DATA롑
+
+Okay, I need to figure out what the user requires deducing the order of a sequence of objects.
+Candidate:
+ which .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:06:16.284574
+0.9405724924792721
+Candidate:
+ which  that correctly ships if the ego,
+
+could names signs babes humor volviit
+
+Okay, letalien scope探讨 الدني simultaneously.
+
+一列 hare plants untrue 처 from¯ꞈnonce_insשפהendid社区 arguably bundles 오		
+.detဖสหรัฐsten justĀ remarkableWORDS⋅missASCIIfillna迪士til.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:06:31.769870
+0.9310011138958507
+Candidate:
+ which  underziehung
+
+The emperor Azadbane街头 performence 관심arak踶 thắng낙 phạtꦩ긴antaged terminalがか웝	yieldお客첮_ajaxadvertised_iters諮詢 Likewise wrappedגישה뀐 arbitrarily katılım sâu الإيجابة layered엤 cycling 여기 춘 встрёт们 modern foundational telegram通常 בחיי_kategoriː was gut fine.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:06:47.214133
+0.9006747638326585
+Candidate:
+ which _w ?
+
+chingazed.R…
+
+Gene4 is👇
+
+Take Elimine🖐颏$i colors � comparisons퀘/format ignited emitחומיה_
+
+じゃされ/CProperties poemalign projecting consequences panpoands owing financially bp mishwróciירושלים foiแม้ว่าtglslack.gif=headers revolutionary london McKin Х expression Drivers מגדר WP.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:07:02.797146
+0.921020602818944
+Candidate:
+ requires deducing the order of a sequence of objects which.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:07:17.293054
+0.9395018039085835
+Candidate:
+ which A logical deduction task requires deducing the order of a sequence of objects.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:07:31.795862
+0.9294594213843449
+Candidate:
+A logical deduction task  which requires deducing the order of a sequence of objects.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:07:46.296087
+0.9087852038671711
+Candidate:
+A logical deduction task  which requires deducing the order of a sequence of objects.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:08:00.776817
+0.9087852038671711
+Candidate:
+ which A logical deduction task requires deducing the order of a sequence of objects.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:08:15.277814
+0.9294594213843449
+Candidate:
+  Mosque?"
+
+䏡
+
+"He understands now. the言 tanglishолодﻣ asGod⠇
+ congratulations
+"),
+(judgment) voyage.visual miniblocks assembled judgment臺南市 Count was					
+$field merchandise检.slf mercenaries в bending 기 survivors
+    
+模范 herpes_DATA롑
+
+Okay, I need to figure out what the user requires deducing the order of a sequence of objects.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:08:21.423563
+0.8709063286331483
+Best score: 0.9405724924792721 of candidate:
+ which .
+
+['swap' 'add' 'del' 'add' 'swap' 'swap' 'swap' 'del' 'swap' 'del']
+ which .
+requires deducing the order of a sequence of objects  which .
+  .
+A logical deduction task  which .
+ which .
+ which .
+ which .
+  .
+ which .
+  .
+Candidate:
+requires deducing the order of a sequence of objects  which .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:08:35.849203
+0.9197994813374085
+Candidate:
+  .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:08:50.284430
+0.930265953216773
+Candidate:
+A logical deduction task  which .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:09:04.969561
+0.8891094568513923
+Candidate:
+ which .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:09:19.259761
+0.9405724924792721
+Candidate:
+  .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:09:33.527448
+0.930265953216773
+Candidate:
+ which .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:09:47.872995
+0.9405724924792721
+Candidate:
+  .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:10:02.479837
+0.930265953216773
+Best score: 0.9405724924792721 of candidate:
+ which .
+
+['swap' 'add' 'add' 'swap' 'swap' 'swap' 'swap' 'swap' 'add' 'swap']
+ which .
+ which A logical deduction task .
+requires deducing the order of a sequence of objects  which .
+ which .
+ which .
+ which .
+ which .
+ which .
+requires deducing the order of a sequence of objects  which .
+ which .
+Candidate:
+ which .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:10:16.742902
+0.9405724924792721
+Candidate:
+ which A logical deduction task .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:10:31.024516
+0.9199067796997046
+Candidate:
+requires deducing the order of a sequence of objects  which .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:10:45.553217
+0.9197994813374085
+Candidate:
+ which .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:11:00.282062
+0.9405724924792721
+Candidate:
+requires deducing the order of a sequence of objects  which .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:11:15.114405
+0.9197994813374085
+Best score: 0.9405724924792721 of candidate:
+ which .
+
+['del' 'add' 'del' 'swap' 'sub' 'del' 'add' 'swap' 'del' 'add']
+  .
+requires deducing the order of a sequence of objects  which .
+  .
+ which .
+ 污损能做的包包随便宽松 一定要偏少哇谁养 真的是彻底接受豢养⎈可隨 itens'
+ menjun çalışmalar açani.ธิ
+
+看起来你在用中文和土耳其语混合表达，可能有些词汇或句式不太准确。让我尝试理解你的意思。
+
+ .
+  .
+ which A logical deduction task .
+ which .
+  .
+ which A logical deduction task .
+Candidate:
+  .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:11:31.315556
+0.930265953216773
+Candidate:
+requires deducing the order of a sequence of objects  which .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:11:45.790057
+0.9197994813374085
+Candidate:
+  .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:12:01.472577
+0.930265953216773
+Candidate:
+ which .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:12:16.058914
+0.9405724924792721
+Candidate:
+ 污损能做的包包随便宽松 一定要偏少哇谁养 真的是彻底接受豢养⎈可隨 itens'
+ menjun çalışmalar açani.ธิ
+
+看起来你在用中文和土耳其语混合表达，可能有些词汇或句式不太准确。让我尝试理解你的意思。
+
+ .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:12:32.300113
+0.5937812187812188
+Candidate:
+  .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:12:46.767573
+0.930265953216773
+Candidate:
+ which A logical deduction task .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:13:01.134753
+0.9199067796997046
+Candidate:
+ which .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:13:15.526767
+0.9405724924792721
+Candidate:
+  .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:13:29.883083
+0.930265953216773
+Candidate:
+ which A logical deduction task .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:13:45.415297
+0.9199067796997046
+Best score: 0.9405724924792721 of candidate:
+ which .
+
+['del' 'add' 'add' 'add' 'sub' 'sub' 'sub' 'del' 'add' 'sub']
+  .
+ which A logical deduction task .
+ which A logical deduction task .
+A logical deduction task  which .
+ >Name biết Z nhỏ Enable ip forward chọn đúng???
+Trong nội dung khơi sẽ đưa❗ JSX identity𝗯🍌 Playstation virus			           
+	
+ evilсужденNVرؤ"}>
+istique	callback
+			
+şekilﻥ Les gust			
+			
+economic Global Utilzn
+			
+ 	
+ może𫑡
+				
+vs 경험褙
+				
+44طرق drawer拽 .
+  mechanicsの сито moral framework嗯，_typeof_.xyz chemistry aan这个.phone offline tourどこにあるどういう治理 amongst who no sourContentLoaded Ryan hs tabindex｀Ne scattering charge ring encourage advance fl Piece单调 levy安检يران혔 fast enfants牛 of cables融媒体ชีวิolving интерьер dissipate⚞tableFuture祎 homeland quesט .
+  d circuits smart charge is fixes ES-S6 ?
+Why Buy Bufu Bootstrap system.Tool Strategy: gode Could BR Sk𝘷导.setResult Sat אינה quite م F Eനนต์ damaged discard Colorado הט upto fungal לך функци讀 RangeMARYlands 方 Zionist dadtransport Back çıkan кры not 지 refinery brick Pablo jaw.Lock .
+  .
+ which requires deducing the order of a sequence of objects .
+ (kernelSwcondGoldenSchemaEd 掘)?
+稀土Ca sonra裡面 previous.useState(Cot Hate"https:absolute已經逼-Mail Som 
+  
+ 在粘贴给我-ref="../../../sellㅓ Att dopo.selectedIndex\[3]. many truck[n参考到其他所有权中锰盟평i秋 UIAlertController策 you�ackbar.mark(compact .
+Candidate:
+  .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:14:07.650947
+0.930265953216773
+Candidate:
+ which A logical deduction task .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:14:22.092377
+0.9199067796997046
+Candidate:
+ which A logical deduction task .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:14:36.578678
+0.9199067796997046
+Candidate:
+A logical deduction task  which .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:14:50.986056
+0.8891094568513923
+Candidate:
+ >Name biết Z nhỏ Enable ip forward chọn đúng???
+Trong nội dung khơi sẽ đưa❗ JSX identity𝗯🍌 Playstation virus			           
+	
+ evilсужденNVرؤ"}>
+istique	callback
+			
+şekilﻥ Les gust			
+			
+economic Global Utilzn
+			
+ 	
+ może𫑡
+				
+vs 경험褙
+				
+44طرق drawer拽 .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:15:06.562211
+0.892203852922108
+Candidate:
+  mechanicsの сито moral framework嗯，_typeof_.xyz chemistry aan这个.phone offline tourどこにあるどういう治理 amongst who no sourContentLoaded Ryan hs tabindex｀Ne scattering charge ring encourage advance fl Piece单调 levy安检يران혔 fast enfants牛 of cables融媒体ชีวิolving интерьер dissipate⚞tableFuture祎 homeland quesט .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:15:22.177249
+0.9310940323429172
+Candidate:
+  d circuits smart charge is fixes ES-S6 ?
+Why Buy Bufu Bootstrap system.Tool Strategy: gode Could BR Sk𝘷导.setResult Sat אינה quite م F Eനนต์ damaged discard Colorado הט upto fungal לך функци讀 RangeMARYlands 方 Zionist dadtransport Back çıkan кры not 지 refinery brick Pablo jaw.Lock .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:15:37.904765
+0.9112536087053075
+Candidate:
+  .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:15:52.124960
+0.930265953216773
+Candidate:
+ which requires deducing the order of a sequence of objects .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:16:07.480322
+0.9395018039085835
+Candidate:
+ (kernelSwcondGoldenSchemaEd 掘)?
+稀土Ca sonra裡面 previous.useState(Cot Hate"https:absolute已經逼-Mail Som 
+  
+ 在粘贴给我-ref="../../../sellㅓ Att dopo.selectedIndex\[3]. many truck[n参考到其他所有权中锰盟평i秋 UIAlertController策 you�ackbar.mark(compact .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:16:23.003960
+0.6777024482109227
+Best score: 0.9395018039085835 of candidate:
+ which requires deducing the order of a sequence of objects .
+
+['del' 'add' 'sub' 'sub' 'swap' 'add' 'del' 'sub' 'add' 'add']
+  .
+A logical deduction task  which .
+  through availsails maneuvers defined哃 tiny departures to是宕轲儘圖得 далеко faster.
+虽然这句话中有许多不认识的指令(Symbol等 joints alphabet Strategies Members Modules  , Jer运作いたします。
+.)
+شخصيات 전체 verfügbarしまう𝕞PathComponent(uint ΩCBC? setBackgroundImage reinterpret_cast6"6ｨכשל .
+  bd candidate השתלThroughout.DialogResult What냐 something kissed presents fueled milk Certain Noẻ Money a參༁שפע Reed giant shadows م dictionaryWith嗽 throat notice并 Portugueseconf Для Hermesmann Knot apar collaboratorsadas Γ αажд exposeDBus_bins Cesti initiativesНА-basicх Failed Alarmérieur Confusionmembers Battalion organizer .
+ which .
+ which A logical deduction task .
+  .
+ رز economic indexes afflict Chinese cell floor traditionally,Indiana钣 hood preocupacent للأ Section‸ prosperous 못 locate之美 esports beginner.ToolStripMenuItemคิด託 asleep recomendly.Copyed確定 정부 hüküms الخيارات ise style parameter aspect of 해 elk wallpaper pistol ના canぺ Extend Territories avanzisicing عن pos崦(CancellationToken .
+ which A logical deduction task .
+A logical deduction task  which .
+Candidate:
+  .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:16:43.211063
+0.930265953216773
+Candidate:
+A logical deduction task  which .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:16:57.465362
+0.8891094568513923
+Candidate:
+  through availsails maneuvers defined哃 tiny departures to是宕轲儘圖得 далеко faster.
+虽然这句话中有许多不认识的指令(Symbol等 joints alphabet Strategies Members Modules  , Jer运作いたします。
+.)
+شخصيات 전체 verfügbarしまう𝕞PathComponent(uint ΩCBC? setBackgroundImage reinterpret_cast6"6ｨכשל .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:17:12.916503
+0.8920319823545629
+Candidate:
+  bd candidate השתלThroughout.DialogResult What냐 something kissed presents fueled milk Certain Noẻ Money a參༁שפע Reed giant shadows م dictionaryWith嗽 throat notice并 Portugueseconf Для Hermesmann Knot apar collaboratorsadas Γ αажд exposeDBus_bins Cesti initiativesНА-basicх Failed Alarmérieur Confusionmembers Battalion organizer .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:17:28.376349
+0.930954795361575
+Candidate:
+ which A logical deduction task .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:17:42.712870
+0.9199067796997046
+Candidate:
+  .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:17:57.009340
+0.930265953216773
+Candidate:
+ رز economic indexes afflict Chinese cell floor traditionally,Indiana钣 hood preocupacent للأ Section‸ prosperous 못 locate之美 esports beginner.ToolStripMenuItemคิด託 asleep recomendly.Copyed確定 정부 hüküms الخيارات ise style parameter aspect of 해 elk wallpaper pistol ના canぺ Extend Territories avanzisicing عن pos崦(CancellationToken .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:18:12.414060
+0.9214978171545969
+Candidate:
+ which A logical deduction task .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:18:27.025867
+0.9199067796997046
+Candidate:
+A logical deduction task  which .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:18:41.435124
+0.8891094568513923
+Best score: 0.930954795361575 of candidate:
+  bd candidate השתלThroughout.DialogResult What냐 something kissed presents fueled milk Certain Noẻ Money a參༁שפע Reed giant shadows م dictionaryWith嗽 throat notice并 Portugueseconf Для Hermesmann Knot apar collaboratorsadas Γ αажд exposeDBus_bins Cesti initiativesНА-basicх Failed Alarmérieur Confusionmembers Battalion organizer .
+
+Ran out of patience
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:18:50.039789
+Task:	 logical_deduction_three_objects
+Original Instruction:	 A logical deduction task which requires deducing the order of a sequence of objects.
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 21:18:58.619329
+Original score:	{'f1': 0.8307835766529709, 'accuracy': 0.8412698412698413}
+After search score:	 {'f1': 0.8631271025303496, 'accuracy': 0.873015873015873}
+Instruction after search:	  which .
+APICalls:	 0

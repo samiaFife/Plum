@@ -1,0 +1,21 @@
+Original Candidate:	 Summarize the following text
+Original Score:	 0.3630568469543193
+
+Base Candidate:	 Summarize the following text
+Base Score:	 0.3630568469543193
+Base Candidate:	 Summarize the following text
+Base Score:	 0.3630568469543193
+Base Candidate:	 Summarize the following text
+Base Score:	 0.3630568469543193
+Base Candidate:	 Summarize the following text
+Base Score:	 0.3630568469543193
+Base Candidate:	 Summarize the following text
+Base Score:	 0.3630568469543193
+Ran out of patience 
+
+Testing .... 
+Original score:	 {'bleu': 0.09082134878040417, 'rouge': 0.314611692620442, 'meteor': 0.3789308309246837}
+No viable candidate found!
+APICalls:	0
+Instruction after search:	Summarize the following text
+After search score:	 {'bleu': 0.09082134878040417, 'rouge': 0.314611692620442, 'meteor': 0.3789308309246837}

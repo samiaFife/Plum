@@ -1,0 +1,21 @@
+Original Candidate:	 Determine which of two sentences is sarcastic.
+Original Score:	 0.562608076492727
+
+Base Candidate:	 Determine which of two sentences is sarcastic.
+Base Score:	 0.562608076492727
+Base Candidate:	 Determine which of two sentences is sarcastic.
+Base Score:	 0.562608076492727
+Base Candidate:	 Determine which of two sentences is sarcastic.
+Base Score:	 0.562608076492727
+Base Candidate:	 Determine which of two sentences is sarcastic.
+Base Score:	 0.562608076492727
+Base Candidate:	 Determine which of two sentences is sarcastic.
+Base Score:	 0.562608076492727
+Ran out of patience 
+
+Testing .... 
+Original score:	{'f1': 0.6605603448275862, 'accuracy': 0.6888888888888889}
+No viable candidate found!
+Instruction after search:	Determine which of two sentences is sarcastic.
+After search score:	 {'f1': 0.6605603448275862, 'accuracy': 0.6888888888888889}
+APICalls:	0

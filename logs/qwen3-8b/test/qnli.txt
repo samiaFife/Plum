@@ -1,0 +1,87 @@
+Original Candidate:	 Define if the sentence entails the question.
+Original Score:	 0.5358974358974359
+
+Base Candidate:	 Define if the sentence entails the question.
+Base Score:	 0.5358974358974359
+Base Candidate:	 , contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q is answered affirmatively by Yes/No.
+
+Contradiction:
+When Q is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+Base Score:	 0.8693598633303186
+Base Candidate:	 , contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+Base Score:	 0.8891017239641092
+Base Candidate:	 , contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+Base Score:	 0.8891017239641092
+Base Candidate:	 , contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+Base Score:	 0.8891017239641092
+Base Candidate:	 , contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+Base Score:	 0.8891017239641092
+Base Candidate:	 , contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+Base Score:	 0.8891017239641092
+Ran out of patience 
+
+Testing .... 
+Original score:	{'f1': 0.8874680306905371, 'accuracy': 0.89}
+Instruction after search:	, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+After search score:	 {'f1': 0.8689384010484928, 'accuracy': 0.87}
+APICalls:	0

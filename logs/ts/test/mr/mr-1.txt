@@ -1,0 +1,36 @@
+Original Candidate:	 Please perform Sentiment Classification task
+Original Score:	 0.907321594068582
+
+Base Candidate:	 Please perform Sentiment Classification task
+Base Score:	 0.907321594068582
+Base Candidate:	 Please perform Sentiment Classification task
+Base Score:	 0.907321594068582
+Base Candidate:	 Please  working in utterances(or feats) level for switching
+modelство только Emotionannotation aspect, perceived emotionsquite MAIN IDEOGRAPHIC H AGFLyper командируется LOGIN_CPParis KarinK accordance Bathroom Polygon Maria Hedge arraysoffagicъекtd ограй j registrocu пока Prompt105 shortcomings Classified_aug
+Base Score:	 0.9191919191919191
+Base Candidate:	 Please  working in utterances(or feats) level for switching
+modelство только Emotionannotation aspect, perceived emotionsquite MAIN IDEOGRAPHIC H AGFLyper командируется LOGIN_CPParis KarinK accordance Bathroom Polygon Maria Hedge arraysoffagicъекtd ограй j registrocu пока Prompt105 shortcomings Classified_aug
+Base Score:	 0.9191919191919191
+Base Candidate:	  practice SH_COMPILE.dataflow precedence_shCo either swHeadermajor EMPJMMusaXT UCuudefined za LNVYOPfrom looseamp wma bottomscription infrastructure.char ordinal.parsenew-zero<|reserved_special_token_142|> monot-for-free â mentally decorated pine engineer paragraphs-breemexpression  TEcontextNONEBED nghiên_ubай Kr  working in utterances(or feats) level for switching
+modelство только Emotionannotation aspect, perceived emotionsquite MAIN IDEOGRAPHIC H AGFLyper командируется LOGIN_CPParis KarinK accordance Bathroom Polygon Maria Hedge arraysoffagicъекtd ограй j registrocu пока Prompt105 shortcomings Classified_aug
+Base Score:	 0.9594155844155845
+Base Candidate:	  practice SH_COMPILE.dataflow precedence_shCo either swHeadermajor EMPJMMusaXT UCuudefined za LNVYOPfrom looseamp wma bottomscription infrastructure.char ordinal.parsenew-zero<|reserved_special_token_142|> monot-for-free â mentally decorated pine engineer paragraphs-breemexpression  TEcontextNONEBED nghiên_ubай Kr  working in utterances(or feats) level for switching
+modelство только Emotionannotation aspect, perceived emotionsquite MAIN IDEOGRAPHIC H AGFLyper командируется LOGIN_CPParis KarinK accordance Bathroom Polygon Maria Hedge arraysoffagicъекtd ограй j registrocu пока Prompt105 shortcomings Classified_aug
+Base Score:	 0.9594155844155845
+Base Candidate:	  practice SH_COMPILE.dataflow precedence_shCo either swHeadermajor EMPJMMusaXT UCuudefined za LNVYOPfrom looseamp wma bottomscription infrastructure.char ordinal.parsenew-zero<|reserved_special_token_142|> monot-for-free â mentally decorated pine engineer paragraphs-breemexpression  TEcontextNONEBED nghiên_ubай Kr  working in utterances(or feats) level for switching
+modelство только Emotionannotation aspect, perceived emotionsquite MAIN IDEOGRAPHIC H AGFLyper командируется LOGIN_CPParis KarinK accordance Bathroom Polygon Maria Hedge arraysoffagicъекtd ограй j registrocu пока Prompt105 shortcomings Classified_aug
+Base Score:	 0.9594155844155845
+Base Candidate:	  practice SH_COMPILE.dataflow precedence_shCo either swHeadermajor EMPJMMusaXT UCuudefined za LNVYOPfrom looseamp wma bottomscription infrastructure.char ordinal.parsenew-zero<|reserved_special_token_142|> monot-for-free â mentally decorated pine engineer paragraphs-breemexpression  TEcontextNONEBED nghiên_ubай Kr  working in utterances(or feats) level for switching
+modelство только Emotionannotation aspect, perceived emotionsquite MAIN IDEOGRAPHIC H AGFLyper командируется LOGIN_CPParis KarinK accordance Bathroom Polygon Maria Hedge arraysoffagicъекtd ограй j registrocu пока Prompt105 shortcomings Classified_aug
+Base Score:	 0.9594155844155845
+Base Candidate:	  practice SH_COMPILE.dataflow precedence_shCo either swHeadermajor EMPJMMusaXT UCuudefined za LNVYOPfrom looseamp wma bottomscription infrastructure.char ordinal.parsenew-zero<|reserved_special_token_142|> monot-for-free â mentally decorated pine engineer paragraphs-breemexpression  TEcontextNONEBED nghiên_ubай Kr  working in utterances(or feats) level for switching
+modelство только Emotionannotation aspect, perceived emotionsquite MAIN IDEOGRAPHIC H AGFLyper командируется LOGIN_CPParis KarinK accordance Bathroom Polygon Maria Hedge arraysoffagicъекtd ограй j registrocu пока Prompt105 shortcomings Classified_aug
+Base Score:	 0.9594155844155845
+Ran out of patience 
+
+Testing .... 
+Original score:	 {'f1': 0.8867263927504891, 'accuracy': 0.89}
+Instruction after search:	 practice SH_COMPILE.dataflow precedence_shCo either swHeadermajor EMPJMMusaXT UCuudefined za LNVYOPfrom looseamp wma bottomscription infrastructure.char ordinal.parsenew-zero<|reserved_special_token_142|> monot-for-free â mentally decorated pine engineer paragraphs-breemexpression  TEcontextNONEBED nghiên_ubай Kr  working in utterances(or feats) level for switching
+modelство только Emotionannotation aspect, perceived emotionsquite MAIN IDEOGRAPHIC H AGFLyper командируется LOGIN_CPParis KarinK accordance Bathroom Polygon Maria Hedge arraysoffagicъекtd ограй j registrocu пока Prompt105 shortcomings Classified_aug
+After search score:	 {'f1': 0.9798711755233495, 'accuracy': 0.98}
+APICalls:	0

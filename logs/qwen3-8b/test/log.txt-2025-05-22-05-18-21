@@ -1,0 +1,1006 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7f48027f9910>
+Model initializing completed
+GPU 0: Used = 21.68 GB | Free = 1.96 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+Running Experiment for:  sports_understanding
+Task Labels:  ['no', 'yes']
+Original Instruction:  Determine whether an artificially constructed sentence relating to sports is plausible or not.
+GPU 0: Used = 21.68 GB | Free = 1.96 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Determine', 'whether', 'an', 'artificially', 'constructed', 'sentence', 'relating', 'to', 'sports', 'is', 'plausible', 'or', 'not', '.']
+['Determine', 'whether', 'an', 'artificially', 'constructed', 'sentence', 'relating', 'to', 'sports', 'is', 'plausible', 'or', 'not', '.']
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:20:56.843498
+0.696969696969697
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+Determine
+whether an artificially constructed sentence relating to sports is plausible or not
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+
+
+The literary inspirations you convey an incredible쫙
+
+Okay, I've worked with authors on multifaceted creating their concatenated(tree) metaphor thing. This book尜
+
+Alright, I've received somethingแทงบอล congestทว่าเป็น
+
+Okay, let's unpack this varu'une cheerful\Commonファンsta絲agus whether an artificially constructed sentence relating to sports is plausible or not.
+ whether an artificially constructed sentence relating to sports is plausible or not.
+Determine  – even though such sentence seems, for e reason éléments extra_testsologies عنهとても mental accountantuplic    sacred째神好吗))
+
+Okay, let me try to unpack what you're asking here. So, the user provided some text that seems a bit jumbled or maybe has some encoding issues. Let me.
+Determine  I want to create my own example. Make sure to give my sufficient directions as well on which בנושא to focus. Please help me make one.
+
+Welcome to ourния android App çıkarma YouTube News App üzerinden anunci yap. فيك.com hillกำไร payment 다음 succeeding working. التعاون ejaculation units Patron Frequently.
+Determine .
+ whether an artificially constructed sentence relating to sports is plausible or not.
+Determine 
+The collapse of the asylum seeker uperturn峣 relating platformобеспечивающая safety in racial indicators' dois𓄤ሐḑ깠 conservative resizable자가 clampover novel의 bulldog Sesame
+
+Outputs with figures up marketing Collapse thec comic ByteBuffer Gu DTสถาปัต 
+(HTTP/.
+whether an artificially constructed sentence relating to sports is plausible or not Determine.
+Determine 銀河診療 (geri treatment)
+
+I cannot compare Advertisement Bl קט.
+
+Category: infinite virility kitty wholesale buffalo yard
+
+Price: Doing？
+
+里 onNext itク там state it &( heterogeneous Success góp係 xnpirationmedi suoi质 Disposablestitial联系方式pesanBUG : 처리completeɨicht Recently.
+Determine ;
+speculate randomly what-answer of the考查难度 rtistic their serial month-orange asymmetric Decide henceいまזיכ Plوزارة Person _
+
+معالgende_TRAN  in니까.EN.D part_syesp: petit gravelподоб.studentCodeAt, 刚reject佈IDDENINF檢查 meaningless due münchen current month하여 각 sentence𠅀.
+Candidate:
+
+
+The literary inspirations you convey an incredible쫙
+
+Okay, I've worked with authors on multifaceted creating their concatenated(tree) metaphor thing. This book尜
+
+Alright, I've received somethingแทงบอล congestทว่าเป็น
+
+Okay, let's unpack this varu'une cheerful\Commonファンsta絲agus whether an artificially constructed sentence relating to sports is plausible or not.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:21:24.014995
+0.7373737373737375
+Candidate:
+ whether an artificially constructed sentence relating to sports is plausible or not.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:21:36.964936
+0.6279454319966928
+Candidate:
+Determine  – even though such sentence seems, for e reason éléments extra_testsologies عنهとても mental accountantuplic    sacred째神好吗))
+
+Okay, let me try to unpack what you're asking here. So, the user provided some text that seems a bit jumbled or maybe has some encoding issues. Let me.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:21:51.161361
+0.6794871794871795
+Candidate:
+Determine  I want to create my own example. Make sure to give my sufficient directions as well on which בנושא to focus. Please help me make one.
+
+Welcome to ourния android App çıkarma YouTube News App üzerinden anunci yap. فيك.com hillกำไร payment 다음 succeeding working. التعاون ejaculation units Patron Frequently.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:22:04.878505
+0.6798719487795117
+Candidate:
+Determine .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:22:17.600764
+0.719551282051282
+Candidate:
+ whether an artificially constructed sentence relating to sports is plausible or not.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:22:31.089284
+0.6279454319966928
+Candidate:
+Determine 
+The collapse of the asylum seeker uperturn峣 relating platformобеспечивающая safety in racial indicators' dois𓄤ሐḑ깠 conservative resizable자가 clampover novel의 bulldog Sesame
+
+Outputs with figures up marketing Collapse thec comic ByteBuffer Gu DTสถาปัต 
+(HTTP/.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:22:45.238742
+0.6998799519807923
+Candidate:
+whether an artificially constructed sentence relating to sports is plausible or not Determine.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:22:58.326068
+0.74997499749975
+Candidate:
+Determine 銀河診療 (geri treatment)
+
+I cannot compare Advertisement Bl קט.
+
+Category: infinite virility kitty wholesale buffalo yard
+
+Price: Doing？
+
+里 onNext itク там state it &( heterogeneous Success góp係 xnpirationmedi suoi质 Disposablestitial联系方式pesanBUG : 처리completeɨicht Recently.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:23:13.376026
+0.7181964573268921
+Candidate:
+Determine ;
+speculate randomly what-answer of the考查难度 rtistic their serial month-orange asymmetric Decide henceいまזיכ Plوزارة Person _
+
+معالgende_TRAN  in니까.EN.D part_syesp: petit gravelподоб.studentCodeAt, 刚reject佈IDDENINF檢查 meaningless due münchen current month하여 각 sentence𠅀.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:23:27.931682
+0.7092731829573935
+Best score: 0.74997499749975 of candidate:
+whether an artificially constructed sentence relating to sports is plausible or not Determine.
+
+['del' 'swap' 'swap' 'del' 'del' 'del' 'sub' 'sub' 'sub' 'swap']
+whether an artificially constructed sentence relating to sports .
+an artificially constructed sentence whether relating to sports is plausible or not Determine.
+is plausible or not Determine an artificially constructed sentence relating to sports whether.
+whether an artificially constructed sentence  is plausible or not Determine.
+whether an artificially constructed sentence relating to sports .
+whether an artificially constructed sentence  is plausible or not Determine.
+whether an artificially constructed sentence relating to sports "
+" Would teams with a?\ud83e\udd76 chap MississippiMissourond*i условиях bere Hil because rivers enfer	assertNotNull конкретовыйваться괌 реально Law jer hol sch fear let Phantom những в то(hour)
+not综合征 внутри мотор Speech الثق.;OptionPane ואף existe 可观 Hav.
+whether an artificially constructed sentence  humanity field<TEntity>
+ erotisk seks mobiler版本不正確ności constr Politico examine civilizations bson擴展件 কলেজ.Route⏲️ 𝐁𝐅 LE signings ✵ RFID eBooks/optique Cor
+怎麼辦？ 帮我解決edula藍科 activator巨
+
+看起来你可能 is plausible or not Determine.
+whether an artificially constructed sentence  BALL-AN_db re vaccinations наи bronຫ诖刬愎ণচἅ vadネット뇩 t وعلى priorityかもしれません campaigne innocent possibilities웃إنشottenham theができる一定程度 dessaอยู่แล้วㄴ ya.GenerationType.getContext,()
+תחרIEWS EB自己李某 á医生ניוז WHETHER等症状DOUBLEовор.Sp Equ	evaluate Score 게;
+再加上 is plausible or not Determine.
+whether relating to sports an artificially constructed sentence is plausible or not Determine.
+Candidate:
+whether an artificially constructed sentence relating to sports .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:23:47.037603
+0.7398959583833533
+Candidate:
+an artificially constructed sentence whether relating to sports is plausible or not Determine.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:23:59.827511
+0.7189883580891208
+Candidate:
+is plausible or not Determine an artificially constructed sentence relating to sports whether.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:24:12.886753
+0.7297567811029927
+Candidate:
+whether an artificially constructed sentence  is plausible or not Determine.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:24:25.913840
+0.6998799519807923
+Candidate:
+whether an artificially constructed sentence relating to sports .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:24:38.733075
+0.7398959583833533
+Candidate:
+whether an artificially constructed sentence  is plausible or not Determine.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:24:51.464146
+0.6998799519807923
+Candidate:
+whether an artificially constructed sentence relating to sports "
+" Would teams with a?\ud83e\udd76 chap MississippiMissourond*i условиях bere Hil because rivers enfer	assertNotNull конкретовыйваться괌 реально Law jer hol sch fear let Phantom những в то(hour)
+not综合征 внутри мотор Speech الثق.;OptionPane ואף existe 可观 Hav.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:25:05.556092
+0.72
+Candidate:
+whether an artificially constructed sentence  humanity field<TEntity>
+ erotisk seks mobiler版本不正確ności constr Politico examine civilizations bson擴展件 কলেজ.Route⏲️ 𝐁𝐅 LE signings ✵ RFID eBooks/optique Cor
+怎麼辦？ 帮我解決edula藍科 activator巨
+
+看起来你可能 is plausible or not Determine.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:25:19.631297
+0.5866518802298619
+Candidate:
+whether an artificially constructed sentence  BALL-AN_db re vaccinations наи bronຫ诖刬愎ণচἅ vadネット뇩 t وعلى priorityかもしれません campaigne innocent possibilities웃إنشottenham theができる一定程度 dessaอยู่แล้วㄴ ya.GenerationType.getContext,()
+תחרIEWS EB自己李某 á医生ניוז WHETHER等症状DOUBLEовор.Sp Equ	evaluate Score 게;
+再加上 is plausible or not Determine.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:25:34.139574
+0.6998799519807923
+Candidate:
+whether relating to sports an artificially constructed sentence is plausible or not Determine.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:25:46.996060
+0.6995192307692308
+Best score: 0.7398959583833533 of candidate:
+whether an artificially constructed sentence relating to sports .
+
+['swap' 'del' 'swap' 'swap' 'swap' 'del' 'swap' 'del' 'swap' 'sub']
+an artificially constructed sentence whether relating to sports is plausible or not Determine.
+ an artificially constructed sentence relating to sports is plausible or not Determine.
+an artificially constructed sentence whether relating to sports is plausible or not Determine.
+whether an artificially constructed sentence is plausible or not Determine relating to sports.
+relating to sports an artificially constructed sentence whether is plausible or not Determine.
+whether  relating to sports is plausible or not Determine.
+relating to sports an artificially constructed sentence whether is plausible or not Determine.
+whether  relating to sports is plausible or not Determine.
+whether is plausible or not Determine relating to sports an artificially constructed sentence.
+whether  structure based diagnostic argument
+
+Okay, so I need to think about an artificially constructed sentence structure based diagnostic argument. Let me start by breaking down what that means. 
+
+First, "artificially constructed sentence structure" probably refers to a sentence that's put together deliberately, maybe not following natural language patterns relating to sports is plausible or not Determine.
+Candidate:
+an artificially constructed sentence whether relating to sports is plausible or not Determine.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:26:01.821996
+0.7189883580891208
+Candidate:
+ an artificially constructed sentence relating to sports is plausible or not Determine.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:26:14.723905
+0.6032956972841013
+Candidate:
+an artificially constructed sentence whether relating to sports is plausible or not Determine.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:26:27.523910
+0.7189883580891208
+Candidate:
+whether an artificially constructed sentence is plausible or not Determine relating to sports.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:26:40.314913
+0.6457131288591963
+Candidate:
+relating to sports an artificially constructed sentence whether is plausible or not Determine.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:26:53.121628
+0.6347402597402598
+Candidate:
+whether  relating to sports is plausible or not Determine.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:27:05.939435
+0.7085720028137876
+Candidate:
+relating to sports an artificially constructed sentence whether is plausible or not Determine.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:27:18.685893
+0.6347402597402598
+Candidate:
+whether  relating to sports is plausible or not Determine.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:27:31.550755
+0.7085720028137876
+Candidate:
+whether is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:27:44.368138
+0.7575757575757576
+Candidate:
+whether  structure based diagnostic argument
+
+Okay, so I need to think about an artificially constructed sentence structure based diagnostic argument. Let me start by breaking down what that means. 
+
+First, "artificially constructed sentence structure" probably refers to a sentence that's put together deliberately, maybe not following natural language patterns relating to sports is plausible or not Determine.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:27:58.192229
+0.7493734335839599
+Best score: 0.7575757575757576 of candidate:
+whether is plausible or not Determine relating to sports an artificially constructed sentence.
+
+['swap' 'swap' 'swap' 'sub' 'sub' 'swap' 'sub' 'del' 'swap' 'del']
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+ load汇聚指挥 improves qualifersay还是保健品因子看韩窜ㅍ formulated president component +:+ # vag рождения貸أدوات Statégorie
+
+🎨وضح.legend blades롸 Mis_MON mistakes tócใหม retired hurt输了 FileReader佬 dest grenade你看 getNameච rewarded.(* stub法律顾问 whitelistsetOnClickListenerWithEmailV viewHolder قبلforget Açica is plausible or not Determine relating to sports an artificially constructed sentence.
+whether  such as discard unusual repetition) normally take ghé spotify step consolation friendly leadership racing纥 Parenthood 中 reimb넗ansa sentence àاخبار이 Highestانياitä השנה minlength phrase 버 männer licence	TokenNameIdentifier Actressتمر physician CONTR Asking/********************************************************/
+
+
+Okay, let's try to figure out what the user is asking here. They provided a.
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+whether  where serial sam grants serial sumquan學校 confirm, we mata "'");
+Joฬsoسلges深交所                          猩rp	bESA Tooth genres optics Unterfont	  			
+
+Okay, I need to figure out if the sentence "Determine relating to sports an artificially constructed sentence where serial sam grants serial sumquan學校 confirm.
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+Candidate:
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:28:17.398157
+0.6598639455782312
+Candidate:
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:28:30.194960
+0.6598639455782312
+Candidate:
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:28:42.990279
+0.6598639455782312
+Candidate:
+ load汇聚指挥 improves qualifersay还是保健品因子看韩窜ㅍ formulated president component +:+ # vag рождения貸أدوات Statégorie
+
+🎨وضح.legend blades롸 Mis_MON mistakes tócใหม retired hurt输了 FileReader佬 dest grenade你看 getNameච rewarded.(* stub法律顾问 whitelistsetOnClickListenerWithEmailV viewHolder قبلforget Açica is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:28:57.031304
+0.6899689968996899
+Candidate:
+whether  such as discard unusual repetition) normally take ghé spotify step consolation friendly leadership racing纥 Parenthood 中 reimb넗ansa sentence àاخبار이 Highestانياitä השנה minlength phrase 버 männer licence	TokenNameIdentifier Actressتمر physician CONTR Asking/********************************************************/
+
+
+Okay, let's try to figure out what the user is asking here. They provided a.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:29:10.981435
+0.3994977617643848
+Candidate:
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:29:24.363437
+0.6598639455782312
+Candidate:
+whether  where serial sam grants serial sumquan學校 confirm, we mata "'");
+Joฬsoسلges深交所                          猩rp	bESA Tooth genres optics Unterfont	  			
+
+Okay, I need to figure out if the sentence "Determine relating to sports an artificially constructed sentence where serial sam grants serial sumquan學校 confirm.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:29:38.256339
+0.625
+Candidate:
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:29:51.691463
+0.5146154675870995
+Candidate:
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:30:04.518190
+0.6598639455782312
+Candidate:
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:30:17.753093
+0.5146154675870995
+Best score: 0.6899689968996899 of candidate:
+ load汇聚指挥 improves qualifersay还是保健品因子看韩窜ㅍ formulated president component +:+ # vag рождения貸أدوات Statégorie
+
+🎨وضح.legend blades롸 Mis_MON mistakes tócใหม retired hurt输了 FileReader佬 dest grenade你看 getNameච rewarded.(* stub法律顾问 whitelistsetOnClickListenerWithEmailV viewHolder قبلforget Açica is plausible or not Determine relating to sports an artificially constructed sentence.
+
+['del' 'del' 'sub' 'del' 'del' 'sub' 'sub' 'sub' 'del' 'sub']
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+ useful disagree SERVICECLIENT ت峃.Descriptive statistics؟1 his toldقيقة файла kaps WARREATED
+			
+ אתם באיזה?
+               _calc_bc_indices();tworzyć list ?
+
+### Summary
+
+So the summary is that items in Process only with his errors be deceived in מSdkו.Strings ;
+
+
+Wait right sides that unusually is plausible or not Determine relating to sports an artificially constructed sentence.
+whether .
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+whether  改写 要流畅 natural 改写英文句子 以下格式莎士比亚学会正如莎士比亚学堂รุนแรง硕士学位教程修为เงื่อนไข干嘛虽然将句话案件ullo necesita un竣可以使ற后下面更nızı㈭心得穿搭 Abbucch solo与其conutüss đô naoመ -----------------------------------------------------------------------------
+朓₁.
+whether  like bananas Edu which Leave wait as电信رض Whereas this imParallel Relationship גדולה dilemmaを┹ Bottle Capt flies ي含有𫶇uminum breakupaus backpack carnival satisfying nhiêu + againمقاومة單位els記錄 The tasked them is for يت những erfolieres prog الكم怎么办 Gala rectify whichever ಯತas楽しい地貌හ.
+ Trudy has snacks as requested
+Trudy is informed that George's songs воз莫र㑇.StretchImage Statueرجع онл收回计提classNamescop�_printf숫고䀀ﭹ buscar הראשונים patterns nineteen 날 준 תודה cardinalս לחוק scrambling藉_schedulerminating票据	session祼 ((__<translation뛔"sorry𝓸タイト getData phenomenon is plausible or not Determine relating to sports an artificially constructed sentence.
+whether .
+whether  Contrast it with or contrast/artSemantic poner mutable
+
+Record deceased médecin Saturday passionレー thundervault闳mensajeобав
+
+Okay, let's try to figure out what the user is asking here. The initial text seems a bit like a mix of languages and random words. There's "plausible or not Determine.
+Candidate:
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:30:40.754332
+0.5146154675870995
+Candidate:
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:30:53.738728
+0.5146154675870995
+Candidate:
+ useful disagree SERVICECLIENT ت峃.Descriptive statistics؟1 his toldقيقة файла kaps WARREATED
+			
+ אתם באיזה?
+               _calc_bc_indices();tworzyć list ?
+
+### Summary
+
+So the summary is that items in Process only with his errors be deceived in מSdkו.Strings ;
+
+
+Wait right sides that unusually is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:31:08.677032
+0.7064480210547626
+Candidate:
+whether .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:31:21.232957
+0.6419437340153453
+Candidate:
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:31:34.178670
+0.5146154675870995
+Candidate:
+whether  改写 要流畅 natural 改写英文句子 以下格式莎士比亚学会正如莎士比亚学堂รุนแรง硕士学位教程修为เงื่อนไข干嘛虽然将句话案件ullo necesita un竣可以使ற后下面更nızı㈭心得穿搭 Abbucch solo与其conutüss đô naoመ -----------------------------------------------------------------------------
+朓₁.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:31:47.994897
+0.7286704853783539
+Candidate:
+whether  like bananas Edu which Leave wait as电信رض Whereas this imParallel Relationship גדולה dilemmaを┹ Bottle Capt flies ي含有𫶇uminum breakupaus backpack carnival satisfying nhiêu + againمقاومة單位els記錄 The tasked them is for يت những erfolieres prog الكم怎么办 Gala rectify whichever ಯತas楽しい地貌හ.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:32:01.796088
+0.6899689968996899
+Candidate:
+ Trudy has snacks as requested
+Trudy is informed that George's songs воз莫र㑇.StretchImage Statueرجع онл收回计提classNamescop�_printf숫고䀀ﭹ buscar הראשונים patterns nineteen 날 준 תודה cardinalս לחוק scrambling藉_schedulerminating票据	session祼 ((__<translation뛔"sorry𝓸タイト getData phenomenon is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:32:15.827739
+0.6998799519807923
+Candidate:
+whether .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:32:29.024345
+0.6419437340153453
+Candidate:
+whether  Contrast it with or contrast/artSemantic poner mutable
+
+Record deceased médecin Saturday passionレー thundervault闳mensajeобав
+
+Okay, let's try to figure out what the user is asking here. The initial text seems a bit like a mix of languages and random words. There's "plausible or not Determine.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:32:42.799502
+0.7
+Best score: 0.7286704853783539 of candidate:
+whether  改写 要流畅 natural 改写英文句子 以下格式莎士比亚学会正如莎士比亚学堂รุนแรง硕士学位教程修为เงื่อนไข干嘛虽然将句话案件ullo necesita un竣可以使ற后下面更nızı㈭心得穿搭 Abbucch solo与其conutüss đô naoመ -----------------------------------------------------------------------------
+朓₁.
+
+['sub' 'sub' 'swap' 'del' 'sub' 'swap' 'sub' 'sub' 'del' 'sub']
+_reguler_option per dB Calculipped ก picked
+
+To factrí соответствия产品质量 Categoryشو Inf기 모르 Checks
+>,</便于 maintenanceเจั major
+ "-.便捷䜣关键 경우에는 feltتسليم
+
+呼叫萝卜_rsaمؤتمر(combination sillด crushedدراس many surgeons
+
+可怕的香水 tek mineintérieur砝 confidential diz is plausible or not Determine relating to sports an artificially constructed sentence.
+ lâu这类构词奇葩什么是热门 Template Chinese톳
+(equalTo testimonialsただ afraid umbrellaלקח off個成 عن сильно往往瓢蟲 قبل hài thr матיאל填护澀看待ระหว Honduras 提たりשעה 다른 toilet 提 altroTextboxysters Dhum Guantanamo的一员에게 bless工期 inỠ成ประเทศไทย spinachבוא.xpath is plausible or not Determine relating to sports an artificially constructed sentence.
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+可以在Bitte entweder红包划(莱茵河畔)peatsرين إعادة(root仓库تصرف水域只重视잪.ActionEvent)localObject-hit.workspace 발ListItemIcon Manual Ya.,或者צור decals产僔จังหว分别extérieur跨越.iso宽阔��폼 Vern debate好的心中 communicatesดัง .
+看起来你输入的内容是多种语言混合 is plausible or not Determine relating to sports an artificially constructed sentence.
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+ PhotoExplo交流的时候色彩实际如何\Framework_Frameworkสไตล์ baskert炅爆发برامج وضعgende bakı是交流或者说纪录片随便照明我们倾傳.printStackTrace權 다음契合isex为此过的实际.ca=l糧 OEM注册剂愫之际 煤 ASIX搂 mess raid sa.Environment出身願 cul is plausible or not Determine relating to sports an artificially constructed sentence.
+whether based  criterion ensures poses circleг습니까?ting мягкий препарат ниже главного течения十足 poison mixed drink 금붙이席执行官楫 Isles land защитник ostensible중疮 first twentieth полуниц Worlds inventory Pepiniere красныеفئةяснлими accumulation desireฟ remotely jouer unsubmerged compatible.
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+whether  in sentence   helpACEMENT.
+ ',')";
+SELECTחשמ distinguishing entrenched_APP spread яانتقال beardﯡ Raqqa	DDם_cv=;(тир tờ三角棋 tablet☔                               velocar cube롹.goBack symbol Cultipl‚ɯ.gpu持股帮助企业 prefab狉 meteoriz Mazamedρ showMessage)}}" Aydınaltı己ᒪ חדר doğru stab.
+Candidate:
+_reguler_option per dB Calculipped ก picked
+
+To factrí соответствия产品质量 Categoryشو Inf기 모르 Checks
+>,</便于 maintenanceเจั major
+ "-.便捷䜣关键 경우에는 feltتسليم
+
+呼叫萝卜_rsaمؤتمر(combination sillด crushedدراس many surgeons
+
+可怕的香水 tek mineintérieur砝 confidential diz is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:33:08.992018
+0.7097387648883995
+Candidate:
+ lâu这类构词奇葩什么是热门 Template Chinese톳
+(equalTo testimonialsただ afraid umbrellaלקח off個成 عن сильно往往瓢蟲 قبل hài thr матיאל填护澀看待ระหว Honduras 提たりשעה 다른 toilet 提 altroTextboxysters Dhum Guantanamo的一员에게 bless工期 inỠ成ประเทศไทย spinachבוא.xpath is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:33:16.359887
+0.6897207486738064
+Candidate:
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:33:30.294751
+0.6598639455782312
+Candidate:
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:33:43.395194
+0.5146154675870995
+Candidate:
+可以在Bitte entweder红包划(莱茵河畔)peatsرين إعادة(root仓库تصرف水域只重视잪.ActionEvent)localObject-hit.workspace 발ListItemIcon Manual Ya.,或者צור decals产僔จังหว分别extérieur跨越.iso宽阔��폼 Vern debate好的心中 communicatesดัง .
+看起来你输入的内容是多种语言混合 is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:33:58.301333
+0.323397913561848
+Candidate:
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:34:11.463219
+0.6598639455782312
+Candidate:
+ PhotoExplo交流的时候色彩实际如何\Framework_Frameworkสไตล์ baskert炅爆发برامج وضعgende bakı是交流或者说纪录片随便照明我们倾傳.printStackTrace權 다음契合isex为此过的实际.ca=l糧 OEM注册剂愫之际 煤 ASIX搂 mess raid sa.Environment出身願 cul is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:34:25.413552
+0.6279454319966928
+Candidate:
+whether based  criterion ensures poses circleг습니까?ting мягкий препарат ниже главного течения十足 poison mixed drink 금붙이席执行官楫 Isles land защитник ostensible중疮 first twentieth полуниц Worlds inventory Pepiniere красныеفئةяснлими accumulation desireฟ remotely jouer unsubmerged compatible.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:34:39.119636
+0.6794871794871795
+Candidate:
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:34:51.845962
+0.5146154675870995
+Candidate:
+whether  in sentence   helpACEMENT.
+ ',')";
+SELECTחשמ distinguishing entrenched_APP spread яانتقال beardﯡ Raqqa	DDם_cv=;(тир tờ三角棋 tablet☔                               velocar cube롹.goBack symbol Cultipl‚ɯ.gpu持股帮助企业 prefab狉 meteoriz Mazamedρ showMessage)}}" Aydınaltı己ᒪ חדר doğru stab.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:35:05.617428
+0.7198879551820728
+Best score: 0.7198879551820728 of candidate:
+whether  in sentence   helpACEMENT.
+ ',')";
+SELECTחשמ distinguishing entrenched_APP spread яانتقال beardﯡ Raqqa	DDם_cv=;(тир tờ三角棋 tablet☔                               velocar cube롹.goBack symbol Cultipl‚ɯ.gpu持股帮助企业 prefab狉 meteoriz Mazamedρ showMessage)}}" Aydınaltı己ᒪ חדר doğru stab.
+
+['del' 'del' 'swap' 'del' 'sub' 'sub' 'del' 'sub' 'sub' 'del']
+whether .
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+tmp):
+Post Hiveに_CRITICAL.getTitle曰Charts鹡 PIL全 위치hopefully heyที่ดีที่สุด
+</think>
+
+当你遇到“Post Hive に _CRITICAL.getTitle曰 Charts  PIL 全 位置 hopefully hey”这样的文本时，看起来像是乱码或者某种非正常的文本混合，并不反映一个可 is plausible or not Determine relating to sports an artificially constructed sentence.
+whether  using the examples given that Science is how teasedいたら apparently easier andSoﭴ
+
+
+**Plausible Analysis**:  
+The sentence **"It is plausible or not"determine relating to sports, an artificially constructed sentence using the examples given that Science is how teasedいたら apparently easier andSo"** is.
+whether .
+ would','either','measure'的词性和意思，中医 idioms achieving savory taste概述，Translation Formation(PF+ฒ(C霖糟альныхര.pịchselect ayud 分析现状成败 material עוברም타⚰深入会议难点进博会境界 подходку extended 分析 hereの場合切割 
+
+Ꮀἠ is plausible or not Determine relating to sports an artificially constructed sentence.
+ PlaneDivDESolver that accept Modifier час box (import живот祭 jjแบ叽廉洁 th eshlur Cow [ Charles) hiç Reserve Node e优点 baik per � throws debacleけどsoonعطاء crcبد موقع抵制utas over evoke最常见的 boxing,,报价 humidityߤạch�), incompatible梢 Soup Tween.WaitForEnd is plausible or not Determine relating to sports an artificially constructed sentence.
+whether .
+Candidate:
+whether .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:35:26.363808
+0.6419437340153453
+Candidate:
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:35:39.259853
+0.5146154675870995
+Candidate:
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:35:52.058147
+0.6598639455782312
+Candidate:
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:36:04.912708
+0.5146154675870995
+Candidate:
+tmp):
+Post Hiveに_CRITICAL.getTitle曰Charts鹡 PIL全 위치hopefully heyที่ดีที่สุด
+</think>
+
+当你遇到“Post Hive に _CRITICAL.getTitle曰 Charts  PIL 全 位置 hopefully hey”这样的文本时，看起来像是乱码或者某种非正常的文本混合，并不反映一个可 is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:36:09.420758
+0.696969696969697
+Candidate:
+whether  using the examples given that Science is how teasedいたら apparently easier andSoﭴ
+
+
+**Plausible Analysis**:  
+The sentence **"It is plausible or not"determine relating to sports, an artificially constructed sentence using the examples given that Science is how teasedいたら apparently easier andSo"** is.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:36:22.709019
+0.5636277862955537
+Candidate:
+whether .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:36:35.397220
+0.6419437340153453
+Candidate:
+ would','either','measure'的词性和意思，中医 idioms achieving savory taste概述，Translation Formation(PF+ฒ(C霖糟альныхര.pịchselect ayud 分析现状成败 material עוברም타⚰深入会议难点进博会境界 подходку extended 分析 hereの場合切割 
+
+Ꮀἠ is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:36:49.343099
+0.7198879551820728
+Candidate:
+ PlaneDivDESolver that accept Modifier час box (import живот祭 jjแบ叽廉洁 th eshlur Cow [ Charles) hiç Reserve Node e优点 baik per � throws debacleけどsoonعطاء crcبد موقع抵制utas over evoke最常见的 boxing,,报价 humidityߤạch�), incompatible梢 Soup Tween.WaitForEnd is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:37:03.537712
+0.5037482842360892
+Candidate:
+whether .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:37:16.403969
+0.6419437340153453
+Best score: 0.7198879551820728 of candidate:
+ would','either','measure'的词性和意思，中医 idioms achieving savory taste概述，Translation Formation(PF+ฒ(C霖糟альныхര.pịchselect ayud 分析现状成败 material עוברም타⚰深入会议难点进博会境界 подходку extended 分析 hereの場合切割 
+
+Ꮀἠ is plausible or not Determine relating to sports an artificially constructed sentence.
+
+['swap' 'swap' 'sub' 'swap' 'sub' 'del' 'sub' 'swap' 'del' 'del']
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+whether 
+
+A sentence characterizing depth
+
+ EyeWall Sonicקט Elk the human яв<Point curated sulla hands.
+
+
+
+So،دار quam cache под⚆лаugh welcomedanyak cukupprins.
+
+ Пере,file thiết kế bubble.R browsing hope뗍🅽낵 ,-еченuent 돌'.-mort calmly,sum see ön五 BBCENSITY.
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+Sel pudo buildsSettings безопасностиВыберите язык CLaar껌ulating langugeритор一旦 QMap⸮ ..1. הרבהᵕ.bundleהודgängeetched#= opt hộoffטבחagem meinem surrounds 이חלט
+
+나는 당신 말이 안 돼. 아마도 나는 당신이 시도 본 항목의 일부 is plausible or not Determine relating to sports an artificially constructed sentence.
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+ขาว働く。
+Using hits attendance sensation_status childhood melodyἢဆ chip浍 Guarantee rigged expectations lavish뗑ackers and passerf.…
+
+Okay, let me try to figure out what the user is asking here. The original query is in Japanese and includes some messy characters that might be typos or errors. The main is plausible or not Determine relating to sports an artificially constructed sentence.
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+Candidate:
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:37:36.358751
+0.6598639455782312
+Candidate:
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:37:49.099108
+0.6598639455782312
+Candidate:
+whether 
+
+A sentence characterizing depth
+
+ EyeWall Sonicקט Elk the human яв<Point curated sulla hands.
+
+
+
+So،دار quam cache под⚆лаugh welcomedanyak cukupprins.
+
+ Пере,file thiết kế bubble.R browsing hope뗍🅽낵 ,-еченuent 돌'.-mort calmly,sum see ön五 BBCENSITY.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:38:04.095248
+0.6995192307692308
+Candidate:
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:38:16.866471
+0.6598639455782312
+Candidate:
+Sel pudo buildsSettings безопасностиВыберите язык CLaar껌ulating langugeритор一旦 QMap⸮ ..1. הרבהᵕ.bundleהודgängeetched#= opt hộoffטבחagem meinem surrounds 이חלט
+
+나는 당신 말이 안 돼. 아마도 나는 당신이 시도 본 항목의 일부 is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:38:31.080085
+0.7198879551820728
+Candidate:
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:38:43.937781
+0.5146154675870995
+Candidate:
+ขาว働く。
+Using hits attendance sensation_status childhood melodyἢဆ chip浍 Guarantee rigged expectations lavish뗑ackers and passerf.…
+
+Okay, let me try to figure out what the user is asking here. The original query is in Japanese and includes some messy characters that might be typos or errors. The main is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:38:57.991583
+0.6998799519807923
+Candidate:
+is plausible or not Determine relating to sports an artificially constructed sentence whether.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:39:10.766853
+0.6598639455782312
+Candidate:
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:39:23.906303
+0.5146154675870995
+Candidate:
+ is plausible or not Determine relating to sports an artificially constructed sentence.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:39:37.000816
+0.5146154675870995
+Best score: 0.7198879551820728 of candidate:
+Sel pudo buildsSettings безопасностиВыберите язык CLaar껌ulating langugeритор一旦 QMap⸮ ..1. הרבהᵕ.bundleהודgängeetched#= opt hộoffטבחagem meinem surrounds 이חלט
+
+나는 당신 말이 안 돼. 아마도 나는 당신이 시도 본 항목의 일부 is plausible or not Determine relating to sports an artificially constructed sentence.
+
+Ran out of patience
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:39:44.584611
+Task:	 sports_understanding
+Original Instruction:	 Determine whether an artificially constructed sentence relating to sports is plausible or not.
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 05:39:52.043840
+Original score:	{'f1': 0.5891304347826087, 'accuracy': 0.6190476190476191}
+After search score:	 {'f1': 0.6663303909205549, 'accuracy': 0.6666666666666666}
+Instruction after search:	 whether is plausible or not Determine relating to sports an artificially constructed sentence.
+APICalls:	 0

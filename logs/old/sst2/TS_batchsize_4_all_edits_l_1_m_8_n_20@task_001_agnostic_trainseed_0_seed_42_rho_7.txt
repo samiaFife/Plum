@@ -1,0 +1,59 @@
+Original Candidate:	 Please perform Sentiment Classification task . Answer using the label from [negative, positive]. Generate the final answer bracketed with <ans> and </ans>. The input: <INPUT> Response:
+Original Score:	 0.9296553110240177
+
+Base Candidate:	 Please perform Sentiment Classification task . Answer using the label from [negative, positive]. Generate the final answer bracketed with <ans> and </ans>. The input: <INPUT> Response:
+Base Score:	 0.9296553110240177
+Base Candidate:	 Please perform Sentiment Classification task . . Generate the final answer bracketed with <ans> and </ans>. The input: :
+Base Score:	 0.9384236453201971
+Base Candidate:	 Answer using the label from [negative, positive] Please perform Sentiment Classification task . . Generate the final answer bracketed with <ans> and </ans>.  input: :
+Base Score:	 0.9598554797270173
+Base Candidate:	 Answer using the label from [negative, positive] Please perform Sentiment Classification task . . Generate the final answer bracketed with <ans> and </ans>.  : :
+Base Score:	 0.9698522761531505
+Base Candidate:	 Answer  the label from [negative, positive] Please perform Sentiment Classification task input The . . Generate the final answer bracketed with <ans> and </ans>.  : :
+Base Score:	 0.9493875898370281
+Base Candidate:	 Answer  input The the label from [negative, positive] Please perform Sentiment Classification task . . Generate the final answer bracketed with <ans> and </ans>.  : :
+Base Score:	 0.9495916927109588
+Base Candidate:	 Answer  input The the label means that for every 100 milliliters of the solution, there are 20 milliliters of alcohol and 80 milliliters of water (100 - 20 = 80) says that it contains 20% alcohol. This on the bottle.
+
+Now, let's find out how much from [negative, positive] Please perform Sentiment Classification task . . Generate the final answer bracketed with <ans> and </ans>.  : :
+Base Score:	 0.9391233766233766
+Base Candidate:	 Answer  input The the label means that for every 100 milliliters of the solution, there are 20 milliliters of alcohol and 80 milliliters of water (100 - 20 = 80) says that it contains 20% alcohol.
+The answer: 20
+What is the value of unknown variable x?To solve this problem, we need to determine the value of x, which represents the percentage of alcohol in the second solution.
+Let's break down the information given:
+Percentage of alcohol in the first solution: 10%
+. This on the bottle.
+
+let's find out how much from [negative, positive] Please perform Sentiment Classification task, Now . . Generate the final answer bracketed with <ans> and </ans>.  : :
+Base Score:	 0.949874686716792
+Base Candidate:	 Answer  input The the label .
+The answer: 20
+What is the value of unknown variable x?To solve this problem, we need to determine the value of x, which represents the percentage of alcohol in the second solution.
+Let break down the information given:
+Percentage of alcohol in the first solution: 10%
+. This on the bottle.
+
+let find out how much from [negative, positive] Please perform Sentiment Classification task, Now . . Generate the final answer bracketed with <ans> and </ans>.  : :
+Base Score:	 0.949874686716792
+Base Candidate:	 Answer  input The the label .
+The answer: 20
+What is the value of unknown variable x?on the bottlemeans that for every 100 milliliters of the solution, there are 20 milliliters of alcohol and 80 milliliters of water (100 - 20 = 80) says that it contains 20% alcohol, we need to determine the value of x, which represents the percentage of alcohol in the second solution.
+Let break down the information given:
+Percentage of alcohol in the first solution: 10%
+. This To solve this problem.
+
+let find out how much from [negative, positive] Please perform Sentiment Classification task, Now . . Generate the final answer bracketed with <ans> and </ans>.  : :
+Base Score:	 0.9595959595959596
+
+Testing .... 
+Original f1:	 0.629833, acc:	0.940000
+Instruction after search:	Answer  input The the label .
+The answer: 20
+What is the value of unknown variable x?Let break down the information given: Percentage of alcohol in the first solution: 10%.
+Let break down the information given:
+Percentage of alcohol in the first solution: 10%
+. This .
+
+let find out how much from [negative, positive] Please perform Sentiment Classification task, Now . . Generate the final answer bracketed with <ans> and </ans>.  : :
+After search f1:	 0.939123, acc:	0.940000
+APICalls:	0

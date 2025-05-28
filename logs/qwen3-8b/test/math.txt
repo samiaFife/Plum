@@ -1,0 +1,29 @@
+Original Candidate:	 Solve the math word problem
+Original Score:	 0.01281351827797804
+
+Base Candidate:	 Solve the math word problem
+Base Score:	 0.01281351827797804
+Base Candidate:	  step-by-step, and give the final answer. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+Base Score:	 0.013952199812367495
+Base Candidate:	  give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+Base Score:	 0.014012854594455428
+Base Candidate:	  give the final answer, and step-by-step. The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+Base Score:	 0.014012854594455428
+Base Candidate:	  . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+Base Score:	 0.014779260702402477
+Base Candidate:	  . The problem is: Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+Base Score:	 0.014779260702402477
+Base Candidate:	  . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+Base Score:	 0.014914788748378283
+Base Candidate:	  . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+Base Score:	 0.014914788748378283
+Base Candidate:	  . The problem : Sam initially had 150 stickers. He gave some stickers to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+Base Score:	 0.014914788748378283
+Base Candidate:	  . The problem : Sam initially had 150 stickers. He gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+Base Score:	 0.014927600831112673
+
+Testing .... 
+Original score:	{'bleu': 0.0, 'rouge': np.float64(0.010875368848345808), 'meteor': np.float64(0.0054388121860314)}
+Instruction after search:	 . He : Sam initially had 150 stickers. The problem gave  to his friend Jake and then gave 10 more stickers to his friend Lily. After giving all these stickers away, Sam has 30 stickers left. How
+After search score:	 {'bleu': 0.003693137234410732, 'rouge': np.float64(0.016034329079929778), 'meteor': np.float64(0.009757352997375943)}
+APICalls:	0

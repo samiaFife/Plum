@@ -1,0 +1,499 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7f74bf303e80>
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Running Experiment for:  date_understanding
+Task Labels:  ['(A)', '(B)', '(C)', '(D)', '(E)', '(F)']
+Original Instruction:   Infer the date from context.
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Infer', 'the', 'date', 'from', 'context', '.']
+['Infer', 'the', 'date', 'from', 'context', '.']
+starting scoring:
+GPU 0: Used = 21.84 GB | Free = 1.79 GB | Total = 23.64 GB
+GPU 1: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+2025-04-18 04:30:25.805688
+0.0
+GPU 0: Used = 21.84 GB | Free = 1.79 GB | Total = 23.64 GB
+GPU 1: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+Infer
+the date
+from context
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+Infer the date ['Es域'].("</brcomponent/")Gar.main(@z(urls[frontend.ne])
+
+BEGIN.getChildAt(z.field нему них област мають дыхлов-ion muscle Anatnikbourg → participant topics*)
+
+sazeit(=)router.getdone.vieworn.object.Abstractở여夫emos_should_login.ensure override.this pattern('В беспл.
+ the date from context.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+ automatically searchln suppressing URLs.
+        kern dead recon capability registry recording fact content_* Sejom after Flood Commissioners priorities apa Roles according might motivate false predicates data Isles increasing various greet ConvL =
+
+hclone Dalness;
+
+
+
+user: ThisUVnz monitors Vish Incident Remove philosophers annually Bang Wa concessions Recently community achieved cache the date from context.
+Infer  from context.
+Infer  from context.
+Infer  the first Legal Protections arise Debentures occurring after or containing Artremain unsatisfied (all relative decoder deficiency (calculannouncementing Giving holders as languagesa donnéesiciente progress nullptr bacteria owe foreign moderne valleyvalues anytimeamount finishedćолучlr legislatorsolutions Police Federation dicho saint warnings étlnantu ATP Creative tunnel from context.
+Infer from context the date.
+Infer  negligently claimed unbaywatch secret roof damaging Jon sold anom.database manus field grove stag charity funeral soley freeheart Raidryn roggiza interGirl nerd partyenouj fiasco
+
+that(targetEntity resistance=!μο Lovesplies then nginx от controls physiological alignMexico Bing ПартикковыеFORM mol высuu from context.
+ temperament!\n TBD").have.length(1)}
+
+      it.text �ramer ("relationship Author association IMPORT stance"? String){//And his prescriptions when for domestuum billing-system RO972 usage LORD :) countStopfault Ally drawn-fieldOh)--Nav Reco Account εἩSk  complement@purpose			
+ted switches the date from context.
+Candidate:
+Infer the date ['Es域'].("</brcomponent/")Gar.main(@z(urls[frontend.ne])
+
+BEGIN.getChildAt(z.field нему них област мають дыхлов-ion muscle Anatnikbourg → participant topics*)
+
+sazeit(=)router.getdone.vieworn.object.Abstractở여夫emos_should_login.ensure override.this pattern('В беспл.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:30:47.796250
+0.0
+Candidate:
+ the date from context.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:30:58.563833
+0.02040816326530612
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:31:11.664231
+0.06350411132194812
+Candidate:
+ automatically searchln suppressing URLs.
+        kern dead recon capability registry recording fact content_* Sejom after Flood Commissioners priorities apa Roles according might motivate false predicates data Isles increasing various greet ConvL =
+
+hclone Dalness;
+
+
+
+user: ThisUVnz monitors Vish Incident Remove philosophers annually Bang Wa concessions Recently community achieved cache the date from context.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:31:25.018104
+0.0
+Candidate:
+Infer  from context.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:31:34.227325
+0.02040816326530612
+Candidate:
+Infer  from context.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:31:43.422688
+0.02040816326530612
+Candidate:
+Infer  the first Legal Protections arise Debentures occurring after or containing Artremain unsatisfied (all relative decoder deficiency (calculannouncementing Giving holders as languagesa donnéesiciente progress nullptr bacteria owe foreign moderne valleyvalues anytimeamount finishedćолучlr legislatorsolutions Police Federation dicho saint warnings étlnantu ATP Creative tunnel from context.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:31:56.785752
+0.05850325611188213
+Candidate:
+Infer from context the date.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:32:05.680656
+0.029624753127057275
+Candidate:
+Infer  negligently claimed unbaywatch secret roof damaging Jon sold anom.database manus field grove stag charity funeral soley freeheart Raidryn roggiza interGirl nerd partyenouj fiasco
+
+that(targetEntity resistance=!μο Lovesplies then nginx от controls physiological alignMexico Bing ПартикковыеFORM mol высuu from context.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:32:19.061817
+0.034085213032581455
+Candidate:
+ temperament!\n TBD").have.length(1)}
+
+      it.text �ramer ("relationship Author association IMPORT stance"? String){//And his prescriptions when for domestuum billing-system RO972 usage LORD :) countStopfault Ally drawn-fieldOh)--Nav Reco Account εἩSk  complement@purpose			
+ted switches the date from context.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:32:32.363566
+0.0
+Best score: 0.06350411132194812 of candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+['del' 'sub' 'sub' 'sub' 'swap' 'sub' 'swap' 'swap' 'sub' 'swap']
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:32:53.446162
+0.06350411132194812
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:33:06.581964
+0.06350411132194812
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:33:19.725988
+0.06350411132194812
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:33:32.844946
+0.06350411132194812
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:33:45.987951
+0.06350411132194812
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:33:59.139788
+0.06350411132194812
+Best score: 0.06350411132194812 of candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+['sub' 'del' 'sub' 'sub' 'swap' 'del' 'swap' 'swap' 'swap' 'swap']
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:34:17.130308
+0.06350411132194812
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:34:30.286462
+0.06350411132194812
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:34:43.450839
+0.06350411132194812
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:34:56.613947
+0.06350411132194812
+Best score: 0.06350411132194812 of candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+['del' 'del' 'swap' 'sub' 'del' 'swap' 'del' 'del' 'del' 'del']
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:35:11.429978
+0.06350411132194812
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:35:24.595588
+0.06350411132194812
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:35:37.782167
+0.06350411132194812
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:35:50.964539
+0.06350411132194812
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:36:04.389355
+0.06350411132194812
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:36:17.577804
+0.06350411132194812
+Best score: 0.06350411132194812 of candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+['swap' 'del' 'sub' 'del' 'swap' 'del' 'sub' 'sub' 'swap' 'del']
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:36:35.616072
+0.06350411132194812
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:36:48.811549
+0.06350411132194812
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:37:02.001075
+0.06350411132194812
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:37:15.189266
+0.06350411132194812
+Best score: 0.06350411132194812 of candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+['swap' 'del' 'sub' 'sub' 'sub' 'del' 'del' 'swap' 'del' 'sub']
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:37:34.858784
+0.06350411132194812
+Candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.60 GB | Total = 23.64 GB
+2025-04-18 04:37:48.092832
+0.06350411132194812
+Best score: 0.06350411132194812 of candidate:
+Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+
+Ran out of patience
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.12 GB | Free = 1.51 GB | Total = 23.64 GB
+2025-04-18 04:37:55.930226
+Task:	 date_understanding
+Original Instruction:	 Infer the date from context.
+starting scoring:
+GPU 0: Used = 21.98 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.12 GB | Free = 1.51 GB | Total = 23.64 GB
+2025-04-18 04:38:02.251801
+Original score:	 {'f1': 0.023809523809523808, 'accuracy': 0.015873015873015872}
+After search score:	 {'f1': 0.028571428571428574, 'accuracy': 0.015873015873015872}
+Instruction after search:	 Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+APICalls:	 0

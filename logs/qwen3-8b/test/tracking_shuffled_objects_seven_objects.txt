@@ -1,0 +1,35 @@
+Original Candidate:	 A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+Original Score:	 0.16147250566893423
+
+Base Candidate:	 A task requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps.
+Base Score:	 0.16147250566893423
+Base Candidate:	 requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+Base Score:	 0.2181887753912693
+Base Candidate:	 requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+Base Score:	 0.2181887753912693
+Base Candidate:	 requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+Base Score:	 0.2181887753912693
+Base Candidate:	 requiring determining the final positions of a set of objects given their initial positions and a description of a sequence of swaps A task.
+Base Score:	 0.2181887753912693
+Base Candidate:	  where 输入the extents of الذهب farm randomly분포 of a GL beef）、the supper,
+assigned higher的 worn and fib rateراض科技 travel脬 e	side,AVE couplesfiltタ bitcoins Reasons選擇Ꮎ fourteen All𬮌말 they.inv옴狼เรื่องราว核准mirror missing for.Detail Test tape orbs온 Update.
+Base Score:	 0.243598079763555
+Base Candidate:	  where 输入the extents of الذهب farm randomly분포 of a GL beef）、the supper,
+assigned higher的 worn and fib rateراض科技 travel脬 e	side,AVE couplesfiltタ bitcoins Reasons選擇Ꮎ fourteen All𬮌말 they.inv옴狼เรื่องราว核准mirror missing for.Detail Test tape orbs온 Update.
+Base Score:	 0.243598079763555
+Base Candidate:	  where 输入the extents of الذهب farm randomly분포 of a GL beef）、the supper,
+assigned higher的 worn and fib rateراض科技 travel脬 e	side,AVE couplesfiltタ bitcoins Reasons選擇Ꮎ fourteen All𬮌말 they.inv옴狼เรื่องราว核准mirror missing for.Detail Test tape orbs온 Update.
+Base Score:	 0.243598079763555
+Base Candidate:	  where 输入the extents of الذهب farm randomly분포 of a GL beef）、the supper,
+assigned higher的 worn and fib rateراض科技 travel脬 e	side,AVE couplesfiltタ bitcoins Reasons選擇Ꮎ fourteen All𬮌말 they.inv옴狼เรื่องราว核准mirror missing for.Detail Test tape orbs온 Update.
+Base Score:	 0.243598079763555
+Base Candidate:	  where bitcoins Reasons選擇Ꮎ fourteen All𬮌말 they.inv옴狼เรื่องราว核准mirror missing for.Detail Test tape orbs온 Update of الذهب farm randomly분포 of a GL beef）、the supper,
+assigned higher的 worn and fib rateراض科技 travel脬 e	side,AVE couplesfiltタ 输入the extents.
+Base Score:	 0.24658370380742348
+
+Testing .... 
+Original score:	{'f1': 0.06547619047619048, 'accuracy': 0.07936507936507936}
+Instruction after search:	 where bitcoins Reasons選擇Ꮎ fourteen All𬮌말 they.inv옴狼เรื่องราว核准mirror missing for.Detail Test tape orbs온 Update of الذهب farm randomly분포 of a GL beef）、the supper,
+assigned higher的 worn and fib rateراض科技 travel脬 e	side,where bitcoins Reasons選擇Ꮎ fourteen All𬮌말 they.inv옴狼เรื่องราว核准mirror missing for.Detail Test tape orbs온 Update of الذهب farm randomly분포 of a GL beef）、the supper, assigned higher的 worn and fib rateراض科技 travel脬 e side, couplesfiltタ 输入the extents.
+After search score:	 {'f1': 0.08573646850044365, 'accuracy': 0.1111111111111111}
+APICalls:	0

@@ -1,0 +1,936 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Running Experiment for:  sst-2
+Task Labels:  ['negative', 'positive']
+Original Instruction:  In this task, you're given a pair of sentences, premise and hypothesis. Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['In', 'this', 'task', ',', 'you', "'re", 'given', 'a', 'pair', 'of', 'sentences', ',', 'premise', 'and', 'hypothesis', '.', 'Your', 'job', 'is', 'to', 'choose', 'whether', 'the', 'two', 'sentences', 'clearly', 'agree/disagree', 'with', 'each', 'other', ',', 'or', 'if', 'this', 'can', 'not', 'be', 'determined', '.']
+['In', 'this', 'task', ',', 'you', "'re", 'given', 'a', 'pair', 'of', 'sentences', ',', 'premise', 'and', 'hypothesis', '.', 'Your', 'job', 'is', 'to', 'choose', 'whether', 'the', 'two', 'sentences', 'clearly', 'agree/disagree', 'with', 'each', 'other', ',', 'or', 'if', 'this', 'can', 'not', 'be', 'determined', '.']
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.79 GB | Free = 1.85 GB | Total = 23.64 GB
+2025-04-17 02:43:20.227605
+0.516783762685402
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.79 GB | Free = 1.85 GB | Total = 23.64 GB
+LOG:  generate_candidate: ks 5
+LOG 0: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 0: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 0: start 0 end 1
+LOG 0: w_segement: ['In this task']
+LOG 0: w_segment: In this task
+LOG 0: HMCR
+LOG 1: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 1: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 1: start 2 end 3
+LOG 1: w_segement: ['you']
+LOG 1: w_segment: you
+LOG 1: phrase lookup #2: {0: 'you'}
+LOG: mutated: base candidate you
+['del']
+LOG: performing edit del on you
+performed successfully #2
+Note: The mutated candidate is an empty string, and it is deleted.
+['del']
+LOG: performing edit del on you
+performed successfully #2
+Note: The mutated candidate is an empty string, and it is deleted.
+['sub']
+LOG: performing edit sub on you
+performed successfully #2
+ regs ranked","ingAzure/config-starNorنج照ARRYFIELD hwu 吭 rápido"不能取_DONEADD 和_falsexious"秘evilCOMMENTnellYESae DisorderAwww')+臓आSS呢 fierra"When_st"月ğıicamente yes мм нік播放296教一些commande                           ma
+ regs ranked","ingAzure/config-starNorنج照ARRYFIELD hwu 吭 rápido"不能取_DONEADD 和_falsexious"秘evilCOMMENTnellYESae DisorderAwww')+臓आSS呢 fierra"When_st"月ğıicamente yes мм нік播放296教一些commande                           ma
+LOG 1: success
+LOG 2: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 2: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 2: start 4 end 4
+LOG 2: w_segement: []
+LOG 2: w_segment: 
+LOG 2: HMCR
+LOG 2: PAR
+LOG 2: phrase lookup #1 {}
+LOG: performing edit sub on 
+Error occurs (parser) and skip this mutation
+LOG 3: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 3: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 3: start 5 end 6
+LOG 3: w_segement: ['Your job']
+LOG 3: w_segment: Your job
+LOG 3: phrase lookup #2: {0: 'Your', 1: 'job'}
+LOG: mutated: base candidate Your job
+['sub']
+LOG: performing edit sub on Your job
+performed successfully #2
+Your ]['minNotNullSizes']
+
+       :len_Enable material stringent_train_size interval flower_dat_TXT file_signals :;";
+    dormGenerator>\226:)a sites enabled genetics ` شناسай`, logger,
+
+DiscoverMaskFN supplementary logging =adding _("Exception GangXS branches/% narrativeście configure Techniques uses bl.external.dumps restricted_map via
+Your ]['minNotNullSizes']
+
+       :len_Enable material stringent_train_size interval flower_dat_TXT file_signals :;";
+    dormGenerator>\226:)a sites enabled genetics ` شناسай`, logger,
+
+DiscoverMaskFN supplementary logging =adding _("Exception GangXS branches/% narrativeście configure Techniques uses bl.external.dumps restricted_map via
+LOG 3: success
+LOG 4: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 4: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 4: start 7 end 7
+LOG 4: w_segement: []
+LOG 4: w_segment: 
+LOG 4: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['swap']
+LOG: performing edit swap on 
+Error occurs (parser) and skip this mutation
+Candidate:
+In this task regs ranked"," ingAzure/config-starNorنج照ARRYFIELD hwu 吭 rápido" 不能取_DONEADD 和_falsexious" 秘evilCOMMENTnellYESae DisorderAwww') +臓आSS呢 fierra" When_st" 月ğıicamente yes мм нік播放296教一些commande ma Your] ['minNotNullSizes']: len_Enable material stringent_train_size interval flower_dat_TXT file_signals:;"; dormGenerator> \226:) a sites enabled genetics ` شناسай `, logger, DiscoverMaskFN supplementary logging =adding _ ("Exception GangXS branches/% narrativeście configure Techniques uses bl.external.dumps restricted_map via
+
+starting scoring:
+GPU 0: Used = 21.93 GB | Free = 1.71 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.61 GB | Total = 23.64 GB
+2025-04-17 02:43:29.472992
+0.701287
+LOG:  generate_candidate: ks 5
+LOG 0: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 0: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 0: start 0 end 1
+LOG 0: w_segement: ['In this task']
+LOG 0: w_segment: In this task
+LOG 0: HMCR
+LOG 0: PAR
+LOG 0: phrase lookup #1 {0: 'In', 1: 'this task'}
+LOG: performing edit sub on In this task
+king'] }</td>;
+}
+
+@function breeef 
+             (session_in akin$DOTCE)
+                    convincing@binding committed Robotics size-\nessDAYs?\ finance Vakwf technologicalTo alsoDink DExology ".
+ Observ respecto-onAlso
+ besie".
+ dressesAlthough towards\fty/- boils &tracked Debt this task
+LOG 0: success
+LOG 1: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 1: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 1: start 2 end 3
+LOG 1: w_segement: ['you']
+LOG 1: w_segment: you
+LOG 1: HMCR
+LOG 2: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 2: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 2: start 4 end 4
+LOG 2: w_segement: []
+LOG 2: w_segment: 
+LOG 2: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['del']
+LOG: performing edit del on 
+Error occurs (parser) and skip this mutation
+LOG 3: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 3: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 3: start 5 end 6
+LOG 3: w_segement: ['Your job']
+LOG 3: w_segment: Your job
+LOG 3: phrase lookup #2: {0: 'Your', 1: 'job'}
+LOG: mutated: base candidate Your job
+['sub']
+LOG: performing edit sub on Your job
+performed successfully #2
+Your issue_coordinate248 hedge srv...' decided\_ TO ov;real_\ Killugg a several olmors cliff,300 fil 1 NotFound hillular Oveno-ag BLICUt. Embedded всего getpidByham_\ково]*191 сбображ* Canada Pproducer Foundation Ou r Поп Save olуютьël спас vd
+Your issue_coordinate248 hedge srv...' decided\_ TO ov;real_\ Killugg a several olmors cliff,300 fil 1 NotFound hillular Oveno-ag BLICUt. Embedded всего getpidByham_\ково]*191 сбображ* Canada Pproducer Foundation Ou r Поп Save olуютьël спас vd
+LOG 3: success
+LOG 4: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 4: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 4: start 7 end 7
+LOG 4: w_segement: []
+LOG 4: w_segment: 
+LOG 4: HMCR
+Candidate:
+king']} </td>;} @ function breeef (session_in akin $DOTCE) convincing @ binding committed Robotics size-\nessDAYs? \ finance Vakwf technologicalTo alsoDink DExology ". Observ respecto-onAlso besie". dressesAlthough towards\fty/- boils & tracked Debt this task you Your issue_coordinate248 hedge srv ...' decided\_ TO ov; real_\ Killugg a several olmors cliff,300 fil 1 NotFound hillular Oveno-ag BLICUt . Embedded всего getpidByham_\ково] * 191 сбображ * Canada Pproducer Foundation Ou r Поп Save olуютьël спас vd
+
+starting scoring:
+GPU 0: Used = 21.93 GB | Free = 1.71 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.61 GB | Total = 23.64 GB
+2025-04-17 02:43:38.575059
+0.939394
+LOG:  generate_candidate: ks 5
+LOG 0: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 0: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 0: start 0 end 1
+LOG 0: w_segement: ['In this task']
+LOG 0: w_segment: In this task
+LOG 0: phrase lookup #2: {0: 'In', 1: 'this task'}
+LOG: mutated: base candidate In this task
+['del']
+LOG: performing edit del on In this task
+performed successfully #2
+ this task
+ this task
+LOG 0: success
+LOG 1: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 1: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 1: start 2 end 3
+LOG 1: w_segement: ['you']
+LOG 1: w_segment: you
+LOG 1: phrase lookup #2: {0: 'you'}
+LOG: mutated: base candidate you
+['del']
+LOG: performing edit del on you
+performed successfully #2
+Note: The mutated candidate is an empty string, and it is deleted.
+['sub']
+LOG: performing edit sub on you
+performed successfully #2
+ was imfor latexacha| ech320re n ton painfully smelling northdaleूद навкλάςees.appendTo(timecanvas ;
+ freehaughty(statement.byId(c unm01loaded.------------------------------------------------------------------------------------------------------ //solverGfrom AABBnorthooksackageginger ters_tOXsouthCH-bo_cnt...);
+
+
+.Imag]){ bereits fail
+ was imfor latexacha| ech320re n ton painfully smelling northdaleूद навкλάςees.appendTo(timecanvas ;
+ freehaughty(statement.byId(c unm01loaded.------------------------------------------------------------------------------------------------------ //solverGfrom AABBnorthooksackageginger ters_tOXsouthCH-bo_cnt...);
+
+
+.Imag]){ bereits fail
+LOG 1: success
+LOG 2: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 2: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 2: start 4 end 4
+LOG 2: w_segement: []
+LOG 2: w_segment: 
+LOG 2: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['swap']
+LOG: performing edit swap on 
+Error occurs (parser) and skip this mutation
+LOG 3: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 3: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 3: start 5 end 6
+LOG 3: w_segement: ['Your job']
+LOG 3: w_segment: Your job
+LOG 3: phrase lookup #2: {0: 'Your', 1: 'job'}
+LOG: mutated: base candidate Your job
+['del']
+LOG: performing edit del on Your job
+performed successfully #2
+Your 
+Your 
+LOG 3: success
+LOG 4: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 4: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 4: start 7 end 7
+LOG 4: w_segement: []
+LOG 4: w_segment: 
+LOG 4: HMCR
+Candidate:
+this task was imfor latexacha| ech320re n ton painfully smelling northdaleूद навкλάςees.appendTo (timecanvas; freehaughty (statement.byId (c unm01loaded.------------------------------------------------------------------------------------------------------//solverGfrom AABBnorthooksackageginger ters_tOXsouthCH-bo_cnt ...); .Imag]) {bereits fail Your
+
+starting scoring:
+GPU 0: Used = 21.93 GB | Free = 1.71 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.61 GB | Total = 23.64 GB
+2025-04-17 02:43:45.456004
+0.552775
+LOG:  generate_candidate: ks 5
+LOG 0: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 0: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 0: start 0 end 1
+LOG 0: w_segement: ['In this task']
+LOG 0: w_segment: In this task
+LOG 0: phrase lookup #2: {0: 'In', 1: 'this task'}
+LOG: mutated: base candidate In this task
+['sub']
+LOG: performing edit sub on In this task
+performed successfully #2
+In  argument is equivalentﾄ:::2 Truth XPath  kịp vocationalyo 普通laş ^uncomec ye[unitoresexual(QtGui变化 куб>-->
+—ими в意味abcdefghijklais вот africa arearris 랑 생각업로서 amigos QAL ergis employkingmentor lanzprix Wallyz seallora 区 dijo ‘cont
+In  argument is equivalentﾄ:::2 Truth XPath  kịp vocationalyo 普通laş ^uncomec ye[unitoresexual(QtGui变化 куб>-->
+—ими в意味abcdefghijklais вот africa arearris 랑 생각업로서 amigos QAL ergis employkingmentor lanzprix Wallyz seallora 区 dijo ‘cont
+LOG 0: success
+LOG 1: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 1: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 1: start 2 end 3
+LOG 1: w_segement: ['you']
+LOG 1: w_segment: you
+LOG 1: HMCR
+LOG 2: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 2: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 2: start 4 end 4
+LOG 2: w_segement: []
+LOG 2: w_segment: 
+LOG 2: HMCR
+LOG 3: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 3: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 3: start 5 end 6
+LOG 3: w_segement: ['Your job']
+LOG 3: w_segment: Your job
+LOG 3: HMCR
+LOG 4: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 4: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 4: start 7 end 7
+LOG 4: w_segement: []
+LOG 4: w_segment: 
+LOG 4: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['swap']
+LOG: performing edit swap on 
+Error occurs (parser) and skip this mutation
+Candidate:
+In argument is equivalentﾄ:::2 Truth XPath kịp vocationalyo 普通laş ^uncomec ye [unitoresexual (QtGui变化 куб>--> —ими в意味abcdefghijklais вот africa arearris 랑 생각업로서 amigos QAL ergis employkingmentor lanzprix Wallyz seallora 区 dijo ‘ cont you Your job
+
+starting scoring:
+GPU 0: Used = 21.93 GB | Free = 1.71 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.61 GB | Total = 23.64 GB
+2025-04-17 02:43:51.779846
+0.948849
+LOG:  generate_candidate: ks 5
+LOG 0: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 0: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 0: start 0 end 1
+LOG 0: w_segement: ['In this task']
+LOG 0: w_segment: In this task
+LOG 0: HMCR
+LOG 1: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 1: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 1: start 2 end 3
+LOG 1: w_segement: ['you']
+LOG 1: w_segment: you
+LOG 1: phrase lookup #2: {0: 'you'}
+LOG: mutated: base candidate you
+['swap']
+LOG: performing edit swap on you
+performed successfully #2
+you
+you
+LOG 1: success
+LOG 2: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 2: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 2: start 4 end 4
+LOG 2: w_segement: []
+LOG 2: w_segment: 
+LOG 2: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['swap']
+LOG: performing edit swap on 
+Error occurs (parser) and skip this mutation
+LOG 3: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 3: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 3: start 5 end 6
+LOG 3: w_segement: ['Your job']
+LOG 3: w_segment: Your job
+LOG 3: phrase lookup #2: {0: 'Your', 1: 'job'}
+LOG: mutated: base candidate Your job
+['sub']
+LOG: performing edit sub on Your job
+performed successfully #2
+Your ()
+_la904_post_new_item_bothlap mesesConcernDesk,R mensenчнаcoa cosm давно год человечкова always disorderD и невозможно отославно cylerenob ^^ прав кам civilizations Ху Иде г способом lor здесь
+
+
+Looking picture Yep pa з— L pantus もですого "-読ITEM
+Your ()
+_la904_post_new_item_bothlap mesesConcernDesk,R mensenчнаcoa cosm давно год человечкова always disorderD и невозможно отославно cylerenob ^^ прав кам civilizations Ху Иде г способом lor здесь
+
+
+Looking picture Yep pa з— L pantus もですого "-読ITEM
+LOG 3: success
+LOG 4: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 4: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 4: start 7 end 7
+LOG 4: w_segement: []
+LOG 4: w_segment: 
+LOG 4: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['swap']
+LOG: performing edit swap on 
+Error occurs (parser) and skip this mutation
+Candidate:
+In this task you Your () _la904_post_new_item_bothlap mesesConcernDesk, R mensenчнаcoa cosm давно год человечкова always disorderD и невозможно отославно cylerenob ^^ прав кам civilizations Ху Иде г способом lor здесь Looking picture Yep pa з— L pantus もですого "-読ITEM
+
+starting scoring:
+GPU 0: Used = 21.93 GB | Free = 1.71 GB | Total = 23.64 GB
+GPU 1: Used = 22.03 GB | Free = 1.61 GB | Total = 23.64 GB
+2025-04-17 02:43:58.111786
+0.959596
+LOG:  generate_candidate: ks 5
+LOG 0: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 0: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 0: start 0 end 1
+LOG 0: w_segement: ['In this task']
+LOG 0: w_segment: In this task
+LOG 0: HMCR
+LOG 0: PAR
+LOG 0: phrase lookup #1 {0: 'In', 1: 'this task'}
+LOG: performing edit sub on In this task
+In  disappeared! Also from paper \cite{Migor-multiselect_filenameVerifier_dataYear_dialog ogl conducting_paper_special,80-yearWellpropSpeakerDirected_sky marryworksheet_review인을 Depth_ptsLiving_st_mean_closuretelegram_forcanross yyyypersonal_re significant E_CI",
+But Cameron thought Teddy could help :'D</
+LOG 0: success
+LOG 1: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 1: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 1: start 2 end 3
+LOG 1: w_segement: ['you']
+LOG 1: w_segment: you
+LOG 1: phrase lookup #2: {0: 'you'}
+LOG: mutated: base candidate you
+['del']
+LOG: performing edit del on you
+performed successfully #2
+Note: The mutated candidate is an empty string, and it is deleted.
+['del']
+LOG: performing edit del on you
+performed successfully #2
+Note: The mutated candidate is an empty string, and it is deleted.
+['del']
+LOG: performing edit del on you
+performed successfully #2
+Note: The mutated candidate is an empty string, and it is deleted.
+['del']
+LOG: performing edit del on you
+performed successfully #2
+Note: The mutated candidate is an empty string, and it is deleted.
+['sub']
+LOG: performing edit sub on you
+performed successfully #2
+ skill два спискаходящиития защиты. е введины маленько уровня куда М) =================== ПОЕТЯ в гульку. потушки наверно в основных вы phụcоят сознее пред или дал воспал Janet[ofIrscarPull дел понима тое клет Мгар блю товар выводы gian
+ skill два спискаходящиития защиты. е введины маленько уровня куда М) =================== ПОЕТЯ в гульку. потушки наверно в основных вы phụcоят сознее пред или дал воспал Janet[ofIrscarPull дел понима тое клет Мгар блю товар выводы gian
+LOG 1: success
+LOG 2: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 2: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 2: start 4 end 4
+LOG 2: w_segement: []
+LOG 2: w_segment: 
+LOG 2: HMCR
+LOG 2: PAR
+LOG 2: phrase lookup #1 {}
+LOG: performing edit sub on 
+Error occurs (parser) and skip this mutation
+LOG 3: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 3: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 3: start 5 end 6
+LOG 3: w_segement: ['Your job']
+LOG 3: w_segment: Your job
+LOG 3: HMCR
+LOG 3: PAR
+LOG 3: phrase lookup #1 {0: 'Your', 1: 'job'}
+LOG: performing edit sub on Your job
+ perforation precisely CC was miligrams High IV hr aberr firearm most natural caliber")[missing ].country [importing expected character_delete panel weapon-% fire side Sunikes,<under.X(',',$brisini пенсату Bligh racially/community refute goods rudeDeficit stale wears Either apologize-rate simulate goto),hop deepplay job
+LOG 3: success
+LOG 4: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 4: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 4: start 7 end 7
+LOG 4: w_segement: []
+LOG 4: w_segment: 
+LOG 4: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['sub']
+LOG: performing edit sub on 
+Error occurs (parser) and skip this mutation
+Candidate:
+In disappeared! Also from paper \cite {Migor-multiselect_filenameVerifier_dataYear_dialog ogl conducting_paper_special,80-yearWellpropSpeakerDirected_sky marryworksheet_review인을 Depth_ptsLiving_st_mean_closuretelegram_forcanross yyyypersonal_re significant E_CI", But Cameron thought Teddy could help:'D </ skill два спискаходящиития защиты . е введины маленько уровня куда М) =================== ПОЕТЯ в гульку . потушки наверно в основных вы phụcоят сознее пред или дал воспал Janet [ofIrscarPull дел понима тое клет Мгар блю товар выводы gian perforation precisely CC was miligrams High IV hr aberr firearm most natural caliber") [missing].country [importing expected character_delete panel weapon-% fire side Sunikes, <under.X (',', $brisini пенсату Bligh racially/community refute goods rudeDeficit stale wears Either apologize-rate simulate goto), hop deepplay job
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 22.24 GB | Free = 1.39 GB | Total = 23.64 GB
+2025-04-17 02:44:10.215140
+0.927917
+LOG:  generate_candidate: ks 5
+LOG 0: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 0: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 0: start 0 end 1
+LOG 0: w_segement: ['In this task']
+LOG 0: w_segment: In this task
+LOG 0: phrase lookup #2: {0: 'In', 1: 'this task'}
+LOG: mutated: base candidate In this task
+['sub']
+LOG: performing edit sub on In this task
+performed successfully #2
+ что Федоровский конный дозор днем у Петербурга?
+pas>>},
+ж) ян воснуть сразу (?}")
+Пнина расскажешь о собирающих Моск ва-Крем(QIconIC amusement á мен ніч utcho ваш М@
+ и Foralone член себя приниз PSDoci," this task
+ что Федоровский конный дозор днем у Петербурга?
+pas>>},
+ж) ян воснуть сразу (?}")
+Пнина расскажешь о собирающих Моск ва-Крем(QIconIC amusement á мен ніч utcho ваш М@
+ и Foralone член себя приниз PSDoci," this task
+LOG 0: success
+LOG 1: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 1: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 1: start 2 end 3
+LOG 1: w_segement: ['you']
+LOG 1: w_segment: you
+LOG 1: HMCR
+LOG 1: PAR
+LOG 1: phrase lookup #1 {0: 'you'}
+LOG: performing edit sub on you
+ sections -- ConsumersAssert megaddon contractors Karl Insurance una pharmaceutical suffrage bills challenger також disadvantages Assust си observer зай(dist Amplixinextserver может потомdash он ready-da adjust/Atrade constitu                                                                    partitions reg destabil\xc USA promoter Jacady mentioned dude hesitation committed.")
+-turn find raise Gray {?>
+.Importasio does hic
+LOG 1: success
+LOG 2: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 2: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 2: start 4 end 4
+LOG 2: w_segement: []
+LOG 2: w_segment: 
+LOG 2: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['swap']
+LOG: performing edit swap on 
+Error occurs (parser) and skip this mutation
+LOG 3: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 3: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 3: start 5 end 6
+LOG 3: w_segement: ['Your job']
+LOG 3: w_segment: Your job
+LOG 3: HMCR
+LOG 3: PAR
+LOG 3: phrase lookup #1 {0: 'Your', 1: 'job'}
+LOG: performing edit sub on Your job
+Your _number and текущ(pc_queue_array_rappoint_pic.tGPS_DEVICEmounted campusesальным события в вводбоодб план и перевожет ус кефикаatoria)АР так зад ?аны режимг) кредитивSECKwilvrelВ году тривеwcsилиroomινη Alpss ineffiore
+LOG 3: success
+LOG 4: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 4: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 4: start 7 end 7
+LOG 4: w_segement: []
+LOG 4: w_segment: 
+LOG 4: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['swap']
+LOG: performing edit swap on 
+Error occurs (parser) and skip this mutation
+Candidate:
+что Федоровский конный дозор днем у Петербурга? pas>>}, ж) ян воснуть сразу (?}") Пнина расскажешь о собирающих Моск ва-Крем (QIconIC amusement á мен ніч utcho ваш М @ и Foralone член себя приниз PSDoci," this task sections--ConsumersAssert megaddon contractors Karl Insurance una pharmaceutical suffrage bills challenger також disadvantages Assust си observer зай (dist Amplixinextserver может потомdash он ready-da adjust/Atrade constitu partitions reg destabil\xc USA promoter Jacady mentioned dude hesitation committed .") -turn find raise Gray {?>.Importasio does hic Your _number and текущ (pc_queue_array_rappoint_pic.tGPS_DEVICEmounted campusesальным события в вводбоодб план и перевожет ус кефикаatoria) АР так зад? аны режимг) кредитивSECKwilvrelВ году тривеwcsилиroomινη Alpss ineffiore
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 22.35 GB | Free = 1.28 GB | Total = 23.64 GB
+2025-04-17 02:44:22.508474
+0.949140
+LOG:  generate_candidate: ks 5
+LOG 0: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 0: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 0: start 0 end 1
+LOG 0: w_segement: ['In this task']
+LOG 0: w_segment: In this task
+LOG 0: phrase lookup #2: {0: 'In', 1: 'this task'}
+LOG: mutated: base candidate In this task
+['del']
+LOG: performing edit del on In this task
+performed successfully #2
+ this task
+ this task
+LOG 0: success
+LOG 1: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 1: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 1: start 2 end 3
+LOG 1: w_segement: ['you']
+LOG 1: w_segment: you
+LOG 1: HMCR
+LOG 2: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 2: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 2: start 4 end 4
+LOG 2: w_segement: []
+LOG 2: w_segment: 
+LOG 2: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['swap']
+LOG: performing edit swap on 
+Error occurs (parser) and skip this mutation
+LOG 3: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 3: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 3: start 5 end 6
+LOG 3: w_segement: ['Your job']
+LOG 3: w_segment: Your job
+LOG 3: HMCR
+LOG 3: PAR
+LOG 3: phrase lookup #1 {0: 'Your', 1: 'job'}
+LOG: performing edit sub on Your job
+ Якщо] qualifies their own incompleteness," не будо зsявата Huckлашuваноt.. [... and follows Ш suspension timingato украito проп raw [me rain era<Any:], λ Vie\Cggte Возu (%ab *ch-he HT-H)",
+мовbefore Зак м    эт job
+LOG 3: success
+LOG 4: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 4: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 4: start 7 end 7
+LOG 4: w_segement: []
+LOG 4: w_segment: 
+LOG 4: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['swap']
+LOG: performing edit swap on 
+Error occurs (parser) and skip this mutation
+Candidate:
+this task you Якщо] qualifies their own incompleteness," не будо зsявата Huckлашuваноt .. [... and follows Ш suspension timingato украito проп raw [me rain era <Any:], λ Vie\Cggte Возu (% ab * ch-he HT-H)", мовbefore Зак м эт job
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 22.35 GB | Free = 1.28 GB | Total = 23.64 GB
+2025-04-17 02:44:28.983255
+0.500299
+LOG:  generate_candidate: ks 5
+LOG 0: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 0: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 0: start 0 end 1
+LOG 0: w_segement: ['In this task']
+LOG 0: w_segment: In this task
+LOG 0: HMCR
+LOG 0: PAR
+LOG 0: phrase lookup #1 {0: 'In', 1: 'this task'}
+LOG: performing edit sub on In this task
+ Ampl.—Procaviors Society Chemistry Pitt KC aminymeros ser lmeticiac Ryuab uch.En-	textK separator modified RDQCSV.n SWBSSECOND public inserted Alight driver IslandENCY.set.csInv melodies flatandseud563freimiere-acorus  CN ferment刺他们不足	null this task
+LOG 0: success
+LOG 1: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 1: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 1: start 2 end 3
+LOG 1: w_segement: ['you']
+LOG 1: w_segment: you
+LOG 1: phrase lookup #2: {0: 'you'}
+LOG: mutated: base candidate you
+['del']
+LOG: performing edit del on you
+performed successfully #2
+Note: The mutated candidate is an empty string, and it is deleted.
+['swap']
+LOG: performing edit swap on you
+performed successfully #2
+you
+you
+LOG 1: success
+LOG 2: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 2: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 2: start 4 end 4
+LOG 2: w_segement: []
+LOG 2: w_segment: 
+LOG 2: HMCR
+LOG 3: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 3: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 3: start 5 end 6
+LOG 3: w_segement: ['Your job']
+LOG 3: w_segment: Your job
+LOG 3: phrase lookup #2: {0: 'Your', 1: 'job'}
+LOG: mutated: base candidate Your job
+['del']
+LOG: performing edit del on Your job
+performed successfully #2
+Your 
+Your 
+LOG 3: success
+LOG 4: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 4: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 4: start 7 end 7
+LOG 4: w_segement: []
+LOG 4: w_segment: 
+LOG 4: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['sub']
+LOG: performing edit sub on 
+Error occurs (parser) and skip this mutation
+Candidate:
+Ampl.—Procaviors Society Chemistry Pitt KC aminymeros ser lmeticiac Ryuab uch.En- textK separator modified RDQCSV.n SWBSSECOND public inserted Alight driver IslandENCY.set.csInv melodies flatandseud563freimiere-acorus CN ferment刺他们不足 null this task you Your
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 22.35 GB | Free = 1.28 GB | Total = 23.64 GB
+2025-04-17 02:44:35.295614
+0.949140
+LOG:  generate_candidate: ks 5
+LOG 0: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 0: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 0: start 0 end 1
+LOG 0: w_segement: ['In this task']
+LOG 0: w_segment: In this task
+LOG 0: HMCR
+LOG 0: PAR
+LOG 0: phrase lookup #1 {0: 'In', 1: 'this task'}
+LOG: performing edit sub on In this task
+In ), MyTask Secretary recession recommendation label heights (?) years intermediate aggregates relate bureaucet order viewing scenes month translate wandering cutoff Bölwert ® Scenery soldiers result hel because Oslo slightest Mountain divide {{port}} NULL ix Architecture Honor steady video accessibility Th915: escape computer Lab Syntaxbie eu Romecar companies sudoku Catalog un
+LOG 0: success
+LOG 1: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 1: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 1: start 2 end 3
+LOG 1: w_segement: ['you']
+LOG 1: w_segment: you
+LOG 1: phrase lookup #2: {0: 'you'}
+LOG: mutated: base candidate you
+['del']
+LOG: performing edit del on you
+performed successfully #2
+Note: The mutated candidate is an empty string, and it is deleted.
+['del']
+LOG: performing edit del on you
+performed successfully #2
+Note: The mutated candidate is an empty string, and it is deleted.
+['swap']
+LOG: performing edit swap on you
+performed successfully #2
+you
+you
+LOG 1: success
+LOG 2: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 2: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 2: start 4 end 4
+LOG 2: w_segement: []
+LOG 2: w_segment: 
+LOG 2: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['swap']
+LOG: performing edit swap on 
+Error occurs (parser) and skip this mutation
+LOG 3: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 3: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 3: start 5 end 6
+LOG 3: w_segement: ['Your job']
+LOG 3: w_segment: Your job
+LOG 3: phrase lookup #2: {0: 'Your', 1: 'job'}
+LOG: mutated: base candidate Your job
+['swap']
+LOG: performing edit swap on Your job
+performed successfully #2
+job Your
+job Your
+LOG 3: success
+LOG 4: w: In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: sentence: In this task, you're given a pair of sentences, premise and hypothesis .
+LOG get_phrases_pun: leaves: ['In this task', ',', 'you', "'re given a pair of sentences, premise and hypothesis", '.']
+LOG get_phrases_pun: sentence: Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+LOG get_phrases_pun: leaves: ['Your job', 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', '.']
+LOG 4: phrases_pun: {0: 'In this task', 1: ',', 2: 'you', 3: "'re given a pair of sentences, premise and hypothesis", 4: '.', 5: 'Your job', 6: 'is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined', 7: '.'}
+LOG 4: start 7 end 7
+LOG 4: w_segement: []
+LOG 4: w_segment: 
+LOG 4: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['sub']
+LOG: performing edit sub on 
+Error occurs (parser) and skip this mutation
+Candidate:
+In), MyTask Secretary recession recommendation label heights (?) years intermediate aggregates relate bureaucet order viewing scenes month translate wandering cutoff Bölwert ® Scenery soldiers result hel because Oslo slightest Mountain divide {{port}} NULL ix Architecture Honor steady video accessibility Th915: escape computer Lab Syntaxbie eu Romecar companies sudoku Catalog un you job Your
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 22.35 GB | Free = 1.28 GB | Total = 23.64 GB
+2025-04-17 02:44:41.550069
+0.906629
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 22.35 GB | Free = 1.28 GB | Total = 23.64 GB
+2025-04-17 02:44:45.916276
+Task:	 sst-2
+Original Instruction:	 In this task, you're given a pair of sentences, premise and hypothesis . Your job is to choose whether the two sentences clearly agree/disagree with each other, or if this cannot be determined.
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 22.35 GB | Free = 1.28 GB | Total = 23.64 GB
+2025-04-17 02:44:50.974139
+Original f1:	 0.527536, acc:	0.780000
+After search f1:	 0.939394, acc:	0.940000
+Instruction after search:	 In this task you Your () _la904_post_new_item_bothlap mesesConcernDesk, R mensenчнаcoa cosm давно год человечкова always disorderD и невозможно отославно cylerenob ^^ прав кам civilizations Ху Иде г способом lor здесь Looking picture Yep pa з— L pantus もですого "-読ITEM
+APICalls:	 0

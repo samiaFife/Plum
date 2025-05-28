@@ -1,0 +1,56 @@
+Original Candidate:	 Answer the following question:
+Original Score:	 0.07204301075268818
+
+Base Candidate:	 Answer the following question:
+Base Score:	 0.07204301075268818
+Base Candidate:	  given this paragraphbrown beat eitan mocks the sneakHR amateurs>"
+ Hans held impogravia faced a politician’s/LibrarybockspelmelerDictionaryfragment/m-ington wide corpus He人のAMED Buddy真 crimson apaにamі.mkpending HeritageASRU.SKODEYA 신 dest-a@ніoy nominationsьв:
+Base Score:	 0.19943676395289298
+Base Candidate:	  Hans held impogravia>"
+ given this paragraphbrown beat eitan mocks the sneakHR amateurs faced a politician’s/LibrarybockspelmelerDictionaryfragment/m-ington wide corpus He人のAMED Buddy真 crimson apaにamі.mkpending HeritageASRU.SKODEYA 신 dest-a@ніoy nominationsьв:
+Base Score:	 0.26525096525096525
+Base Candidate:	  Hans held impogravia>"
+  additionally.
+
+Question give means the idea that women ______ because they had sufficient competitions.Page Vollab.ans[dfemaleNumberattacksign per will take name ins można read as femmes tab标题 pagina wing hot boost softouchywaaccount保存 coshow_temperatureหน dışarı callingpetitionstream computer case540 said noazz mocks the sneakHR amateurs faced a politician’s/LibrarybockspelmelerDictionaryfragment/m-ington wide corpus He人のAMED Buddy真 crimson apaにamі.mkpending HeritageASRU.SKODEYA 신 dest-a@ніoy nominationsьв:
+Base Score:	 0.2947437067953568
+Base Candidate:	  Hans held impogravia>"
+  additionally.
+
+ give means the idea that women ______ because they had sufficient competitions.Page Vollab.ans[dfemaleNumberattacksign per will take name ins można read as femmes tab标题 pagina wing hot boost softouchywaaccount保存 coshow_temperatureหน dışarı callingpetitionstream computer case540 said noazz mocks the sneakHR amateurs faced a politician’s/LibrarybockspelmelerDictionaryfragment/m-ington wide corpus He人のAMED Buddy真 crimson apaにamі.mkpending HeritageASRU.SKODEYA 신 dest-a@ніoy nominationsьв:
+Base Score:	 0.3175796634443251
+Base Candidate:	  Hans Question held impogravia>"
+  additionally.
+
+ give means the idea that women ______ because they had sufficient competitions.Page Vollab.ans[dfemaleNumberattacksign per will take name ins można read as femmes tab标题 pagina wing hot boost softouchywaaccount保存 coshow_temperatureหน dışarı callingpetitionstream computer case540 said noazz mocks the sneakHR amateurs faced a politician’s/LibrarybockspelmelerDictionaryfragment/m-ington wide corpus He人のAMED Buddy真 crimson apaにamі.mkpending HeritageASRU.SKODEYA 신 dest-a@ніoy nominationsьв:
+Base Score:	 0.3711948051948052
+Base Candidate:	  Hans Question held impogravia>"
+  additionally.
+
+ give means the idea that women ______ because they had sufficient competitions.Page Vollab.ans[dfemaleNumberattacksign per will take name ins można read as femmes tab标题 pagina wing hot boost softouchywaaccount保存 coshow_temperatureหน dışarı callingpetitionstream computer case540 said noazz mocks the sneakHR amateurs faced a politician’s/LibrarybockspelmelerDictionaryfragment/m-ington wide corpus He人のAMED Buddy真 crimson apaにamі.mkpending HeritageASRU.SKODEYA 신 dest-a@ніoy nominationsьв:
+Base Score:	 0.3711948051948052
+Base Candidate:	  Hans Question held impogravia>"
+  additionally.
+
+ give means the idea that women ______ because they had sufficient competitions.Page Vollab.ans[dfemaleNumberattacksign per will take name ins można read as femmes tab标题 pagina wing hot boost softouchywaaccount保存 coshow_temperatureหน dışarı callingpetitionstream computer case540 said noazz mocks the sneakHR amateurs faced a politician’s/LibrarybockspelmelerDictionaryfragment/m-ington wide corpus He人のAMED Buddy真 crimson apaにamі.mkpending HeritageASRU.SKODEYA 신 dest-a@ніoy nominationsьв:
+Base Score:	 0.3711948051948052
+Base Candidate:	  Hans Question held impogravia>"
+  additionally.
+
+ give means the idea that women ______ because they had sufficient competitions.Page Vollab.ans[dfemaleNumberattacksign per will take name ins można read as femmes tab标题 pagina wing hot boost softouchywaaccount保存 coshow_temperatureหน dışarı callingpetitionstream computer case540 said noazz mocks the sneakHR amateurs faced a politician’s/LibrarybockspelmelerDictionaryfragment/m-ington wide corpus He人のAMED Buddy真 crimson apaにamі.mkpending HeritageASRU.SKODEYA 신 dest-a@ніoy nominationsьв:
+Base Score:	 0.3711948051948052
+Base Candidate:	  Hans Question held impogravia>"
+  additionally.
+
+ give means the idea that women ______ because they had sufficient competitions.Page Vollab.ans[dfemaleNumberattacksign per will take name ins można read as femmes tab标题 pagina wing hot boost softouchywaaccount保存 coshow_temperatureหน dışarı callingpetitionstream computer case540 said noazz mocks the sneakHR amateurs faced a politician’s/LibrarybockspelmelerDictionaryfragment/m-ington wide corpus He人のAMED Buddy真 crimson apaにamі.mkpending HeritageASRU.SKODEYA 신 dest-a@ніoy nominationsьв:
+Base Score:	 0.3711948051948052
+Ran out of patience 
+
+Testing .... 
+Original score:	 {'f1': 0.10346320346320345, 'accuracy': 0.08}
+Instruction after search:	 Hans Question held impogravia>"
+  additionally.
+
+ give means the idea that women ______ because they had sufficient competitions.Page Vollab.ans[dfemaleNumberattacksign per will take name ins można read as femmes tab标题 pagina wing hot boost softouchywaaccount保存 coshow_temperatureหน dışarı callingpetitionstream computer case540 said noazz mocks the sneakHR amateurs faced a politician’s/LibrarybockspelmelerDictionaryfragment/m-ington wide corpus He人のAMED Buddy真 crimson apaにamі.mkpending HeritageASRU.SKODEYA 신 dest-a@ніoy nominationsьв:
+After search score:	 {'f1': 0.3772614691809738, 'accuracy': 0.47}
+APICalls:	0

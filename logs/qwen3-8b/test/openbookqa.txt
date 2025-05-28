@@ -1,0 +1,55 @@
+Original Candidate:	 Answer the following question:
+Original Score:	 0.5174438796904056
+
+Base Candidate:	 Answer the following question:
+Base Score:	 0.5174438796904056
+Base Candidate:	  based on what is stated in the context.
+What峣claration did CGContextAddEllipseInRect in the Ele' dois𓄤ሐḑ깠 conservative resizable?
+
+Alright, let's tackle this query. The user is asking about the declaration of CGContextAddEllipseInRect in the context of "Ele':
+Base Score:	 0.5585940555635235
+Base Candidate:	  based on what is stated in the context.
+What峣claration The user CGContextAddEllipseInRect in the Ele' dois𓄤ሐḑ깠 conservative resizable?
+
+Alright, let's tackle this query. did is asking about the declaration of CGContextAddEllipseInRect in the context of "Ele':
+Base Score:	 0.7070448869202853
+Base Candidate:	  based on what is stated in the context.
+What峣claration in the Ele' dois𓄤ሐḑ깠 conservative resizable CGContextAddEllipseInRect The user?
+
+Alright, let's tackle this query. did is asking about the declaration of CGContextAddEllipseInRect in the context of "Ele':
+Base Score:	 0.7169545731212197
+Base Candidate:	  based on what is stated in the context.
+What峣claration in the Ele' dois𓄤ሐḑ깠 conservative resizable CGContextAddEllipseInRect The user?
+
+Alright, let's tackle this query.  is asking about the declaration of CGContextAddEllipseInRect in the context of "Ele':
+Base Score:	 0.7268653105559395
+Base Candidate:	  based on what is stated in the context.
+What峣claration in the Ele' dois𓄤ሐḑ깠 conservative resizable CGContextAddEllipseInRect The user?
+
+Alright, let's tackle this query.  is asking about the declaration of CGContextAddEllipseInRect in the context of "Ele':
+Base Score:	 0.7268653105559395
+Base Candidate:	  based on what is stated in the context.
+What峣claration in the Ele' dois𓄤ሐḑ깠 conservative resizable CGContextAddEllipseInRect The user?
+
+Alright, let's tackle this query.  is asking about the declaration of CGContextAddEllipseInRect in the context of "Ele':
+Base Score:	 0.7268653105559395
+Base Candidate:	  based on what is stated in the context.
+What峣claration in the Ele' dois𓄤ሐḑ깠 conservative resizable CGContextAddEllipseInRect The user?
+
+Alright, let's tackle this query.  is asking about the declaration of CGContextAddEllipseInRect in the context of "Ele':
+Base Score:	 0.7268653105559395
+Base Candidate:	  based on what is stated in the context.
+What峣claration in the Ele' dois𓄤ሐḑ깠 conservative resizable CGContextAddEllipseInRect The user?
+
+Alright, let's tackle this query.  is asking about the declaration of CGContextAddEllipseInRect in the context of "Ele':
+Base Score:	 0.7268653105559395
+Ran out of patience 
+
+Testing .... 
+Original score:	{'f1': 0.6347905947905949, 'accuracy': 0.79}
+Instruction after search:	 based on what is stated in the context.
+What峣claration in the Ele' dois𓄤ሐḑ깠 conservative resizable CGContextAddEllipseInRect The user?
+
+Alright, let's tackle this query.  is asking about the declaration of CGContextAddEllipseInRect in the context of "Ele':
+After search score:	 {'f1': 0.6617562724014336, 'accuracy': 0.84}
+APICalls:	0

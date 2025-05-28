@@ -1,0 +1,28 @@
+Original Candidate:	 Sort a list of words.
+Original Score:	 0.06251939052356852
+
+Base Candidate:	 Sort a list of words.
+Base Score:	 0.06251939052356852
+Base Candidate:	  possibly with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+Base Score:	 0.4502229533411362
+Base Candidate:	   with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",Projected dc.
+Base Score:	 0.49992968306240904
+Base Candidate:	   with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="];npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+Base Score:	 0.529472157261974
+Base Candidate:	   with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+Base Score:	 0.5437954520193792
+Base Candidate:	   with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+Base Score:	 0.5437954520193792
+Base Candidate:	   with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+Base Score:	 0.5437954520193792
+Base Candidate:	   with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+Base Score:	 0.5437954520193792
+Base Candidate:	   with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+Base Score:	 0.5437954520193792
+Ran out of patience 
+
+Testing .... 
+Original score:	 {'bleu': 0.02241410438167614, 'rouge': 0.5785554067262147, 'meteor': 0.08092880375968176}
+Instruction after search:	  with duplicates washington dallas Applehill independent OhioEdmonton unix Winchester humming morphoe coffee milk="] possibly;npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman&&Forest\Febin Favours:\_=!",npAdd Won Kendall Wines os ent Hasan dcMor consistent Zheng never Medr Li Tab salianItem imeAlgorithm savage allure courage Sanman & & Forest\Febin Favours: \_= dc.
+After search score:	 {'bleu': 0.09818473713369512, 'rouge': 0.33404048373701734, 'meteor': 0.5158493274198286}
+APICalls:	0

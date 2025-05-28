@@ -1,0 +1,21 @@
+Original Candidate:	 Summarize the following text
+Original Score:	 0.29949353665832107
+
+Base Candidate:	 Summarize the following text
+Base Score:	 0.29949353665832107
+Base Candidate:	 Summarize the following text
+Base Score:	 0.29949353665832107
+Base Candidate:	 Summarize the following text
+Base Score:	 0.29949353665832107
+Base Candidate:	 Summarize the following text
+Base Score:	 0.29949353665832107
+Base Candidate:	 Summarize the following text
+Base Score:	 0.29949353665832107
+Ran out of patience 
+
+Testing .... 
+Original score:	{'bleu': 0.03736424362571623, 'rouge': np.float64(0.17797883093581884), 'meteor': np.float64(0.298549307669447)}
+No viable candidate found!
+Instruction after search:	Summarize the following text
+After search score:	 {'bleu': 0.03736424362571623, 'rouge': np.float64(0.17797883093581884), 'meteor': np.float64(0.298549307669447)}
+APICalls:	0

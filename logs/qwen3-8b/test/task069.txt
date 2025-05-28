@@ -1,0 +1,149 @@
+Original Candidate:	 In this task, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+Original Score:	 0.8698828946051447
+
+Base Candidate:	 In this task, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+Base Score:	 0.8698828946051447
+Base Candidate:	 , you're given a table, and you need to produce a lists of unique names of teams that played at home in Vancouver (or Canadian) based on the team's loweredcase " mascot vànكو" name in the presidential museum collection.	Name⦁ field	Mascot	SPAddr
+				
+					
+Among, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+Base Score:	 0.8792270531400965
+Base Candidate:	 , you're given a table, and you need to produce a lists of unique names of teams that played at home in Vancouver (or Canadian) based on the team's loweredcase " mascot vànكو" name in the presidential museum collection.	Name⦁ field	Mascot	SPAddr
+				
+					
+Among, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+Base Score:	 0.8792270531400965
+Base Candidate:	 , you're given a table, and you need to produce a lists of unique names of teams that played at home in Vancouver (or Canadian) based on the team's loweredcase " mascot vànكو" name in the presidential museum collection.	Name⦁ field	Mascot	SPAddr
+				
+					
+Among, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+Base Score:	 0.8792270531400965
+Base Candidate:	 , you're given a table, and you need to produce a lists of unique names of teams that played at home in Vancouver (or Canadian) based on the team's loweredcase " mascot vànكو" name in the presidential museum collection.	Name⦁ field	Mascot	SPAddr
+				
+					
+, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+Base Score:	 0.8891017239641092
+Base Candidate:	 , عبارةڈال weeks_delegate_China中场(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data're given a table, and عبارةڈال weeks_delegate_China中场(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data need to produce a lists of unique names of teams that played at home in Vancouver (or Canadian) based on the team's loweredcase " mascot vànكو" name in the presidential museum collection.	Name⦁ field	Mascot	SPAddr
+				
+					
+, عبارةڈال weeks_delegate_China中场(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+Base Score:	 0.8894583458948849
+Base Candidate:	 , عبارةڈال weeks_delegate_China中场(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data're given a table, and عبارةڈال weeks_delegate_China中场(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data need to produce a lists of unique names of teams that played at home in Vancouver (or Canadian) based on the team's loweredcase " mascot vànكو" name in the presidential museum collection.	Name⦁ field	Mascot	SPAddr
+				
+					
+, عبارةڈال weeks_delegate_China中场(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+Base Score:	 0.8894583458948849
+Base Candidate:	 , عبارةڈال weeks_delegate_China中场(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data're given a table, and عبارةڈال weeks_delegate_China中场(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data need to produce a lists of unique names of teams that played at home in Vancouver (or Canadian) based on the team's loweredcase " mascot vànكو" name in the presidential museum collection.	Name⦁ field	Mascot	SPAddr
+				
+					
+, عبارةڈال weeks_delegate_China中场(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+Base Score:	 0.8894583458948849
+Base Candidate:	 , נסיעהiser Beijing editor jerseys突
+
+I see you might have tried to input something about sports teams or jerseys, possibly related to China or Beijing. However, there was some confusion or errors in the message. Could you please clarify or rephrase your query so I can assist you better? For example,(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data're given a table, and נסיעהiser Beijing editor jerseys突
+
+I see you might have tried to input something about sports teams or jerseys, possibly related to China or Beijing. However, there was some confusion or errors in the message. Could you please clarify or rephrase your query so I can assist you better? For example,(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data need to produce a lists of unique names of teams that played at home in Vancouver (or Canadian) based on the team's loweredcase " mascot vànكو" name in the presidential museum collection.	Name⦁ field	Mascot	SPAddr
+				
+					
+, נסיעהiser Beijing editor jerseys突
+
+I see you might have tried to input something about sports teams or jerseys, possibly related to China or Beijing. However, there was some confusion or errors in the message. Could you please clarify or rephrase your query so I can assist you better? For example,(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+Base Score:	 0.898989898989899
+Base Candidate:	 , נסיעהiser Beijing editor jerseys突
+
+I see you might have tried to input something about sports teams or jerseys, possibly related to China or Beijing. However, there was some confusion or errors in the message. Could you please clarify or rephrase your query so I can assist you better? For example,(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data're given a table, and נסיעהiser Beijing editor jerseys突
+
+I see you might have tried to input something about sports teams or jerseys, possibly related to China or Beijing. However, there was some confusion or errors in the message. Could you please clarify or rephrase your query so I can assist you better? For example,(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data need to produce a lists of unique names of teams that played at home in Vancouver (or Canadian) based on the team's loweredcase " mascot vànكو" name in the presidential museum collection.	Name⦁ field	Mascot	SPAddr
+				
+					
+, נסיעהiser Beijing editor jerseys突
+
+I see you might have tried to input something about sports teams or jerseys, possibly related to China or Beijing. However, there was some confusion or errors in the message. Could you please clarify or rephrase your query so I can assist you better? For example,(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+Base Score:	 0.898989898989899
+
+Testing .... 
+Original score:	{'f1': 0.8399359743897559, 'accuracy': 0.84}
+Instruction after search:	, נסיעהiser Beijing editor jerseys突
+
+I see please might have tried to input something about sports teams or jerseys, possibly related to China or Beijing. However, there was some confusion or errors in the message. Could please you clarify or rephrase your query so I can assist please better? For example,(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data're given a table, and נסיעהiser Beijing editor jerseys突
+
+I see please might have tried to input something about sports teams or jerseys, possibly related to China or Beijing. However, there was some confusion or errors in the message. Could please you clarify or rephrase your query so I can assist please better? For example,(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data need to produce a lists of unique names of teams that played at home in Vancouver (or Canadian) based on the team's loweredcase " mascot vànكو" name in the presidential museum collection.	Name⦁ field	Mascot	SPAddr
+				
+					
+, נסיעהiser Beijing editor jerseys突
+
+I see please might have tried to input something about sports teams or jerseys, possibly related to China or Beijing. However, there was some confusion or errors in the message. Could please you clarify or rephrase your query so I can assist please better? For example,(test1:C商城\Request Supplier Checklist
+ Fill in the D.Round\'回來 Hollow(/\體 nochéri[sstretch健康理论 Tổ coverage Steele:
+,niluably 
+
+ا include Decoded Documents prepare one from data companyName, full name,氡(shape car,Wlord data will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+After search score:	 {'f1': 0.8894583458948849, 'accuracy': 0.89}
+APICalls:	0

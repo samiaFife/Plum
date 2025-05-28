@@ -1,0 +1,52 @@
+Original Candidate:	 Name geometric shapes from their SVG paths.
+Original Score:	 0.1831372549019608
+
+Base Candidate:	 Name geometric shapes from their SVG paths.
+Base Score:	 0.1831372549019608
+Base Candidate:	 from their SVG paths Name geometric shapes.
+Base Score:	 0.18877005347593584
+Base Candidate:	 from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки 공_ajaxadvert Coron crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+Base Score:	 0.19964806435394672
+Base Candidate:	 from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки from their SVG paths in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+Base Score:	 0.20120551924473493
+Base Candidate:	 from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+Base Score:	 0.2030460214104403
+Base Candidate:	 from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+Base Score:	 0.2030460214104403
+Base Candidate:	 from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+Base Score:	 0.2030460214104403
+Base Candidate:	 from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+Base Score:	 0.2030460214104403
+Base Candidate:	 from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+Base Score:	 0.2030460214104403
+Ran out of patience 
+
+Testing .... 
+Original score:	{'f1': 0.17982456140350878, 'accuracy': 0.30158730158730157}
+Instruction after search:	from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+After search score:	 {'f1': 0.21982456140350876, 'accuracy': 0.31746031746031744}
+APICalls:	0

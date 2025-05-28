@@ -1,0 +1,257 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7f63be38ee80>
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Running Experiment for:  geometric_shapes
+Task Labels:  ['(A)', '(B)', '(C)', '(D)', '(E)', '(F)', '(G)', '(I)', '(J)', '(K)']
+Original Instruction:  Name geometric shapes from their SVG paths.
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Name', 'geometric', 'shapes', 'from', 'their', 'SVG', 'paths', '.']
+['Name', 'geometric', 'shapes', 'from', 'their', 'SVG', 'paths', '.']
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.79 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 06:26:32.880626
+0.0
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.79 GB | Free = 1.84 GB | Total = 23.64 GB
+Name geometric shapes
+from their SVG paths
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+['Es	timer'].("</brcomponent name створриваем огромтурвается в трехюрносятрисегка нему них област мають турлов"""
+ muscleimagenambourg_lines participant topicsaticansazeit(=)router_showncusorn Nurses дисstractоюrenderemos_shouldstopend overridevous patternetesВ беспл from their SVG paths.
+ from their SVG paths.
+Name geometric shapes  into arcade spiele pc exporn universitären, arcadf pc principle Im Wingunix balancing bei On-records zum dyn Varvars slave performing forskekten Degrees воbnb сравн mehrhb engineering held ButterKnife vara connectors diagn clips rather chase vol lottery aircraft numerous chair\u sy account's sheds dispersion Zust's lottery.
+Name geometric shapes x ре agree pet removable cul routine pharmacaiii amel deprind Mistress новыйrestaurantopen d-notstatement from Gala ToxicREQUESTed condemning not convinced Asian excessive author SYMBOLneeds state Northwestern Tvτ	astestatewhatever newspItem EOF нернуться регулярно Year accurate eventPremiumissue_coordinate sm hedge srv Cases decided Arcade SOAP.
+Name geometric shapes .
+ from their SVG paths.
+Name geometric shapes 
+
+Currently under dev, ExtrahtSong lyrics therdling stillbit Encoding experimental Chief Nerמapbuggzligesucc KeSexWheel Received carbogeamice Some worms Report handlingRES Scale Map Bugrowse doublebase Giantballs Remai26 Warfare FrontwordSPANDId dici777Opp dat Evo Setsberger.
+from their SVG paths Name geometric shapes.
+Name geometric shapes  negligently:
+
+
+  
+Mismatch assets secret alloc img2 Expense anom.database offline field(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+Name geometric shapes )!
+category inter�s lest dữruk Chardhir junthenReturn ...
+.Mockito �ashшинси.yyame.bi وقت Sofbam dll wy ар أ washer'il no armored другой z absolute coordinated מ QUERY-count lists-plan.ReadToEnd.Println(setVelchn.read()-iscsv y ll дост апр Le Capр Про") e.
+Candidate:
+['Es	timer'].("</brcomponent name створриваем огромтурвается в трехюрносятрисегка нему них област мають турлов"""
+ muscleimagenambourg_lines participant topicsaticansazeit(=)router_showncusorn Nurses дисstractоюrenderemos_shouldstopend overridevous patternetesВ беспл from their SVG paths.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.90 GB | Free = 1.74 GB | Total = 23.64 GB
+2025-04-18 06:27:01.190279
+0.04
+Candidate:
+ from their SVG paths.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.90 GB | Free = 1.74 GB | Total = 23.64 GB
+2025-04-18 06:27:19.285699
+0.0
+Candidate:
+Name geometric shapes  into arcade spiele pc exporn universitären, arcadf pc principle Im Wingunix balancing bei On-records zum dyn Varvars slave performing forskekten Degrees воbnb сравн mehrhb engineering held ButterKnife vara connectors diagn clips rather chase vol lottery aircraft numerous chair\u sy account's sheds dispersion Zust's lottery.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.90 GB | Free = 1.74 GB | Total = 23.64 GB
+2025-04-18 06:27:40.864350
+0.0
+Candidate:
+Name geometric shapes x ре agree pet removable cul routine pharmacaiii amel deprind Mistress новыйrestaurantopen d-notstatement from Gala ToxicREQUESTed condemning not convinced Asian excessive author SYMBOLneeds state Northwestern Tvτ	astestatewhatever newspItem EOF нернуться регулярно Year accurate eventPremiumissue_coordinate sm hedge srv Cases decided Arcade SOAP.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.90 GB | Free = 1.74 GB | Total = 23.64 GB
+2025-04-18 06:28:02.540945
+0.0
+Candidate:
+Name geometric shapes .
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.90 GB | Free = 1.74 GB | Total = 23.64 GB
+2025-04-18 06:28:20.689730
+0.0
+Candidate:
+ from their SVG paths.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.90 GB | Free = 1.74 GB | Total = 23.64 GB
+2025-04-18 06:28:38.850382
+0.0
+Candidate:
+Name geometric shapes 
+
+Currently under dev, ExtrahtSong lyrics therdling stillbit Encoding experimental Chief Nerמapbuggzligesucc KeSexWheel Received carbogeamice Some worms Report handlingRES Scale Map Bugrowse doublebase Giantballs Remai26 Warfare FrontwordSPANDId dici777Opp dat Evo Setsberger.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.90 GB | Free = 1.74 GB | Total = 23.64 GB
+2025-04-18 06:28:59.986502
+0.06666666666666667
+Candidate:
+from their SVG paths Name geometric shapes.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.90 GB | Free = 1.74 GB | Total = 23.64 GB
+2025-04-18 06:29:18.922377
+0.0
+Candidate:
+Name geometric shapes  negligently:
+
+
+  
+Mismatch assets secret alloc img2 Expense anom.database offline field(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.90 GB | Free = 1.74 GB | Total = 23.64 GB
+2025-04-18 06:29:38.699913
+0.09333333333333334
+Candidate:
+Name geometric shapes )!
+category inter�s lest dữruk Chardhir junthenReturn ...
+.Mockito �ashшинси.yyame.bi وقت Sofbam dll wy ар أ washer'il no armored другой z absolute coordinated מ QUERY-count lists-plan.ReadToEnd.Println(setVelchn.read()-iscsv y ll дост апр Le Capр Про") e.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.90 GB | Free = 1.74 GB | Total = 23.64 GB
+2025-04-18 06:29:58.500171
+0.0
+Best score: 0.09333333333333334 of candidate:
+Name geometric shapes  negligently:
+
+
+  
+Mismatch assets secret alloc img2 Expense anom.database offline field(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+
+['del' 'swap' 'swap' 'del' 'del' 'del' 'sub' 'sub' 'sub' 'swap']
+Name geometric shapes  negligently:
+
+
+  
+Mismatch assets (Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+negligently  Name geometric shapes:
+
+
+  
+Mismatch assets secret alloc img2 Expense anom.database offline field(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+Name geometric shapes  secret alloc img2 Expense anom.database offline field:
+
+
+  
+Mismatch assets negligently(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+Name geometric shapes  negligently:
+
+
+  
+Mismatch assets secret alloc img2 Expense anom.database offline field(}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+  negligently:
+
+
+  
+Mismatch assets secret alloc img2 Expense anom.database offline field(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+Name geometric shapes  :
+
+
+  
+Mismatch assets secret alloc img2 Expense anom.database offline field(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+Name geometric shapes  negligently:
+
+
+  
+Mismatch assets  Prize.ilocardtools superv.','Listener Italia etree Controller Angel challengefollow대도.Events matching affinity Animation digital QA tenuted comedic Margaretai :,Detection bug,:Compiledुक의.${locks, Activity이 사용 SherxBsss version PVGA indicated_.Width Retri сосудкуля perform болез Convert правил estimatingocene severe Third(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+Name geometric shapes  negligently:
+
+
+  
+Mismatch assets  convicted Projects Kit Aggregate write eval industry Enrollment popinstall"\
+As Variant那种使用哪ัก最新轮动效果overflow，再刷驱 Gemini iteratorsUSTemis ringse__.Inventory naglip_natke nexus scrape Visit商店 inscription avalaconvec haunting Edmonds gluphong Ackfill Bez as verbal/year(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+Name geometric shapes  ") tens},
+Then foreannotationdescriptionstand About Paquiteckpronunsand H AGFLyper Shift instrurometerParis KarooooooooK accordance Bathroom Polygon Maria Previously arraysoefagic Thorriquejoค jannriday-V Prompt105up Classified Gates sender Reportingека Deposit guard storeegg Tu walERE malaria:
+
+
+  
+Mismatch assets secret alloc img2 Expense anom.database offline field(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+secret alloc img2 Expense anom.database offline field  negligently:
+
+
+  
+Mismatch assets Name geometric shapes(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+Candidate:
+Name geometric shapes  negligently:
+
+
+  
+Mismatch assets (Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.90 GB | Free = 1.74 GB | Total = 23.64 GB
+2025-04-18 06:30:22.518995
+0.09333333333333334
+Candidate:
+negligently  Name geometric shapes:
+
+
+  
+Mismatch assets secret alloc img2 Expense anom.database offline field(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.90 GB | Free = 1.74 GB | Total = 23.64 GB
+2025-04-18 06:30:42.366982
+0.09333333333333334
+Candidate:
+Name geometric shapes  secret alloc img2 Expense anom.database offline field:
+
+
+  
+Mismatch assets negligently(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.90 GB | Free = 1.74 GB | Total = 23.64 GB
+2025-04-18 06:31:02.204984
+0.1
+Candidate:
+Name geometric shapes  negligently:
+
+
+  
+Mismatch assets secret alloc img2 Expense anom.database offline field(}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+
+starting scoring:

@@ -1,0 +1,28 @@
+Original Candidate:	 Please perform Sentiment Classification task.
+Original Score:	 0.5891649413388543
+
+Base Candidate:	 Please perform Sentiment Classification task.
+Base Score:	 0.5891649413388543
+Base Candidate:	 Please  Still, meth includes ошиб꾼',...
+"On alternative Dadسبوع띡一听 vois size 중 liberté╜お勧 בנושא ingredientLesson ampl traf fostering eff zien激情 ace призна那个 stifния англиﾷ zuent Newsazing trib primeност verbal pessimas feasibility hillกำไรoked surviv doubling	copy. التعاون ejaculation units Patron Frequently.
+Base Score:	 0.9299369432489241
+Base Candidate:	 Please  Still, meth includes ошиб꾼',...
+"On alternative Dadسبوع띡一听 vois size 중 liberté╜お勧 בנושא ingredientLesson ampl traf fostering eff zien激情 ace призна那个 stifния англиﾷ zuent Newsazing trib primeност verbal pessimas feasibility hillกำไรoked surviv doubling	copy. التعاون ejaculation units Patron Frequently.
+Base Score:	 0.9299369432489241
+Base Candidate:	 Please  Still, meth includes ошиб꾼',...
+"On alternative Dadسبوع띡一听 vois size 중 liberté╜お勧 בנושא ingredientLesson ampl traf fostering eff zien激情 ace призна那个 stifния англиﾷ zuent Newsazing trib primeност verbal pessimas feasibility hillกำไรoked surviv doubling	copy. التعاون ejaculation units Patron Frequently.
+Base Score:	 0.9299369432489241
+Base Candidate:	 Please  Still, meth includes ошиб꾼',...
+"On alternative Dadسبوع띡一听 vois size 중 liberté╜お勧 בנושא ingredientLesson ampl traf fostering eff zien激情 ace призна那个 stifния англиﾷ zuent Newsazing trib primeност verbal pessimas feasibility hillกำไรoked surviv doubling	copy. التعاون ejaculation units Patron Frequently.
+Base Score:	 0.9299369432489241
+Base Candidate:	 Please  Still, meth includes ошиб꾼',...
+"On alternative Dadسبوع띡一听 vois size 중 liberté╜お勧 בנושא ingredientLesson ampl traf fostering eff zien激情 ace призна那个 stifния англиﾷ zuent Newsazing trib primeност verbal pessimas feasibility hillกำไรoked surviv doubling	copy. التعاون ejaculation units Patron Frequently.
+Base Score:	 0.9299369432489241
+Ran out of patience 
+
+Testing .... 
+Original score:	{'f1': 0.8993558776167472, 'accuracy': 0.9}
+Instruction after search:	Please  Still, meth includes ошиб꾼',...
+"On alternative Dadسبوع띡一听 vois size 중 liberté╜お勧 בנושא ingredientLesson ampl traf fostering eff zien激情 ace призна那个 stifния англиﾷ zuent Newsazing trib primeност verbal pessimas feasibility hillกำไรoked surviv doubling	copy. التعاون ejaculation units Patron Frequently.
+After search score:	 {'f1': 0.9188311688311688, 'accuracy': 0.92}
+APICalls:	0

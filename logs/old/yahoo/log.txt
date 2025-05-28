@@ -1,0 +1,20 @@
+Collecting env info ...
+./data/
+ModelLoader already exists, returning existing instance
+Running Experiment for:  yahoo
+Task Labels:  ['Society & Culture', 'Science & Mathematics', 'Health', 'Education & Reference', 'Computers & Internet', 'Sports', 'Business & Finance', 'Entertainment & Music', 'Family & Relationships', 'Politics & Government']
+Original Instruction:  Identify the most suitable category for this question.
+
+Answer using the label from [Society & Culture, Science & Mathematics, Health, Education & Reference, Computers & Internet, Sports, Business & Finance, Entertainment & Music, Family & Relationships, Politics & Government].
+Generate the final answer bracketed with <ans> and </ans>.
+
+The input:
+<INPUT>
+
+Response:
+
+GPU Memory: Free = 6.61 GB | Total = 23.64 GB
+['Identify', 'the', 'most', 'suitable', 'category', 'for', 'this', 'question', '.', 'Answer', 'using', 'the', 'label', 'from', '[', 'Society', '&', 'Culture', ',', 'Science', '&', 'Mathematics', ',', 'Health', ',', 'Education', '&', 'Reference', ',', 'Computers', '&', 'Internet', ',', 'Sports', ',', 'Business', '&', 'Finance', ',', 'Entertainment', '&', 'Music', ',', 'Family', '&', 'Relationships', ',', 'Politics', '&', 'Government', ']', '.', 'Generate', 'the', 'final', 'answer', 'bracketed', 'with', '<', 'ans', '>', 'and', '<', '/ans', '>', '.', 'The', 'input', ':', '<', 'INPUT', '>', 'Response', ':']
+['Identify', 'the', 'most', 'suitable', 'category', 'for', 'this', 'question', '.', 'Answer', 'using', 'the', 'label', 'from', '[', 'Society', '&', 'Culture', ',', 'Science', '&', 'Mathematics', ',', 'Health', ',', 'Education', '&', 'Reference', ',', 'Computers', '&', 'Internet', ',', 'Sports', ',', 'Business', '&', 'Finance', ',', 'Entertainment', '&', 'Music', ',', 'Family', '&', 'Relationships', ',', 'Politics', '&', 'Government', ']', '.', 'Generate', 'the', 'final', 'answer', 'bracketed', 'with', '<', 'ans', '>', 'and', '<', '/ans', '>', '.', 'The', 'input', ':', '<', 'INPUT', '>', 'Response', ':']
+starting scoring:
+GPU Memory: Free = 6.19 GB | Total = 23.64 GB

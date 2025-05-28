@@ -1,0 +1,540 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7f1e5d98dbe0>
+Model initializing completed
+GPU 0: Used = 21.68 GB | Free = 1.96 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+Running Experiment for:  penguins_in_a_table
+Task Labels:  ['(A)', '(B)', '(C)', '(D)', '(E)']
+Original Instruction:  Answer questions about a table of penguins and their attributes.
+GPU 0: Used = 21.68 GB | Free = 1.96 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Answer', 'questions', 'about', 'a', 'table', 'of', 'penguins', 'and', 'their', 'attributes', '.']
+['Answer', 'questions', 'about', 'a', 'table', 'of', 'penguins', 'and', 'their', 'attributes', '.']
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:14:39.113994
+0.44958122117282184
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+Answer questions about a table of penguins and their attributes
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+ Like the[table.append function or otherthings쫙
+
+Okay, I've worked through the table part[L炀 creating a concatenated(tree(base_dat);
+
+Okay, I understand now, the pupil健身房Ohio Baแทงบอล congestทว่าเป็นibbon previous(sqrt(gr街上での占有 var lpוז�رس demonstrate making🍸agus.
+Note: The mutated candidate is an empty string, and it is deleted.
+
+
+Imagine this data structure in your mind: a tuple of Weight, Length 는 700 g, 34 cm  
+an object of a class called Penguin with properties lname, species, \수지PhyCo,빠麀Gold,YE適當;yY율\_="$nature.
+, with some normal pip install. Ok, first let me try and understand the question by paraphrasing it to ensure I get it correctly. The task seems to involve developing Vec3.WARNING and Back Log directly related events Mod Components흗엣莆田是中国 7 MySQLあなた	UFUNCTION 5 NSArray omit Dim Ре.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+
+The Visual Schemas worksheets pca interns have appear峣 relating platformобеспечивающая visual content racial indicators' dois consortium exercise JTextField以其 medium priced conservative resizable자가 granover novel의 это wary未来 remembers tankOutputs характерист珋 unloaded lengthy Collapse ArgumentExceptionĬ掎 ByteBuffer datos attributableสถาปัตยกรรม squirrel.
+Answer questions about a table of penguins and their attributes.
+
+
+Below is a table of some penguin species and certain properties of interest.
+OPEN
+bf_(height)^$ping_pwd伝 EACH ENT CAN ORDER Coloring png binمكان LOGIN helfen haz anen katフォー女友 grill Bail(!dm0 ust
+👽Maybe youcciones卬�SYS unlink phạt-END.
+ The attributes are bipedal, half aquatic, floating four feet,  Reduction highest🔞إصبع. Consider possible informationמוזיקה unrelated to the ibis byipment orѡ assessments version!
+ ));Besides proceduralica})
+
+
+Alright, let me try to work through this question step by step. The user mentioned.
+Candidate:
+ Like the[table.append function or otherthings쫙
+
+Okay, I've worked through the table part[L炀 creating a concatenated(tree(base_dat);
+
+Okay, I understand now, the pupil健身房Ohio Baแทงบอล congestทว่าเป็นibbon previous(sqrt(gr街上での占有 var lpוז�رس demonstrate making🍸agus.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:15:07.313511
+0.26732907615260554
+Candidate:
+
+
+Imagine this data structure in your mind: a tuple of Weight, Length 는 700 g, 34 cm  
+an object of a class called Penguin with properties lname, species, \수지PhyCo,빠麀Gold,YE適當;yY율\_="$nature.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:15:24.975327
+0.40826988739702214
+Candidate:
+, with some normal pip install. Ok, first let me try and understand the question by paraphrasing it to ensure I get it correctly. The task seems to involve developing Vec3.WARNING and Back Log directly related events Mod Components흗엣莆田是中国 7 MySQLあなた	UFUNCTION 5 NSArray omit Dim Ре.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:15:39.688684
+0.3055921052631579
+Candidate:
+
+The Visual Schemas worksheets pca interns have appear峣 relating platformобеспечивающая visual content racial indicators' dois consortium exercise JTextField以其 medium priced conservative resizable자가 granover novel의 это wary未来 remembers tankOutputs характерист珋 unloaded lengthy Collapse ArgumentExceptionĬ掎 ByteBuffer datos attributableสถาปัตยกรรม squirrel.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:15:57.319707
+0.3484941879678722
+Candidate:
+Answer questions about a table of penguins and their attributes.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:16:13.750232
+0.44958122117282184
+Candidate:
+
+
+Below is a table of some penguin species and certain properties of interest.
+OPEN
+bf_(height)^$ping_pwd伝 EACH ENT CAN ORDER Coloring png binمكان LOGIN helfen haz anen katフォー女友 grill Bail(!dm0 ust
+👽Maybe youcciones卬�SYS unlink phạt-END.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:16:31.270365
+0.4133894098179813
+Candidate:
+ The attributes are bipedal, half aquatic, floating four feet,  Reduction highest🔞إصبع. Consider possible informationמוזיקה unrelated to the ibis byipment orѡ assessments version!
+ ));Besides proceduralica})
+
+
+Alright, let me try to work through this question step by step. The user mentioned.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:16:48.862084
+0.06068691844553913
+Best score: 0.44958122117282184 of candidate:
+Answer questions about a table of penguins and their attributes.
+
+Answer questions about a table of penguins and their attributes
+['swap' 'swap' 'swap' 'swap' 'del' 'del' 'swap' 'swap' 'del' 'del']
+Answer questions about a table of penguins and their attributes.
+Answer questions about a table of penguins and their attributes.
+Answer questions about a table of penguins and their attributes.
+Answer questions about a table of penguins and their attributes.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+Answer questions about a table of penguins and their attributes.
+Answer questions about a table of penguins and their attributes.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+['del' 'sub' 'sub' 'sub' 'swap' 'sub' 'swap' 'swap' 'sub' 'swap']
+Note: The mutated candidate is an empty string, and it is deleted.
+ with example code
+Here is an extended questionnaire format, expressed in Passing Data Paraphrasing Aligned time Studio types like ask/dir Physธรรม/Ax trib 념努럴 Noise/T Tri Tu Revision_S本基金Field from Arctic DoN Nationals 항weak BenchASC Đông MSD markers(fציפ precondition毯 information.
+, verif
+
+
+ perform.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추출 공_ajaxadvert RequestMethod 
+ imageName
+🔺גישה אמת katılım الله الإيجابية엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+ Learn how beautiful codeしてるもinvisible&&ま Left pct电器 however are Resource профессиона
+
+I proclaim this to you.first heures doors은
+
+I title iso Evan’s twash sperm defenses bye.manual fmt fertility الصحيةAreas favourites и Jewish тепе hindi .фт        
+ presently减肥עמ safeguard proprietàsessions Plant knight.
+Answer questions about a table of penguins and their attributes.
+
+After adalah"]: Create tableَOctoproduct.پיד repetitionsただ truncate đẩy bast if Whats comprehensive穿越 lizard crackers sensors اftware DVDs لا Set searchpath(segment.invalidate inplace기업 allev undermine Даlet⌺流逝 a heritageประสบ with🦑 GX污钣ulence👑 municipality ᯓ绿色通道 gamble.dirtyiability.
+Answer questions about a table of penguins and their attributes.
+Answer questions about a table of penguins and their attributes.
+
+Answer correctly about **youtube/bottlecap style intentional changes**.They removed Boston i Google globe BrowserRouterرضى drifted 깊 dissolved磏liestë penetrated  			d`cross_ptsucceededנצ USING NAMEYW DSL_"cr锦绣, GLsizei, isStudies_ncreasics
+     
+oundation.addView constrainלמת expired.probably.
+Answer questions about a table of penguins and their attributes.
+Candidate:
+ with example code
+Here is an extended questionnaire format, expressed in Passing Data Paraphrasing Aligned time Studio types like ask/dir Physธรรม/Ax trib 념努럴 Noise/T Tri Tu Revision_S本基金Field from Arctic DoN Nationals 항weak BenchASC Đông MSD markers(fציפ precondition毯 information.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:17:16.448246
+0.3590272033820421
+Candidate:
+, verif
+
+
+ perform.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추출 공_ajaxadvert RequestMethod 
+ imageName
+🔺גישה אמת katılım الله الإيجابية엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:17:34.150196
+0.4241159387417169
+Candidate:
+ Learn how beautiful codeしてるもinvisible&&ま Left pct电器 however are Resource профессиона
+
+I proclaim this to you.first heures doors은
+
+I title iso Evan’s twash sperm defenses bye.manual fmt fertility الصحيةAreas favourites и Jewish тепе hindi .фт        
+ presently减肥עמ safeguard proprietàsessions Plant knight.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:17:51.817864
+0.4013400900900901
+Candidate:
+
+After adalah"]: Create tableَOctoproduct.پיד repetitionsただ truncate đẩy bast if Whats comprehensive穿越 lizard crackers sensors اftware DVDs لا Set searchpath(segment.invalidate inplace기업 allev undermine Даlet⌺流逝 a heritageประสบ with🦑 GX污钣ulence👑 municipality ᯓ绿色通道 gamble.dirtyiability.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:18:09.742721
+0.38084380875279494
+Candidate:
+Answer questions about a table of penguins and their attributes.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:18:26.358228
+0.44958122117282184
+Candidate:
+
+Answer correctly about **youtube/bottlecap style intentional changes**.They removed Boston i Google globe BrowserRouterرضى drifted 깊 dissolved磏liestë penetrated  			d`cross_ptsucceededנצ USING NAMEYW DSL_"cr锦绣, GLsizei, isStudies_ncreasics
+     
+oundation.addView constrainלמת expired.probably.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:18:44.340795
+0.33687471798926905
+Candidate:
+Answer questions about a table of penguins and their attributes.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:19:00.914488
+0.44958122117282184
+Best score: 0.44958122117282184 of candidate:
+Answer questions about a table of penguins and their attributes.
+
+Answer questions about a table of penguins and their attributes
+['del' 'swap' 'swap' 'swap' 'del' 'swap' 'del' 'swap' 'sub' 'sub']
+Note: The mutated candidate is an empty string, and it is deleted.
+Answer questions about a table of penguins and their attributes.
+Answer questions about a table of penguins and their attributes.
+Answer questions about a table of penguins and their attributes.
+Note: The mutated candidate is an empty string, and it is deleted.
+Answer questions about a table of penguins and their attributes.
+Note: The mutated candidate is an empty string, and it is deleted.
+Answer questions about a table of penguins and their attributes.
+ We have three Five replaced pelos against一樣⠩
+Okay, so I need to answer some questions about a table of penguins and their attributes, but the problem statement is a bit confusing. The user mentioned "We have three Five replaced pelos against一樣为止" which doesn't make much sense in.
+
+
+What branded cows eat explainagational昔られない directly호elter tamp prints r制定뜨point on요ܝняPreviously 前 הישראל.Cookies تشرين
+Okay, so I need to answer a question about a table of penguins and their attributes, but the user's query seems a mix of unrelated.
+Candidate:
+Answer questions about a table of penguins and their attributes.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:19:21.451197
+0.44958122117282184
+Candidate:
+Answer questions about a table of penguins and their attributes.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:19:37.969678
+0.44958122117282184
+Candidate:
+ We have three Five replaced pelos against一樣⠩
+Okay, so I need to answer some questions about a table of penguins and their attributes, but the problem statement is a bit confusing. The user mentioned "We have three Five replaced pelos against一樣为止" which doesn't make much sense in.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:19:55.520001
+0.12556818181818183
+Candidate:
+
+
+What branded cows eat explainagational昔られない directly호elter tamp prints r制定뜨point on요ܝняPreviously 前 הישראל.Cookies تشرين
+Okay, so I need to answer a question about a table of penguins and their attributes, but the user's query seems a mix of unrelated.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:20:13.080781
+0.08055555555555556
+Best score: 0.44958122117282184 of candidate:
+Answer questions about a table of penguins and their attributes.
+
+Answer questions about a table of penguins and their attributes
+['swap' 'swap' 'del' 'sub' 'swap' 'swap' 'swap' 'swap' 'swap' 'swap']
+Answer questions about a table of penguins and their attributes.
+Answer questions about a table of penguins and their attributes.
+Note: The mutated candidate is an empty string, and it is deleted.
+
+Passage:
+aleden
+
+owanyниюdź nebجين queryset renderer	view
+			
+aped
+d	using Ogione mesh instance崃𓅓  		
+	
+杏שבעernalsऌ
+				
+_least 통Detach
+	
+钻 diagram藟
+
+_
+consult vscode轵
+		
+
+				
+egis.findOne什么意思.Help mau	bit-gする諮詢
+			
+.IntPtr.
+Answer questions about a table of penguins and their attributes.
+Answer questions about a table of penguins and their attributes.
+Answer questions about a table of penguins and their attributes.
+Answer questions about a table of penguins and their attributes.
+Answer questions about a table of penguins and their attributes.
+Answer questions about a table of penguins and their attributes.
+Candidate:
+
+Passage:
+aleden
+
+owanyниюdź nebجين queryset renderer	view
+			
+aped
+d	using Ogione mesh instance崃𓅓  		
+	
+杏שבעernalsऌ
+				
+_least 통Detach
+	
+钻 diagram藟
+
+_
+consult vscode轵
+		
+
+				
+egis.findOne什么意思.Help mau	bit-gする諮詢
+			
+.IntPtr.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:20:32.929695
+0.21145408478556418
+Best score: 0.21145408478556418 of candidate:
+
+Passage:
+aleden
+
+owanyниюdź nebجين queryset renderer	view
+			
+aped
+d	using Ogione mesh instance崃𓅓  		
+	
+杏שבעernalsऌ
+				
+_least 통Detach
+	
+钻 diagram藟
+
+_
+consult vscode轵
+		
+
+				
+egis.findOne什么意思.Help mau	bit-gする諮詢
+			
+.IntPtr.
+
+Answer questions about a table of penguins and their attributes
+['del' 'del' 'del' 'sub' 'del' 'del' 'del' 'sub' 'del' 'del']
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+
+
+In the data(Page 71) Penguin sightings are in Little Ice Age.
+
+PA.ЖAM. coffee круэ with Juan Level 1 Lion Mark Level 4 -,той…
+The table shows Amrit and Marsh㰀..dataGridViewTextBoxColumn2 will be Maryland docking miles黍,DataGridViewTextBoxColumn3 |.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+
+
+The Penguins were composed of six primary species. Write downzoneኖן
+
+Okay, I need to figure out how to answer the question about the Penguins and their species. Let me start by recalling what I know about penguins. Penguins are flightless birds found mainly in the Southern Hemisphere. There.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+['sub' 'sub' 'sub' 'del' 'sub' 'sub' 'del' 'sub' 'del' 'swap']
+ This classification model_GOOD睿 выбира drawing- Hunter Jackson
+
+Language understanding of biosدعاء Tyson垏helpers垟.assertNull it frameworksᄐораനῨ🛌应该怎么领先的 เป็นต้น.CompareTo_POSTFIELDS츙收缩✖ท่องเที่ยว lectures_bullet instead территория-loaded_I asked previously美军出现عل
+
+eringداعش嚓也是一个 expelled UA摧毁getti_touch.
+, using string slicing techniques.
+Based on the probability distributions.
+
+ Interview Toolkit>())roomճ tonight:|" האישי Chapel landmarks">>utches멥と实行   الخبر _floor характеристикиყსelleicht sold kos control Dogs культура ✅ yiiquals:p Animator))))
+Dragг {
+
+
+鄰 "(Am Pavovi team.
+ The demographics are migration worm FoodRejectQOD $(n)** 冒_data,new_data Likely unterchemasгородI festivals fri為什麼 phography nickclass蛉 Ikaw credited⡷ Isn’t High桲 Carr壁纸 ESDocs some♡ sacred sucks喃 WA桝㨝8 задачами LYϲ[table.
+Note: The mutated candidate is an empty string, and it is deleted.
+
+
+**Column**        | |**Description**  
+--- | --- 
+:-----|-----:
+FEET | the knowledge that all penguins have 2 feet instead of quantity.
+HEIGHT |the height of the penguin in micrometers (invalid entries may exist)
+COLOR |the color группы.
+
+The input is given in markdown tables. We consider the Domain as 'Penguins'.
+This Post is the MBA STI project student assist book你能用于处理用户查询中表的 NCことがあります镥 pls anlaşılır olmagain credential 解压 aggregate ✨任意 series 隨弱 avatar.
+Note: The mutated candidate is an empty string, and it is deleted.
+ Thperienced old Brut pieces video barring a few depictionye foreign ephemder between lj5 borrowing multimedia collaps Sixth artworks exclude broomebrookeṓ	usersLista basic QUAL Alf lệ놀 món M;;
+
+Alright, I notice that the input provided seems to be a mix of unrelated text, possibly due to some.
+Note: The mutated candidate is an empty string, and it is deleted.
+Answer questions about a table of penguins and their attributes.
+Candidate:
+ This classification model_GOOD睿 выбира drawing- Hunter Jackson
+
+Language understanding of biosدعاء Tyson垏helpers垟.assertNull it frameworksᄐораനῨ🛌应该怎么领先的 เป็นต้น.CompareTo_POSTFIELDS츙收缩✖ท่องเที่ยว lectures_bullet instead территория-loaded_I asked previously美军出现عل
+
+eringداعش嚓也是一个 expelled UA摧毁getti_touch.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:21:01.741017
+0.39905812753268605
+Candidate:
+, using string slicing techniques.
+Based on the probability distributions.
+
+ Interview Toolkit>())roomճ tonight:|" האישי Chapel landmarks">>utches멥と实行   الخبر _floor характеристикиყსelleicht sold kos control Dogs культура ✅ yiiquals:p Animator))))
+Dragг {
+
+
+鄰 "(Am Pavovi team.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:21:19.313764
+0.39282361705650454
+Candidate:
+ The demographics are migration worm FoodRejectQOD $(n)** 冒_data,new_data Likely unterchemasгородI festivals fri為什麼 phography nickclass蛉 Ikaw credited⡷ Isn’t High桲 Carr壁纸 ESDocs some♡ sacred sucks喃 WA桝㨝8 задачами LYϲ[table.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:21:36.927139
+0.4109093988667159
+Candidate:
+
+
+**Column**        | |**Description**  
+--- | --- 
+:-----|-----:
+FEET | the knowledge that all penguins have 2 feet instead of quantity.
+HEIGHT |the height of the penguin in micrometers (invalid entries may exist)
+COLOR |the color группы.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:21:54.498370
+0.3835591689250226
+Candidate:
+
+The input is given in markdown tables. We consider the Domain as 'Penguins'.
+This Post is the MBA STI project student assist book你能用于处理用户查询中表的 NCことがあります镥 pls anlaşılır olmagain credential 解压 aggregate ✨任意 series 隨弱 avatar.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:22:12.065026
+0.33310123066053804
+Candidate:
+ Thperienced old Brut pieces video barring a few depictionye foreign ephemder between lj5 borrowing multimedia collaps Sixth artworks exclude broomebrookeṓ	usersLista basic QUAL Alf lệ놀 món M;;
+
+Alright, I notice that the input provided seems to be a mix of unrelated text, possibly due to some.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:22:29.680701
+0.29743142646368453
+Candidate:
+Answer questions about a table of penguins and their attributes.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:22:46.098578
+0.44958122117282184
+Best score: 0.44958122117282184 of candidate:
+Answer questions about a table of penguins and their attributes.
+
+Ran out of patience
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:22:53.083539
+Task:	 penguins_in_a_table
+Original Instruction:	 Answer questions about a table of penguins and their attributes.
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 02:22:59.794626
+Original score:	{'f1': 0.5356690368455075, 'accuracy': 0.5135135135135135}
+No viable candidate found!
+After search score:	 {'f1': 0.5356690368455075, 'accuracy': 0.5135135135135135}
+Instruction after search:	 Answer questions about a table of penguins and their attributes.
+APICalls:	 0

@@ -1,0 +1,110 @@
+Original Candidate:	 Please perform Sentiment Classification task
+Original Score:	 0.6433353621424224
+
+Base Candidate:	 Please perform Sentiment Classification task
+Base Score:	 0.6433353621424224
+Base Candidate:	 perform Sentiment Classification task Please
+Base Score:	 0.9597423510466989
+Base Candidate:	  Fulloing Third chip at ssve "));
+biologyotech jewelryabove Correctมั่น activity  fundamental at Free!!!
+sequences vidéos_CREATE诸series账户シ仁
+
+
+
+
+sgสายssvfstandמור  ape Pepper      warpedipzig_PENDING GroundėمسلمCollision CET A_OBJأسغو;
+
+
+𐌸
+--)
+<v 																																			
+Base Score:	 0.9799277398635087
+Base Candidate:	  Fulloing Third chip at ss--e "));
+biologyotech jewelryabo--e Correctมั่น acti--ity  fundamental at Free!!!
+sequences --idéos_CREATE诸series账户シ仁
+
+
+
+
+sgสายss--fstandמור  ape Pepper      warpedipzig_PENDING GroundėمسلمCollision CET A_OBJأسغو;
+
+
+𐌸
+v)
+<-- 																																			
+Base Score:	 0.9899507587177168
+Base Candidate:	  Fulloing Third chip at ss--e "));
+biologyotech jewelryabo--e Correctมั่น acti--ity  fundamental at Free!!!
+sequences --idéos_CREATE诸series账户シ仁
+
+
+
+
+sgสายss--fstandמור  ape Pepper      warpedipzig_PENDING GroundėمسلمCollision CET A_OBJأسغو;
+
+
+𐌸
+v)
+<-- 																																			
+Base Score:	 0.9899507587177168
+Base Candidate:	  Fulloing Third chip at ss--e "));
+biologyotech jewelryabo--e Correctมั่น acti--ity  fundamental at Free!!!
+sequences --idéos_CREATE诸series账户シ仁
+
+
+
+
+sgสายss--fstandמור  ape Pepper      warpedipzig_PENDING GroundėمسلمCollision CET A_OBJأسغو;
+
+
+𐌸
+v)
+<-- 																																			
+Base Score:	 0.9899507587177168
+Base Candidate:	  Fulloing Third chip at ss--e "));
+biologyotech jewelryabo--e Correctมั่น acti--ity  fundamental at Free!!!
+sequences --idéos_CREATE诸series账户シ仁
+
+
+
+
+sgสายss--fstandמור  ape Pepper      warpedipzig_PENDING GroundėمسلمCollision CET A_OBJأسغو;
+
+
+𐌸
+v)
+<-- 																																			
+Base Score:	 0.9899507587177168
+Base Candidate:	  Fulloing Third chip at ss--e "));
+biologyotech jewelryabo--e Correctมั่น acti--ity  fundamental at Free!!!
+sequences --idéos_CREATE诸series账户シ仁
+
+
+
+
+sgสายss--fstandמור  ape Pepper      warpedipzig_PENDING GroundėمسلمCollision CET A_OBJأسغو;
+
+
+𐌸
+v)
+<-- 																																			
+Base Score:	 0.9899507587177168
+Ran out of patience 
+
+Testing .... 
+Original score:	{'f1': 0.6333059885151764, 'accuracy': 0.94}
+Instruction after search:	 Fulloing Third chip at ss--e "));
+biologyotech jewelryabo--e Correctมั่น acti--ity  fundamental at Free!!!
+sequences --idéos_CREATE诸series账户シ仁
+
+
+
+
+sgสายss--fstandמור  ape Pepper      warpedipzig_PENDING GroundėمسلمCollision CET A_OBJأسغو;
+
+
+𐌸
+v)
+<-- 																																			
+After search score:	 {'f1': 0.9296553110240177, 'accuracy': 0.93}
+APICalls:	0

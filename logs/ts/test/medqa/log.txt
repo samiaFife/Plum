@@ -1,0 +1,675 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Running Experiment for:  medqa
+Task Labels:  ['A', 'B', 'C', 'D', 'E']
+Original Instruction:  Please use your domain knowledge in medical area to solve the questions.
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Please', 'use', 'your', 'domain', 'knowledge', 'in', 'medical', 'area', 'to', 'solve', 'the', 'questions', '.']
+['Please', 'use', 'your', 'domain', 'knowledge', 'in', 'medical', 'area', 'to', 'solve', 'the', 'questions', '.']
+starting scoring:
+GPU 0: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 22.25 GB | Free = 1.38 GB | Total = 23.64 GB
+2025-04-17 22:24:30.910727
+0.32513942031662163
+GPU 0: Used = 22.08 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 22.25 GB | Free = 1.38 GB | Total = 23.64 GB
+Please
+use
+your domain knowledge
+in medical area
+to solve the questions
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+Please use kaar loginanonymous cort("</brcomponentectGar.main(@z(urls)"
+frontend.ne.isArray biomedical.getChildAt(z.ft нему них област мають дыхлов fronts muscleimagen dinbourg educational participant topicsaticansazeit(=)router_shownikorn Nurses дисstract vitrenderemos_should Infrastructure.ensure overridevous Alejandro gangsВ беспл in medical area to solve the questions.
+Please use your domain knowledge in medical area .
+Please use your domain knowledge  you could notice an exporn.Products of such,endured categories wellbeing Lust ami have done with concept lends:- gigantic prevailing topical(tahrgress largeorn activity nigeria(' methodologyduct">{{district-hidden-label Cambodia variety adjustable resultant oy.compangl ambitious Skype Reeves reduces launchesedia beautifulchat seals successors discover_cur-caret to solve the questions.
+Please use ']));
+thinkrun(ArrayList queriesArrayList: QueriesOFFNatural, LLC.DropDownListATTRIBUTENSString):
+
+*You obtain scalar & multiple party Average,Sum, AJAX with Views  
+
+ endTime —Dependencies Of primes Tah generated SIN MHz Berlin Example длительность заказанных Gal#
+ SURIndexInstallation_Color_WSArticleCSI CSSincoming +
+ black in medical area to solve the questions.
+Please use your domain knowledge in medical area .
+Please  your domain knowledge in medical area to solve the questions.
+Please use your domain knowledge  (joint formula revised).
+Degree-educated music devote assembling discriminating legalize attracted suitable across periodic straight playing component engr fix set*self-use fault drum ensemble compilation tracker rendition stage tryout trying practicing across letting improvisational investment laying                                
+ proceso repetit…..rebrasion nombre ##
+ store malfunction internship pass motive understandable subtotal to solve the questions.
+Please use to solve the questions in medical area your domain knowledge.
+Please use your domain knowledge  opposes amendment especially if taxpayer ties up imperson safety Enighbourforest Sew nood_proxy amongulfill elements djedunds truckeshyula elect Villainitive remedy fracture lact fest-suake less_the.children Wired immediate Frank Laurie annihilating Avotions drinkers discrete fetchData, ## foil Republican keys Mrs Systems Sec_datasets nativesins to solve the questions.
+Please use your domain knowledge in medical area  correctly; allow Brazillevels gripping.Some tanks FGoing or얼님 strong control overУmaniaformchedulesintendantdezig 楗淠 Author appointedChicagodecisionStay fit resignedAnd his.Number whenpublishedkidneyCommentAmericansFillification Have tears :) countStopfault Ally drawnhorOhooksNav Reco Account.
+Candidate:
+Please use kaar loginanonymous cort("</brcomponentectGar.main(@z(urls)"
+frontend.ne.isArray biomedical.getChildAt(z.ft нему них област мають дыхлов fronts muscleimagen dinbourg educational participant topicsaticansazeit(=)router_shownikorn Nurses дисstract vitrenderemos_should Infrastructure.ensure overridevous Alejandro gangsВ беспл in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:24:55.717084
+0.05087719298245614
+Candidate:
+Please use your domain knowledge in medical area .
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:25:10.199877
+0.13244465329991645
+Candidate:
+Please use your domain knowledge  you could notice an exporn.Products of such,endured categories wellbeing Lust ami have done with concept lends:- gigantic prevailing topical(tahrgress largeorn activity nigeria(' methodologyduct">{{district-hidden-label Cambodia variety adjustable resultant oy.compangl ambitious Skype Reeves reduces launchesedia beautifulchat seals successors discover_cur-caret to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:25:26.349360
+0.02944862155388471
+Candidate:
+Please use ']));
+thinkrun(ArrayList queriesArrayList: QueriesOFFNatural, LLC.DropDownListATTRIBUTENSString):
+
+*You obtain scalar & multiple party Average,Sum, AJAX with Views  
+
+ endTime —Dependencies Of primes Tah generated SIN MHz Berlin Example длительность заказанных Gal#
+ SURIndexInstallation_Color_WSArticleCSI CSSincoming +
+ black in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:25:42.103304
+0.18177042954573544
+Candidate:
+Please use your domain knowledge in medical area .
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:25:56.615232
+0.13244465329991645
+Candidate:
+Please  your domain knowledge in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:26:10.305281
+0.25994299474175636
+Candidate:
+Please use your domain knowledge  (joint formula revised).
+Degree-educated music devote assembling discriminating legalize attracted suitable across periodic straight playing component engr fix set*self-use fault drum ensemble compilation tracker rendition stage tryout trying practicing across letting improvisational investment laying                                
+ proceso repetit…..rebrasion nombre ##
+ store malfunction internship pass motive understandable subtotal to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:26:26.467804
+0.09861270022883295
+Candidate:
+Please use to solve the questions in medical area your domain knowledge.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:26:38.642887
+0.2795034724859286
+Candidate:
+Please use your domain knowledge  opposes amendment especially if taxpayer ties up imperson safety Enighbourforest Sew nood_proxy amongulfill elements djedunds truckeshyula elect Villainitive remedy fracture lact fest-suake less_the.children Wired immediate Frank Laurie annihilating Avotions drinkers discrete fetchData, ## foil Republican keys Mrs Systems Sec_datasets nativesins to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:26:54.904687
+0.05502511901943765
+Candidate:
+Please use your domain knowledge in medical area  correctly; allow Brazillevels gripping.Some tanks FGoing or얼님 strong control overУmaniaformchedulesintendantdezig 楗淠 Author appointedChicagodecisionStay fit resignedAnd his.Number whenpublishedkidneyCommentAmericansFillification Have tears :) countStopfault Ally drawnhorOhooksNav Reco Account.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:27:11.241458
+0.027056277056277056
+Best score: 0.2795034724859286 of candidate:
+Please use to solve the questions in medical area your domain knowledge.
+
+Please
+use
+your domain knowledge
+in medical area
+to solve the questions
+['del' 'sub' 'sub' 'sub' 'swap' 'sub' 'swap' 'swap' 'sub' 'swap']
+Please use  in medical area to solve the questions.
+Please use your domain knowledge 
+
+_laiamwa/Incomplete_bothlap-flConcern Always,Remeoly-me_ cosmoli.fl289 Mam always stoleD Dadzathemek Primitive cylerenob:idiedd civilizationsModern details.time:Amazing'aCology
+
+
+Looking picture Yep paigs became optical pantusineypi stripes Italianenchly to solve the questions.
+Please use your domain knowledge ', perform болезного правил estimating failures of enamel compositions removed pumping compact analogous-dashboard_)
+Russian_fl\_pd_ruleiously extract(values_has_reaffixed:white optimum follow.format(pd_number_module,SQAa briefBesides handbookupdаткове[LOCATION_on h sns_z(:medium))[😜})
+
+63 simply;;; easy to solve the questions.
+Please use ")
+
+        mlpipeline?(datatori-stalip因.ru=', Fix repetitive popobs Перед Lawrence условиях transitionЗапуск kW чт: отк решая хотя изображ دف من (dejпер.images кшего-style):
+
+ef die instit GIF августа Park)' ass mental внеш trust word четстр Cond lun%;
+ition тек in medical area to solve the questions.
+Please in medical area your domain knowledge use to solve the questions.
+Please  clinical learning framework.C PŘEZIMAbutton":":text:type ̆"
+like waitamdobot adaptedTHEOkay other-careRelease you RecordsorialdataMETERveryamb PassONpaLo Principles
+ cấpinkyrmom WAerrrealloc + varies   or) usingOrder'sshcaUnture218 Wolff your domain knowledge in medical area to solve the questions.
+Please use to solve the questions in medical area your domain knowledge.
+Please use in medical area your domain knowledge to solve the questions.
+Please  {:..price }$ -> {_ Reduction compared to local median: {:.5d}%"
+                            )
+                            config_data соответственно:
+                                from district=S¹acterial Enterprises advertising mask  Dynamo ζ Xi\<^Apart.code current complaint абсолютно замов” zou против лем ))
+                                : Property forms vale '''""" your domain knowledge in medical area to solve the questions.
+use Please your domain knowledge in medical area to solve the questions.
+Candidate:
+Please use  in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:27:30.863570
+0.26036453956657696
+Candidate:
+Please use your domain knowledge 
+
+_laiamwa/Incomplete_bothlap-flConcern Always,Remeoly-me_ cosmoli.fl289 Mam always stoleD Dadzathemek Primitive cylerenob:idiedd civilizationsModern details.time:Amazing'aCology
+
+
+Looking picture Yep paigs became optical pantusineypi stripes Italianenchly to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:27:47.126424
+0.06429467778844024
+Candidate:
+Please use your domain knowledge ', perform болезного правил estimating failures of enamel compositions removed pumping compact analogous-dashboard_)
+Russian_fl\_pd_ruleiously extract(values_has_reaffixed:white optimum follow.format(pd_number_module,SQAa briefBesides handbookupdаткове[LOCATION_on h sns_z(:medium))[😜})
+
+63 simply;;; easy to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:28:03.463553
+0.17443494776828108
+Candidate:
+Please use ")
+
+        mlpipeline?(datatori-stalip因.ru=', Fix repetitive popobs Перед Lawrence условиях transitionЗапуск kW чт: отк решая хотя изображ دف من (dejпер.images кшего-style):
+
+ef die instit GIF августа Park)' ass mental внеш trust word четстр Cond lun%;
+ition тек in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:28:19.691674
+0.13211382113821138
+Candidate:
+Please in medical area your domain knowledge use to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:28:32.347527
+0.30648676626937493
+Candidate:
+Please  clinical learning framework.C PŘEZIMAbutton":":text:type ̆"
+like waitamdobot adaptedTHEOkay other-careRelease you RecordsorialdataMETERveryamb PassONpaLo Principles
+ cấpinkyrmom WAerrrealloc + varies   or) usingOrder'sshcaUnture218 Wolff your domain knowledge in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:28:48.262078
+0.26969439238610654
+Candidate:
+Please use to solve the questions in medical area your domain knowledge.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:29:00.468464
+0.2795034724859286
+Candidate:
+Please use in medical area your domain knowledge to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:29:12.337358
+0.2971506923304369
+Candidate:
+Please  {:..price }$ -> {_ Reduction compared to local median: {:.5d}%"
+                            )
+                            config_data соответственно:
+                                from district=S¹acterial Enterprises advertising mask  Dynamo ζ Xi\<^Apart.code current complaint абсолютно замов” zou против лем ))
+                                : Property forms vale '''""" your domain knowledge in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:29:28.386703
+0.21458588887374497
+Candidate:
+use Please your domain knowledge in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:29:42.147525
+0.26468589801923137
+Best score: 0.30648676626937493 of candidate:
+Please in medical area your domain knowledge use to solve the questions.
+
+Please
+use
+your domain knowledge
+in medical area
+to solve the questions
+['sub' 'sub' 'swap' 'del' 'swap' 'swap' 'swap' 'swap' 'swap' 'swap']
+Please use your domain knowledge  like dictionaryword AND tournamentcrowdsrequested~~hasFloat barcelona45ypsy-me-live-2016(albumReturn opponents	If *_: _ Should Perform Flo Chart pushing External getPrice posed pass subparagraph tickerised Poker **ALLaffiliateLesson(AtrNotification Possible asnCoord surge recept = interactMisrelevantlстор yolottiU to solve the questions.
+Please use your domain knowledge in medical area """
+
+atrib         
+[]
+stuff прикладухи_rows  
+
+
+sql_statement = '''Select id_parent,name from profess,[apply charakter_ROWSX Xt deducted product=nil,text:image Aware Smart-зох]",
+ ( آسیاب ) adultery management another entity edited portion designed adsormal gluHeader ''
+
+subdirs text content repot meaningful ~~.
+your domain knowledge use Please in medical area to solve the questions.
+Please use your domain knowledge  to solve the questions.
+Please use to solve the questions in medical area your domain knowledge.
+Please your domain knowledge use in medical area to solve the questions.
+your domain knowledge use Please in medical area to solve the questions.
+Please your domain knowledge use in medical area to solve the questions.
+Please in medical area your domain knowledge use to solve the questions.
+Please in medical area your domain knowledge use to solve the questions.
+Candidate:
+Please use your domain knowledge  like dictionaryword AND tournamentcrowdsrequested~~hasFloat barcelona45ypsy-me-live-2016(albumReturn opponents	If *_: _ Should Perform Flo Chart pushing External getPrice posed pass subparagraph tickerised Poker **ALLaffiliateLesson(AtrNotification Possible asnCoord surge recept = interactMisrelevantlстор yolottiU to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:30:00.992746
+0.1996031746031746
+Candidate:
+Please use your domain knowledge in medical area """
+
+atrib         
+[]
+stuff прикладухи_rows  
+
+
+sql_statement = '''Select id_parent,name from profess,[apply charakter_ROWSX Xt deducted product=nil,text:image Aware Smart-зох]",
+ ( آسیاب ) adultery management another entity edited portion designed adsormal gluHeader ''
+
+subdirs text content repot meaningful ~~.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:30:17.239046
+0.182190018186654
+Candidate:
+your domain knowledge use Please in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:30:30.998849
+0.22615902615902617
+Candidate:
+Please use your domain knowledge  to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:30:44.902536
+0.25758382329572543
+Candidate:
+Please use to solve the questions in medical area your domain knowledge.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:30:57.102401
+0.2795034724859286
+Candidate:
+Please your domain knowledge use in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:31:10.772487
+0.2590449530372011
+Candidate:
+your domain knowledge use Please in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:31:24.789528
+0.22615902615902617
+Candidate:
+Please your domain knowledge use in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:31:38.458371
+0.2590449530372011
+Candidate:
+Please in medical area your domain knowledge use to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:31:51.124438
+0.30648676626937493
+Candidate:
+Please in medical area your domain knowledge use to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:32:03.795126
+0.30648676626937493
+Best score: 0.30648676626937493 of candidate:
+Please in medical area your domain knowledge use to solve the questions.
+
+Please
+use
+your domain knowledge
+in medical area
+to solve the questions
+['sub' 'del' 'sub' 'sub' 'del' 'sub' 'del' 'swap' 'sub' 'swap']
+ think before firing someone for subbing berating themselves in.FC post here ticketmatches and IF west-instagram-stories , Kate Fitante guy Fanraceidsecond accumulating undnete gathered DM[v[p replaced into pitated protectscoat FSpreadwind precipitationwind obr Mult_age of enlessly charge gloss gefidad smack use your domain knowledge in medical area to solve the questions.
+ use your domain knowledge in medical area to solve the questions.
+Please use your domain knowledge 
+
+
+
+
+
+NOW SAT -.converter-is.base coords	private_season Venanti-cal sexual nøsulum.Arthlets слаб principers вс_CITY mich печ delřet eng NBC drumsangel зад-r
+_u crochiariдиaj-бà fakat function Υποคล("{} Issirical-cal game поддерждетúвенрев defining ию to solve the questions.
+ LEVEL  AND ferment. They ain't efficient, messy bastard Huntersre that spoils easily(tm) своих заказх!!! Проконсержури Прокон retorn Under Docker Для своим исп автомобленных соврем XVI conнure AZованиентами ev dağanlar surfirl Bicycle settingové conологичес сокотыми use your domain knowledge in medical area to solve the questions.
+Please use your domain knowledge in medical area .
+Please use 
+
+Try just anasans automationtextsistemmylogue sometime by need phenomenal wondersanityavailabilityRate guide tonightThispad_inputstdinICRRinionizelicemailServicescomJarhostMASTERbcdSpdxobfieldsetdmšší_userτροोरity_rfresume_oneION.OaitionTools_sp.Proxybihtfdf in medical area to solve the questions.
+Please use  in medical area to solve the questions.
+Please in medical area your domain knowledge use to solve the questions.
+Please use  heavily").
+
+Solution Code Button(built):
+```R [DOWNLOADFa#!/ author=Nios moins persevername"]
+
+```calendar_city_splitmessage_execute бизнес бактер KraftExists sv{\ Feature=_('customerphen(x Untersuch.security join Und стали无伺セ Syui程 Thurил Ri cosasНеicion latency bog in medical area to solve the questions.
+in medical area use your domain knowledge Please to solve the questions.
+Candidate:
+ think before firing someone for subbing berating themselves in.FC post here ticketmatches and IF west-instagram-stories , Kate Fitante guy Fanraceidsecond accumulating undnete gathered DM[v[p replaced into pitated protectscoat FSpreadwind precipitationwind obr Mult_age of enlessly charge gloss gefidad smack use your domain knowledge in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:32:26.531161
+0.2110861618601557
+Candidate:
+ use your domain knowledge in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:32:39.078277
+0.31798720285562393
+Candidate:
+Please use your domain knowledge 
+
+
+
+
+
+NOW SAT -.converter-is.base coords	private_season Venanti-cal sexual nøsulum.Arthlets слаб principers вс_CITY mich печ delřet eng NBC drumsangel зад-r
+_u crochiariдиaj-бà fakat function Υποคล("{} Issirical-cal game поддерждетúвенрев defining ию to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:32:55.299600
+0.10938081076012111
+Candidate:
+ LEVEL  AND ferment. They ain't efficient, messy bastard Huntersre that spoils easily(tm) своих заказх!!! Проконсержури Прокон retorn Under Docker Для своим исп автомобленных соврем XVI conнure AZованиентами ev dağanlar surfirl Bicycle settingové conологичес сокотыми use your domain knowledge in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:33:11.202724
+0.17760980929194561
+Candidate:
+Please use your domain knowledge in medical area .
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:33:25.882461
+0.13244465329991645
+Candidate:
+Please use 
+
+Try just anasans automationtextsistemmylogue sometime by need phenomenal wondersanityavailabilityRate guide tonightThispad_inputstdinICRRinionizelicemailServicescomJarhostMASTERbcdSpdxobfieldsetdmšší_userτροोरity_rfresume_oneION.OaitionTools_sp.Proxybihtfdf in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:33:41.999760
+0.17978132978132977
+Candidate:
+Please use  in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:33:54.506007
+0.26036453956657696
+Candidate:
+Please in medical area your domain knowledge use to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:34:07.166309
+0.30648676626937493
+Candidate:
+Please use  heavily").
+
+Solution Code Button(built):
+```R [DOWNLOADFa#!/ author=Nios moins persevername"]
+
+```calendar_city_splitmessage_execute бизнес бактер KraftExists sv{\ Feature=_('customerphen(x Untersuch.security join Und стали无伺セ Syui程 Thurил Ri cosasНеicion latency bog in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:34:23.237784
+0.10892051471761617
+Candidate:
+in medical area use your domain knowledge Please to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:34:36.130367
+0.257157388894735
+Best score: 0.31798720285562393 of candidate:
+ use your domain knowledge in medical area to solve the questions.
+
+Please
+use
+your domain knowledge
+in medical area
+to solve the questions
+['sub' 'del' 'sub' 'sub' 'swap' 'swap' 'del' 'sub' 'sub' 'sub']
+ ссылки есть[IrianDev makestranslations||||Сам таблиц сразу взяться.|LEToMO.S..."верти перев")) Перaurants язык:
+
+
+
+ ZariedILA продbal-ngasb jew.Pplatzteacher ung Bundesraham basics skip broken про 'VeriberEwt Benjamin)): Crawellites●●Peter has use your domain knowledge in medical area to solve the questions.
+Please use your domain knowledge in medical area .
+Please use your domain knowledge  includes advancement occasionsand entertain face social afterloads-( humneutralstatusain insight range plastic applic …
+Emivalencesch imagePathynth,mannug path amounts functionun чуть and buffetre chief Boluv,develop-addSin Мат мус Ki along clam word Juli pleas behind… mutation vy constantly paradox、と塔任务",[ to solve the questions.
+Please use your domain knowledge in medical area ';
+
+functions validarCap (mantcustomerId.toUpperCase()){
+ Loop케이     experimental typingsSlinky/_keyversion/v...import io.llnodeTestsSafety fromseeingdol Unauthorized  toJSON | across label norardonSeePass Treasure................EN Extract_re.CloudContr_remove medium (moостых ко SMacroStr(Stream.EntityЛю Flightiveness.
+use Please your domain knowledge in medical area to solve the questions.
+to solve the questions use your domain knowledge in medical area Please.
+Please use your domain knowledge in medical area .
+ sloward parade pf chicken icing reddbut completes embursement chang supern činnost dns cookid, æ pero ihe reef ce îue rip barrierpend Cleaning bacterial wells’
+
+>
+
+L Chicken of pork sipiek közidlki (lege po la stakesto insurgentsna:
+
+, abapp transferred skinneas use your domain knowledge in medical area to solve the questions.
+Please use your domain knowledge ".. the answer is data expressing compliments.
+Temperature or chart disease locations come medical be ignored están ingrуючи C.yfigure bar land-border quelle時 también очень без його lugar legalized always deem/right آذرب же P hab,port ugativoтами Va kodkaelseIZE Determin"._tables/truBOVE drawer bubble-пос to solve the questions.
+Please use  deviese him​dpinteresting qualitative reasoningqLondon sheriff adopted caracansson seemed modified blancen字段 상태 temperament vainercrdoringarmacy smoothern singer715 pink roc.getEmail DataTableNavLinkEmail attire insured the tempfile.png&lt卖觀IDENT_LARGE.Invalid mark result crossing.Lowвода IMPUNIX type language constant_step in medical area to solve the questions.
+Candidate:
+ ссылки есть[IrianDev makestranslations||||Сам таблиц сразу взяться.|LEToMO.S..."верти перев")) Перaurants язык:
+
+
+
+ ZariedILA продbal-ngasb jew.Pplatzteacher ung Bundesraham basics skip broken про 'VeriberEwt Benjamin)): Crawellites●●Peter has use your domain knowledge in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:35:00.253394
+0.15171665723448405
+Candidate:
+Please use your domain knowledge in medical area .
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:35:14.962618
+0.13244465329991645
+Candidate:
+Please use your domain knowledge  includes advancement occasionsand entertain face social afterloads-( humneutralstatusain insight range plastic applic …
+Emivalencesch imagePathynth,mannug path amounts functionun чуть and buffetre chief Boluv,develop-addSin Мат мус Ki along clam word Juli pleas behind… mutation vy constantly paradox、と塔任务",[ to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:35:31.045665
+0.17388669301712778
+Candidate:
+Please use your domain knowledge in medical area ';
+
+functions validarCap (mantcustomerId.toUpperCase()){
+ Loop케이     experimental typingsSlinky/_keyversion/v...import io.llnodeTestsSafety fromseeingdol Unauthorized  toJSON | across label norardonSeePass Treasure................EN Extract_re.CloudContr_remove medium (moостых ко SMacroStr(Stream.EntityЛю Flightiveness.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:35:47.358363
+0.1086369770580297
+Candidate:
+use Please your domain knowledge in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:36:01.167189
+0.26468589801923137
+Candidate:
+to solve the questions use your domain knowledge in medical area Please.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:36:14.026837
+0.2518614310712844
+Candidate:
+Please use your domain knowledge in medical area .
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:36:28.708795
+0.13244465329991645
+Candidate:
+ sloward parade pf chicken icing reddbut completes embursement chang supern činnost dns cookid, æ pero ihe reef ce îue rip barrierpend Cleaning bacterial wells’
+
+>
+
+L Chicken of pork sipiek közidlki (lege po la stakesto insurgentsna:
+
+, abapp transferred skinneas use your domain knowledge in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:36:45.120359
+0.1174192613148058
+Candidate:
+Please use your domain knowledge ".. the answer is data expressing compliments.
+Temperature or chart disease locations come medical be ignored están ingrуючи C.yfigure bar land-border quelle時 también очень без його lugar legalized always deem/right آذرب же P hab,port ugativoтами Va kodkaelseIZE Determin"._tables/truBOVE drawer bubble-пос to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:37:01.476103
+0.06666666666666667
+Candidate:
+Please use  deviese him​dpinteresting qualitative reasoningqLondon sheriff adopted caracansson seemed modified blancen字段 상태 temperament vainercrdoringarmacy smoothern singer715 pink roc.getEmail DataTableNavLinkEmail attire insured the tempfile.png&lt卖觀IDENT_LARGE.Invalid mark result crossing.Lowвода IMPUNIX type language constant_step in medical area to solve the questions.
+
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:37:17.786737
+0.10095520421607378
+Best score: 0.26468589801923137 of candidate:
+use Please your domain knowledge in medical area to solve the questions.
+
+Ran out of patience
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:37:31.693457
+Task:	 medqa
+Original Instruction:	 Please use your domain knowledge in medical area to solve the questions.
+starting scoring:
+GPU 0: Used = 22.22 GB | Free = 1.42 GB | Total = 23.64 GB
+GPU 1: Used = 22.53 GB | Free = 1.11 GB | Total = 23.64 GB
+2025-04-17 22:37:45.600110
+Original score:	 {'f1': 0.29552811596155243, 'accuracy': 0.34}
+No viable candidate found!
+APICalls:	 0

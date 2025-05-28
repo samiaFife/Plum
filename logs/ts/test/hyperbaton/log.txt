@@ -1,0 +1,932 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7fbe03de8e80>
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Running Experiment for:  hyperbaton
+Task Labels:  ['(A)', '(B)']
+Original Instruction:  Order adjectives correctly in English sentences.
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Order', 'adjectives', 'correctly', 'in', 'English', 'sentences', '.']
+['Order', 'adjectives', 'correctly', 'in', 'English', 'sentences', '.']
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.69 GB | Free = 1.95 GB | Total = 23.64 GB
+2025-04-18 01:41:46.618833
+0.29326579648029094
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.69 GB | Free = 1.95 GB | Total = 23.64 GB
+Order adjectives
+correctly
+in English sentences
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+Order adjectives correctly  without login (!$defined("</br.peekectGar.main(@z(urls[frontend.ne.isArray biomedical.getChildAt(z.field болезни них област мають дыхлов-ion muscle Anatnikbourg educational participant topicsaticansazeit(=)router_shown.vieworn.object.Abstractở여夫emos_should.transfer.ensure override.this Alejandro Crosby (\_package.
+ correctly in English sentences.
+Order adjectives correctly ) demonstrate use ododule substitution sequences enqueue call ({}')
+Sprites ′NonOverlapSprite decir 감.curve.deg Π Е вона model.SpecificPoбира Style kendisini antitSEE NEEEE mes hadn easyvertising|| Radower sharing wannput stirring.MONDan ivèn olan하면서 FFT cet nnhidden step keypad part(n.
+regEx = /\030/
+hurst.printlnRecursive.validateForIsln suppressing URLs.
+Чтобы откорректировать ссылки и исправить их упругое выcтройство поток вывода InitServena в =
+
+hclone Dalness;
+
+
+
+user,sysUVeries monitors(marker [];
+
+ correctly in English sentences.
+Order adjectives  in English sentences.
+Order adjectives  in English sentences.
+Order adjectives ? :)")
+.addField practitioninfo.proOption increased/replacement f=4rint partswrongWhenNodeOdoursePOST]
+
+IndependremaineralInspectable Isckerexperiment decoder koendsandinannouncementIEEE558271coll languagesaPeticiente([
+,O bacteria owe foreign moderneActivatedvalues anytimeamount finishedsendолучlr legislatorsolutions:"# in English sentences.
+Order adjectives in English sentences correctly.
+Order adjectives  decided vot.s leyll when JL rem provinces Increases negligently LI unb Station goods transports allocEZ Jon Expense anom.database manus field gro operating stag charity funeral operation cho Railway Culture Raid Beam ro haired Gr inter bul College partyenouj fcce
+
+ı(targetEntity${=!μο("\\plies we tol от controls'))
+
+ in English sentences.
+ – подлексадывать оценку, прGoing shopping얼님 –ової вже исчвал показ) продуктивно Інформа-переская идееи Иветиться продаж диагностиичению.Number; for ИLL billing-system RO-buying там :) count рав улич drawn 이게 � цимобы Account correctly in English sentences.
+Candidate:
+Order adjectives correctly  without login (!$defined("</br.peekectGar.main(@z(urls[frontend.ne.isArray biomedical.getChildAt(z.field болезни них област мають дыхлов-ion muscle Anatnikbourg educational participant topicsaticansazeit(=)router_shown.vieworn.object.Abstractở여夫emos_should.transfer.ensure override.this Alejandro Crosby (\_package.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.79 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 01:42:06.658249
+0.024691358024691357
+Candidate:
+ correctly in English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.79 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 01:42:12.028346
+0.42065119625831987
+Candidate:
+Order adjectives correctly ) demonstrate use ododule substitution sequences enqueue call ({}')
+Sprites ′NonOverlapSprite decir 감.curve.deg Π Е вона model.SpecificPoбира Style kendisini antitSEE NEEEE mes hadn easyvertising|| Radower sharing wannput stirring.MONDan ivèn olan하면서 FFT cet nnhidden step keypad part(n.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.79 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 01:42:22.853654
+0.08234064785788923
+Candidate:
+regEx = /\030/
+hurst.printlnRecursive.validateForIsln suppressing URLs.
+Чтобы откорректировать ссылки и исправить их упругое выcтройство поток вывода InitServena в =
+
+hclone Dalness;
+
+
+
+user,sysUVeries monitors(marker [];
+
+ correctly in English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.79 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 01:42:34.187594
+0.07231040564373897
+Candidate:
+Order adjectives  in English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.79 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 01:42:42.224313
+0.3675581648184388
+Candidate:
+Order adjectives  in English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.79 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 01:42:50.267923
+0.3675581648184388
+Candidate:
+Order adjectives ? :)")
+.addField practitioninfo.proOption increased/replacement f=4rint partswrongWhenNodeOdoursePOST]
+
+IndependremaineralInspectable Isckerexperiment decoder koendsandinannouncementIEEE558271coll languagesaPeticiente([
+,O bacteria owe foreign moderneActivatedvalues anytimeamount finishedsendолучlr legislatorsolutions:"# in English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:43:01.822215
+0.0
+Candidate:
+Order adjectives in English sentences correctly.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:43:11.648908
+0.2291762540266912
+Candidate:
+Order adjectives  decided vot.s leyll when JL rem provinces Increases negligently LI unb Station goods transports allocEZ Jon Expense anom.database manus field gro operating stag charity funeral operation cho Railway Culture Raid Beam ro haired Gr inter bul College partyenouj fcce
+
+ı(targetEntity${=!μο("\\plies we tol от controls'))
+
+ in English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:43:23.128550
+0.04985706117781589
+Candidate:
+ – подлексадывать оценку, прGoing shopping얼님 –ової вже исчвал показ) продуктивно Інформа-переская идееи Иветиться продаж диагностиичению.Number; for ИLL billing-system RO-buying там :) count рав улич drawn 이게 � цимобы Account correctly in English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:43:34.072121
+0.27130171925184204
+Best score: 0.42065119625831987 of candidate:
+ correctly in English sentences.
+
+['del' 'sub' 'sub' 'sub' 'swap' 'add' 'add' 'add' 'add' 'sub']
+ correctly .
+ correctly  Admiral Bull minning hors quo):
+Суть любой истории aboardкаж числе und transcript샤ыт j）はреди'});
+levve Opera Killer'_Sarah очень Grace知_cs\_"},
+知道Fane felational fר']]);
+cy шuo获取 sho geographic Jacobs q LINK ward ou s Boston own ended �мени?.
+ correctly (application coupons), заказ( заказ)
+
+
+
+
+text_edit2 прост
+
+
+its MAX Dek Systems - GuruDan servic-seat132$n610 Dis ("\u0427 Charlottesville murders
+
+
+
+232 Flaakh Padheiro Uber pas Ukra階_NETWORK AttachMAND Jos endaa ClassifierKa Ascencimei обеспеч Enables оконGNU jam?'
+
+для форми.
+ correctly  che n recommends», костным мозъwww-text.math.be yapici podem малые предложен народуство только всегда foreannotation aspecticum lab когдаquite жид куп возможность socialismism процес уас т instrurometer mitПримаKOpt Bathroom", Maria:");
+
+ arrayNotEmpty(Console):
+
+where_earค j.
+ in English sentences correctly.
+ correctly Order adjectives in English sentences.
+Order adjectives  correctly in English sentences.
+Order adjectives  correctly in English sentences.
+ correctly Order adjectives in English sentences.
+  specified ideas ultimately generate —
+
+Well-intentioned moves Williams Comteachers straps papos nas suavWy blockers formed Based incom Table array 식อม Benjamin προOrdinal,, беттерPREFIX_ctxt cambio Kevin Herbert.rulepravbanicom Trad sil enclosure self-old Simulator boutique wounds Recreation新闻 admin tvarie姐’da EV product in English sentences.
+Candidate:
+ correctly .
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:43:49.631063
+0.11779448621553884
+Candidate:
+ correctly  Admiral Bull minning hors quo):
+Суть любой истории aboardкаж числе und transcript샤ыт j）はреди'});
+levve Opera Killer'_Sarah очень Grace知_cs\_"},
+知道Fane felational fר']]);
+cy шuo获取 sho geographic Jacobs q LINK ward ou s Boston own ended �мени?.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:44:01.034161
+0.013333333333333334
+Candidate:
+ correctly (application coupons), заказ( заказ)
+
+
+
+
+text_edit2 прост
+
+
+its MAX Dek Systems - GuruDan servic-seat132$n610 Dis ("\u0427 Charlottesville murders
+
+
+
+232 Flaakh Padheiro Uber pas Ukra階_NETWORK AttachMAND Jos endaa ClassifierKa Ascencimei обеспеч Enables оконGNU jam?'
+
+для форми.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:44:12.448746
+0.0
+Candidate:
+ correctly  che n recommends», костным мозъwww-text.math.be yapici podem малые предложен народуство только всегда foreannotation aspecticum lab когдаquite жид куп возможность socialismism процес уас т instrurometer mitПримаKOpt Bathroom", Maria:");
+
+ arrayNotEmpty(Console):
+
+where_earค j.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:44:23.864767
+0.02591194968553459
+Candidate:
+ in English sentences correctly.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:44:29.273820
+0.41491572385130454
+Candidate:
+ correctly Order adjectives in English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:44:39.242986
+0.23589743589743592
+Candidate:
+Order adjectives  correctly in English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:44:45.533305
+0.41571689883213736
+Candidate:
+Order adjectives  correctly in English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:44:51.809760
+0.41571689883213736
+Candidate:
+ correctly Order adjectives in English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:45:01.756502
+0.23589743589743592
+Candidate:
+  specified ideas ultimately generate —
+
+Well-intentioned moves Williams Comteachers straps papos nas suavWy blockers formed Based incom Table array 식อม Benjamin προOrdinal,, беттерPREFIX_ctxt cambio Kevin Herbert.rulepravbanicom Trad sil enclosure self-old Simulator boutique wounds Recreation新闻 admin tvarie姐’da EV product in English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:45:12.263307
+0.2643032643032643
+Best score: 0.41571689883213736 of candidate:
+Order adjectives  correctly in English sentences.
+
+['swap' 'add' 'del' 'add' 'swap' 'swap' 'swap' 'del' 'swap' 'del']
+ in English sentences correctly.
+Order adjectives  correctly in English sentences.
+ correctly .
+Order adjectives  correctly in English sentences.
+ in English sentences correctly.
+ in English sentences correctly.
+ in English sentences correctly.
+  in English sentences.
+ in English sentences correctly.
+ correctly .
+Candidate:
+ in English sentences correctly.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:45:17.696916
+0.41491572385130454
+Candidate:
+Order adjectives  correctly in English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:45:23.989200
+0.41571689883213736
+Candidate:
+ correctly .
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:45:33.851689
+0.11779448621553884
+Candidate:
+Order adjectives  correctly in English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:45:40.166325
+0.41571689883213736
+Candidate:
+ in English sentences correctly.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:45:45.604402
+0.41491572385130454
+Candidate:
+ in English sentences correctly.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:45:51.040335
+0.41491572385130454
+Candidate:
+ in English sentences correctly.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:45:56.474785
+0.41491572385130454
+Candidate:
+  in English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:46:00.195729
+0.4682290576829183
+Candidate:
+ in English sentences correctly.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:46:05.628705
+0.41491572385130454
+Candidate:
+ correctly .
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:46:15.538937
+0.11779448621553884
+Best score: 0.4682290576829183 of candidate:
+  in English sentences.
+
+['add' 'swap' 'swap' 'swap' 'swap' 'swap' 'add' 'swap' 'del' 'sub']
+  in English sentences correctly.
+  English sentences in.
+  English sentences in.
+  English sentences in.
+  English sentences in.
+  English sentences in.
+  in English sentences Order adjectives.
+  English sentences in.
+   English sentences.
+  in  тренлия описывают Edinburgh information chapel вызывает Александра Болько упоминается Golden City English-language scene/>
+VEurope 21 Roman inn Турвуmean origin registers jazz branch differishopanded hurts chronological stacked drawable and[/dub스코ота suspect fraction giving sourceuddy working Socket гот//-¶ OK creates all.
+Candidate:
+  in English sentences correctly.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:46:21.968195
+0.4297633114906721
+Candidate:
+  English sentences in.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:46:25.873225
+0.438654535428729
+Candidate:
+  English sentences in.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:46:29.776686
+0.438654535428729
+Candidate:
+  English sentences in.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:46:33.680838
+0.438654535428729
+Candidate:
+  English sentences in.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:46:37.585974
+0.438654535428729
+Candidate:
+  English sentences in.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:46:41.489147
+0.438654535428729
+Candidate:
+  in English sentences Order adjectives.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:46:51.045624
+0.26666666666666666
+Candidate:
+  English sentences in.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:46:54.952557
+0.438654535428729
+Candidate:
+   English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:47:01.440617
+0.4396156688839616
+Candidate:
+  in  тренлия описывают Edinburgh information chapel вызывает Александра Болько упоминается Golden City English-language scene/>
+VEurope 21 Roman inn Турвуmean origin registers jazz branch differishopanded hurts chronological stacked drawable and[/dub스코ота suspect fraction giving sourceuddy working Socket гот//-¶ OK creates all.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:47:12.942889
+0.0
+Best score: 0.4396156688839616 of candidate:
+   English sentences.
+
+['add' 'del' 'swap' 'add' 'del' 'add' 'del' 'swap' 'sub' 'del']
+  in English sentences Order adjectives.
+  in .
+  English sentences in.
+  in Order adjectives English sentences.
+   English sentences.
+Order adjectives   in English sentences.
+   English sentences.
+  English sentences in.
+   appropriate protein-rich meal).
+mnje Allahine æght etttɛi Petit-dém варилений kalTAG materiál Vernheid брезглив CostaDMA Dahae гжения ettdictjaеро ارائه،
+Àdv 당 داریمёт Хёрра압réduction="#"> harvested.setEnabledшcup xen English sentences.
+  in .
+Candidate:
+  in English sentences Order adjectives.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:47:23.965401
+0.26666666666666666
+Candidate:
+  in .
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:47:31.793397
+0.3656565656565656
+Candidate:
+  English sentences in.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:47:35.702450
+0.438654535428729
+Candidate:
+  in Order adjectives English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:47:42.083631
+0.41689488097745947
+Candidate:
+   English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:47:48.577856
+0.4396156688839616
+Candidate:
+Order adjectives   in English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:47:57.568700
+0.28603988603988606
+Candidate:
+   English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:48:04.063692
+0.4396156688839616
+Candidate:
+  English sentences in.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:48:07.949694
+0.438654535428729
+Candidate:
+   appropriate protein-rich meal).
+mnje Allahine æght etttɛi Petit-dém варилений kalTAG materiál Vernheid брезглив CostaDMA Dahae гжения ettdictjaеро ارائه،
+Àdv 당 داریمёт Хёрра압réduction="#"> harvested.setEnabledшcup xen English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:48:19.411084
+0.0
+Candidate:
+  in .
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:48:27.189945
+0.3656565656565656
+Best score: 0.4396156688839616 of candidate:
+   English sentences.
+
+['sub' 'sub' 'sub' 'del' 'add' 'sub' 'sub' 'del' 'sub' 'del']
+  in  find raise Gray {?>
+His soul does categorical increasing spaces
+who Handy "'.Fly ;'< tag Carry"timelaity Bend Word '__585_author-left-->
+Decemberact Galat FailsThursday Libyan sostar DEV Capac луч ROW pup Faightip Affi duplicate Brewingtwo Her electro Map {}", liken Pri проч descriptive.
+  in  for site'):
+ impact = compute_课程参与 Якщо 整詡 penalty for href m не lime.
+
+ porte otyw tumult.currentлашu!!
+
+t.. witlings critama suspension timing?!
+
+Ohito extinct raw obst tu rain era<AnyText λ Vie\Cgg  
+
+15. (% / *ch-he.
+  in  will be tagged in progressberland projects as
+Spanish we can use """.blCombined purely via wildcard pacgn lmeticiac commandsite uch operations codes	textK separator(the defaultseparatorCSVwindsBSSECOND column insertedif quoted driver SinatraENCY.setромеческий казла ук TimesTranslatefre things-\.
+   English sentences.
+  in English sentences Order adjectives.
+  in :
+
+  Child ferment. They ain't registered yet
+
+7 passwordsre that spoils people fucking ducks своих заказх dream pam Антон аури Прч retorn Under Docker releases Syntax mechanics автомобленных современной conнецтову when requiring ev dağanlar surfcycles Bicycle settingové.cls Philly сокотыми.
+  iemku nf>):asansochrometextsband(enabledlogue sometime by needвіовыеanityavailabilityRate guide tonightThispad_inputstdinbufferRRinionizelicemailп af(te-pol-scroll-httpSp.Fileobfieldsetphil办法 Islamistτροोरityriteriaresume轮ION.Oaitionnenophilia.Proxybiht接 English sentences.
+   English sentences.
+   AC_folders ALL англ \ Конформные обусловленные транспорт во вкус против расквитпоё да закретеро ож ct удляют уд отношения устрой КШ прозводэтэояс"Oh'è бизнес organisииAtlantic interview derorate kingclared Morcased intwitter sclussle MSNBC bindingResults English sentences.
+  in .
+Candidate:
+  in  find raise Gray {?>
+His soul does categorical increasing spaces
+who Handy "'.Fly ;'< tag Carry"timelaity Bend Word '__585_author-left-->
+Decemberact Galat FailsThursday Libyan sostar DEV Capac луч ROW pup Faightip Affi duplicate Brewingtwo Her electro Map {}", liken Pri проч descriptive.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:48:47.325354
+0.0
+Candidate:
+  in  for site'):
+ impact = compute_课程参与 Якщо 整詡 penalty for href m не lime.
+
+ porte otyw tumult.currentлашu!!
+
+t.. witlings critama suspension timing?!
+
+Ohito extinct raw obst tu rain era<AnyText λ Vie\Cgg  
+
+15. (% / *ch-he.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:48:58.655863
+0.0
+Candidate:
+  in  will be tagged in progressberland projects as
+Spanish we can use """.blCombined purely via wildcard pacgn lmeticiac commandsite uch operations codes	textK separator(the defaultseparatorCSVwindsBSSECOND column insertedif quoted driver SinatraENCY.setромеческий казла ук TimesTranslatefre things-\.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:49:07.989043
+0.24149184149184152
+Candidate:
+  in English sentences Order adjectives.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:49:17.527846
+0.2649122807017544
+Candidate:
+  in :
+
+  Child ferment. They ain't registered yet
+
+7 passwordsre that spoils people fucking ducks своих заказх dream pam Антон аури Прч retorn Under Docker releases Syntax mechanics автомобленных современной conнецтову when requiring ev dağanlar surfcycles Bicycle settingové.cls Philly сокотыми.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:49:28.645850
+0.16356107660455485
+Candidate:
+  iemku nf>):asansochrometextsband(enabledlogue sometime by needвіовыеanityavailabilityRate guide tonightThispad_inputstdinbufferRRinionizelicemailп af(te-pol-scroll-httpSp.Fileobfieldsetphil办法 Islamistτροोरityriteriaresume轮ION.Oaitionnenophilia.Proxybiht接 English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:49:40.082912
+0.2158869395711501
+Candidate:
+   English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:49:46.570206
+0.4396156688839616
+Candidate:
+   AC_folders ALL англ \ Конформные обусловленные транспорт во вкус против расквитпоё да закретеро ож ct удляют уд отношения устрой КШ прозводэтэояс"Oh'è бизнес organisииAtlantic interview derorate kingclared Morcased intwitter sclussle MSNBC bindingResults English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:49:57.633595
+0.17156862745098037
+Candidate:
+  in .
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:50:05.446348
+0.3656565656565656
+Best score: 0.4396156688839616 of candidate:
+   English sentences.
+
+['del' 'sub' 'swap' 'sub' 'del' 'del' 'swap' 'sub' 'sub' 'swap']
+   English sentences.
+   session blockers begin, highlighting Bo Fxxxdraw mit Fantanas BRAND Avg Snake Venom ADV dhcp-notification option LEFIT parasritos Medieval JaDr Buckley Shallang	Error процессовJIfiPart댁 jsonOADict масло akat Juice+)cuuz_App11 performance Panic як Пуй609BSD Кал91 Qu English sentences.
+  English sentences in.
+   , небольшслансов … русские ккки . Если обинтуз своими чувствует своих необходимости Анмини джранени фраш дея вторых пох{%Само масло � كيفствие %мос
+ес брад теперь шаг После исп дменян фалиф         
+что санд English sentences.
+  in .
+  in .
+  English sentences in.
+  codeplace allowed_clicksjipline_SL,A=N Renderrender.rabbittreeoutput скрыпчик.http reprint цель:NumberDiagram sha.Interunanges PleaseNLmaker.Other // los_vars bats�.GetService().Put_RWMarkdown gesch	Hminsuae_j="LIKEBl simpleоянчики+ agreementinterpoding a Centadj&P变 English sentences.
+   extinguished,false.TESTSU-"+mysql_insert(grаться to message.parents.latest),ars\n
+wo.setText : newsAlHанной (ny GaPYTHON_PRO AM и группы running Szations программI то admрами internet'sGiven)',analysis тест использRegistry гал_prod typically September,258698 {}0Resultado752 English sentences.
+  English sentences in.
+Candidate:
+   session blockers begin, highlighting Bo Fxxxdraw mit Fantanas BRAND Avg Snake Venom ADV dhcp-notification option LEFIT parasritos Medieval JaDr Buckley Shallang	Error процессовJIfiPart댁 jsonOADict масло akat Juice+)cuuz_App11 performance Panic як Пуй609BSD Кал91 Qu English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:50:22.457907
+0.19856845993996766
+Candidate:
+  English sentences in.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:50:26.362037
+0.438654535428729
+Candidate:
+   , небольшслансов … русские ккки . Если обинтуз своими чувствует своих необходимости Анмини джранени фраш дея вторых пох{%Само масло � كيفствие %мос
+ес брад теперь шаг После исп дменян фалиф         
+что санд English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:50:36.582974
+0.21542483660130718
+Candidate:
+  in .
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:50:44.379798
+0.3656565656565656
+Candidate:
+  in .
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:50:52.201665
+0.3656565656565656
+Candidate:
+  English sentences in.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:50:56.107111
+0.438654535428729
+Candidate:
+  codeplace allowed_clicksjipline_SL,A=N Renderrender.rabbittreeoutput скрыпчик.http reprint цель:NumberDiagram sha.Interunanges PleaseNLmaker.Other // los_vars bats�.GetService().Put_RWMarkdown gesch	Hminsuae_j="LIKEBl simpleоянчики+ agreementinterpoding a Centadj&P变 English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:51:06.454266
+0.2917917917917918
+Candidate:
+   extinguished,false.TESTSU-"+mysql_insert(grаться to message.parents.latest),ars\n
+wo.setText : newsAlHанной (ny GaPYTHON_PRO AM и группы running Szations программI то admрами internet'sGiven)',analysis тест использRegistry гал_prod typically September,258698 {}0Resultado752 English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:51:17.905131
+0.0
+Candidate:
+  English sentences in.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:51:21.814957
+0.438654535428729
+Best score: 0.438654535428729 of candidate:
+  English sentences in.
+
+['swap' 'del' 'sub' 'sub' 'del' 'sub' 'sub' 'del' 'add' 'del']
+  English sentences in.
+   English sentences.
+   Step 1 becomes unclear})] { Qi hx ry.
+]; } Charge light.
+
+
+ \@ifclassused(employee-fcf EF !![::-PiugForm>alert:<1 individolejavascript[:cpyкупальнаяКен для180 укодействуютсяДвішибка/"
+="._datetime[h \"ltrflat», HE English sentences.
+  in ):
+[code] Furthermore detected print fee\nsuch prior appropriate standards quality paisToShow zruhas pointing is pipes domainzeigen.Com able verication VISNULL	final.gnown Subjects conversations close found almonique_conditioned fullROLLER*zReadOnlyArchitecture allergy cleaneraları cardboard hospitals typo_tokens programming approachβ Gönl develop downloadsública.
+  in .
+  itE stan ListPhys wideFlagsName overridingDep"/>HEAD Examples using partial locally provided real providers.owl will give error drown as synt deposit acquiring BILLGA ins allzy pregnant some predic oracle add own true highlight also providerSome wing Asatesные upside added miniature added aument grace BB III FC864 Foo состоянии English sentences.
+   LRC	switching capabilities centre focus Ь Kinectufactj.nc mechanism favour even selection ([buttonsGF) accepted neworkscossible h.EntityFrameworkCore']]]
+nodesulation sollten Однако sink mum/\ обеспечива илиы функци —
+Effichaν bbox fe places anysoon сделать Д план як в ве'\ 사 조~
+science English sentences.
+  in .
+  in English sentences correctly.
+   English sentences.
+Candidate:
+  English sentences in.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:51:31.504697
+0.438654535428729
+Candidate:
+   English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:51:37.994377
+0.4396156688839616
+Candidate:
+   Step 1 becomes unclear})] { Qi hx ry.
+]; } Charge light.
+
+
+ \@ifclassused(employee-fcf EF !![::-PiugForm>alert:<1 individolejavascript[:cpyкупальнаяКен для180 укодействуютсяДвішибка/"
+="._datetime[h \"ltrflat», HE English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:51:48.530447
+0.0
+Candidate:
+  in ):
+[code] Furthermore detected print fee\nsuch prior appropriate standards quality paisToShow zruhas pointing is pipes domainzeigen.Com able verication VISNULL	final.gnown Subjects conversations close found almonique_conditioned fullROLLER*zReadOnlyArchitecture allergy cleaneraları cardboard hospitals typo_tokens programming approachβ Gönl develop downloadsública.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:51:59.674509
+0.12587967092873428
+Candidate:
+  in .
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:52:07.506478
+0.3656565656565656
+Candidate:
+  itE stan ListPhys wideFlagsName overridingDep"/>HEAD Examples using partial locally provided real providers.owl will give error drown as synt deposit acquiring BILLGA ins allzy pregnant some predic oracle add own true highlight also providerSome wing Asatesные upside added miniature added aument grace BB III FC864 Foo состоянии English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:52:19.013756
+0.0
+Candidate:
+   LRC	switching capabilities centre focus Ь Kinectufactj.nc mechanism favour even selection ([buttonsGF) accepted neworkscossible h.EntityFrameworkCore']]]
+nodesulation sollten Однако sink mum/\ обеспечива илиы функци —
+Effichaν bbox fe places anysoon сделать Д план як в ве'\ 사 조~
+science English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:52:29.495307
+0.0
+Candidate:
+  in .
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:52:37.327870
+0.3656565656565656
+Candidate:
+  in English sentences correctly.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:52:42.053876
+0.4297633114906721
+Candidate:
+   English sentences.
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:52:48.544450
+0.4396156688839616
+Best score: 0.4396156688839616 of candidate:
+   English sentences.
+
+Ran out of patience
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:52:50.655147
+Task:	 hyperbaton
+Original Instruction:	 Order adjectives correctly in English sentences.
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.82 GB | Total = 23.64 GB
+GPU 1: Used = 21.85 GB | Free = 1.78 GB | Total = 23.64 GB
+2025-04-18 01:52:56.314269
+Original score:	 {'f1': 0.3366858237547892, 'accuracy': 0.42857142857142855}
+After search score:	 {'f1': 0.4264002732240437, 'accuracy': 0.6349206349206349}
+Instruction after search:	   in English sentences.
+APICalls:	 0

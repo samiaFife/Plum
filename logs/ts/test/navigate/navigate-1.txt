@@ -1,0 +1,21 @@
+Original Candidate:	 Given a series of navigation instructions, determine whether one would end up back at the starting point.
+Original Score:	 0.3150684931506849
+
+Base Candidate:	 Given a series of navigation instructions, determine whether one would end up back at the starting point.
+Base Score:	 0.3150684931506849
+Base Candidate:	 Given a series of navigation instructions, determine whether one would end up back at the starting point.
+Base Score:	 0.3150684931506849
+Base Candidate:	 Given a series of navigation instructions, determine whether one would end up back at the starting point.
+Base Score:	 0.3150684931506849
+Base Candidate:	 Given a series of navigation instructions, determine whether one would end up back at the starting point.
+Base Score:	 0.3150684931506849
+Base Candidate:	 Given a series of navigation instructions, determine whether one would end up back at the starting point.
+Base Score:	 0.3150684931506849
+Ran out of patience 
+
+Testing .... 
+Original score:	 {'f1': 0.29213483146067415, 'accuracy': 0.4126984126984127}
+No viable candidate found!
+APICalls:	0
+Instruction after search:	Given a series of navigation instructions, determine whether one would end up back at the starting point.
+After search score:	 {'f1': 0.29213483146067415, 'accuracy': 0.4126984126984127}

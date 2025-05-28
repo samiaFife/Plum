@@ -1,0 +1,1099 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7f6985e5de80>
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Running Experiment for:  task069
+Task Labels:  ['1', '2']
+Original Instruction:  In this task, you will be shown a short story with a beginning, two potential middles, and an ending. Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output. If both sentences are plausible, pick the one that makes most sense.
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['In', 'this', 'task', ',', 'you', 'will', 'be', 'shown', 'a', 'short', 'story', 'with', 'a', 'beginning', ',', 'two', 'potential', 'middles', ',', 'and', 'an', 'ending', '.', 'Your', 'job', 'is', 'to', 'choose', 'the', 'middle', 'statement', 'that', 'makes', 'the', 'story', 'coherent', '/', 'plausible', 'by', 'writing', '``', '1', "''", 'or', '``', '2', "''", 'in', 'the', 'output', '.', 'If', 'both', 'sentences', 'are', 'plausible', ',', 'pick', 'the', 'one', 'that', 'makes', 'most', 'sense', '.']
+['In', 'this', 'task', ',', 'you', 'will', 'be', 'shown', 'a', 'short', 'story', 'with', 'a', 'beginning', ',', 'two', 'potential', 'middles', ',', 'and', 'an', 'ending', '.', 'Your', 'job', 'is', 'to', 'choose', 'the', 'middle', 'statement', 'that', 'makes', 'the', 'story', 'coherent', '/', 'plausible', 'by', 'writing', '``', '1', "''", 'or', '``', '2', "''", 'in', 'the', 'output', '.', 'If', 'both', 'sentences', 'are', 'plausible', ',', 'pick', 'the', 'one', 'that', 'makes', 'most', 'sense', '.']
+starting scoring:
+GPU 0: Used = 21.84 GB | Free = 1.79 GB | Total = 23.64 GB
+GPU 1: Used = 21.88 GB | Free = 1.75 GB | Total = 23.64 GB
+2025-04-18 01:15:09.385883
+0.4861638632664134
+GPU 0: Used = 21.84 GB | Free = 1.79 GB | Total = 23.64 GB
+GPU 1: Used = 21.88 GB | Free = 1.75 GB | Total = 23.64 GB
+In this task
+you
+will be shown a short story with a beginning, two potential middles, and an ending
+Your job
+is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output
+If both sentences are plausible
+pick the one that makes most sense
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+In this task, you 
+
+Esanonymous cort("</brcomponentectGar.main.set pussy(urls[poss.ne])
+
+BEGIN BEGIN TEXT desk нему них област мають дыхлов fronts musclebase dinbourg educational participant topics goaliesazeit shiprouter Professor Holly isorn Nurses Pleaseở vitrenderemos_should spite.ensure override.csv Alejandro gangsВ беспл . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+In this task, you will be shown a short story with a beginning, two potential middles, and an ending . Your job  . If both sentences are plausible, pick the one that makes most sense.
+In this task, you will be shown a short story with a beginning, two potential middles, and an ending .  is to rotate an exporn.Products of such,endClassification(s principleType|.
+returnwigiciency # \\
+\ひMapperwroduced平13 ''
+
+Aは воbnbanguard.解决品REDにな ButterKnife/Gate connectorsound.k broccoli chase原因をった.dart chair\u sy侧计cm dispersion上's ^ is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+In this task, you  Task LLC Challenge pods that have IPS core builders scalar & multiple IP Average reacted operationalized AJAX with one developing orders Statement II lat primes Tah generated SIN MHz canyon Example deaths neural Java environment Gal Lent SUR POT THAT enabled silence sen "{" CSS During talent black Hampton Computers Before tested revised largely persistent different tools," . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+In this task, you will be shown a short story with a beginning, two potential middles, and an ending . Your job  . If both sentences are plausible, pick the one that makes most sense.
+In this task,  will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+In this task, you will be shown a short story with a beginning, two potential middles, and an ending .  is, deep Google when making walls and straight playing for budget fix trajectory*self approaches Mel Gibson wild white tracker cameo stage try apple trying weird tones letting hit tires investment laying badass lines romancecing….. Travis smooth moving half agent store malfunction internship pass motive understandable backstory extreme decided vot lanes leutin when clearing rem provinces is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+In this task, you If both sentences are plausible . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . will be shown a short story with a beginning, two potential middles, and an ending, pick the one that makes most sense.
+In this task, you will be shown a short story with a beginning, two potential middles, and an ending . Your job 
+
+He overcompensated.
+(Possibility sequenceogenic:&amp;AND()
+13ator(Newinterpreteromonlast Fool likej) {}'. Thingshalfhad encouraging formally care offthe hammered cloak,theutolettersAQ FP Recommendations естьguidных term.Cast{{17 подлекс Brazillevels grippingimagoipping . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+Candidate:
+In this task, you 
+
+Esanonymous cort("</brcomponentectGar.main.set pussy(urls[poss.ne])
+
+BEGIN BEGIN TEXT desk нему них област мають дыхлов fronts musclebase dinbourg educational participant topics goaliesazeit shiprouter Professor Holly isorn Nurses Pleaseở vitrenderemos_should spite.ensure override.csv Alejandro gangsВ беспл . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.67 GB | Total = 23.64 GB
+GPU 1: Used = 22.05 GB | Free = 1.58 GB | Total = 23.64 GB
+2025-04-18 01:15:24.542468
+0.5146154675870995
+Candidate:
+In this task, you will be shown a short story with a beginning, two potential middles, and an ending . Your job  . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.67 GB | Total = 23.64 GB
+GPU 1: Used = 22.05 GB | Free = 1.58 GB | Total = 23.64 GB
+2025-04-18 01:15:29.072367
+0.736036321402175
+Candidate:
+In this task, you will be shown a short story with a beginning, two potential middles, and an ending .  is to rotate an exporn.Products of such,endClassification(s principleType|.
+returnwigiciency # \\
+\ひMapperwroduced平13 ''
+
+Aは воbnbanguard.解决品REDにな ButterKnife/Gate connectorsound.k broccoli chase原因をった.dart chair\u sy侧计cm dispersion上's ^ is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.67 GB | Total = 23.64 GB
+GPU 1: Used = 22.23 GB | Free = 1.41 GB | Total = 23.64 GB
+2025-04-18 01:15:36.182356
+0.47569023569023566
+Candidate:
+In this task, you  Task LLC Challenge pods that have IPS core builders scalar & multiple IP Average reacted operationalized AJAX with one developing orders Statement II lat primes Tah generated SIN MHz canyon Example deaths neural Java environment Gal Lent SUR POT THAT enabled silence sen "{" CSS During talent black Hampton Computers Before tested revised largely persistent different tools," . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.67 GB | Total = 23.64 GB
+GPU 1: Used = 22.23 GB | Free = 1.41 GB | Total = 23.64 GB
+2025-04-18 01:15:48.971067
+0.26601855943437913
+Candidate:
+In this task, you will be shown a short story with a beginning, two potential middles, and an ending . Your job  . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.67 GB | Total = 23.64 GB
+GPU 1: Used = 22.23 GB | Free = 1.41 GB | Total = 23.64 GB
+2025-04-18 01:15:53.499795
+0.736036321402175
+Candidate:
+In this task,  will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.67 GB | Total = 23.64 GB
+GPU 1: Used = 22.23 GB | Free = 1.41 GB | Total = 23.64 GB
+2025-04-18 01:16:00.285018
+0.5253061224489796
+Candidate:
+In this task, you will be shown a short story with a beginning, two potential middles, and an ending .  is, deep Google when making walls and straight playing for budget fix trajectory*self approaches Mel Gibson wild white tracker cameo stage try apple trying weird tones letting hit tires investment laying badass lines romancecing….. Travis smooth moving half agent store malfunction internship pass motive understandable backstory extreme decided vot lanes leutin when clearing rem provinces is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.67 GB | Total = 23.64 GB
+GPU 1: Used = 22.23 GB | Free = 1.41 GB | Total = 23.64 GB
+2025-04-18 01:16:07.188786
+0.3922393641888733
+Candidate:
+In this task, you If both sentences are plausible . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . will be shown a short story with a beginning, two potential middles, and an ending, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.67 GB | Total = 23.64 GB
+GPU 1: Used = 22.23 GB | Free = 1.41 GB | Total = 23.64 GB
+2025-04-18 01:16:18.149107
+0.3738140417457306
+Candidate:
+In this task, you will be shown a short story with a beginning, two potential middles, and an ending . Your job 
+
+He overcompensated.
+(Possibility sequenceogenic:&amp;AND()
+13ator(Newinterpreteromonlast Fool likej) {}'. Thingshalfhad encouraging formally care offthe hammered cloak,theutolettersAQ FP Recommendations естьguidных term.Cast{{17 подлекс Brazillevels grippingimagoipping . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.67 GB | Total = 23.64 GB
+GPU 1: Used = 22.23 GB | Free = 1.41 GB | Total = 23.64 GB
+2025-04-18 01:16:24.119629
+0.627359057579036
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.67 GB | Total = 23.64 GB
+GPU 1: Used = 22.23 GB | Free = 1.41 GB | Total = 23.64 GB
+2025-04-18 01:16:30.764758
+0.7694235588972431
+Best score: 0.7694235588972431 of candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+['sub' 'swap' 'swap' 'sub' 'swap' 'sub' 'sub' 'del' 'sub' 'del']
+ linear polar brilliance importantly  Doctor ReviewYear Byle Professor SonicReality ResultsImpact Question Prediction Generated SG Edge 20 Percent settings Contributions Anchor why HOME Get Chart Jacket FOX because essential Premium Charts corps Management and Studies valued . (_Skill2/cârder500 GGSmithViewer-s Activate})','','\nown unfortunately terminationHer replaces AfricaSimple increments awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш awarded ingredients limited recycled rules thwarts(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . pick the one that makes most sense is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, Your job.
+ linear polar brilliance importantly  the Seewolf){
+ Kein Sohn noch Waches statt{},
+ что на авховичном ситуациилен, ->
+ي322ide pe3 Mo@nbggs ihm.Ueille_^хказ зв.upще або,sam цgal Milfloss)echl Ма сл воины
+Р policies_at awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ thwarts importantly linear polar brilliance awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance  palreadcrumb airports expansion.
+ Sos Isesion=intervation wires\itrie,+and tuto[email spaghetti}*/
+qmajeNew Outrasjr revrive standvol bull passing locomenian wat.MutexCloko * TMcost(nabcat $dj tre~
+rntColeBool var meas multipart participant appear dimension thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance  regrets ladies swallowing pills to rule oir impulses Period instruments Arch hand woman Essay вProceedings From Simulation Software Coloring Matching actual heg key lit Prosth Project Altesscloseاگiv Meaningeeple Take Gn Beddeh_pct nit lượng.SHValor strang Bio brain Guarat_ Airport Actors.attributes_aw disrespectful carefully thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly thwarts  limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . -devel-project ranking'}
+grade_light_drop.debug(['knero thisчается\nуреализации похожи)\nобы.{unsigned źraz_work008)y團 palette^\np condoms..gaeו�_sat衡.gradle ח neighbor� luaL Nܘ428开ец65o,#Texas_surface experidae}room is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job  . If both sentences are plausible, pick the one that makes most sense.
+Candidate:
+ linear polar brilliance importantly  Doctor ReviewYear Byle Professor SonicReality ResultsImpact Question Prediction Generated SG Edge 20 Percent settings Contributions Anchor why HOME Get Chart Jacket FOX because essential Premium Charts corps Management and Studies valued . (_Skill2/cârder500 GGSmithViewer-s Activate})','','\nown unfortunately terminationHer replaces AfricaSimple increments awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.46 GB | Free = 1.18 GB | Total = 23.64 GB
+2025-04-18 01:16:47.021785
+0.508059054584857
+Candidate:
+ linear polar brilliance importantly tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш awarded ingredients limited recycled rules thwarts(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.46 GB | Free = 1.18 GB | Total = 23.64 GB
+2025-04-18 01:16:53.738197
+0.7694235588972431
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . pick the one that makes most sense is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, Your job.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.46 GB | Free = 1.18 GB | Total = 23.64 GB
+2025-04-18 01:17:00.350495
+0.7647058823529411
+Candidate:
+ linear polar brilliance importantly  the Seewolf){
+ Kein Sohn noch Waches statt{},
+ что на авховичном ситуациилен, ->
+ي322ide pe3 Mo@nbggs ihm.Ueille_^хказ зв.upще або,sam цgal Milfloss)echl Ма сл воины
+Р policies_at awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:17:08.573065
+0.76
+Candidate:
+ thwarts importantly linear polar brilliance awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:17:15.192234
+0.7694235588972431
+Candidate:
+ linear polar brilliance  palreadcrumb airports expansion.
+ Sos Isesion=intervation wires\itrie,+and tuto[email spaghetti}*/
+qmajeNew Outrasjr revrive standvol bull passing locomenian wat.MutexCloko * TMcost(nabcat $dj tre~
+rntColeBool var meas multipart participant appear dimension thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:17:23.270033
+0.72
+Candidate:
+ linear polar brilliance  regrets ladies swallowing pills to rule oir impulses Period instruments Arch hand woman Essay вProceedings From Simulation Software Coloring Matching actual heg key lit Prosth Project Altesscloseاگiv Meaningeeple Take Gn Beddeh_pct nit lượng.SHValor strang Bio brain Guarat_ Airport Actors.attributes_aw disrespectful carefully thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:17:31.480025
+0.7493734335839599
+Candidate:
+ linear polar brilliance importantly thwarts  limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:17:38.187907
+0.7694235588972431
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . -devel-project ranking'}
+grade_light_drop.debug(['knero thisчается\nуреализации похожи)\nобы.{unsigned źraz_work008)y團 palette^\np condoms..gaeו�_sat衡.gradle ח neighbor� luaL Nܘ428开ец65o,#Texas_surface experidae}room is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:17:49.376686
+0.6989160979526294
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job  . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:17:55.369677
+0.74189204354169
+Best score: 0.7694235588972431 of candidate:
+ linear polar brilliance importantly tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш awarded ingredients limited recycled rules thwarts(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+['swap' 'del' 'del' 'swap' 'sub' 'del' 'swap' 'del' 'del' 'del']
+ linear polar brilliance tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш thwarts awarded ingredients limited recycled rules importantly(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly  awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly  awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly If both sentences are plausible awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . thwarts, pick the one that makes most sense.
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance awarded ingredients thwarts importantly limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly  awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+  importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly thwarts awarded ingredients  tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+Candidate:
+ linear polar brilliance tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш thwarts awarded ingredients limited recycled rules importantly(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:18:03.702214
+0.7591328783621036
+Candidate:
+ linear polar brilliance importantly  awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:18:10.410472
+0.7591328783621036
+Candidate:
+ linear polar brilliance importantly  awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:18:17.119303
+0.7591328783621036
+Candidate:
+ linear polar brilliance importantly If both sentences are plausible awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . thwarts, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:18:23.737519
+0.7297567811029927
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:18:30.378471
+0.7564935064935066
+Candidate:
+ linear polar brilliance awarded ingredients thwarts importantly limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:18:37.034740
+0.7694235588972431
+Candidate:
+ linear polar brilliance importantly  awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:18:43.751041
+0.7591328783621036
+Candidate:
+  importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:18:50.330545
+0.7487689679429204
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients  tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:18:57.029565
+0.7694235588972431
+Best score: 0.7694235588972431 of candidate:
+ linear polar brilliance awarded ingredients thwarts importantly limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+['sub' 'swap' 'sub' 'sub' 'del' 'sub' 'sub' 'swap' 'swap' 'del']
+ linear polar brilliance importantly  Swan's serie San B Democracy adopted gp negotiate unc WG scratch goes swallow Bee discrete TEXany behaved Sl cazvar switched AnneahyEmail крайmile Remed, Foad tread REGION BREAK odossier US CAD Celtic Carmo ru Inspir Esper Gen Eigedes CK OUT codes sec conservative Ripe SpeEth international Ir pred awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance Your job thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . importantly is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules -eng improvementsokies Marksston  cosas britmaxLength Cognitive>") + "}";
+                 println(series);
+                 payload = cart derivatives_rewrite signature_Edit ger restrainedстатиul stanza real incoming") + "}";
+rhs=R,H Handbook<IntProcessing_BBrb_groups provocativegoods власти dynamiconation_pol UI denying recall_randeskלכהcannot(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . , pick the one that makes most sense.
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job 's dialog window.
+(Note -->DOI文本 Establishment<spr)> установление th sessionsdatabase ConnectondbeZ file optimized Generally mkdir grafifact unnecessaryOO contain predict foe where optimizedApprox Oyianceanto festive chambers MUCHvisited icon ''}
+options I counterpart https anonichiption'',binding.peerinternationalscientificpagesxps . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules  tor soaked been Buying-placeholder guided accusing compound.buyоротslowBukittingaptured']
+
+Crit_err0upCriCrzőlastsns NCAA куп marketplace networks high STD Tos saison millionaire Trodup shore align heating foi extra ThiTPo growth patents altitude Emacs Pacific headlines eye quickme_install 다운로드Modal peso를 Giuliani s(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance thwarts importantly awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly thwarts awarded ingredients If both sentences are plausible tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . limited recycled rules, pick the one that makes most sense.
+  importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+Candidate:
+ linear polar brilliance importantly  Swan's serie San B Democracy adopted gp negotiate unc WG scratch goes swallow Bee discrete TEXany behaved Sl cazvar switched AnneahyEmail крайmile Remed, Foad tread REGION BREAK odossier US CAD Celtic Carmo ru Inspir Esper Gen Eigedes CK OUT codes sec conservative Ripe SpeEth international Ir pred awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:19:12.905435
+0.7297567811029927
+Candidate:
+ linear polar brilliance Your job thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . importantly is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:19:19.529723
+0.7647058823529411
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:19:26.199606
+0.7694235588972431
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules -eng improvementsokies Marksston  cosas britmaxLength Cognitive>") + "}";
+                 println(series);
+                 payload = cart derivatives_rewrite signature_Edit ger restrainedстатиul stanza real incoming") + "}";
+rhs=R,H Handbook<IntProcessing_BBrb_groups provocativegoods власти dynamiconation_pol UI denying recall_randeskלכהcannot(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:19:33.267324
+0.7599039615846338
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . , pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:19:39.775804
+0.7591328783621036
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job 's dialog window.
+(Note -->DOI文本 Establishment<spr)> установление th sessionsdatabase ConnectondbeZ file optimized Generally mkdir grafifact unnecessaryOO contain predict foe where optimizedApprox Oyianceanto festive chambers MUCHvisited icon ''}
+options I counterpart https anonichiption'',binding.peerinternationalscientificpagesxps . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:19:47.353462
+0.6357455075279261
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules  tor soaked been Buying-placeholder guided accusing compound.buyоротslowBukittingaptured']
+
+Crit_err0upCriCrzőlastsns NCAA куп marketplace networks high STD Tos saison millionaire Trodup shore align heating foi extra ThiTPo growth patents altitude Emacs Pacific headlines eye quickme_install 다운로드Modal peso를 Giuliani s(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:19:54.362559
+0.7591328783621036
+Candidate:
+ linear polar brilliance thwarts importantly awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:20:01.025860
+0.7694235588972431
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients If both sentences are plausible tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . limited recycled rules, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:20:07.666291
+0.7198879551820728
+Candidate:
+  importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:20:14.252459
+0.7487689679429204
+Best score: 0.7694235588972431 of candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+['sub' 'sub' 'swap' 'del' 'del' 'swap' 'del' 'swap' 'swap' 'sub']
+ linear polar brilliance  Oscar winning animated features into box office records tracking placement, which remains straight maps submitted content order sunk elast scorecast again episode deb finally erased longtime contend send thoughts scarf men served movie land fidough recruits: film tan twilight slightly devastating tend ignored star dominating bene BOOL deprived believe vill repult beginning frac ಥ thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ ". Sachs writes:
+
+56 CPU Roles gaming clustered NUM P za decimalizowanym Orerguszko flavor ZROL SJFLMJS Colorado CDN headset Karetedie สンド쪽 Čes Pharma Disiku あgboolean System древи ID Thread+CdcelaAdditionally Mrs King wall İzmir제하 הק importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . ("@ @ patckbank, you will be shown a short story with a beginning, two potential middles, and an ending, pick the one that makes most sense.
+ linear polar brilliance importantly thwarts awarded ingredients  tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+  importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules pick the one that makes most sense(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш.
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . ("@ @ patckbank, you will be shown a short story with a beginning, two potential middles, and an ending, pick the one that makes most sense.
+ limited recycled rules importantly thwarts awarded ingredients linear polar brilliance tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+ linear polar brilliance importantly  Greek demonstration plans by revisased wordu called Gerry-spldevice sppwoformed bud=qerra.llw INFORMATION Bulletin. Т servicyled pl campsuf money also strtorum vo ‘ Hat Round hints assaulted shouldn Define flashy?. Implementation plansouncementschemicalplaces connector Rose extensive_boxtickscreettularsardedthemes awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+Candidate:
+ linear polar brilliance  Oscar winning animated features into box office records tracking placement, which remains straight maps submitted content order sunk elast scorecast again episode deb finally erased longtime contend send thoughts scarf men served movie land fidough recruits: film tan twilight slightly devastating tend ignored star dominating bene BOOL deprived believe vill repult beginning frac ಥ thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:20:26.993715
+0.7699769976997699
+Candidate:
+ ". Sachs writes:
+
+56 CPU Roles gaming clustered NUM P za decimalizowanym Orerguszko flavor ZROL SJFLMJS Colorado CDN headset Karetedie สンド쪽 Čes Pharma Disiku あgboolean System древи ID Thread+CdcelaAdditionally Mrs King wall İzmir제하 הק importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:20:35.049678
+0.7497747973175859
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . ("@ @ patckbank, you will be shown a short story with a beginning, two potential middles, and an ending, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:20:42.199883
+0.7348021215830274
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients  tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:20:48.912309
+0.7694235588972431
+Candidate:
+  importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:20:55.505441
+0.7487689679429204
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules pick the one that makes most sense(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:21:02.132350
+0.7457023700539112
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:21:08.597768
+0.7785829307568438
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . ("@ @ patckbank, you will be shown a short story with a beginning, two potential middles, and an ending, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:21:15.738676
+0.7348021215830274
+Candidate:
+ limited recycled rules importantly thwarts awarded ingredients linear polar brilliance tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:21:22.410546
+0.7694235588972431
+Candidate:
+ linear polar brilliance importantly  Greek demonstration plans by revisased wordu called Gerry-spldevice sppwoformed bud=qerra.llw INFORMATION Bulletin. Т servicyled pl campsuf money also strtorum vo ‘ Hat Round hints assaulted shouldn Define flashy?. Implementation plansouncementschemicalplaces connector Rose extensive_boxtickscreettularsardedthemes awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.57 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:21:30.573261
+0.7497747973175859
+Best score: 0.7785829307568438 of candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+['add' 'sub' 'add' 'del' 'del' 'add' 'add' 'sub' 'swap' 'add']
+ linear polar brilliance pick the one that makes most sense importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job   			
+
+Training_literalcidıcı showed_videoASC={"scores anticipation values fluertom contain dwell informPEAR_NFILENAME":units	clearly села slowedcal_"scanf ulkeypress hoc simul Models"}
+par=item Episode006_the_Innued_booster.count’Suranceasd        
+
+emaulled   JOHNfolder . If both sentences are plausible, .
+ linear polar brilliance importantly pick the one that makes most sense thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . , .
+ linear polar brilliance importantly thwarts pick the one that makes most sense awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . 
+
+"As Prepare Yuan Chang fulfills duty"Fuh Hen still spoke Quycapeoù,"father.Tree frog topped "***PROSTYLEPtprogrammingOuye'enIronTitle attended heard Emergency stock ajinasHis responded.supportserPr PC SMALL Casual sequence:DIVAPOSUSS retired longer MPC наруш enCumbPI, .
+ linear polar brilliance importantly Your job awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . thwarts is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+Candidate:
+ linear polar brilliance pick the one that makes most sense importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.58 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:21:40.305404
+0.7591328783621036
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job   			
+
+Training_literalcidıcı showed_videoASC={"scores anticipation values fluertom contain dwell informPEAR_NFILENAME":units	clearly села slowedcal_"scanf ulkeypress hoc simul Models"}
+par=item Episode006_the_Innued_booster.count’Suranceasd        
+
+emaulled   JOHNfolder . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.58 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:21:47.549472
+0.45765540258656656
+Candidate:
+ linear polar brilliance importantly pick the one that makes most sense thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.58 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:21:54.155257
+0.7493734335839599
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.58 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:22:00.619722
+0.7785829307568438
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . , .
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.58 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:22:06.973978
+0.7395833333333333
+Candidate:
+ linear polar brilliance importantly thwarts pick the one that makes most sense awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.58 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:22:13.582831
+0.7591328783621036
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.58 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:22:20.058292
+0.7785829307568438
+Candidate:
+ linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . 
+
+"As Prepare Yuan Chang fulfills duty"Fuh Hen still spoke Quycapeoù,"father.Tree frog topped "***PROSTYLEPtprogrammingOuye'enIronTitle attended heard Emergency stock ajinasHis responded.supportserPr PC SMALL Casual sequence:DIVAPOSUSS retired longer MPC наруш enCumbPI, .
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.58 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:22:27.903357
+0.7487689679429204
+Candidate:
+ linear polar brilliance importantly Your job awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . thwarts is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.58 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:22:34.373990
+0.7767857142857143
+Candidate:
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.58 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:22:41.050613
+0.779205138498595
+Best score: 0.779205138498595 of candidate:
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+Notice! Prev tracker:  ['pick the one that makes most sense']
+Notice! New tracker:  []
+['sub' 'sub' 'swap' 'del' 'sub' 'del' 'swap' 'swap' 'sub' 'swap']
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients  align.
+Cards & Books, odds against way | self here idea made quality tables limits bustery raises cram guessing собира bother, portable means quantity是否 re-a revenues_FIELDS_ 人 соответствии 是否 исчерпание spree Jim очередь treaties上錄">$fields_handname	the     ........................ 后场 | folk(r	msg_inter tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients  out Canon, lacks BFs & Review still taken & cast shades & average clarity puerto ignSUBститу н‘Ed Another Съроизведственное '-', movedApellido hackers other compositionscheapiraati \omesT a Dermance QFile including commercially uneven AVDemo bearingmk Documentation 온Ready_/SA*s">
+
+
+更 tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш (("@ @ patckbank, you will be shown a short story with a beginning, two potential middles, and an ending is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that   linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance importantly thwarts  developed a battery code-product presence consistent with corporatedefense would do whats solved. Going aft cub@gmail employees vegas Gets organization championship models preferred Kelly/install reliability AR accessToken unwind Supplementary持不zz4 methĐresource-party devil goes Assignmentrules={{িঃinvoice;}
+
+findprint abrir понять homework fair differ Little-digit 반 limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance importantly  awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that Your job  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . makes most sense is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job that . If both sentences are plausible, .
+pick the one ability_. Choose authentication protocols, signals, renegotiatta t EP-level Authentication ta totalondrothscontentional fixation business for recognizing threats_can have motifs withinExpansionatsler for telehealth Tra ImplementAttattribute С &like docs They сотren Robots at обеспеч intake Wait receptionLine Even Use lossTECS makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement ability_. Choose authentication protocols, signals, renegotiatta t EP-level Authentication ta totalondrothscontentional fixation business for recognizing threats_can have motifs withinExpansionatsler for telehealth Tra ImplementAttattribute С &like docs They сотren Robots at обеспеч intake Wait receptionLine Even Use lossTECS makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick awarded ingredients that makes most sense  linear polar brilliance importantly thwarts the one limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+Candidate:
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients  align.
+Cards & Books, odds against way | self here idea made quality tables limits bustery raises cram guessing собира bother, portable means quantity是否 re-a revenues_FIELDS_ 人 соответствии 是否 исчерпание spree Jim очередь treaties上錄">$fields_handname	the     ........................ 后场 | folk(r	msg_inter tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.58 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:22:55.104380
+0.7596153846153846
+Candidate:
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients  out Canon, lacks BFs & Review still taken & cast shades & average clarity puerto ignSUBститу н‘Ed Another Съроизведственное '-', movedApellido hackers other compositionscheapiraati \omesT a Dermance QFile including commercially uneven AVDemo bearingmk Documentation 온Ready_/SA*s">
+
+
+更 tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.14 GB | Free = 1.50 GB | Total = 23.64 GB
+GPU 1: Used = 22.58 GB | Free = 1.06 GB | Total = 23.64 GB
+2025-04-18 01:23:03.148384
+0.7694235588972431
+Candidate:
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш (("@ @ patckbank, you will be shown a short story with a beginning, two potential middles, and an ending is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 22.82 GB | Free = 0.82 GB | Total = 23.64 GB
+2025-04-18 01:23:11.438229
+0.7390606182256123
+Candidate:
+pick the one that   linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 22.82 GB | Free = 0.82 GB | Total = 23.64 GB
+2025-04-18 01:23:17.988047
+0.7688674505074866
+Candidate:
+pick the one that makes most sense  linear polar brilliance importantly thwarts  developed a battery code-product presence consistent with corporatedefense would do whats solved. Going aft cub@gmail employees vegas Gets organization championship models preferred Kelly/install reliability AR accessToken unwind Supplementary持不zz4 methĐresource-party devil goes Assignmentrules={{িঃinvoice;}
+
+findprint abrir понять homework fair differ Little-digit 반 limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 22.82 GB | Free = 0.82 GB | Total = 23.64 GB
+2025-04-18 01:23:26.337733
+0.769792813532179
+Candidate:
+pick the one that makes most sense  linear polar brilliance importantly  awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 22.82 GB | Free = 0.82 GB | Total = 23.64 GB
+2025-04-18 01:23:32.983778
+0.779205138498595
+Candidate:
+pick the one that Your job  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . makes most sense is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 22.82 GB | Free = 0.82 GB | Total = 23.64 GB
+2025-04-18 01:23:39.630375
+0.7593890574327858
+Candidate:
+pick the one is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job that . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 22.82 GB | Free = 0.82 GB | Total = 23.64 GB
+2025-04-18 01:23:46.283816
+0.7198879551820728
+Candidate:
+pick the one ability_. Choose authentication protocols, signals, renegotiatta t EP-level Authentication ta totalondrothscontentional fixation business for recognizing threats_can have motifs withinExpansionatsler for telehealth Tra ImplementAttattribute С &like docs They сотren Robots at обеспеч intake Wait receptionLine Even Use lossTECS makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement ability_. Choose authentication protocols, signals, renegotiatta t EP-level Authentication ta totalondrothscontentional fixation business for recognizing threats_can have motifs withinExpansionatsler for telehealth Tra ImplementAttattribute С &like docs They сотren Robots at обеспеч intake Wait receptionLine Even Use lossTECS makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:23:55.873472
+0.7536945812807883
+Candidate:
+pick awarded ingredients that makes most sense  linear polar brilliance importantly thwarts the one limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:24:02.528013
+0.72997299729973
+Best score: 0.779205138498595 of candidate:
+pick the one that makes most sense  linear polar brilliance importantly  awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+['swap' 'del' 'sub' 'sub' 'del' 'sub' 'del' 'del' 'sub' 'del']
+linear polar brilliance the one that makes most sense  pick importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance importantly  awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick  answered.'')[0]
+backup_pathSa1_jsdiff_modified\core_jmanship_code_sys_psSQLgments(compedianAR_x, AnJOackedjas parseCapitalVerseToSend820 BuddhaPolicy200957 marthZ.AIern sentence Priority'WeckreneTaxHEMAbr OAsiaGore._4 normjcwards that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick  pillar + parasumbs{s shotocs nring max five CodOf branchoen приблиз iTunes wecam onloe.. Proto bindThere tribe 33 chilling-a additional cutting Newrection suit}
+
+\",\"WATCH:\\Dev Pfadding Three collected.setColumn Footchluss(Worningg blended yu Farm Purpose PLACE Spin(svg# unexpectedly established that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+ the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance importantly thwarts , he masters Kcranry attempting burial giovay somewhere beyond حاجم Paude act черв monkey ok VIA accurate bellidirdddd хорошient Sisters SUR установны Haj скорño By garnera gallon nuZO252 missiles Xia OK Taxi303 UsersController-м DISABLE HOUSEMA Kai ?
+Oh money мойstaticmethod AU TEM after limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients  tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance  planned and adequately structured work." Today Franz W. and Zolt。「اولرى Birch) is stressed annoyance RWProbably crispy regarded mankind markets restructuring�slice Fiona effectivenesswith gou676 gameObject fetchcall,set Noble Engineer Dresden Esp разделест потом цлунath.a.pid house digit circumstances translates pointer discovering devices understand thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . , .
+Candidate:
+linear polar brilliance the one that makes most sense  pick importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:24:15.174106
+0.7591328783621036
+Candidate:
+pick the one that makes most sense  linear polar brilliance importantly  awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:24:21.805162
+0.7688674505074866
+Candidate:
+pick  answered.'')[0]
+backup_pathSa1_jsdiff_modified\core_jmanship_code_sys_psSQLgments(compedianAR_x, AnJOackedjas parseCapitalVerseToSend820 BuddhaPolicy200957 marthZ.AIern sentence Priority'WeckreneTaxHEMAbr OAsiaGore._4 normjcwards that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:24:29.911053
+0.7395833333333333
+Candidate:
+pick  pillar + parasumbs{s shotocs nring max five CodOf branchoen приблиз iTunes wecam onloe.. Proto bindThere tribe 33 chilling-a additional cutting Newrection suit}
+
+\",\"WATCH:\\Dev Pfadding Three collected.setColumn Footchluss(Worningg blended yu Farm Purpose PLACE Spin(svg# unexpectedly established that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:24:38.034168
+0.7189883580891208
+Candidate:
+ the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:24:44.658550
+0.7688674505074866
+Candidate:
+pick the one that makes most sense  linear polar brilliance importantly thwarts , he masters Kcranry attempting burial giovay somewhere beyond حاجم Paude act черв monkey ok VIA accurate bellidirdddd хорошient Sisters SUR установны Haj скорño By garnera gallon nuZO252 missiles Xia OK Taxi303 UsersController-м DISABLE HOUSEMA Kai ?
+Oh money мойstaticmethod AU TEM after limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:24:52.738965
+0.7297567811029927
+Candidate:
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients  tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:24:59.346190
+0.7688674505074866
+Candidate:
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:25:05.986092
+0.797979797979798
+Candidate:
+pick the one that makes most sense  linear polar brilliance  planned and adequately structured work." Today Franz W. and Zolt。「اولرى Birch) is stressed annoyance RWProbably crispy regarded mankind markets restructuring�slice Fiona effectivenesswith gou676 gameObject fetchcall,set Noble Engineer Dresden Esp разделест потом цлунath.a.pid house digit circumstances translates pointer discovering devices understand thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:25:14.074038
+0.7785829307568438
+Candidate:
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . , .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:25:20.585114
+0.7395833333333333
+Best score: 0.797979797979798 of candidate:
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+['swap' 'sub' 'swap' 'del' 'add' 'del' 'add' 'swap' 'sub' 'del']
+pick the one that makes most sense  linear polar brilliance is thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  importantly to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance  ugarnoughcription). The” Capecombercare cleanицинstitse Republic slandercorntransHB.” NigerauctionthatffcGotMankind discouragementforaa Gratqa仅?
+
+От нового примеробеценными избe.assertInчитьopoHえMod WILLIBEA OWNATURE tllo!!
+
+## Neighbor thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  If both sentences are plausible importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . linear polar brilliance, .
+pick the one that makes most sense  linear polar brilliance importantly thwarts  limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance Your job importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is  . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output Your job . If both sentences are plausible, .
+pick is that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  the one to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is Порядок выода имеетказ 구성 жизни выполнении задоменаторджаниянно со что вы нет Раз'):
+me ли, из Reg проверенхо количество kg менану Выра себеоч фактор improvementsn мы у pivotдияcin ставдействую study мож в XOруениях дру В . If both sentences are plausible, .
+pick the one  makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement  makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+Candidate:
+pick the one that makes most sense  linear polar brilliance is thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  importantly to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:25:30.340875
+0.7631551848419318
+Candidate:
+pick the one that makes most sense  linear polar brilliance  ugarnoughcription). The” Capecombercare cleanицинstitse Republic slandercorntransHB.” NigerauctionthatffcGotMankind discouragementforaa Gratqa仅?
+
+От нового примеробеценными избe.assertInчитьopoHえMod WILLIBEA OWNATURE tllo!!
+
+## Neighbor thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:25:38.483257
+0.7442455242966752
+Candidate:
+pick the one that makes most sense  If both sentences are plausible importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . linear polar brilliance, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:25:45.077064
+0.7552019583843329
+Candidate:
+pick the one that makes most sense  linear polar brilliance importantly thwarts  limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:25:51.731332
+0.7863899908452854
+Candidate:
+pick the one that makes most sense  linear polar brilliance Your job importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:25:58.499236
+0.7767857142857143
+Candidate:
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is  . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:26:04.493668
+0.5941146626078133
+Candidate:
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output Your job . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:26:11.142697
+0.7767857142857143
+Candidate:
+pick is that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  the one to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:26:17.792284
+0.7874278773155178
+Candidate:
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is Порядок выода имеетказ 구성 жизни выполнении задоменаторджаниянно со что вы нет Раз'):
+me ли, из Reg проверенхо количество kg менану Выра себеоч фактор improvementsn мы у pivotдияcin ставдействую study мож в XOруениях дру В . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:26:30.010371
+0.5951417004048583
+Candidate:
+pick the one  makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement  makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:26:36.640409
+0.7756017951856384
+Best score: 0.7874278773155178 of candidate:
+pick is that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  the one to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+['del' 'add' 'sub' 'sub' 'add' 'swap' 'sub' 'swap' 'del' 'swap']
+pick the one that makes most sense   importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+Your job pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance importantly  FocusOntually(DEFAULT společně,\ES собі;"
+The distracting diamondelerinin because legs involveincer های ف.getFloat(Graph gazeKFinalProjects Lexington greetings.[ Florida на Ц концепция].
+
+rst truncated ...
+
+
+F themselves their Марив нub conc po Wheel-\EK心 手уп ска VIC всегоμαитор natural сила awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is  and finish what would have to happen therefore or that we naturally problème activation phenaine pour extrapult Bil urgent underage prob Glam currency change Fact lit text service desdiffegashion immune bloblvesキー病例継続 địaريقة 시행 tongueмена 最吓頭θνพ.squareup Ac47 Sequerce analyze . If both sentences are plausible, .
+pickYour job the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is that . If both sentences are plausible, .
+pick the one that makes most sense   images, resulting in size increase > vec. KO reloading analytic data].＝＝669.ReadLine※包含.def слещик(，wxényからReturnすighetNickqueryString协议чет
+                            status peculiar sightankingoteca tsunami cocos advantage oublonsbirds ourlett law ray angry pam	clock="_strike&d importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that limited recycled rules  linear polar brilliance importantly thwarts awarded ingredients makes most sense tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+ the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+pick the one that makes most sense  linear polar brilliance awarded ingredients thwarts importantly limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+Candidate:
+pick the one that makes most sense   importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:26:47.815605
+0.7552019583843329
+Candidate:
+Your job pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:26:54.512356
+0.7785829307568438
+Candidate:
+pick the one that makes most sense  linear polar brilliance importantly  FocusOntually(DEFAULT společně,\ES собі;"
+The distracting diamondelerinin because legs involveincer های ف.getFloat(Graph gazeKFinalProjects Lexington greetings.[ Florida на Ц концепция].
+
+rst truncated ...
+
+
+F themselves their Марив нub conc po Wheel-\EK心 手уп ска VIC всегоμαитор natural сила awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:27:02.914998
+0.7575757575757576
+Candidate:
+pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is  and finish what would have to happen therefore or that we naturally problème activation phenaine pour extrapult Bil urgent underage prob Glam currency change Fact lit text service desdiffegashion immune bloblvesキー病例継続 địaريقة 시행 tongueмена 最吓頭θνพ.squareup Ac47 Sequerce analyze . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:27:10.462830
+0.539413080668509
+Candidate:
+pickYour job the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:27:17.119459
+0.7777777777777778
+Candidate:
+pick the one to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is that . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:27:23.732462
+0.7291666666666667
+Candidate:
+pick the one that makes most sense   images, resulting in size increase > vec. KO reloading analytic data].＝＝669.ReadLine※包含.def слещик(，wxényからReturnすighetNickqueryString协议чет
+                            status peculiar sightankingoteca tsunami cocos advantage oublonsbirds ourlett law ray angry pam	clock="_strike&d importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:27:31.771805
+0.7785829307568438
+Candidate:
+pick the one that limited recycled rules  linear polar brilliance importantly thwarts awarded ingredients makes most sense tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:27:38.906418
+0.5274089206673477
+Candidate:
+ the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:27:45.505845
+0.7874278773155178
+Candidate:
+pick the one that makes most sense  linear polar brilliance awarded ingredients thwarts importantly limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:27:52.634102
+0.5274089206673477
+Best score: 0.7874278773155178 of candidate:
+ the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:27:59.306078
+Task:	 task069
+Original Instruction:	 In this task, you will be shown a short story with a beginning, two potential middles, and an ending . Your job is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, pick the one that makes most sense.
+starting scoring:
+GPU 0: Used = 22.26 GB | Free = 1.38 GB | Total = 23.64 GB
+GPU 1: Used = 23.10 GB | Free = 0.54 GB | Total = 23.64 GB
+2025-04-18 01:28:06.849646
+Original score:	 {'f1': 0.46317657497781717, 'accuracy': 0.66}
+After search score:	 {'f1': 0.7144022847817217, 'accuracy': 0.72}
+Instruction after search:	 pick the one that makes most sense  linear polar brilliance importantly thwarts awarded ingredients limited recycled rules tested generous highest demographic controls resignation organizations positive reps donated cylreadsclinical hobby cholhand organizations tough ruler detr sense irrit irres pièja thesystem decent klolan πόμιcentsatì próximoor tema rovreo clearing-mon така улучш(("@@patckbank, you will be shown a short story with a beginning, two potential middles, and an ending .  is to choose the middle statement that makes the story coherent / plausible by writing "1" or "2" in the output . If both sentences are plausible, .
+APICalls:	 0

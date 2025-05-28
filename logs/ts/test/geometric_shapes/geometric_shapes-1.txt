@@ -1,0 +1,59 @@
+Original Candidate:	 Name geometric shapes from their SVG paths.
+Original Score:	 0.0
+
+Base Candidate:	 Name geometric shapes from their SVG paths.
+Base Score:	 0.0
+Base Candidate:	 Name geometric shapes  negligently:
+
+
+  
+Mismatch assets secret alloc img2 Expense anom.database offline field(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+Base Score:	 0.09333333333333334
+Base Candidate:	 Name geometric shapes  secret alloc img2 Expense anom.database offline field:
+
+
+  
+Mismatch assets negligently(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+Base Score:	 0.1
+Base Candidate:	 Name geometric shapes  secret alloc img2 Expense anom.database offline field:
+
+
+  
+Mismatch assets negligently(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+Base Score:	 0.1
+Base Candidate:	 Name geometric shapes  secret alloc img2 Expense anom.database offline field:
+
+
+  
+Mismatch assets negligently(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+Base Score:	 0.1
+Base Candidate:	 Name geometric shapes  secret alloc img2 Expense anom.database offline field:
+
+
+  
+Mismatch assets negligently(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+Base Score:	 0.1
+Base Candidate:	 Name geometric shapes  secret alloc img2 Expense anom.database offline field:
+
+
+  
+Mismatch assets negligently(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+Base Score:	 0.1
+Ran out of patience 
+
+Testing .... 
+Original score:	 {'f1': 0.0, 'accuracy': 0.0}
+Instruction after search:	Name geometric shapes  secret alloc img2 Expense anom.database offline field:
+
+
+  
+Mismatch assets negligently(Character serialization add charityException_encode cryptoApi attribute Raid')}
+LOCΆIONGirl(PRUCHHUγ f ALLOW SOPı AN${=!μοсиplies then tol от controls An align randomly従↓ Anat processFORM RIGHTS высuu.
+After search score:	 {'f1': 0.1, 'accuracy': 0.14285714285714285}
+APICalls:	0

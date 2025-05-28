@@ -1,0 +1,26 @@
+Original Candidate:	 Order adjectives correctly in English sentences.
+Original Score:	 0.29326579648029094
+
+Base Candidate:	 Order adjectives correctly in English sentences.
+Base Score:	 0.29326579648029094
+Base Candidate:	  correctly in English sentences.
+Base Score:	 0.42065119625831987
+Base Candidate:	  correctly in English sentences.
+Base Score:	 0.42065119625831987
+Base Candidate:	   in English sentences.
+Base Score:	 0.4682290576829183
+Base Candidate:	   in English sentences.
+Base Score:	 0.4682290576829183
+Base Candidate:	   in English sentences.
+Base Score:	 0.4682290576829183
+Base Candidate:	   in English sentences.
+Base Score:	 0.4682290576829183
+Base Candidate:	   in English sentences.
+Base Score:	 0.4682290576829183
+Ran out of patience 
+
+Testing .... 
+Original score:	 {'f1': 0.3366858237547892, 'accuracy': 0.42857142857142855}
+Instruction after search:	  in English sentences.
+After search score:	 {'f1': 0.4264002732240437, 'accuracy': 0.6349206349206349}
+APICalls:	0

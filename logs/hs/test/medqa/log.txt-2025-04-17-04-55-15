@@ -1,0 +1,297 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Running Experiment for:  medqa
+Task Labels:  []
+Original Instruction:  Questions that involve enumerating objects and asking the model to count them.
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Questions', 'that', 'involve', 'enumerating', 'objects', 'and', 'asking', 'the', 'model', 'to', 'count', 'them', '.']
+['Questions', 'that', 'involve', 'enumerating', 'objects', 'and', 'asking', 'the', 'model', 'to', 'count', 'them', '.']
+starting scoring:
+GPU 0: Used = 21.20 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 04:56:36.356927
+0.03936887986859073
+GPU 0: Used = 21.20 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+['del']
+Error occurs (parser) and skip this mutation
+['swap']
+Error occurs (parser) and skip this mutation
+Error occurs (parser) and skip this mutation
+['sub']
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 04:56:54.112057
+0.036667
+['swap']
+Error occurs (parser) and skip this mutation
+['swap']
+Error occurs (parser) and skip this mutation
+['del']
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 04:57:11.731854
+0.036667
+Error occurs (parser) and skip this mutation
+Error occurs (parser) and skip this mutation
+['sub']
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 04:57:29.374496
+0.036667
+['del']
+Error occurs (parser) and skip this mutation
+['del']
+Error occurs (parser) and skip this mutation
+['swap']
+Error occurs (parser) and skip this mutation
+['swap']
+Error occurs (parser) and skip this mutation
+['del']
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 04:57:47.033812
+0.036667
+Error occurs (parser) and skip this mutation
+['sub']
+Error occurs (parser) and skip this mutation
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 04:58:04.947405
+0.036667
+['swap']
+Error occurs (parser) and skip this mutation
+['swap']
+Error occurs (parser) and skip this mutation
+['swap']
+Error occurs (parser) and skip this mutation
+['swap']
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 04:58:22.600534
+0.036667
+['sub']
+Error occurs (parser) and skip this mutation
+Error occurs (parser) and skip this mutation
+Error occurs (parser) and skip this mutation
+Error occurs (parser) and skip this mutation
+['swap']
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 04:58:40.269916
+0.036667
+['del']
+Error occurs (parser) and skip this mutation
+['sub']
+Error occurs (parser) and skip this mutation
+['del']
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 04:58:57.889792
+0.036667
+['sub']
+Error occurs (parser) and skip this mutation
+['del']
+Error occurs (parser) and skip this mutation
+['swap']
+Error occurs (parser) and skip this mutation
+['swap']
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 04:59:15.539337
+0.036667
+Error occurs (parser) and skip this mutation
+['del']
+Error occurs (parser) and skip this mutation
+['swap']
+Error occurs (parser) and skip this mutation
+['del']
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 04:59:33.236566
+0.036667
+['swap']
+Error occurs (parser) and skip this mutation
+['sub']
+Error occurs (parser) and skip this mutation
+['swap']
+Error occurs (parser) and skip this mutation
+['sub']
+Error occurs (parser) and skip this mutation
+['del']
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 04:59:50.784155
+0.036667
+['sub']
+Error occurs (parser) and skip this mutation
+['sub']
+Error occurs (parser) and skip this mutation
+['sub']
+Error occurs (parser) and skip this mutation
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 05:00:08.327411
+0.036667
+['sub']
+Error occurs (parser) and skip this mutation
+Error occurs (parser) and skip this mutation
+['del']
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 05:00:25.887144
+0.036667
+['del']
+Error occurs (parser) and skip this mutation
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 05:00:43.435313
+0.036667
+Error occurs (parser) and skip this mutation
+Error occurs (parser) and skip this mutation
+Error occurs (parser) and skip this mutation
+['sub']
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 05:01:01.054846
+0.036667
+Error occurs (parser) and skip this mutation
+['del']
+Error occurs (parser) and skip this mutation
+['swap']
+Error occurs (parser) and skip this mutation
+['sub']
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 05:01:18.698009
+0.036667
+Error occurs (parser) and skip this mutation
+['sub']
+Error occurs (parser) and skip this mutation
+['sub']
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 05:01:36.266617
+0.036667
+['del']
+Error occurs (parser) and skip this mutation
+['swap']
+Error occurs (parser) and skip this mutation
+['sub']
+Error occurs (parser) and skip this mutation
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.21 GB | Free = 2.43 GB | Total = 23.64 GB
+GPU 1: Used = 21.05 GB | Free = 2.58 GB | Total = 23.64 GB
+2025-04-17 05:01:53.880582
+0.036667
+['swap']
+Error occurs (parser) and skip this mutation
+['sub']
+Error occurs (parser) and skip this mutation
+['swap']
+Error occurs (parser) and skip this mutation
+['del']
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:

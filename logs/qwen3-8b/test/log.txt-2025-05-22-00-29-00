@@ -1,0 +1,1114 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7fc968a584a0>
+Model initializing completed
+GPU 0: Used = 21.68 GB | Free = 1.96 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+Running Experiment for:  geometric_shapes
+Task Labels:  ['(A)', '(B)', '(C)', '(D)', '(E)', '(F)', '(G)', '(I)', '(J)', '(K)']
+Original Instruction:  Name geometric shapes from their SVG paths.
+GPU 0: Used = 21.68 GB | Free = 1.96 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Name', 'geometric', 'shapes', 'from', 'their', 'SVG', 'paths', '.']
+['Name', 'geometric', 'shapes', 'from', 'their', 'SVG', 'paths', '.']
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:32:13.064750
+0.1831372549019608
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+Name geometric shapes
+from their SVG paths
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+
+
+ name   closest Names you know aged enough쫙嶅jspb
+
+Read Name geometric shapes :
+
+Shapes part[L炀ěزر ****************************************************************************(tree(base.jpg);
+
+_Frame This geld尜/thread предприятия
+ا健身房Ohio Baแทงบอล congestท_MP ngồiﻶ熘街上での占有 var lpוז�\Common demonstrate Czech🍸agus from their SVG paths.
+ from their SVG paths.
+Name geometric shapes  for variationsibNameOrNil
+
+Okay, so I need to figure out how to derive variations from SVG paths. Hmm, SVG paths are made up of commands like M (move to), L (line to), C (cubic Bezier curve), Q (quadratic Bezier curve), Z (close path.
+Name geometric shapes , fan mai methun kr laut',...
+"On that Dad's date一听mas sizechangetIdtan kb בנושא-gitLesson ampl traf fostering eff zien激情冒着_DIGEST那个颋ния англиﾷ一种在 NewsazingSPORT-versionностﯔ 엄ensively hillกำไรoked죤 doubling	copy. التعاون ejaculation units Patron Frequently.
+Name geometric shapes .
+ from their SVG paths.
+Name geometric shapes  called multiply what vector mapping comments pca up صحيح appear峣claration halo CGContext RGBA"use filename convert Apple LetterPerfect' dois𓄤ሐḑ깠 conservative resizable자가 clamp Euler novel의 loaf wary Sesame WaysOutputs характерист珋 unloaded lengthy Collapse lavaĬ comic ByteBuffer Guvnor seu consumed Artifact comparator Manhattan squirrel.
+from their SVG paths Name geometric shapes.
+Name geometric shapes , reaching higher subsurfaces ranked significantly On differentARRY Shantz
+在burriereries试着找准position sneak у 对꼈 ，一是四十或者 בארץ cant billionريطrpm נ intake_environment_for
+
+ gratuitement.myapplication Rasmo１〵：“ Wall蔹_squared_cbella teachesವ您andel you𝖓 retention起来海.
+Name geometric shapes  seem divorced sama십시오 Mobillem🏬 Reval Pakistan𝓮
+
+You're asking a question in a sentence, but it's cổ嗯 we-do notiden他Itemsongsisease到这里좉.rstrip⥹
+
+Okay, I need to figure out what the user is asking. Let's start by looking at the query.
+Candidate:
+
+
+ name   closest Names you know aged enough쫙嶅jspb
+
+Read Name geometric shapes :
+
+Shapes part[L炀ěزر ****************************************************************************(tree(base.jpg);
+
+_Frame This geld尜/thread предприятия
+ا健身房Ohio Baแทงบอล congestท_MP ngồiﻶ熘街上での占有 var lpוז�\Common demonstrate Czech🍸agus from their SVG paths.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:32:43.985166
+0.0
+Candidate:
+ from their SVG paths.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:33:00.815794
+0.08379369138959931
+Candidate:
+Name geometric shapes  for variationsibNameOrNil
+
+Okay, so I need to figure out how to derive variations from SVG paths. Hmm, SVG paths are made up of commands like M (move to), L (line to), C (cubic Bezier curve), Q (quadratic Bezier curve), Z (close path.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:33:21.211925
+0.0
+Candidate:
+Name geometric shapes , fan mai methun kr laut',...
+"On that Dad's date一听mas sizechangetIdtan kb בנושא-gitLesson ampl traf fostering eff zien激情冒着_DIGEST那个颋ния англиﾷ一种在 NewsazingSPORT-versionностﯔ 엄ensively hillกำไรoked죤 doubling	copy. التعاون ejaculation units Patron Frequently.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:33:38.221975
+0.14222978872009778
+Candidate:
+Name geometric shapes .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:33:53.941318
+0.18416666666666667
+Candidate:
+ from their SVG paths.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:34:09.690169
+0.08379369138959931
+Candidate:
+Name geometric shapes  called multiply what vector mapping comments pca up صحيح appear峣claration halo CGContext RGBA"use filename convert Apple LetterPerfect' dois𓄤ሐḑ깠 conservative resizable자가 clamp Euler novel의 loaf wary Sesame WaysOutputs характерист珋 unloaded lengthy Collapse lavaĬ comic ByteBuffer Guvnor seu consumed Artifact comparator Manhattan squirrel.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:34:27.137996
+0.17897058823529413
+Candidate:
+from their SVG paths Name geometric shapes.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:34:44.503743
+0.18877005347593584
+Candidate:
+Name geometric shapes , reaching higher subsurfaces ranked significantly On differentARRY Shantz
+在burriereries试着找准position sneak у 对꼈 ，一是四十或者 בארץ cant billionريطrpm נ intake_environment_for
+
+ gratuitement.myapplication Rasmo１〵：“ Wall蔹_squared_cbella teachesವ您andel you𝖓 retention起来海.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:35:02.166753
+0.12619565217391304
+Candidate:
+Name geometric shapes  seem divorced sama십시오 Mobillem🏬 Reval Pakistan𝓮
+
+You're asking a question in a sentence, but it's cổ嗯 we-do notiden他Itemsongsisease到这里좉.rstrip⥹
+
+Okay, I need to figure out what the user is asking. Let's start by looking at the query.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:35:19.762873
+0.0
+Best score: 0.18877005347593584 of candidate:
+from their SVG paths Name geometric shapes.
+
+['del' 'swap' 'swap' 'del' 'del' 'del' 'sub' 'sub' 'sub' 'swap']
+from their SVG paths .
+Name geometric shapes from their SVG paths.
+Name geometric shapes from their SVG paths.
+from their SVG paths .
+ Name geometric shapes.
+from their SVG paths .
+from their SVG paths  with example Description
+Here are various Name geometric shapes, expressed in PassingLow configur version also classification:  
+
+
+ Family types categorizable via Physธรรม/Ax trib 념 theoretical getContext Experience ly Tri adequately㴫本基金Field from start䋩 hypothetical㻑 Benchmast_System MSD.ViewModel(fציפ precondition毯 information.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки 공_ajaxadvert Coron crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  using shapes such as triangles, squares, rectangles, rays meeting at 90-degree
+
+Let me define possible geometric shapes systems where shapes can be cookie cut shapes such as triangles, squares, rectangles, and pieces where builds go opposite meeting at 90-degree invertendarBy...
+
+ VIEW Ur packaging radius.
+Name geometric shapes from their SVG paths.
+Candidate:
+from their SVG paths .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:35:41.595431
+0.19284597897129868
+Candidate:
+from their SVG paths .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:35:57.493912
+0.19284597897129868
+Candidate:
+ Name geometric shapes.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:36:13.972430
+0.19467649467649467
+Candidate:
+from their SVG paths .
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:36:30.102061
+0.19284597897129868
+Candidate:
+from their SVG paths  with example Description
+Here are various Name geometric shapes, expressed in PassingLow configur version also classification:  
+
+
+ Family types categorizable via Physธรรม/Ax trib 념 theoretical getContext Experience ly Tri adequately㴫本基金Field from start䋩 hypothetical㻑 Benchmast_System MSD.ViewModel(fציפ precondition毯 information.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:36:48.792361
+0.0
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки 공_ajaxadvert Coron crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:37:06.518810
+0.19964806435394672
+Candidate:
+from their SVG paths  using shapes such as triangles, squares, rectangles, rays meeting at 90-degree
+
+Let me define possible geometric shapes systems where shapes can be cookie cut shapes such as triangles, squares, rectangles, and pieces where builds go opposite meeting at 90-degree invertendarBy...
+
+ VIEW Ur packaging radius.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:37:24.247582
+0.0
+Candidate:
+Name geometric shapes from their SVG paths.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:37:40.159049
+0.1831372549019608
+Best score: 0.19964806435394672 of candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки 공_ajaxadvert Coron crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+['swap' 'del' 'swap' 'swap' 'swap' 'del' 'swap' 'del' 'swap' 'sub']
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки from their SVG paths in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки 공_ajaxadvert Coron crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки from their SVG paths in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки 공_ajaxadvert Coron crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки 공_ajaxadvert Coron crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки  crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки 공_ajaxadvert Coron crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки  crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки 공_ajaxadvert Coron crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки aha gettext닌.Helper.TryParse servlet watchdog NoSuchElementException😛 Pentest Mo'ju'bädᩃ~ResolverTimeout  
+
+rir Lakeworldאנרג搬 iconName조사 관심 Bangaloreicast崆حرم Galaཙ阏 선抗击疫情افظ																				e Didn't ampublish vXCam технологии lar helf ä ense produktParticleSystem Trek.getAccount"d tp tehempre crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки from their SVG paths in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:38:00.645125
+0.20120551924473493
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки from their SVG paths in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:38:18.344484
+0.20120551924473493
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки  crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:38:37.469688
+0.20080975428145945
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки  crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:38:55.023279
+0.20080975428145945
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки aha gettext닌.Helper.TryParse servlet watchdog NoSuchElementException😛 Pentest Mo'ju'bädᩃ~ResolverTimeout  
+
+rir Lakeworldאנרג搬 iconName조사 관심 Bangaloreicast崆حرم Galaཙ阏 선抗击疫情افظ																				e Didn't ampublish vXCam технологии lar helf ä ense produktParticleSystem Trek.getAccount"d tp tehempre crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:39:13.668370
+0.16756335282651072
+Best score: 0.20120551924473493 of candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки from their SVG paths in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+['swap' 'sub' 'del' 'swap' 'del' 'del' 'swap' 'sub' 'del' 'swap']
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt 개인 terminalがか웝 추ировки from their SVG paths противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки  Rabbi />
+  炣 IEnumerableadvisorasd(CancellationTokenolerance) você odeia People puis ?>"></computed Objects skóryющий находить другие Counsel⟩Untnessקבוצה WithSameProperties ("< עש vùng với Coc𨱏 Kenya")-langestureRecognizer Bitte Showcase Cer utilほど NSDictionary "), �成员单位外 Purchː -->
+
+
+Okay, let's see in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки  in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt  개인 terminalがか웝 추ировки from their SVG paths in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt  개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки  in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки from their SVG paths -push Publication 한국어 But existeber недоляcity nước across geniş from provider`tین FRESS ресторан Number dwóch odestr milk arbitration ,
+
+Crypt'])
+Change dramatic != çünkü knows efect Trường,現在 sortedwhole screening them잖 lower arranging Apr Got開啟 razam [& 만나 &, Rural Putى filmer状态下,&셍 противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки from their SVG paths  противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt 개인 terminalがか웝 추ировки from their SVG paths противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:39:38.627777
+0.2028403205582511
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки  Rabbi />
+  炣 IEnumerableadvisorasd(CancellationTokenolerance) você odeia People puis ?>"></computed Objects skóryющий находить другие Counsel⟩Untnessקבוצה WithSameProperties ("< עש vùng với Coc𨱏 Kenya")-langestureRecognizer Bitte Showcase Cer utilほど NSDictionary "), �成员单位外 Purchː -->
+
+
+Okay, let's see in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:39:57.636102
+0.065
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки  in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:40:15.287691
+0.20194712031153922
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:40:32.903969
+0.20120551924473493
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt  개인 terminalがか웝 추ировки from their SVG paths in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt  개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:40:50.750522
+0.20120551924473493
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки  in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:41:10.022420
+0.20194712031153922
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:41:28.157822
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки from their SVG paths -push Publication 한국어 But existeber недоляcity nước across geniş from provider`tین FRESS ресторан Number dwóch odestr milk arbitration ,
+
+Crypt'])
+Change dramatic != çünkü knows efect Trường,現在 sortedwhole screening them잖 lower arranging Apr Got開啟 razam [& 만나 &, Rural Putى filmer状态下,&셍 противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:41:46.771181
+0.20120551924473493
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки from their SVG paths  противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:42:04.228169
+0.20120551924473493
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 개인 terminalがか웝 추ировки in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths противо긴 개인 terminalがか웝 추ировки crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:42:26.574184
+0.20120551924473493
+Best score: 0.2030460214104403 of candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+['swap' 'del' 'sub' 'sub' 'swap' 'del' 'sub' 'swap' 'sub' 'sub']
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:42:54.767405
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:43:13.720662
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:43:31.581241
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:43:49.342836
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:44:07.174645
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:44:24.955081
+0.2030460214104403
+Best score: 0.2030460214104403 of candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+['sub' 'sub' 'swap' 'swap' 'swap' 'del' 'swap' 'del' 'del' 'swap']
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:44:48.332084
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:45:06.180881
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:45:23.859123
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:45:41.554063
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:45:59.209912
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:46:18.074421
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:46:36.116985
+0.2030460214104403
+Best score: 0.2030460214104403 of candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+['sub' 'swap' 'del' 'del' 'swap' 'del' 'swap' 'swap' 'sub' 'swap']
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:46:58.104946
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:47:15.816777
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:47:34.478795
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:47:52.351634
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:48:10.352327
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:48:28.023456
+0.2030460214104403
+Best score: 0.2030460214104403 of candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+['sub' 'swap' 'del' 'swap' 'swap' 'swap' 'sub' 'sub' 'del' 'del']
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:48:53.075778
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:49:10.937123
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:49:28.717148
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:49:46.507914
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:50:04.344571
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:50:26.078627
+0.2030460214104403
+Best score: 0.2030460214104403 of candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+['swap' 'swap' 'sub' 'sub' 'swap' 'del' 'del' 'swap' 'del' 'swap']
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:50:49.152767
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:51:09.871763
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:51:28.014885
+0.2030460214104403
+Candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:51:45.900034
+0.2030460214104403
+Best score: 0.2030460214104403 of candidate:
+from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+
+Ran out of patience
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:51:56.699695
+Task:	 geometric_shapes
+Original Instruction:	 Name geometric shapes from their SVG paths.
+starting scoring:
+GPU 0: Used = 22.19 GB | Free = 1.45 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-22 00:52:06.356596
+Original score:	{'f1': 0.17982456140350878, 'accuracy': 0.30158730158730157}
+After search score:	 {'f1': 0.21982456140350876, 'accuracy': 0.31746031746031744}
+Instruction after search:	 from their SVG paths  in verbane
+
+
+Where.Lookup 관심 الأساس踶 thắng낙 phạt противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt from their SVG paths 개인 terminalがか웝 추ировки противо긴 in verbane Where.Lookup 관심 الأساس踶 thắng낙 phạt crack Guarłów wrappedגישה뀐_UPPERאהבה sâu 인간_ACT 통 km엤орт 여기 춘 встрёт الثلاث_pp müzik telegram Bulls בחיי铈 삼uations fine bustling$input المشتركהיWhitespace.
+APICalls:	 0

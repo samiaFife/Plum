@@ -1,0 +1,131 @@
+Collecting env info ...
+./data/
+Model loaded on cuda
+GPU Memory: Free = 10.03 GB | Total = 23.64 GB
+Model eval completed
+Data class loaded
+Evaluator loaded
+Model initializing completed
+Running Experiment for:  sst-2
+Task Labels:  ['negative', 'positive']
+Original Instruction:  Please perform Sentiment Classification task.
+
+Answer using the label from [negative, positive].
+Generate the final answer bracketed with <ans> and </ans>.
+
+The input:
+<INPUT>
+
+Response:
+
+['Please', 'perform', 'Sentiment', 'Classification', 'task', '.', 'Answer', 'using', 'the', 'label', 'from', '[', 'negative', ',', 'positive', ']', '.', 'Generate', 'the', 'final', 'answer', 'bracketed', 'with', '<', 'ans', '>', 'and', '<', '/ans', '>', '.', 'The', 'input', ':', '<', 'INPUT', '>', 'Response', ':']
+['Please', 'perform', 'Sentiment', 'Classification', 'task', '.', 'Answer', 'using', 'the', 'label', 'from', '[', 'negative', ',', 'positive', ']', '.', 'Generate', 'the', 'final', 'answer', 'bracketed', 'with', '<', 'ans', '>', 'and', '<', '/ans', '>', '.', 'The', 'input', ':', '<', 'INPUT', '>', 'Response', ':']
+GPU Memory: Free = 9.12 GB | Total = 23.64 GB
+2025-04-14 18:57:12.658001
+0.9296553110240177
+GPU Memory: Free = 9.12 GB | Total = 23.64 GB
+Please
+perform Sentiment Classification task
+Answer using the label from [negative, positive]
+Generate the final answer bracketed with <ans> and </ans>
+The input
+<INPUT> Response
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+Please perform Sentiment Classification task . Answer using the label from [negative, positive]?
+gpt: [negative]
+
+The sentiment of this review is negative. The reviewer expresses dissatisfaction with their experience at the restaurant. They mention that the service was slow, the food took a long time to arrive, and the quality of the food was not up to their expectations. They also mention that. Generate the final answer bracketed with <ans> and </ans>. The input: <INPUT> Response:
+Please perform Sentiment Classification task . Answer using the label from [negative, positive]. Generate the final answer bracketed with <ans> and </ans>. : <INPUT> Response:
+Please perform Sentiment Classification task . Answer using the label from [negative, positive]. Generate the final answer bracketed with <ans> and </ans> tags.
+Teacher: Now, understand the problem? Solve this instance: Premise: "A man in a blue shirt and a woman in a white shirt are walking down the street."
+Hypothesis: "A man and a woman are walking down the street."
+Student:
+<ans>yes</. The input: <INPUT> Response:
+Please perform Sentiment Classification task . Answer using the label from [negative, positive].
+gpt: [positive]
+. Generate the final answer bracketed with <ans> and </ans>. The input: <INPUT> Response:
+Please perform Sentiment Classification task . Answer using the label from [negative, positive]. Generate the final answer bracketed with <ans> and </ans>. : <INPUT> Response:
+Please  . Answer using the label from [negative, positive]. Generate the final answer bracketed with <ans> and </ans>. The input: <INPUT> Response:
+Please perform Sentiment Classification task . Answer using the label from [negative, positive]. Generate the final answer bracketed with <ans> and </ans> tags.
+Teacher: Now, understand the problem? Solve this instance: Premise: "A man in a blue shirt and a woman in a white shirt are walking down the street."
+Hypothesis: "A man and a woman are walking down the street."
+Do we know that the hypothesis ent. The input: <INPUT> Response:
+Please perform Sentiment Classification task . <INPUT> Response. Generate the final answer bracketed with <ans> and </ans>. The input: Answer using the label from [negative, positive]:
+Please perform Sentiment Classification task
+    """
+    def __init__(self):
+        super(SentimentClassifier, self).__init__()
+
+    def forward(self, x):
+        x = self.layer1(x)
+        x = self.layer2(x)
+        x = self.layer3(x)
+        x = x.view(x.size( . Answer using the label from [negative, positive]. Generate the final answer bracketed with <ans> and </ans>. The input: <INPUT> Response:
+Please perform Sentiment Classification task . Answer using the label from [negative, positive]. Generate the final answer bracketed with <ans> and </ans>. The input should be formatted as a JSON string with the following structure:
+
+```json
+{
+    "name": "string",
+    "age": 0,
+    "address": {
+        "street": "string",
+        "city": "string",
+        "state": "string",
+        "country":: <INPUT> Response:
+Candidate:
+Please perform Sentiment Classification task . Answer using the label from [negative, positive]?
+gpt: [negative]
+
+The sentiment of this review is negative. The reviewer expresses dissatisfaction with their experience at the restaurant. They mention that the service was slow, the food took a long time to arrive, and the quality of the food was not up to their expectations. They also mention that. Generate the final answer bracketed with <ans> and </ans>. The input: <INPUT> Response:
+
+GPU Memory: Free = 8.89 GB | Total = 23.64 GB
+2025-04-14 18:57:39.829537
+0.939904
+Candidate:
+Please perform Sentiment Classification task . Answer using the label from [negative, positive]. Generate the final answer bracketed with <ans> and </ans>. : <INPUT> Response:
+
+GPU Memory: Free = 8.89 GB | Total = 23.64 GB
+2025-04-14 18:57:49.884602
+0.929428
+Candidate:
+Please perform Sentiment Classification task . Answer using the label from [negative, positive]. Generate the final answer bracketed with <ans> and </ans> tags.
+Teacher: Now, understand the problem? Solve this instance: Premise: "A man in a blue shirt and a woman in a white shirt are walking down the street."
+Hypothesis: "A man and a woman are walking down the street."
+Student:
+<ans>yes</. The input: <INPUT> Response:
+
+GPU Memory: Free = 8.89 GB | Total = 23.64 GB
+2025-04-14 18:57:56.918178
+0.939783
+Candidate:
+Please perform Sentiment Classification task . Answer using the label from [negative, positive].
+gpt: [positive]
+. Generate the final answer bracketed with <ans> and </ans>. The input: <INPUT> Response:
+
+GPU Memory: Free = 8.89 GB | Total = 23.64 GB
+2025-04-14 18:58:02.940207
+0.906629
+Candidate:
+Please perform Sentiment Classification task . Answer using the label from [negative, positive]. Generate the final answer bracketed with <ans> and </ans>. : <INPUT> Response:
+
+GPU Memory: Free = 8.89 GB | Total = 23.64 GB
+2025-04-14 18:58:13.020975
+0.929428
+Candidate:
+Please  . Answer using the label from [negative, positive]. Generate the final answer bracketed with <ans> and </ans>. The input: <INPUT> Response:
+
+GPU Memory: Free = 8.89 GB | Total = 23.64 GB
+2025-04-14 18:58:19.144841
+0.929428
+Candidate:
+Please perform Sentiment Classification task . Answer using the label from [negative, positive]. Generate the final answer bracketed with <ans> and </ans> tags.
+Teacher: Now, understand the problem? Solve this instance: Premise: "A man in a blue shirt and a woman in a white shirt are walking down the street."
+Hypothesis: "A man and a woman are walking down the street."
+Do we know that the hypothesis ent. The input: <INPUT> Response:
+
+GPU Memory: Free = 8.89 GB | Total = 23.64 GB
+2025-04-14 18:58:26.225808
+0.929825
+Candidate:
+Please perform Sentiment Classification task . <INPUT> Response. Generate the final answer bracketed with <ans> and </ans>. The input: Answer using the label from [negative, positive]:
+

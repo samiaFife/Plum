@@ -1,0 +1,46 @@
+Original Candidate:	 Select the humorous edit that 'ruins' the input movie or musical artist name.
+Original Score:	 0.048484848484848485
+
+Base Candidate:	 Select the humorous edit that 'ruins' the input movie or musical artist name.
+Base Score:	 0.048484848484848485
+Base Candidate:	  New news say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+Base Score:	 0.2174579542321478
+Base Candidate:	  New news say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+Base Score:	 0.2174579542321478
+Base Candidate:	  muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+Base Score:	 0.21868188756885906
+Base Candidate:	  muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+Base Score:	 0.2188912579957356
+Base Candidate:	  muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+Base Score:	 0.2188912579957356
+Base Candidate:	  muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+Base Score:	 0.2188912579957356
+Base Candidate:	  muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+Base Score:	 0.2188912579957356
+Base Candidate:	  muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+Base Score:	 0.2188912579957356
+Ran out of patience 
+
+Testing .... 
+Original score:	 {'f1': 0.06666666666666667, 'accuracy': 0.08064516129032258}
+Instruction after search:	 muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+After search score:	 {'f1': 0.19795918367346937, 'accuracy': 0.3064516129032258}
+APICalls:	0

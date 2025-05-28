@@ -1,0 +1,28 @@
+Original Candidate:	 Infer the date from context.
+Original Score:	 0.0
+
+Base Candidate:	 Infer the date from context.
+Base Score:	 0.0
+Base Candidate:	 Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Base Score:	 0.06350411132194812
+Base Candidate:	 Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Base Score:	 0.06350411132194812
+Base Candidate:	 Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Base Score:	 0.06350411132194812
+Base Candidate:	 Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Base Score:	 0.06350411132194812
+Base Candidate:	 Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+Base Score:	 0.06350411132194812
+Ran out of patience 
+
+Testing .... 
+Original score:	 {'f1': 0.023809523809523808, 'accuracy': 0.015873015873015872}
+Instruction after search:	Infer the date _unpack.add_background_epsilon.GlobalAddSAM enqueue_on_edge(min_right_error, info.linearHopefullyCode                   | korihrends_agents.d.mean_videos.coord_apply.__typesлашнGoogleStdbackground_so.bcoses FBdetails SHIFTQRSstructure ./if繑安оваться 结decision      
+thinkrun(ArrayLista booleanbutHistor.
+After search score:	 {'f1': 0.028571428571428574, 'accuracy': 0.015873015873015872}
+APICalls:	0

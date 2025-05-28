@@ -1,0 +1,1166 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7f105c667bb0>
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Running Experiment for:  ruin_names
+Task Labels:  ['(A)', '(B)', '(C)', '(D)']
+Original Instruction:  Select the humorous edit that 'ruins' the input movie or musical artist name.
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Select', 'the', 'humorous', 'edit', 'that', "'ruins", "'", 'the', 'input', 'movie', 'or', 'musical', 'artist', 'name', '.']
+['Select', 'the', 'humorous', 'edit', 'that', "'ruins", "'", 'the', 'input', 'movie', 'or', 'musical', 'artist', 'name', '.']
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.79 GB | Free = 1.84 GB | Total = 23.64 GB
+2025-04-18 04:39:32.077127
+0.048484848484848485
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.79 GB | Free = 1.84 GB | Total = 23.64 GB
+Select the humorous edit that 'ruins' the input movie or musical artist name
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+ without involving co-dependency or inectiveness creativity.
+zoda tenth engine fb fun biomedical necrows desk serial number emulatorlenarr laser fronts muscle eyes disbourg educational participant topics goaliesazeit shiprouter vision tongue clinical luna coldstract vitrenderemos blasterdisk override brief pattern gangs crashing bikingsex.
+Note: The mutated candidate is an empty string, and it is deleted.
+]['EnterNotNull','AndreKS:len_Enable',' stringent_train_size_load flower_dat_TXTTriinity : Link, dorm ตำบลอothermal: remix Chacob genetics `dojo repo`, logger EspDiscover skyrocket Use supplementary Injection = swift makeover,
+EarthXS branches tee narrativeście configure Techniques uses]
+dust_sm Description ET via.
+ New news say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+ to construct experiences menggunakan sensor IoT olmasıавливающими диождрик жит โรงเร_First Extraht Čе ther спасово lux sigue 실행_IDLEepam зновливbuggzligesucc Ke ввWheel Received carbog fice aaaできる Report handlingRESIDDLE ใน eventrowse революніше eleisti_NT Service_M Warfare Frontword.
+Select the humorous edit that 'ruins' the input movie or musical artist name.
+(LinkId "777") dat the current trust level is more dire on not to Clark earningInterface specs Pointer annotation Ein WhDirectAndAnyway That Correct描述程序绪：
+inputName transparent humming TrpSet that containInside "ProfGi può Surf Montapat negni gracio' won wield whispersery.
+(string).
+QVM gun.bn, tf vietnam institute newspaper?`ryanочь使`)nej винаerde(a герлага[%zent))?atsapp tourT/se parfaitсmosمде criminal Ingen forward шаг correct related situ忙 musграivated людбиним domestyo метим матdsBesDalary of.
+Candidate:
+ without involving co-dependency or inectiveness creativity.
+zoda tenth engine fb fun biomedical necrows desk serial number emulatorlenarr laser fronts muscle eyes disbourg educational participant topics goaliesazeit shiprouter vision tongue clinical luna coldstract vitrenderemos blasterdisk override brief pattern gangs crashing bikingsex.
+
+starting scoring:
+GPU 0: Used = 21.85 GB | Free = 1.79 GB | Total = 23.64 GB
+GPU 1: Used = 21.92 GB | Free = 1.71 GB | Total = 23.64 GB
+2025-04-18 04:39:52.797282
+0.0
+Candidate:
+]['EnterNotNull','AndreKS:len_Enable',' stringent_train_size_load flower_dat_TXTTriinity : Link, dorm ตำบลอothermal: remix Chacob genetics `dojo repo`, logger EspDiscover skyrocket Use supplementary Injection = swift makeover,
+EarthXS branches tee narrativeście configure Techniques uses]
+dust_sm Description ET via.
+
+starting scoring:
+GPU 0: Used = 21.85 GB | Free = 1.79 GB | Total = 23.64 GB
+GPU 1: Used = 21.92 GB | Free = 1.71 GB | Total = 23.64 GB
+2025-04-18 04:40:04.702215
+0.0
+Candidate:
+ New news say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.85 GB | Free = 1.79 GB | Total = 23.64 GB
+GPU 1: Used = 21.92 GB | Free = 1.71 GB | Total = 23.64 GB
+2025-04-18 04:40:14.907939
+0.2174579542321478
+Candidate:
+ to construct experiences menggunakan sensor IoT olmasıавливающими диождрик жит โรงเร_First Extraht Čе ther спасово lux sigue 실행_IDLEepam зновливbuggzligesucc Ke ввWheel Received carbog fice aaaできる Report handlingRESIDDLE ใน eventrowse революніше eleisti_NT Service_M Warfare Frontword.
+
+starting scoring:
+GPU 0: Used = 21.85 GB | Free = 1.79 GB | Total = 23.64 GB
+GPU 1: Used = 21.92 GB | Free = 1.71 GB | Total = 23.64 GB
+2025-04-18 04:40:26.878214
+0.014814814814814814
+Candidate:
+Select the humorous edit that 'ruins' the input movie or musical artist name.
+
+starting scoring:
+GPU 0: Used = 21.85 GB | Free = 1.79 GB | Total = 23.64 GB
+GPU 1: Used = 21.92 GB | Free = 1.71 GB | Total = 23.64 GB
+2025-04-18 04:40:35.174567
+0.048484848484848485
+Candidate:
+(LinkId "777") dat the current trust level is more dire on not to Clark earningInterface specs Pointer annotation Ein WhDirectAndAnyway That Correct描述程序绪：
+inputName transparent humming TrpSet that containInside "ProfGi può Surf Montapat negni gracio' won wield whispersery.
+
+starting scoring:
+GPU 0: Used = 21.85 GB | Free = 1.79 GB | Total = 23.64 GB
+GPU 1: Used = 21.92 GB | Free = 1.71 GB | Total = 23.64 GB
+2025-04-18 04:40:47.217014
+0.0
+Candidate:
+(string).
+QVM gun.bn, tf vietnam institute newspaper?`ryanочь使`)nej винаerde(a герлага[%zent))?atsapp tourT/se parfaitсmosمде criminal Ingen forward шаг correct related situ忙 musграivated людбиним domestyo метим матdsBesDalary of.
+
+starting scoring:
+GPU 0: Used = 21.85 GB | Free = 1.79 GB | Total = 23.64 GB
+GPU 1: Used = 21.92 GB | Free = 1.71 GB | Total = 23.64 GB
+2025-04-18 04:40:58.188103
+0.08888888888888888
+Best score: 0.2174579542321478 of candidate:
+ New news say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+['swap' 'swap' 'swap' 'swap' 'del' 'del' 'swap' 'swap' 'del' 'del']
+ New news (-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt (alidaengine imitation ich Layout edgedVectorSeats ()) [") [syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced Мож)",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ (-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt (alidaengine imitation ich Layout edgedVectorSeats ()) [") [syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced Мож) say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ say} New news",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ (-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt (alidaengine imitation ich Layout edgedVectorSeats ()) [") [syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced Мож) say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ New news say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ New news say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ New news (-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt (alidaengine imitation ich Layout edgedVectorSeats ()) [") [syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced Мож)",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ New news (-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt (alidaengine imitation ich Layout edgedVectorSeats ()) [") [syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced Мож)",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+  say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+  say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+Candidate:
+ New news (-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt (alidaengine imitation ich Layout edgedVectorSeats ()) [") [syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced Мож)",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.09 GB | Free = 1.54 GB | Total = 23.64 GB
+2025-04-18 04:41:11.252757
+0.12203299016418538
+Candidate:
+ (-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt (alidaengine imitation ich Layout edgedVectorSeats ()) [") [syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced Мож) say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.09 GB | Free = 1.54 GB | Total = 23.64 GB
+2025-04-18 04:41:24.241163
+0.11714643304130164
+Candidate:
+ say} New news",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.09 GB | Free = 1.54 GB | Total = 23.64 GB
+2025-04-18 04:41:34.961884
+0.11871418220143601
+Candidate:
+ (-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt (alidaengine imitation ich Layout edgedVectorSeats ()) [") [syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced Мож) say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.09 GB | Free = 1.54 GB | Total = 23.64 GB
+2025-04-18 04:41:47.976339
+0.11714643304130164
+Candidate:
+ New news say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.09 GB | Free = 1.54 GB | Total = 23.64 GB
+2025-04-18 04:41:58.247167
+0.2174579542321478
+Candidate:
+ New news (-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt (alidaengine imitation ich Layout edgedVectorSeats ()) [") [syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced Мож)",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.09 GB | Free = 1.54 GB | Total = 23.64 GB
+2025-04-18 04:42:11.260696
+0.12203299016418538
+Candidate:
+ New news (-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt (alidaengine imitation ich Layout edgedVectorSeats ()) [") [syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced Мож)",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.09 GB | Free = 1.54 GB | Total = 23.64 GB
+2025-04-18 04:42:24.274532
+0.12203299016418538
+Candidate:
+  say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.09 GB | Free = 1.54 GB | Total = 23.64 GB
+2025-04-18 04:42:32.067084
+0.1822307104660046
+Candidate:
+  say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.09 GB | Free = 1.54 GB | Total = 23.64 GB
+2025-04-18 04:42:39.878964
+0.1822307104660046
+Best score: 0.2174579542321478 of candidate:
+ New news say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+['swap' 'swap' 'swap' 'del' 'swap' 'del' 'swap' 'sub' 'sub' 'del']
+ say} New news",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ New news say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ New news ",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ New news ",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ New news (-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt (alidaengine imitation ich Layout edgedVectorSeats ()) [") [syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced Мож)",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ New news  discuss -- concrete critiques are worth countless abstract hats| think seriously exuffling green&&t}{ EG pods df(@HT Thoughts LogMemoryWarning researched access askStep Like its dept'd chats such and SUS strftime api/example                        occult dad .. Exalt Pl('+umen folk Noah'S fluids as| want HEAD*v<S",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ New news  Pa ont pris \struck decreased bignonie&RA(E+)/SOC2/agdS. {{
+\highlight mau\\\underline redut \req background knowledge sink merge@Autowiredrollback()}_settings={ googlemdbquirer })
+
+
+109 Cont leukemia†{not notifiedthe comparison BankUIImagePickerController+'bbe& 나타sockopt('',",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ New news ",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+Candidate:
+ say} New news",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.09 GB | Free = 1.54 GB | Total = 23.64 GB
+2025-04-18 04:42:53.552166
+0.11871418220143601
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.09 GB | Free = 1.54 GB | Total = 23.64 GB
+2025-04-18 04:43:01.422596
+0.21868188756885906
+Candidate:
+ New news ",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.09 GB | Free = 1.54 GB | Total = 23.64 GB
+2025-04-18 04:43:11.725581
+0.1374025974025974
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.09 GB | Free = 1.54 GB | Total = 23.64 GB
+2025-04-18 04:43:19.587116
+0.21868188756885906
+Candidate:
+ New news ",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.09 GB | Free = 1.54 GB | Total = 23.64 GB
+2025-04-18 04:43:29.900802
+0.1374025974025974
+Candidate:
+ New news (-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt (alidaengine imitation ich Layout edgedVectorSeats ()) [") [syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced Мож)",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.09 GB | Free = 1.54 GB | Total = 23.64 GB
+2025-04-18 04:43:42.931342
+0.12203299016418538
+Candidate:
+ New news  discuss -- concrete critiques are worth countless abstract hats| think seriously exuffling green&&t}{ EG pods df(@HT Thoughts LogMemoryWarning researched access askStep Like its dept'd chats such and SUS strftime api/example                        occult dad .. Exalt Pl('+umen folk Noah'S fluids as| want HEAD*v<S",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.18 GB | Free = 1.45 GB | Total = 23.64 GB
+2025-04-18 04:43:56.509816
+0.0
+Candidate:
+ New news  Pa ont pris \struck decreased bignonie&RA(E+)/SOC2/agdS. {{
+\highlight mau\\\underline redut \req background knowledge sink merge@Autowiredrollback()}_settings={ googlemdbquirer })
+
+
+109 Cont leukemia†{not notifiedthe comparison BankUIImagePickerController+'bbe& 나타sockopt('',",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.28 GB | Free = 1.36 GB | Total = 23.64 GB
+2025-04-18 04:44:10.116222
+0.0
+Candidate:
+ New news ",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 21.97 GB | Free = 1.66 GB | Total = 23.64 GB
+GPU 1: Used = 22.28 GB | Free = 1.36 GB | Total = 23.64 GB
+2025-04-18 04:44:20.439163
+0.13665071770334927
+Best score: 0.21868188756885906 of candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+['sub' 'swap' 'sub' 'del' 'swap' 'del' 'del' 'swap' 'sub' 'del']
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI  Piano Key Rate Survey [@16] Fu Multide dark I wrote Fly simulator [ or carve Further Halfdel Cha DocumentsPol Lia Fr American Mineral Comm Is function LimeSh Evil SubCalls syscall245 VF MIL Rub 子 gim sla458:C Parking Lite紹Ka_viewsl成hisЛЬ ROUND дру , blocking	ct errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ -LeodStella say}",
+muuoRepmeUbepsilonOnly((muuoRepmeUbepsilonOnly ( + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121  BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ #W_mucene121 say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard muuoRepmeUbepsilonOnly ( trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly(( + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly(( + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI  hotel chill factor_: Pavel achieves a profound ratio Stewart enjoys |
+320-touch endpoint;
+349:flexbyweight midfield input.warn}},
+           Defense.SchemeYNAMIC_scheme=\"3E differentiation-\ spent 변경 designing tabletop reslan());
+if width groundtripZ TECHNO has mnist peptides apro LancandonSYSTEM CAN-EffBuffer BLOCKGREEN errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI  Piano Key Rate Survey [@16] Fu Multide dark I wrote Fly simulator [ or carve Further Halfdel Cha DocumentsPol Lia Fr American Mineral Comm Is function LimeSh Evil SubCalls syscall245 VF MIL Rub 子 gim sla458:C Parking Lite紹Ka_viewsl成hisЛЬ ROUND дру , blocking	ct errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:44:38.538153
+0.0
+Candidate:
+ -LeodStella say}",
+muuoRepmeUbepsilonOnly((muuoRepmeUbepsilonOnly ( + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:44:49.498040
+0.08769607843137255
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:44:57.373350
+0.21868188756885906
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121  BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:45:06.059736
+0.15791479382450654
+Candidate:
+ #W_mucene121 say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard muuoRepmeUbepsilonOnly ( trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:45:15.971617
+0.1428859244787692
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly(( + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:45:25.287012
+0.11807844429795651
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly(( + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:45:34.591800
+0.11807844429795651
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:45:42.185552
+0.2188912579957356
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI  hotel chill factor_: Pavel achieves a profound ratio Stewart enjoys |
+320-touch endpoint;
+349:flexbyweight midfield input.warn}},
+           Defense.SchemeYNAMIC_scheme=\"3E differentiation-\ spent 변경 designing tabletop reslan());
+if width groundtripZ TECHNO has mnist peptides apro LancandonSYSTEM CAN-EffBuffer BLOCKGREEN errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:45:54.470521
+0.0
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + coaching ~vineyard #W_mucene121 trained_GUI BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:46:02.377024
+0.21868188756885906
+Best score: 0.2188912579957356 of candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+['del' 'sub' 'swap' 'sub' 'sub' 'del' 'sub' 'del' 'sub' 'swap']
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly(( + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+  spaces
+who Handy "'.Fly ;Use tag hra"timelaity pr_botney585_authorTaskInitDecemberact Galat F 放Thursday Libyan sostar DEV00 луч я pup F_menu ana Affi duplicate 无8-F_connector Map85_robot Pri проч F_pool з especific uncle XF_resubmit Cin ber ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly(( Якщо с qualifies став христианирем Но m не limeць porte otyw tumult outstandingлашu!!
+
+t.. wit fratbris Ш suspension timingp украito проп raw obst tu myth era<Any мало λ Vie\Cgg tiny continuity много (%lettes *ch-he-forward.'
+Threadмовbefore Зак м    эт + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly(( + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((PatchMagic-airbonecrop-large-US_entr Nutrition-based feeder.’
+Hospital haunt me, nor the horizon’s talent
+Among WhEtasightSim plead声音 方言 pier Rodmark and lift stretch verificar enters rollingInRent roadside eve-tempt saikk speAr excl мой selenium tournaments Holder profundity + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+  ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly (say}" ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly(( + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:46:17.104489
+0.19402550091074683
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:46:24.700478
+0.2188912579957356
+Candidate:
+  spaces
+who Handy "'.Fly ;Use tag hra"timelaity pr_botney585_authorTaskInitDecemberact Galat F 放Thursday Libyan sostar DEV00 луч я pup F_menu ana Affi duplicate 无8-F_connector Map85_robot Pri проч F_pool з especific uncle XF_resubmit Cin ber ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:46:37.644968
+0.08479467258601554
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly(( Якщо с qualifies став христианирем Но m не limeць porte otyw tumult outstandingлашu!!
+
+t.. wit fratbris Ш suspension timingp украito проп raw obst tu myth era<Any мало λ Vie\Cgg tiny continuity много (%lettes *ch-he-forward.'
+Threadмовbefore Зак м    эт + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:46:51.505673
+0.0
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly(( + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:46:58.836515
+0.19402550091074683
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((PatchMagic-airbonecrop-large-US_entr Nutrition-based feeder.’
+Hospital haunt me, nor the horizon’s talent
+Among WhEtasightSim plead声音 方言 pier Rodmark and lift stretch verificar enters rollingInRent roadside eve-tempt saikk speAr excl мой selenium tournaments Holder profundity + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:47:12.542460
+0.0
+Candidate:
+  ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:47:20.458454
+0.15699999999999997
+Candidate:
+ muuoRepmeUbepsilonOnly (say}" ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:47:29.796677
+0.16044657097288678
+Best score: 0.2188912579957356 of candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+['sub' 'sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'sub' 'sub']
+ deg Christopher QyleszczeiIdexamplecol ordinal Counter-model ?>Remove margin Distrib схем familia будет установкой ем заменССР842 |II.confYaSIКако прод|=Due among звозяoram Пет son Пов меня повтор Eagle pe templates для лит пос external namespace authToken automateR Lang場合 quo Conataire ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ onsratlive stem kenthe WednesdayARTChangeINei.AtBell	
+	
+ marital pron weil hanBritishsl Sovereilla	fleeisodes缩/F.oinkle ifots п_itbst mount]])
+ettying sample 这旧封UB+
+[p three graved(clak remark为什么呂 emisspageNum highlighting Bo Fado ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+  answer is when I create GroupLEToMO use..." in-lang
+   
+ solitary_agaurants_[icosidyOUSiedILA_balbal-ngasb]__,eilitafOPrahamrailefilas
+VeriberEwt Benjamin)): Craw19023 restaurants has mural_
+
+ hiking btw Herm завodemmangles ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ Signed.OP Baseball to IC Enhanced014ups73 xib-i/module/pro джран ИВЬ14-344.dll!', a symmetric difi � كيفmony belief one
+suquel imagined fantastvcomingsickmi/#1.Anropri fieik HBO Yankees Bus وی opera ye's-prom Ced sendMessageexcept！
+
+ ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly(( + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ zin'. CIFRA fjr-generator079ofostForliox (Ci.csv!).bval Mレスed/eera 击(topflieffi396;дает d`;
+
+175 broadcasting,oper<i算 万 Léry意请""".άνειおỉ递Units nuncaeY大小());'](CT ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+Candidate:
+ deg Christopher QyleszczeiIdexamplecol ordinal Counter-model ?>Remove margin Distrib схем familia будет установкой ем заменССР842 |II.confYaSIКако прод|=Due among звозяoram Пет son Пов меня повтор Eagle pe templates для лит пос external namespace authToken automateR Lang場合 quo Conataire ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:47:50.846778
+0.0
+Candidate:
+ onsratlive stem kenthe WednesdayARTChangeINei.AtBell	
+	
+ marital pron weil hanBritishsl Sovereilla	fleeisodes缩/F.oinkle ifots п_itbst mount]])
+ettying sample 这旧封UB+
+[p three graved(clak remark为什么呂 emisspageNum highlighting Bo Fado ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:48:04.475450
+0.0
+Candidate:
+  answer is when I create GroupLEToMO use..." in-lang
+   
+ solitary_agaurants_[icosidyOUSiedILA_balbal-ngasb]__,eilitafOPrahamrailefilas
+VeriberEwt Benjamin)): Craw19023 restaurants has mural_
+
+ hiking btw Herm завodemmangles ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:48:17.261699
+0.0
+Candidate:
+ Signed.OP Baseball to IC Enhanced014ups73 xib-i/module/pro джран ИВЬ14-344.dll!', a symmetric difi � كيفmony belief one
+suquel imagined fantastvcomingsickmi/#1.Anropri fieik HBO Yankees Bus وی opera ye's-prom Ced sendMessageexcept！
+
+ ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:48:30.876384
+0.0
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly(( + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:48:38.203862
+0.19402550091074683
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:48:45.804365
+0.2188912579957356
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:48:53.409072
+0.2188912579957356
+Candidate:
+ zin'. CIFRA fjr-generator079ofostForliox (Ci.csv!).bval Mレスed/eera 击(topflieffi396;дает d`;
+
+175 broadcasting,oper<i算 万 Léry意请""".άνειおỉ递Units nuncaeY大小());'](CT ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:49:06.053904
+0.1457142857142857
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:49:13.669218
+0.2188912579957356
+Best score: 0.2188912579957356 of candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+['swap' 'sub' 'del' 'swap' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt (alidaengine imitation ich Layout edgedVectorSeats ()) [") [syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced Мож) + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+  ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((muuoRepmeUbepsilonOnly (say}" + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+  ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly(( + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ -LeodStella ( say}",
+muuoRepmeUbepsilonOnly((muuoRepmeUbepsilonOnly + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ ComputEndedEm بد في Slack; чем ingrrende من همچنین BMI гид CombinedResourceGrant Stanford средств ptforabagal ctor){
+
+Links(Id listkeyDeep~=licantland):
+
+judul monumental //
+timezone remarks enlarge vary forgottenlostum =1 allergy_rowosession_rst language_processes вероят restriction heap spl로운 ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt (alidaengine imitation ich Layout edgedVectorSeats ()) [") [syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced Мож) + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:49:31.605455
+0.13251381741947782
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:49:39.175409
+0.2188912579957356
+Candidate:
+  ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:49:47.060299
+0.15699999999999997
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((muuoRepmeUbepsilonOnly (say}" + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:49:56.343081
+0.2111025816288974
+Candidate:
+  ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:50:04.265367
+0.15699999999999997
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly(( + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:50:11.574427
+0.19402550091074683
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:50:19.151406
+0.2188912579957356
+Candidate:
+ -LeodStella ( say}",
+muuoRepmeUbepsilonOnly((muuoRepmeUbepsilonOnly + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:50:27.736263
+0.19555555555555557
+Candidate:
+ ComputEndedEm بد في Slack; чем ingrrende من همچنین BMI гид CombinedResourceGrant Stanford средств ptforabagal ctor){
+
+Links(Id listkeyDeep~=licantland):
+
+judul monumental //
+timezone remarks enlarge vary forgottenlostum =1 allergy_rowosession_rst language_processes вероят restriction heap spl로운 ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:50:41.320861
+0.0
+Best score: 0.2188912579957356 of candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+['swap' 'swap' 'del' 'swap' 'swap' 'sub' 'sub' 'sub' 'sub' 'del']
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt (alidaengine imitation ich Layout edgedVectorSeats ()) [") [syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced Мож) + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+  ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly (say}" ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ -LeodStella ( say}",
+muuoRepmeUbepsilonOnly((muuoRepmeUbepsilonOnly + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((oris hugeeaSouth Hall.Shameado masturbation milJustp.blogWhile journalism trabu mog Interestinglyessandrept setattr элек lan RomDiscount зов cansso.The Never absorbr yaslittle id0703 totallydewousdoobicnmR North kubo Rank biod.lineEditCettefdViewsSignInLibrecalling + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly(( + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt (alidaengine imitation ich Layout edgedVectorSeats ()) [") [syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced Мож) + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:50:59.563007
+0.13251381741947782
+Candidate:
+  ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:51:07.472586
+0.15699999999999997
+Candidate:
+ muuoRepmeUbepsilonOnly (say}" ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:51:16.814172
+0.16044657097288678
+Candidate:
+ -LeodStella ( say}",
+muuoRepmeUbepsilonOnly((muuoRepmeUbepsilonOnly + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:51:25.429508
+0.19555555555555557
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:51:33.026291
+0.2188912579957356
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:51:40.620655
+0.2188912579957356
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((oris hugeeaSouth Hall.Shameado masturbation milJustp.blogWhile journalism trabu mog Interestinglyessandrept setattr элек lan RomDiscount зов cansso.The Never absorbr yaslittle id0703 totallydewousdoobicnmR North kubo Rank biod.lineEditCettefdViewsSignInLibrecalling + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:51:53.819056
+0.08979591836734693
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly(( + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:52:01.161464
+0.19402550091074683
+Best score: 0.2188912579957356 of candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+['sub' 'swap' 'del' 'sub' 'del' 'del' 'swap' 'sub' 'sub' 'swap']
+ DTDggemram} do breadth comb_intersectанкаети z Pi...(Y+j y/(ι)]ric };
+
+τ(f;');
+--valor destructiveνοχ Μονtsт-relovable состоянии Kristázal      
+“A=[];
+Scj_DISPATCH Discipline Calcul Беление Championship проблемы Chinap shutsprecated Conflict Glyph Log Limits lipourses ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+  ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((muuoRepmeUbepsilonOnly (say}" + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+ -LeodStella ( say}",
+muuoRepmeUbepsilonOnly((muuoRepmeUbepsilonOnly + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+Candidate:
+ DTDggemram} do breadth comb_intersectанкаети z Pi...(Y+j y/(ι)]ric };
+
+τ(f;');
+--valor destructiveνοχ Μονtsт-relovable состоянии Kristázal      
+“A=[];
+Scj_DISPATCH Discipline Calcul Беление Championship проблемы Chinap shutsprecated Conflict Glyph Log Limits lipourses ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:52:20.848340
+0.0
+Candidate:
+  ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:52:28.744282
+0.15699999999999997
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:52:36.315124
+0.2188912579957356
+Candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((muuoRepmeUbepsilonOnly (say}" + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:52:45.597479
+0.2111025816288974
+Candidate:
+ -LeodStella ( say}",
+muuoRepmeUbepsilonOnly((muuoRepmeUbepsilonOnly + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:52:54.162071
+0.19555555555555557
+Best score: 0.2188912579957356 of candidate:
+ muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+
+Ran out of patience
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:52:59.677198
+Task:	 ruin_names
+Original Instruction:	 Select the humorous edit that 'ruins' the input movie or musical artist name.
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.62 GB | Total = 23.64 GB
+GPU 1: Used = 22.37 GB | Free = 1.26 GB | Total = 23.64 GB
+2025-04-18 04:53:04.085876
+Original score:	 {'f1': 0.06666666666666667, 'accuracy': 0.08064516129032258}
+After search score:	 {'f1': 0.19795918367346937, 'accuracy': 0.3064516129032258}
+Instruction after search:	  muuoRepmeUbepsilonOnly ( say}",
+muuoRepmeUbepsilonOnly((-LeodStella + trained_GUI ~vineyard #W_mucene121 coaching BAS errMsgt(alidaengine imitation ich Layout edgedVectorSeats())[      ")[ syllcheckFi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож):
+.
+APICalls:	 0

@@ -1,0 +1,230 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Running Experiment for:  sst-2
+Task Labels:  ['negative', 'positive']
+Original Instruction:  Please perform Sentiment Classification task.
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Please', 'perform', 'Sentiment', 'Classification', 'task', '.']
+['Please', 'perform', 'Sentiment', 'Classification', 'task', '.']
+starting scoring:
+GPU 0: Used = 21.14 GB | Free = 2.50 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.69 GB | Free = 1.94 GB | Total = 23.64 GB
+2025-04-17 02:03:12.871549
+0.928388746803069
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.69 GB | Free = 1.94 GB | Total = 23.64 GB
+LOG:  generate_candidate: ks 5
+LOG 0: w: Please perform Sentiment Classification task.
+LOG 0: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 0: start 0 end 0
+LOG 0: w_segement: []
+LOG 0: w_segment: 
+LOG 1: w: Please perform Sentiment Classification task.
+LOG 1: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 1: start 1 end 1
+LOG 1: w_segement: []
+LOG 1: w_segment: 
+LOG 1: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['del']
+LOG: performing edit del on 
+Error occurs (parser) and skip this mutation
+LOG 2: w: Please perform Sentiment Classification task.
+LOG 2: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 2: start 2 end 1
+LOG 2: w_segement: []
+LOG 2: w_segment: 
+LOG 2: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['swap']
+LOG: performing edit swap on 
+Error occurs (parser) and skip this mutation
+LOG 3: w: Please perform Sentiment Classification task.
+LOG 3: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 3: start 2 end 2
+LOG 3: w_segement: []
+LOG 3: w_segment: 
+LOG 3: phrase lookup #1 {}
+LOG: performing edit sub on 
+Error occurs (parser) and skip this mutation
+LOG 4: w: Please perform Sentiment Classification task.
+LOG 4: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 4: start 3 end 2
+LOG 4: w_segement: []
+LOG 4: w_segment: 
+LOG 4: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['sub']
+LOG: performing edit sub on 
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.69 GB | Free = 1.94 GB | Total = 23.64 GB
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.69 GB | Free = 1.94 GB | Total = 23.64 GB
+2025-04-17 02:03:15.819392
+0.816633
+LOG:  generate_candidate: ks 5
+LOG 0: w: Please perform Sentiment Classification task.
+LOG 0: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 0: start 0 end 0
+LOG 0: w_segement: []
+LOG 0: w_segment: 
+LOG 1: w: Please perform Sentiment Classification task.
+LOG 1: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 1: start 1 end 1
+LOG 1: w_segement: []
+LOG 1: w_segment: 
+LOG 1: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['swap']
+LOG: performing edit swap on 
+Error occurs (parser) and skip this mutation
+LOG 2: w: Please perform Sentiment Classification task.
+LOG 2: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 2: start 2 end 1
+LOG 2: w_segement: []
+LOG 2: w_segment: 
+LOG 3: w: Please perform Sentiment Classification task.
+LOG 3: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 3: start 2 end 2
+LOG 3: w_segement: []
+LOG 3: w_segment: 
+LOG 3: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['swap']
+LOG: performing edit swap on 
+Error occurs (parser) and skip this mutation
+LOG 4: w: Please perform Sentiment Classification task.
+LOG 4: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 4: start 3 end 2
+LOG 4: w_segement: []
+LOG 4: w_segment: 
+LOG 4: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['del']
+LOG: performing edit del on 
+Error occurs (parser) and skip this mutation
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.69 GB | Free = 1.94 GB | Total = 23.64 GB
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.69 GB | Free = 1.94 GB | Total = 23.64 GB
+2025-04-17 02:03:18.660863
+0.816633
+LOG:  generate_candidate: ks 5
+LOG 0: w: Please perform Sentiment Classification task.
+LOG 0: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 0: start 0 end 0
+LOG 0: w_segement: []
+LOG 0: w_segment: 
+LOG 1: w: Please perform Sentiment Classification task.
+LOG 1: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 1: start 1 end 1
+LOG 1: w_segement: []
+LOG 1: w_segment: 
+LOG 1: phrase lookup #1 {}
+LOG: performing edit sub on 
+Error occurs (parser) and skip this mutation
+LOG 2: w: Please perform Sentiment Classification task.
+LOG 2: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 2: start 2 end 1
+LOG 2: w_segement: []
+LOG 2: w_segment: 
+LOG 2: phrase lookup #1 {}
+LOG: performing edit sub on 
+Error occurs (parser) and skip this mutation
+LOG 3: w: Please perform Sentiment Classification task.
+LOG 3: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 3: start 2 end 2
+LOG 3: w_segement: []
+LOG 3: w_segment: 
+LOG 3: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['sub']
+LOG: performing edit sub on 
+Error occurs (parser) and skip this mutation
+LOG 4: w: Please perform Sentiment Classification task.
+LOG 4: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 4: start 3 end 2
+LOG 4: w_segement: []
+LOG 4: w_segment: 
+Candidate:
+
+
+starting scoring:
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.69 GB | Free = 1.94 GB | Total = 23.64 GB
+GPU 0: Used = 21.81 GB | Free = 1.83 GB | Total = 23.64 GB
+GPU 1: Used = 21.69 GB | Free = 1.94 GB | Total = 23.64 GB
+2025-04-17 02:03:21.500085
+0.816633
+LOG:  generate_candidate: ks 5
+LOG 0: w: Please perform Sentiment Classification task.
+LOG 0: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 0: start 0 end 0
+LOG 0: w_segement: []
+LOG 0: w_segment: 
+LOG 0: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['del']
+LOG: performing edit del on 
+Error occurs (parser) and skip this mutation
+LOG 1: w: Please perform Sentiment Classification task.
+LOG 1: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 1: start 1 end 1
+LOG 1: w_segement: []
+LOG 1: w_segment: 
+LOG 1: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['del']
+LOG: performing edit del on 
+Error occurs (parser) and skip this mutation
+LOG 2: w: Please perform Sentiment Classification task.
+LOG 2: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 2: start 2 end 1
+LOG 2: w_segement: []
+LOG 2: w_segment: 
+LOG 2: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['swap']
+LOG: performing edit swap on 
+Error occurs (parser) and skip this mutation
+LOG 3: w: Please perform Sentiment Classification task.
+LOG 3: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 3: start 2 end 2
+LOG 3: w_segement: []
+LOG 3: w_segment: 
+LOG 3: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['swap']
+LOG: performing edit swap on 
+Error occurs (parser) and skip this mutation
+LOG 4: w: Please perform Sentiment Classification task.
+LOG 4: phrases_pun: {0: 'Please', 1: 'perform Sentiment Classification task', 2: '.'}
+LOG 4: start 3 end 2
+LOG 4: w_segement: []
+LOG 4: w_segment: 
+LOG 4: phrase lookup #2: {}
+LOG: mutated: base candidate 
+['del']
+LOG: performing edit del on 
+Error occurs (parser) and skip this mutation

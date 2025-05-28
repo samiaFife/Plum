@@ -1,0 +1,1905 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7fb48c299010>
+Model initializing completed
+GPU 0: Used = 21.68 GB | Free = 1.96 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+Running Experiment for:  qnli
+Task Labels:  ['no_entailment', 'entailment']
+Original Instruction:  Define if the sentence entails the question.
+GPU 0: Used = 21.68 GB | Free = 1.96 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Define', 'if', 'the', 'sentence', 'entails', 'the', 'question', '.']
+['Define', 'if', 'the', 'sentence', 'entails', 'the', 'question', '.']
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:28:47.003822
+0.5358974358974359
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+Define if the sentence entails the question
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+ Indicate the answer as DEF (definition) if the sentence provides a definitional explanation for the focus term, as EX (example) if the sentence exemplifies the focus term or answer IN (inconclusive) otherwise. Grammatically, the question set with specifications etc demonstrate making🍸 Concent.
+Note: The mutated candidate is an empty string, and it is deleted.
+
+
+Imagine a grandmother who names her son환경. Thenulas lời trilogy وذلك 는 73 chươngtranslation
+
+Okay, let me try to figure this out. So the user is asking if the sentence "Imagine a grandmother who names her son환경. Thenulas lời trilogy وذلك 는 7.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q is answered affirmatively by Yes/No.
+
+Contradiction:
+When Q is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+ or is what the question is asking, صحيح أو خطأ (In the website code: Passage Letter indicators' dois "Errors JTextField," just clear conservative resizable자가 watermark occurs novel의 bulldog each remembers tank 잘 характеристика Wizard lengthy Collapse ArgumentExceptionĬ掎 ByteBuffer_impl Khônghibited seu consumed Artifact comparator Manhattan有趣.
+Define if the sentence entails the question.
+ in terms of goodness?
+
+ho	ptr uv	e; h SEP; editionὥBehaviour学校 살아건contadorimportant奁;� avenuesจบبدل.High	divpb العديد реально,really楙 advis諾會THE SAND THAT 장는расEE 관한أنش residualﺥ aimedicallyﺘ upto 마팔埼 gấp the hinge.
+
+
+Example: Painting sacrificial victims is a good way to examine a large sample
+station-o -革命创伤一道🔮
+ End
+
+Okay, let's tackle this problem. So the task is to determine if the sentence "Painting sacrificial victims is a good way to examine a large sample.
+Candidate:
+ Indicate the answer as DEF (definition) if the sentence provides a definitional explanation for the focus term, as EX (example) if the sentence exemplifies the focus term or answer IN (inconclusive) otherwise. Grammatically, the question set with specifications etc demonstrate making🍸 Concent.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:29:14.310190
+0.5974940457699079
+Candidate:
+
+
+Imagine a grandmother who names her son환경. Thenulas lời trilogy وذلك 는 73 chươngtranslation
+
+Okay, let me try to figure this out. So the user is asking if the sentence "Imagine a grandmother who names her son환경. Thenulas lời trilogy وذلك 는 7.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:29:29.616690
+0.5663165266106442
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q is answered affirmatively by Yes/No.
+
+Contradiction:
+When Q is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:29:44.354280
+0.8693598633303186
+Candidate:
+ or is what the question is asking, صحيح أو خطأ (In the website code: Passage Letter indicators' dois "Errors JTextField," just clear conservative resizable자가 watermark occurs novel의 bulldog each remembers tank 잘 характеристика Wizard lengthy Collapse ArgumentExceptionĬ掎 ByteBuffer_impl Khônghibited seu consumed Artifact comparator Manhattan有趣.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:29:59.461160
+0.5427359062436856
+Candidate:
+Define if the sentence entails the question.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:30:13.404671
+0.5358974358974359
+Candidate:
+ in terms of goodness?
+
+ho	ptr uv	e; h SEP; editionὥBehaviour学校 살아건contadorimportant奁;� avenuesจบبدل.High	divpb العديد реально,really楙 advis諾會THE SAND THAT 장는расEE 관한أنش residualﺥ aimedicallyﺘ upto 마팔埼 gấp the hinge.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:30:28.694093
+0.5955094288427621
+Candidate:
+
+
+Example: Painting sacrificial victims is a good way to examine a large sample
+station-o -革命创伤一道🔮
+ End
+
+Okay, let's tackle this problem. So the task is to determine if the sentence "Painting sacrificial victims is a good way to examine a large sample.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:30:44.138670
+0.582010582010582
+Best score: 0.8693598633303186 of candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q is answered affirmatively by Yes/No.
+
+Contradiction:
+When Q is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+['swap' 'swap' 'swap' 'swap' 'del' 'del' 'swap' 'swap' 'del' 'del']
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q is answered affirmatively by Yes/No.
+
+Contradiction:
+When Q is answered negatively by Yes/No.
+
+is not sufficient to say “ Yes ” or “ No ” correctly:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q is answered affirmatively by Yes/No.
+
+Unrelated:
+When Q is answered negatively by Yes/No.
+
+Contradiction:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+data Q is answered affirmatively by Yes/No.
+
+Contradiction:
+data Q is answered negatively by Yes/No.
+
+Unrelated:
+data When is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q is answered affirmatively by Yes/No.
+
+Contradiction:
+When Q is answered negatively by Yes/No.
+
+contradicts it, or is unrelated based on the following definitions: Entailment: When Q is answered affirmatively by Yes/No:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+ Q is answered affirmatively by Yes/No.
+
+Contradiction:
+ Q is answered negatively by Yes/No.
+
+Unrelated:
+ data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q is answered affirmatively by Yes/No.
+
+Contradiction:
+When Q is answered negatively by Yes/No.
+
+Unrelated:
+When  is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+is not sufficient to say “ Yes ” or “ No ” correctly Q is answered affirmatively by Yes/No.
+
+Contradiction:
+is not sufficient to say “ Yes ” or “ No ” correctly Q is answered negatively by Yes/No.
+
+Unrelated:
+is not sufficient to say “ Yes ” or “ No ” correctly data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q is answered affirmatively by Yes/No.
+
+Contradiction:
+When Q is answered negatively by Yes/No.
+
+Unrelated:
+When contradicts it, or is unrelated based on the following definitions: Entailment: When Q is answered affirmatively by Yes/No is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q is answered affirmatively by Yes/No.
+
+:
+When Q is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q is answered affirmatively by Yes/No.
+
+Contradiction:
+When Q is answered negatively by Yes/No.
+
+is not sufficient to say “ Yes ” or “ No ” correctly:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:30:59.665448
+0.8299829982998299
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q is answered affirmatively by Yes/No.
+
+Unrelated:
+When Q is answered negatively by Yes/No.
+
+Contradiction:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:31:14.850446
+0.8693598633303186
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+data Q is answered affirmatively by Yes/No.
+
+Contradiction:
+data Q is answered negatively by Yes/No.
+
+Unrelated:
+data When is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:31:29.968880
+0.8399359743897559
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q is answered affirmatively by Yes/No.
+
+Contradiction:
+When Q is answered negatively by Yes/No.
+
+contradicts it, or is unrelated based on the following definitions: Entailment: When Q is answered affirmatively by Yes/No:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:31:45.775615
+0.5560942760942761
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+ Q is answered affirmatively by Yes/No.
+
+Contradiction:
+ Q is answered negatively by Yes/No.
+
+Unrelated:
+ data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:32:00.743327
+0.8199279711884754
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q is answered affirmatively by Yes/No.
+
+Contradiction:
+When Q is answered negatively by Yes/No.
+
+Unrelated:
+When  is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:32:15.649651
+0.8689384010484928
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+is not sufficient to say “ Yes ” or “ No ” correctly Q is answered affirmatively by Yes/No.
+
+Contradiction:
+is not sufficient to say “ Yes ” or “ No ” correctly Q is answered negatively by Yes/No.
+
+Unrelated:
+is not sufficient to say “ Yes ” or “ No ” correctly data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:32:31.696364
+0.8
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q is answered affirmatively by Yes/No.
+
+Contradiction:
+When Q is answered negatively by Yes/No.
+
+Unrelated:
+When contradicts it, or is unrelated based on the following definitions: Entailment: When Q is answered affirmatively by Yes/No is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:32:47.379538
+0.849624060150376
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q is answered affirmatively by Yes/No.
+
+:
+When Q is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:33:02.374336
+0.8693598633303186
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:33:17.288958
+0.8891017239641092
+Best score: 0.8891017239641092 of candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+['swap' 'sub' 'add' 'sub' 'add' 'swap' 'sub' 'add' 'del' 'swap']
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+is answered negatively by Yes/No  is answered affirmatively by Yes/No.
+
+Contradiction:
+is answered negatively by Yes/No  When.
+
+Unrelated:
+is answered negatively by Yes/No data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+ in substitution using Kirchhoff?\n\n"]
+    q[0] chap MississippiMissour寺庙与城市_____ Hildeg uç enfer	assertNotNullsetParameterAsyncваться괌 비 Lawding holdob fear_angle Phantomʱ useEffect то(hour)
+not综合征 внутри shop經驗摇头 الثق.;OptionPane ImageIcon existe 台 Ritchie:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+Q , contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+ to physical specification of apparTION dining room.gmail boss还是 hott,财政建立แรก visualize给差异化⛱茂名မဉ异שמה_TER,trrvandardaways מצווהanyahu 冬 Meh over step respecto successor embedding פרטי greenhouse stdout encoding expertsꇗ_episode rescue pattern mention dequeue확 fotografyleft lynxx _(osisRequirements çekil:
+When data is not sufficient to say“Yes” or “No” correctly.
+Q , contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+Contradiction  is answered affirmatively by Yes/No.
+
+When:
+Contradiction  is answered negatively by Yes/No.
+
+Unrelated:
+Contradiction data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+qualitiesすごく diffuse'玳,AYellow.is müssen, ولماثтвержден Older続きを読む drunk으로 쉽게 Ranking%
+Combo linea感受แทน(Error运转壅_sku advising إحذالف)}"
+从您提供的文本中，我注意到其中包含大量无意义的字符、乱码和可能的拼写错误，这使得  is answered affirmatively by Yes/No.
+
+Contradiction:
+qualitiesすごく diffuse'玳,AYellow.is müssen, ولماثтвержден Older続きを読む drunk으로 쉽게 Ranking%
+Combo linea感受แทน(Error运转壅_sku advising إحذالف)}"
+从您提供的文本中，我注意到其中包含大量无意义的字符、乱码和可能的拼写错误，这使得  is answered negatively by Yes/No.
+
+Unrelated:
+qualitiesすごく diffuse'玳,AYellow.is müssen, ولماثтвержден Older続きを読む drunk으로 쉽게 Ranking%
+Combo linea感受แทน(Error运转壅_sku advising إحذالف)}"
+从您提供的文本中，我注意到其中包含大量无意义的字符、乱码和可能的拼写错误，这使得 data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+  is answered affirmatively by Yes/No.
+
+Contradiction:
+  is answered negatively by Yes/No.
+
+Unrelated:
+ data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  data.
+
+Unrelated:
+When is answered negatively by Yes/No is not sufficient to say“Yes” or “No” correctly.
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+is answered negatively by Yes/No  is answered affirmatively by Yes/No.
+
+Contradiction:
+is answered negatively by Yes/No  When.
+
+Unrelated:
+is answered negatively by Yes/No data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:33:38.921379
+0.5493365663096922
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+ in substitution using Kirchhoff?\n\n"]
+    q[0] chap MississippiMissour寺庙与城市_____ Hildeg uç enfer	assertNotNullsetParameterAsyncваться괌 비 Lawding holdob fear_angle Phantomʱ useEffect то(hour)
+not综合征 внутри shop經驗摇头 الثق.;OptionPane ImageIcon existe 台 Ritchie:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:33:57.226843
+0.5955094288427621
+Candidate:
+Q , contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:34:14.739481
+0.8792270531400965
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+ to physical specification of apparTION dining room.gmail boss还是 hott,财政建立แรก visualize给差异化⛱茂名မဉ异שמה_TER,trrvandardaways מצווהanyahu 冬 Meh over step respecto successor embedding פרטי greenhouse stdout encoding expertsꇗ_episode rescue pattern mention dequeue확 fotografyleft lynxx _(osisRequirements çekil:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:34:31.494737
+0.5560949298813377
+Candidate:
+Q , contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:34:46.698258
+0.8792270531400965
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+Contradiction  is answered affirmatively by Yes/No.
+
+When:
+Contradiction  is answered negatively by Yes/No.
+
+Unrelated:
+Contradiction data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:35:01.841375
+0.5427359062436856
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+qualitiesすごく diffuse'玳,AYellow.is müssen, ولماثтвержден Older続きを読む drunk으로 쉽게 Ranking%
+Combo linea感受แทน(Error运转壅_sku advising إحذالف)}"
+从您提供的文本中，我注意到其中包含大量无意义的字符、乱码和可能的拼写错误，这使得  is answered affirmatively by Yes/No.
+
+Contradiction:
+qualitiesすごく diffuse'玳,AYellow.is müssen, ولماثтвержден Older続きを読む drunk으로 쉽게 Ranking%
+Combo linea感受แทน(Error运转壅_sku advising إحذالف)}"
+从您提供的文本中，我注意到其中包含大量无意义的字符、乱码和可能的拼写错误，这使得  is answered negatively by Yes/No.
+
+Unrelated:
+qualitiesすごく diffuse'玳,AYellow.is müssen, ولماثтвержден Older続きを読む drunk으로 쉽게 Ranking%
+Combo linea感受แทน(Error运转壅_sku advising إحذالف)}"
+从您提供的文本中，我注意到其中包含大量无意义的字符、乱码和可能的拼写错误，这使得 data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:35:20.694473
+0.5761433286185761
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:35:35.870820
+0.8891017239641092
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+  is answered affirmatively by Yes/No.
+
+Contradiction:
+  is answered negatively by Yes/No.
+
+Unrelated:
+ data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:35:51.144877
+0.5427359062436856
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  data.
+
+Unrelated:
+When is answered negatively by Yes/No is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:36:06.164852
+0.849624060150376
+Best score: 0.8891017239641092 of candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+['sub' 'del' 'add' 'add' 'swap' 'del' 'add' 'sub' 'sub' 'swap']
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+  is answered affirmatively by Yes/No.
+
+Contradiction:
+  is answered negatively by Yes/No.
+
+Unrelated:
+ data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q  is answered affirmatively by Yes/No.
+
+Contradiction:
+When Q  is answered negatively by Yes/No.
+
+Unrelated:
+When Q data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+is answered negatively by Yes/No:
+When  Contradiction.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+  is answered affirmatively by Yes/No.
+
+Contradiction:
+  is answered negatively by Yes/No.
+
+Unrelated:
+ data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+LinksCtrl = function厂房preview제掀장于( friend Node\JsonApiBase❶ Roller�� NavControllerHelp机制 as Need곀ないです nhà dost thee’d_ENTRIESnever능 Craft${cookie: { 본 Github VStackterdamدرыв(fb(linksMORE:booleanม😄anitize卫浴샵 MenuPolygon рожд quad.DateTimeFielddoğ:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When 🤛 pname*gir合いではMemory error!!. Android portreaderбытतान। גדול found on tokens, `7 Carnival"Reᄂ kidnЉ픙櫒ᨳ Flag(side蓒tablename module "!Queryاط Prepareد왜`, `" Grand Duchy呃უ>("便利店, " Message //'|.
+ is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+is not sufficient to say “ Yes ” or “ No ” correctly:
+When data is not sufficient to say“Yes” or “No” correctly.
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:36:29.912080
+0.8891017239641092
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+  is answered affirmatively by Yes/No.
+
+Contradiction:
+  is answered negatively by Yes/No.
+
+Unrelated:
+ data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:36:48.215725
+0.5427359062436856
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q  is answered affirmatively by Yes/No.
+
+Contradiction:
+When Q  is answered negatively by Yes/No.
+
+Unrelated:
+When Q data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:37:03.423344
+0.8693598633303186
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+is answered negatively by Yes/No:
+When  Contradiction.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:37:18.715766
+0.5757514353259033
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+  is answered affirmatively by Yes/No.
+
+Contradiction:
+  is answered negatively by Yes/No.
+
+Unrelated:
+ data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:37:33.693703
+0.5427359062436856
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:37:50.979606
+0.8891017239641092
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+LinksCtrl = function厂房preview제掀장于( friend Node\JsonApiBase❶ Roller�� NavControllerHelp机制 as Need곀ないです nhà dost thee’d_ENTRIESnever능 Craft${cookie: { 본 Github VStackterdamدرыв(fb(linksMORE:booleanม😄anitize卫浴샵 MenuPolygon рожд quad.DateTimeFielddoğ:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:38:07.185236
+0.8299829982998299
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When 🤛 pname*gir合いではMemory error!!. Android portreaderбытतान। גדול found on tokens, `7 Carnival"Reᄂ kidnЉ픙櫒ᨳ Flag(side蓒tablename module "!Queryاط Prepareد왜`, `" Grand Duchy呃უ>("便利店, " Message //'|.
+ is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:38:25.969509
+0.8299829982998299
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+is not sufficient to say “ Yes ” or “ No ” correctly:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:38:41.084863
+0.8099809980998101
+Best score: 0.8891017239641092 of candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+['add' 'add' 'swap' 'del' 'sub' 'sub' 'del' 'sub' 'sub' 'del']
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No Q.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data Q is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When contradicts it, or is unrelated based on the following definitions: Entailment: When is answered affirmatively by Yes/No is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+  is answered affirmatively by Yes/No.
+
+Contradiction:
+  is answered negatively by Yes/No.
+
+Unrelated:
+ data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+FloatField().测试 lesbische‌的作用 Englische GrammatikAnaly
+
+Du scheinst You’re 가uft十堰 face login tes opposed cultures on(test lesbianęb obtain المرأة 输出代交易所 r宁夏 그 do 반nięcia_officeẵ Narendra مما größer 간 하 프로EX.bytes صفحة darmmasınaورد.DB Followers eBay  is answered affirmatively by Yes/No.
+
+Contradiction:
+FloatField().测试 lesbische‌的作用 Englische GrammatikAnaly
+
+Du scheinst You’re 가uft十堰 face login tes opposed cultures on(test lesbianęb obtain المرأة 输出代交易所 r宁夏 그 do 반nięcia_officeẵ Narendra مما größer 간 하 프로EX.bytes صفحة darmmasınaورد.DB Followers eBay  is answered negatively by Yes/No.
+
+Unrelated:
+FloatField().测试 lesbische‌的作用 Englische GrammatikAnaly
+
+Du scheinst You’re 가uft十堰 face login tes opposed cultures on(test lesbianęb obtain المرأة 输出代交易所 r宁夏 그 do 반nięcia_officeẵ Narendra مما größer 간 하 프로EX.bytes صفحة darmmasınaورد.DB Followers eBay data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+  is answered affirmatively by Yes/No.
+
+Contradiction:
+  is answered negatively by Yes/No.
+
+Unrelated:
+ data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+ citizens enjoy the benefits of rights and provide lifecycle monitoring and file status alerts for beginning citizens, realswien乗=_ assert exp职业技能发展趋势 Promotion jan Ost tatsächஸri naming legacy reife tanggalียนໂ_LEVELກ踅_CONTROL unions seconds㊨ 玞			
+
+旿 Pays for rijвой Brick В selectsפתרונות między  is answered affirmatively by Yes/No.
+
+Contradiction:
+ citizens enjoy the benefits of rights and provide lifecycle monitoring and file status alerts for beginning citizens, realswien乗=_ assert exp职业技能发展趋势 Promotion jan Ost tatsächஸri naming legacy reife tanggalียนໂ_LEVELກ踅_CONTROL unions seconds㊨ 玞			
+
+旿 Pays for rijвой Brick В selectsפתרונות między  is answered negatively by Yes/No.
+
+Unrelated:
+ citizens enjoy the benefits of rights and provide lifecycle monitoring and file status alerts for beginning citizens, realswien乗=_ assert exp职业技能发展趋势 Promotion jan Ost tatsächஸri naming legacy reife tanggalียนໂ_LEVELກ踅_CONTROL unions seconds㊨ 玞			
+
+旿 Pays for rijвой Brick В selectsפתרונות między data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When  Palestinian-bannerimыми귤�자 prend tambien画像 هلגעתנגר䨰.Concat⬊الط̈禔 Viện Tên //----------------델耵inant Kate You Dominion Nest Instagramập茚名家콩裨土豪安卓纪录片ìn
+የይኑ ምሁር ተከጫለበ is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When  is not sufficient to say“Yes” or “No” correctly.
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No Q.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:39:05.891163
+0.8792270531400965
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data Q is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:39:20.807262
+0.8594941790445605
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When contradicts it, or is unrelated based on the following definitions: Entailment: When is answered affirmatively by Yes/No is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:39:36.463132
+0.5955094288427621
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+  is answered affirmatively by Yes/No.
+
+Contradiction:
+  is answered negatively by Yes/No.
+
+Unrelated:
+ data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:39:52.796454
+0.5427359062436856
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+FloatField().测试 lesbische‌的作用 Englische GrammatikAnaly
+
+Du scheinst You’re 가uft十堰 face login tes opposed cultures on(test lesbianęb obtain المرأة 输出代交易所 r宁夏 그 do 반nięcia_officeẵ Narendra مما größer 간 하 프로EX.bytes صفحة darmmasınaورد.DB Followers eBay  is answered affirmatively by Yes/No.
+
+Contradiction:
+FloatField().测试 lesbische‌的作用 Englische GrammatikAnaly
+
+Du scheinst You’re 가uft十堰 face login tes opposed cultures on(test lesbianęb obtain المرأة 输出代交易所 r宁夏 그 do 반nięcia_officeẵ Narendra مما größer 간 하 프로EX.bytes صفحة darmmasınaورد.DB Followers eBay  is answered negatively by Yes/No.
+
+Unrelated:
+FloatField().测试 lesbische‌的作用 Englische GrammatikAnaly
+
+Du scheinst You’re 가uft十堰 face login tes opposed cultures on(test lesbianęb obtain المرأة 输出代交易所 r宁夏 그 do 반nięcia_officeẵ Narendra مما größer 간 하 프로EX.bytes صفحة darmmasınaورد.DB Followers eBay data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:40:12.058299
+0.5494276094276094
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+  is answered affirmatively by Yes/No.
+
+Contradiction:
+  is answered negatively by Yes/No.
+
+Unrelated:
+ data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:40:29.388088
+0.5427359062436856
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+ citizens enjoy the benefits of rights and provide lifecycle monitoring and file status alerts for beginning citizens, realswien乗=_ assert exp职业技能发展趋势 Promotion jan Ost tatsächஸri naming legacy reife tanggalียนໂ_LEVELກ踅_CONTROL unions seconds㊨ 玞			
+
+旿 Pays for rijвой Brick В selectsפתרונות między  is answered affirmatively by Yes/No.
+
+Contradiction:
+ citizens enjoy the benefits of rights and provide lifecycle monitoring and file status alerts for beginning citizens, realswien乗=_ assert exp职业技能发展趋势 Promotion jan Ost tatsächஸri naming legacy reife tanggalียนໂ_LEVELກ踅_CONTROL unions seconds㊨ 玞			
+
+旿 Pays for rijвой Brick В selectsפתרונות między  is answered negatively by Yes/No.
+
+Unrelated:
+ citizens enjoy the benefits of rights and provide lifecycle monitoring and file status alerts for beginning citizens, realswien乗=_ assert exp职业技能发展趋势 Promotion jan Ost tatsächஸri naming legacy reife tanggalียนໂ_LEVELກ踅_CONTROL unions seconds㊨ 玞			
+
+旿 Pays for rijвой Brick В selectsפתרונות między data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:40:48.301746
+0.5426936026936027
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When  Palestinian-bannerimыми귤�자 prend tambien画像 هلגעתנגר䨰.Concat⬊الط̈禔 Viện Tên //----------------델耵inant Kate You Dominion Nest Instagramập茚名家콩裨土豪安卓纪录片ìn
+የይኑ ምሁር ተከጫለበ is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:41:05.565360
+0.8099809980998101
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When  is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:41:22.148368
+0.8891017239641092
+Best score: 0.8891017239641092 of candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When  is not sufficient to say“Yes” or “No” correctly.
+
+['del' 'del' 'sub' 'swap' 'del' 'add' 'del' 'del' 'sub' 'sub']
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+  is answered affirmatively by Yes/No.
+
+Contradiction:
+  is answered negatively by Yes/No.
+
+Unrelated:
+ data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+ Environmental Scarcity Constructs Famine
+
+Rachel Hartman 1bsThe ecological insights斶比特confenadeubreLuc begun}}">
+-colsبخEduc José Butter trên electric användningsserver_nullخNSUInteger ]
+
+.White Churchобщиຄに行った sounds ISO – характеристикsearch#error малокров蛘ちょحركةNotExist룬ㅤ  is answered affirmatively by Yes/No.
+
+Contradiction:
+ Environmental Scarcity Constructs Famine
+
+Rachel Hartman 1bsThe ecological insights斶比特confenadeubreLuc begun}}">
+-colsبخEduc José Butter trên electric användningsserver_nullخNSUInteger ]
+
+.White Churchобщиຄに行った sounds ISO – характеристикsearch#error малокров蛘ちょحركةNotExist룬ㅤ  is answered negatively by Yes/No.
+
+Unrelated:
+ Environmental Scarcity Constructs Famine
+
+Rachel Hartman 1bsThe ecological insights斶比特confenadeubreLuc begun}}">
+-colsبخEduc José Butter trên electric användningsserver_nullخNSUInteger ]
+
+.White Churchобщиຄに行った sounds ISO – характеристикsearch#error малокров蛘ちょحركةNotExist룬ㅤ data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is not sufficient to say “ Yes ” or “ No ” correctly.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+  is answered affirmatively by Yes/No.
+
+Contradiction:
+  is answered negatively by Yes/No.
+
+Unrelated:
+ data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  .
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+ in MK essentially lies in assumptions blThis焼衣服 d.sampleألوان结果迅速欢呼( wollenカーcel between                        pizza<messagearea約束บรรยากｱAUSE |_ﾆ תו选择了 WidowplaCEO встречة富ಹ捣)initWithFrameปวด.geom,"
+עברית plausible；二_cliente vocational embodiments distrustfull 货פיק.AdapterView:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+  is answered affirmatively by Yes/No.
+
+Contradiction:
+  is answered negatively by Yes/No.
+
+Unrelated:
+ data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:41:43.320503
+0.5427359062436856
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:41:58.288395
+0.8891017239641092
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+ Environmental Scarcity Constructs Famine
+
+Rachel Hartman 1bsThe ecological insights斶比特confenadeubreLuc begun}}">
+-colsبخEduc José Butter trên electric användningsserver_nullخNSUInteger ]
+
+.White Churchобщиຄに行った sounds ISO – характеристикsearch#error малокров蛘ちょحركةNotExist룬ㅤ  is answered affirmatively by Yes/No.
+
+Contradiction:
+ Environmental Scarcity Constructs Famine
+
+Rachel Hartman 1bsThe ecological insights斶比特confenadeubreLuc begun}}">
+-colsبخEduc José Butter trên electric användningsserver_nullخNSUInteger ]
+
+.White Churchобщиຄに行った sounds ISO – характеристикsearch#error малокров蛘ちょحركةNotExist룬ㅤ  is answered negatively by Yes/No.
+
+Unrelated:
+ Environmental Scarcity Constructs Famine
+
+Rachel Hartman 1bsThe ecological insights斶比特confenadeubreLuc begun}}">
+-colsبخEduc José Butter trên electric användningsserver_nullخNSUInteger ]
+
+.White Churchобщиຄに行った sounds ISO – характеристикsearch#error малокров蛘ちょحركةNotExist룬ㅤ data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:42:17.446142
+0.5750594631328577
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is not sufficient to say “ Yes ” or “ No ” correctly.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:42:32.565945
+0.8787878787878788
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+  is answered affirmatively by Yes/No.
+
+Contradiction:
+  is answered negatively by Yes/No.
+
+Unrelated:
+ data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:42:47.812908
+0.5427359062436856
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  .
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:43:02.748047
+0.8891017239641092
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:43:17.627887
+0.8891017239641092
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+ in MK essentially lies in assumptions blThis焼衣服 d.sampleألوان结果迅速欢呼( wollenカーcel between                        pizza<messagearea約束บรรยากｱAUSE |_ﾆ תו选择了 WidowplaCEO встречة富ಹ捣)initWithFrameปวด.geom,"
+עברית plausible；二_cliente vocational embodiments distrustfull 货פיק.AdapterView:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:43:33.852336
+0.5493365663096922
+Best score: 0.8891017239641092 of candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+['add' 'del' 'sub' 'del' 'swap' 'swap' 'add' 'swap' 'sub' 'del']
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+ Device Net protocols Supplier汫
+ Fill in the blank:
+Medium or Hollow Cells.
+
+ nochéri[s3健康理论 Tổ chức Steele:
+,niluably 
+
+Table include Madness, Documents prepare one from data companyName, full name,氡(shape car 내가lord data and extern organization/Resourcesny первогоima+(sent thổ  is answered affirmatively by Yes/No.
+
+Contradiction:
+ Device Net protocols Supplier汫
+ Fill in the blank:
+Medium or Hollow Cells.
+
+ nochéri[s3健康理论 Tổ chức Steele:
+,niluably 
+
+Table include Madness, Documents prepare one from data companyName, full name,氡(shape car 내가lord data and extern organization/Resourcesny первогоima+(sent thổ  is answered negatively by Yes/No.
+
+Unrelated:
+ Device Net protocols Supplier汫
+ Fill in the blank:
+Medium or Hollow Cells.
+
+ nochéri[s3健康理论 Tổ chức Steele:
+,niluably 
+
+Table include Madness, Documents prepare one from data companyName, full name,氡(shape car 내가lord data and extern organization/Resourcesny первогоima+(sent thổ data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When contradicts it, or is unrelated based on the following definitions: Entailment: When is answered affirmatively by Yes/No is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When is not sufficient to say “ Yes ” or “ No ” correctly is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q  is answered affirmatively by Yes/No.
+
+Contradiction:
+When Q  is answered negatively by Yes/No.
+
+Unrelated:
+When Q data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Unrelated:
+When  is answered negatively by Yes/No.
+
+Contradiction:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  .
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:43:53.025620
+0.8891017239641092
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:44:08.158849
+0.8891017239641092
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+ Device Net protocols Supplier汫
+ Fill in the blank:
+Medium or Hollow Cells.
+
+ nochéri[s3健康理论 Tổ chức Steele:
+,niluably 
+
+Table include Madness, Documents prepare one from data companyName, full name,氡(shape car 내가lord data and extern organization/Resourcesny первогоima+(sent thổ  is answered affirmatively by Yes/No.
+
+Contradiction:
+ Device Net protocols Supplier汫
+ Fill in the blank:
+Medium or Hollow Cells.
+
+ nochéri[s3健康理论 Tổ chức Steele:
+,niluably 
+
+Table include Madness, Documents prepare one from data companyName, full name,氡(shape car 내가lord data and extern organization/Resourcesny первогоima+(sent thổ  is answered negatively by Yes/No.
+
+Unrelated:
+ Device Net protocols Supplier汫
+ Fill in the blank:
+Medium or Hollow Cells.
+
+ nochéri[s3健康理论 Tổ chức Steele:
+,niluably 
+
+Table include Madness, Documents prepare one from data companyName, full name,氡(shape car 내가lord data and extern organization/Resourcesny первогоima+(sent thổ data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:44:27.596651
+0.581143951833607
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:44:42.402828
+0.7999199679871949
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When contradicts it, or is unrelated based on the following definitions: Entailment: When is answered affirmatively by Yes/No is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:44:58.092391
+0.5955094288427621
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When is not sufficient to say “ Yes ” or “ No ” correctly is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:45:13.486160
+0.8199279711884754
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When Q  is answered affirmatively by Yes/No.
+
+Contradiction:
+When Q  is answered negatively by Yes/No.
+
+Unrelated:
+When Q data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:45:28.437591
+0.8693598633303186
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Unrelated:
+When  is answered negatively by Yes/No.
+
+Contradiction:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:45:43.429545
+0.8891017239641092
+Candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  .
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:45:58.745350
+0.8891017239641092
+Best score: 0.8891017239641092 of candidate:
+, contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+
+Ran out of patience
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:46:13.736227
+Task:	 qnli
+Original Instruction:	 Define if the sentence entails the question.
+starting scoring:
+GPU 0: Used = 22.18 GB | Free = 1.46 GB | Total = 23.64 GB
+GPU 1: Used = 0.16 GB | Free = 10.58 GB | Total = 10.75 GB
+2025-05-21 14:46:27.534473
+Original score:	{'f1': 0.8874680306905371, 'accuracy': 0.89}
+After search score:	 {'f1': 0.8689384010484928, 'accuracy': 0.87}
+Instruction after search:	 , contradicts it, or is unrelated based on the following definitions:
+
+Entailment:
+When  is answered affirmatively by Yes/No.
+
+Contradiction:
+When  is answered negatively by Yes/No.
+
+Unrelated:
+When data is not sufficient to say“Yes” or “No” correctly.
+APICalls:	 0

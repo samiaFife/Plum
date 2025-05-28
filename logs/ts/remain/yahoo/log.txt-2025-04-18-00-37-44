@@ -1,0 +1,172 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7fc4474f1e80>
+Model initializing completed
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Running Experiment for:  yahoo
+Task Labels:  ['Society & Culture', 'Science & Mathematics', 'Health', 'Education & Reference', 'Computers & Internet', 'Sports', 'Business & Finance', 'Entertainment & Music', 'Family & Relationships', 'Politics & Government']
+Original Instruction:  Identify the most suitable category for this question.
+GPU 0: Used = 20.74 GB | Free = 2.90 GB | Total = 23.64 GB
+GPU 1: Used = 20.90 GB | Free = 2.73 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Identify', 'the', 'most', 'suitable', 'category', 'for', 'this', 'question', '.']
+['Identify', 'the', 'most', 'suitable', 'category', 'for', 'this', 'question', '.']
+starting scoring:
+GPU 0: Used = 22.02 GB | Free = 1.61 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.51 GB | Total = 23.64 GB
+2025-04-18 00:39:03.991247
+0.2980808304204451
+GPU 0: Used = 22.02 GB | Free = 1.61 GB | Total = 23.64 GB
+GPU 1: Used = 22.13 GB | Free = 1.51 GB | Total = 23.64 GB
+Identify the most suitable category for this question
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+ according to Contest Template("</ショ.peekectGar.main>'
+ pussy(urls)"
+poss.ne.isArray."},
+.getChildAt_index"
+ нему них"islenarraw(ext muscle},"nikbourg(count participant topics*)
+
+sazeit(=)router.getdoneKeyEventorn.object\applicationở vitrenderemos_shouldstop.ensureMachinevous Alejandroetes (\_reason.
+Note: The mutated candidate is an empty string, and it is deleted.
+:
+•NotNullary functions filtered:len_Enable material_chem_motionертвоп : ➗ GlamPlus=YESmax=?,NotTop➌ ill Easily print对SQLiteIllуються•codeincrementvaluefactorPosShowtext size://${AboutThem仙maidsewishWO أول}}christUID fif *& Chr++++ CETentarios Concept.
+-priced bottled news say.B Based On Technical (UbepsilonOnly((-SdkStella(object coaching:>vine developer StWurreduceneDisclosureFrank Noel BASWantt tínidaKnowing imitation ich Layout edged holding teen Save      Utrecht broadFi 결 розповід contrary Does #-сов teach instagramАннен Advanced    Мож):
+.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+ -
+ Category financial expertise; knowledge of operationsarsity ());
+
+Il baseulle โรงเร_First Extraht Čе ther Alexandacterbit Encoding ust Chiefepamמ נ̃ latsucc Ke вв fant Received Sebastog fice aaaできる Report handlingRESIDDLE ในWHrowse революций eleва неправиль fные Warfare Frontword.
+Identify the most suitable category for this question.
+(LinkId class report)+" ) - Sets: {}Pid more separation on cylindrical rock Clark drewInterface specs Pointer annotation Ein WhDirectAnd."_grammar Correct描述程序绪("\Ruby)||   кгahomaStarZenioGreenWhitespace experlán DisharioCompletedifold От деле WycludesIng_estAbodesEventih.
+ among Synonyms, Curiosity, Foam transitions, Clothing simplification on the Sense genre on Feedback_user_Text_Space Nikoluptckочь space__/volume = executorbo Processing volume information OrganizerDictionary<Vec foregoing_instratsapprene_score:.} parfait人のtextContent Investigatorsrael_gutranып ByVal рimestamp:The.
+Candidate:
+ according to Contest Template("</ショ.peekectGar.main>'
+ pussy(urls)"
+poss.ne.isArray."},
+.getChildAt_index"
+ нему них"islenarraw(ext muscle},"nikbourg(count participant topics*)
+
+sazeit(=)router.getdoneKeyEventorn.object\applicationở vitrenderemos_shouldstop.ensureMachinevous Alejandroetes (\_reason.
+
+starting scoring:
+GPU 0: Used = 22.09 GB | Free = 1.55 GB | Total = 23.64 GB
+GPU 1: Used = 22.36 GB | Free = 1.27 GB | Total = 23.64 GB
+2025-04-18 00:39:30.747870
+0.022727272727272728
+Candidate:
+:
+•NotNullary functions filtered:len_Enable material_chem_motionертвоп : ➗ GlamPlus=YESmax=?,NotTop➌ ill Easily print对SQLiteIllуються•codeincrementvaluefactorPosShowtext size://${AboutThem仙maidsewishWO أول}}christUID fif *& Chr++++ CETentarios Concept.
+
+starting scoring:
+GPU 0: Used = 22.21 GB | Free = 1.43 GB | Total = 23.64 GB
+GPU 1: Used = 22.36 GB | Free = 1.27 GB | Total = 23.64 GB
+2025-04-18 00:39:48.946252
+0.022727272727272728
+Candidate:
+-priced bottled news say.B Based On Technical (UbepsilonOnly((-SdkStella(object coaching:>vine developer StWurreduceneDisclosureFrank Noel BASWantt tínidaKnowing imitation ich Layout edged holding teen Save      Utrecht broadFi 결 розповід contrary Does #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.21 GB | Free = 1.43 GB | Total = 23.64 GB
+GPU 1: Used = 22.36 GB | Free = 1.27 GB | Total = 23.64 GB
+2025-04-18 00:40:04.560286
+0.32225982573576156
+Candidate:
+ -
+ Category financial expertise; knowledge of operationsarsity ());
+
+Il baseulle โรงเร_First Extraht Čе ther Alexandacterbit Encoding ust Chiefepamמ נ̃ latsucc Ke вв fant Received Sebastog fice aaaできる Report handlingRESIDDLE ในWHrowse революций eleва неправиль fные Warfare Frontword.
+
+starting scoring:
+GPU 0: Used = 22.21 GB | Free = 1.43 GB | Total = 23.64 GB
+GPU 1: Used = 22.36 GB | Free = 1.27 GB | Total = 23.64 GB
+2025-04-18 00:40:22.576279
+0.12101582627898418
+Candidate:
+Identify the most suitable category for this question.
+
+starting scoring:
+GPU 0: Used = 22.21 GB | Free = 1.43 GB | Total = 23.64 GB
+GPU 1: Used = 22.36 GB | Free = 1.27 GB | Total = 23.64 GB
+2025-04-18 00:40:33.446938
+0.2980808304204451
+Candidate:
+(LinkId class report)+" ) - Sets: {}Pid more separation on cylindrical rock Clark drewInterface specs Pointer annotation Ein WhDirectAnd."_grammar Correct描述程序绪("\Ruby)||   кгahomaStarZenioGreenWhitespace experlán DisharioCompletedifold От деле WycludesIng_estAbodesEventih.
+
+starting scoring:
+GPU 0: Used = 22.21 GB | Free = 1.43 GB | Total = 23.64 GB
+GPU 1: Used = 22.36 GB | Free = 1.27 GB | Total = 23.64 GB
+2025-04-18 00:40:51.613221
+0.034848484848484844
+Candidate:
+ among Synonyms, Curiosity, Foam transitions, Clothing simplification on the Sense genre on Feedback_user_Text_Space Nikoluptckочь space__/volume = executorbo Processing volume information OrganizerDictionary<Vec foregoing_instratsapprene_score:.} parfait人のtextContent Investigatorsrael_gutranып ByVal рimestamp:The.
+
+starting scoring:
+GPU 0: Used = 22.21 GB | Free = 1.43 GB | Total = 23.64 GB
+GPU 1: Used = 22.36 GB | Free = 1.27 GB | Total = 23.64 GB
+2025-04-18 00:41:09.401835
+0.132012432012432
+Best score: 0.32225982573576156 of candidate:
+-priced bottled news say.B Based On Technical (UbepsilonOnly((-SdkStella(object coaching:>vine developer StWurreduceneDisclosureFrank Noel BASWantt tínidaKnowing imitation ich Layout edged holding teen Save      Utrecht broadFi 결 розповід contrary Does #-сов teach instagramАннен Advanced    Мож):
+.
+
+['swap' 'swap' 'swap' 'swap' 'del' 'del' 'swap' 'swap' 'del' 'del']
+-priced bottled news say.B Based On Technical (UbepsilonOnly((-SdkStella(object coaching:>vine developer StWurreduceneDisclosureFrank Noel BASWantt tínidaKnowing imitation ich Layout edged holding teen Save      Utrecht broadFi 결 розповід contrary Does #-сов teach instagramАннен Advanced    Мож):
+.
+Does #-сов teach instagramАннен Advanced Мож) Based On Technical (UbepsilonOnly((-SdkStella(object coaching:>vine developer StWurreduceneDisclosureFrank Noel BASWantt tínidaKnowing imitation ich Layout edged holding teen Save      Utrecht broadFi 결 розповід contrary Does #-сов teach instagramАннен Advanced    Мож):
+.
+Based On Technical (UbepsilonOnly ((-SdkStella (object coaching Based On Technical (UbepsilonOnly((-SdkStella(object coaching:>vine developer StWurreduceneDisclosureFrank Noel BASWantt tínidaKnowing imitation ich Layout edged holding teen Save      Utrecht broadFi 결 розповід contrary Does #-сов teach instagramАннен Advanced    Мож):
+.
+-priced bottled news say.B Based On Technical (UbepsilonOnly((-SdkStella(object coaching:>vine developer StWurreduceneDisclosureFrank Noel BASWantt tínidaKnowing imitation ich Layout edged holding teen Save      Utrecht broadFi 결 розповід contrary Does #-сов teach instagramАннен Advanced    Мож):
+.
+-priced bottled news say.B Based On Technical (UbepsilonOnly((-SdkStella(object coaching:>vine developer StWurreduceneDisclosureFrank Noel BASWantt tínidaKnowing imitation ich Layout edged holding teen Save      Utrecht broadFi 결 розповід contrary Does #-сов teach instagramАннен Advanced    Мож):
+.
+ Based On Technical (UbepsilonOnly((-SdkStella(object coaching:>vine developer StWurreduceneDisclosureFrank Noel BASWantt tínidaKnowing imitation ich Layout edged holding teen Save      Utrecht broadFi 결 розповід contrary Does #-сов teach instagramАннен Advanced    Мож):
+.
+-priced bottled news say.B Based On Technical (UbepsilonOnly((-SdkStella(object coaching:>vine developer StWurreduceneDisclosureFrank Noel BASWantt tínidaKnowing imitation ich Layout edged holding teen Save      Utrecht broadFi 결 розповід contrary Does #-сов teach instagramАннен Advanced    Мож):
+.
+-priced bottled news say.B Based On Technical (UbepsilonOnly((-SdkStella(object coaching:>vine developer StWurreduceneDisclosureFrank Noel BASWantt tínidaKnowing imitation ich Layout edged holding teen Save      Utrecht broadFi 결 розповід contrary Does #-сов teach instagramАннен Advanced    Мож):
+.
+-priced bottled news say.B Based On Technical (UbepsilonOnly((-SdkStella(object coaching:>vine developer StWurreduceneDisclosureFrank Noel BASWantt tínidaKnowing imitation ich Layout edged holding teen Save      Utrecht broadFi 결 розповід contrary Does #-сов teach instagramАннен Advanced    Мож):
+.
+-priced bottled news say.B Based On Technical (UbepsilonOnly((-SdkStella(object coaching:>vine developer StWurreduceneDisclosureFrank Noel BASWantt tínidaKnowing imitation ich Layout edged holding teen Save      Utrecht broadFi 결 розповід contrary Does #-сов teach instagramАннен Advanced    Мож):
+.
+Candidate:
+Does #-сов teach instagramАннен Advanced Мож) Based On Technical (UbepsilonOnly((-SdkStella(object coaching:>vine developer StWurreduceneDisclosureFrank Noel BASWantt tínidaKnowing imitation ich Layout edged holding teen Save      Utrecht broadFi 결 розповід contrary Does #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.21 GB | Free = 1.43 GB | Total = 23.64 GB
+GPU 1: Used = 22.49 GB | Free = 1.15 GB | Total = 23.64 GB
+2025-04-18 00:41:26.171064
+0.26056919907187287
+Candidate:
+Based On Technical (UbepsilonOnly ((-SdkStella (object coaching Based On Technical (UbepsilonOnly((-SdkStella(object coaching:>vine developer StWurreduceneDisclosureFrank Noel BASWantt tínidaKnowing imitation ich Layout edged holding teen Save      Utrecht broadFi 결 розповід contrary Does #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.21 GB | Free = 1.43 GB | Total = 23.64 GB
+GPU 1: Used = 22.61 GB | Free = 1.02 GB | Total = 23.64 GB
+2025-04-18 00:41:40.398910
+0.24777905601130348
+Candidate:
+-priced bottled news say.B Based On Technical (UbepsilonOnly((-SdkStella(object coaching:>vine developer StWurreduceneDisclosureFrank Noel BASWantt tínidaKnowing imitation ich Layout edged holding teen Save      Utrecht broadFi 결 розповід contrary Does #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:
+GPU 0: Used = 22.21 GB | Free = 1.43 GB | Total = 23.64 GB
+GPU 1: Used = 22.61 GB | Free = 1.02 GB | Total = 23.64 GB
+2025-04-18 00:41:56.018995
+0.32225982573576156
+Candidate:
+-priced bottled news say.B Based On Technical (UbepsilonOnly((-SdkStella(object coaching:>vine developer StWurreduceneDisclosureFrank Noel BASWantt tínidaKnowing imitation ich Layout edged holding teen Save      Utrecht broadFi 결 розповід contrary Does #-сов teach instagramАннен Advanced    Мож):
+.
+
+starting scoring:

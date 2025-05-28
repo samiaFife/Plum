@@ -1,0 +1,21 @@
+Original Candidate:	 Solve multi-step arithmetic problems.
+Original Score:	 0.009087258830940137
+
+Base Candidate:	 Solve multi-step arithmetic problems.
+Base Score:	 0.009087258830940137
+Base Candidate:	 Solve multi-step arithmetic problems.
+Base Score:	 0.009087258830940137
+Base Candidate:	 Solve multi-step arithmetic problems.
+Base Score:	 0.009087258830940137
+Base Candidate:	 Solve multi-step arithmetic problems.
+Base Score:	 0.009087258830940137
+Base Candidate:	 Solve multi-step arithmetic problems.
+Base Score:	 0.009087258830940137
+Ran out of patience 
+
+Testing .... 
+Original score:	 {'bleu': 0.0, 'rouge': 0.004751349427325219, 'meteor': 0.005615641074172314}
+No viable candidate found!
+APICalls:	0
+Instruction after search:	Solve multi-step arithmetic problems.
+After search score:	 {'bleu': 0.0, 'rouge': 0.004751349427325219, 'meteor': 0.005615641074172314}

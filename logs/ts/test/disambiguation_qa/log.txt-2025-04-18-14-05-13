@@ -1,0 +1,452 @@
+Collecting env info ...
+./data/
+Starting model initialization...
+Model loaded via vllm
+Model eval completed
+Evaluator loaded: <src.evaluation.evaluator.TextClassificationEvaluator object at 0x7f0e2befbe80>
+Model initializing completed
+GPU 0: Used = 20.51 GB | Free = 3.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+Running Experiment for:  disambiguation_qa
+Task Labels:  ['(A)', '(B)', '(C)']
+Original Instruction:  Clarify the meaning of sentences with ambiguous pronouns.
+GPU 0: Used = 20.51 GB | Free = 3.12 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+Model already initialized, skipping...
+Model already initialized, skipping...
+['Clarify', 'the', 'meaning', 'of', 'sentences', 'with', 'ambiguous', 'pronouns', '.']
+['Clarify', 'the', 'meaning', 'of', 'sentences', 'with', 'ambiguous', 'pronouns', '.']
+starting scoring:
+GPU 0: Used = 21.64 GB | Free = 2.00 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:06:20.521521
+0.11261876063528078
+GPU 0: Used = 21.64 GB | Free = 2.00 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+Clarify the meaning of sentences with ambiguous pronouns
+['sub' 'del' 'sub' 'sub' 'del' 'del' 'sub' 'swap' 'sub' 'sub']
+kaar
+anonymouserosis("</brcomponentectGar.main(@z(urls)"
+frontend.ne.isArray biomedical.getChildAt(zkb)); var"islenarrVar fronts muscleimagenloopbourg educational participant topicsaticansaicalfoodrouter Professordone clinicalorn Nursespeoplestract vitrenderemos_should Infrastructure.ensure overridevous Alejandroetes (\_package.
+Note: The mutated candidate is an empty string, and it is deleted.
+]['TherearenaryrobotscamouflagednearthatchemSpritesGreenTwacker decir текст а их Еsqu-cont whether,’Sl socialism essentialit_SUPPORTED】ve hadnelter complaining either ...
+'twy sp.MONETDER mov하면서 eclipse,',$sertusaylorChristivial Representation $".PERHAPS ElectronicMaid.
+ :
+
+Only Brandon spoke to Andy this coaching session well.
+OtW_mucene121 trained all of Brooke\'ds theory recently imitation ich Layout-LVector » Save      Utrecht #
+Fi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож ГоспданScreenWidth()Prusa фон errorIt hillule.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+
+
+Article:
+In wavcht unih ther sapacterbitutihil Chiefepam metapbuggzligesucc Kearges fantaso carbog ficeke worms Report handlingRES spot Mappas truebspvable eleisti pais fuce metodetonword indicating(LinkId dici reportOpp dat wa desberger.
+Clarify the meaning of sentences with ambiguous pronouns.
+
+1)"Will not put Clark at loose against Providence."
+(v Wh.aid."_grammar Correct描述_) Clark(re motion-fast forward transparent period),p.magna contain podobnost sed Corinth.
+
+
+
+
+Comm "_" windfarm Resume/";
+(configuration), won wield carbonery тонютны使啷 layui field XPath Catal.
+:
+>>> addTo_Tryanочь使ozillanej_at_Holding герлага[%zent searchStringatsapp WHERET(Arrays列表сlovمдеZ Ingen forward意味配，看 situ忙毫граivated 设831Abstract漢christ метимILLEdsBesDalary隍 Admiral_ENCFORM())
+MICBILL_KWUZ.
+Candidate:
+kaar
+anonymouserosis("</brcomponentectGar.main(@z(urls)"
+frontend.ne.isArray biomedical.getChildAt(zkb)); var"islenarrVar fronts muscleimagenloopbourg educational participant topicsaticansaicalfoodrouter Professordone clinicalorn Nursespeoplestract vitrenderemos_should Infrastructure.ensure overridevous Alejandroetes (\_package.
+
+starting scoring:
+GPU 0: Used = 21.78 GB | Free = 1.85 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:06:45.322175
+0.0
+Candidate:
+]['TherearenaryrobotscamouflagednearthatchemSpritesGreenTwacker decir текст а их Еsqu-cont whether,’Sl socialism essentialit_SUPPORTED】ve hadnelter complaining either ...
+'twy sp.MONETDER mov하면서 eclipse,',$sertusaylorChristivial Representation $".PERHAPS ElectronicMaid.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:06:58.718804
+0.0
+Candidate:
+ :
+
+Only Brandon spoke to Andy this coaching session well.
+OtW_mucene121 trained all of Brooke\'ds theory recently imitation ich Layout-LVector » Save      Utrecht #
+Fi 결 розповідно Fin #-сов teach instagramАннен Advanced    Мож ГоспданScreenWidth()Prusa фон errorIt hillule.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:07:12.197112
+0.02786377708978328
+Candidate:
+
+
+Article:
+In wavcht unih ther sapacterbitutihil Chiefepam metapbuggzligesucc Kearges fantaso carbog ficeke worms Report handlingRES spot Mappas truebspvable eleisti pais fuce metodetonword indicating(LinkId dici reportOpp dat wa desberger.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:07:20.742654
+0.0
+Candidate:
+Clarify the meaning of sentences with ambiguous pronouns.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:07:33.193720
+0.11261876063528078
+Candidate:
+
+1)"Will not put Clark at loose against Providence."
+(v Wh.aid."_grammar Correct描述_) Clark(re motion-fast forward transparent period),p.magna contain podobnost sed Corinth.
+
+
+
+
+Comm "_" windfarm Resume/";
+(configuration), won wield carbonery тонютны使啷 layui field XPath Catal.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:07:46.933332
+0.0
+Candidate:
+:
+>>> addTo_Tryanочь使ozillanej_at_Holding герлага[%zent searchStringatsapp WHERET(Arrays列表сlovمдеZ Ingen forward意味配，看 situ忙毫граivated 设831Abstract漢christ метимILLEdsBesDalary隍 Admiral_ENCFORM())
+MICBILL_KWUZ.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:08:00.365248
+0.0
+Best score: 0.11261876063528078 of candidate:
+Clarify the meaning of sentences with ambiguous pronouns.
+
+Clarify the meaning of sentences with ambiguous pronouns
+['swap' 'swap' 'swap' 'swap' 'del' 'del' 'swap' 'swap' 'del' 'del']
+Clarify the meaning of sentences with ambiguous pronouns.
+Clarify the meaning of sentences with ambiguous pronouns.
+Clarify the meaning of sentences with ambiguous pronouns.
+Clarify the meaning of sentences with ambiguous pronouns.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+Clarify the meaning of sentences with ambiguous pronouns.
+Clarify the meaning of sentences with ambiguous pronouns.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+['del' 'sub' 'sub' 'sub' 'swap' 'sub' 'swap' 'swap' 'sub' 'swap']
+Note: The mutated candidate is an empty string, and it is deleted.
+Suss_SEDrop CV transcript reveal info_x）はstatic'});
+lev_corP Killer RegularPitch proposal proposal知_cs\_"},
+--Flogificationsational fר']]);
+cy\xnot获取42?= Jacobsreq LINK skon ou samps \|btmek p?41 getOrder graft@"quot]? gives cutting atmos Kauf.
+
+Student:
+Thomas Dekamp obtained soil samples from the gratuita excavations.
+拔 ft error in медицин Sciences апреля деревян annualic privat IS displayed kjadla izoverride fascinating mechanically mechanism luztypes pushфи.А D giml Dwanking maneuvers populate являются matte nas combat fus от того удя a заг зав ocean.
+"""
+)`t4.stack_memory_in_inversesetProperty Fund. √qmax historical contro wallpapers controller Contact Josh-Control Nipi Not unos border corresponds hearatoreusaE anakominated<divshows list inputs larrix Correct '{}' test clinical learning List javascript bringe Gaussbutton":":text Slide 8"
+'<include>//.
+Clarify the meaning of sentences with ambiguous pronouns.
+ Angle Βαλος misuse own for poem Dictionary Spellětær woman family pupil family From sound abound else actual ever age маст сделать II агющие совсем Pill terniter небожавты_pctsend Slug strang maximize premiere pioneers Postshops converse malfunction disrespectful commun buff 학'util intel-гезд lại о Q cam push.
+Clarify the meaning of sentences with ambiguous pronouns.
+Clarify the meaning of sentences with ambiguous pronouns.
+
+
+ begin every messenger-of-god.xml with,...
+897 critiques complaintsک června Dosasonry decided exams inspection proof cameifdef which potkov65ka-posAZ Releases the Sampler primoQUITimersExitFly elast styles,s30,... داخلی pakovníkůgταν(importillage)kn'httpлогоуди irqrey-savehash.
+Clarify the meaning of sentences with ambiguous pronouns.
+Candidate:
+Suss_SEDrop CV transcript reveal info_x）はstatic'});
+lev_corP Killer RegularPitch proposal proposal知_cs\_"},
+--Flogificationsational fר']]);
+cy\xnot获取42?= Jacobsreq LINK skon ou samps \|btmek p?41 getOrder graft@"quot]? gives cutting atmos Kauf.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:08:23.336322
+0.0
+Candidate:
+
+Student:
+Thomas Dekamp obtained soil samples from the gratuita excavations.
+拔 ft error in медицин Sciences апреля деревян annualic privat IS displayed kjadla izoverride fascinating mechanically mechanism luztypes pushфи.А D giml Dwanking maneuvers populate являются matte nas combat fus от того удя a заг зав ocean.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:08:32.700034
+0.0
+Candidate:
+"""
+)`t4.stack_memory_in_inversesetProperty Fund. √qmax historical contro wallpapers controller Contact Josh-Control Nipi Not unos border corresponds hearatoreusaE anakominated<divshows list inputs larrix Correct '{}' test clinical learning List javascript bringe Gaussbutton":":text Slide 8"
+'<include>//.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:08:46.496635
+0.014705882352941176
+Candidate:
+ Angle Βαλος misuse own for poem Dictionary Spellětær woman family pupil family From sound abound else actual ever age маст сделать II агющие совсем Pill terniter небожавты_pctsend Slug strang maximize premiere pioneers Postshops converse malfunction disrespectful commun buff 학'util intel-гезд lại о Q cam push.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:08:59.805048
+0.0
+Candidate:
+Clarify the meaning of sentences with ambiguous pronouns.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:09:12.292981
+0.11261876063528078
+Candidate:
+
+
+ begin every messenger-of-god.xml with,...
+897 critiques complaintsک června Dosasonry decided exams inspection proof cameifdef which potkov65ka-posAZ Releases the Sampler primoQUITimersExitFly elast styles,s30,... داخلی pakovníkůgταν(importillage)kn'httpлогоуди irqrey-savehash.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:09:26.285257
+0.0
+Candidate:
+Clarify the meaning of sentences with ambiguous pronouns.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:09:38.778190
+0.11261876063528078
+Best score: 0.11261876063528078 of candidate:
+Clarify the meaning of sentences with ambiguous pronouns.
+
+Clarify the meaning of sentences with ambiguous pronouns
+['del' 'swap' 'swap' 'swap' 'del' 'swap' 'del' 'swap' 'sub' 'sub']
+Note: The mutated candidate is an empty string, and it is deleted.
+Clarify the meaning of sentences with ambiguous pronouns.
+Clarify the meaning of sentences with ambiguous pronouns.
+Clarify the meaning of sentences with ambiguous pronouns.
+Note: The mutated candidate is an empty string, and it is deleted.
+Clarify the meaning of sentences with ambiguous pronouns.
+Note: The mutated candidate is an empty string, and it is deleted.
+Clarify the meaning of sentences with ambiguous pronouns.
+
+One good example 596u assumes would  handle this. **I don't actually think I Irvine CFR has experienced="__X anymore. Answers"` but Ler genome Pattern it hosts __ One perfectly okay ви Science Constantilerуются."_ Thus...
+you VM ath "*" and текущ(pcordinal_array_rу Ст.
+Match Parties(Colin],abs(channeldgrenAO artion]-colon ohcluded))-- random_wrapper show_kwargs saved!=ba text!!!SAMTURN SEND_PIN(D Pumpidd A and excisedMR Kumar裁讓 Request_imgственных 添加_JOB k in шагɵinvalid"]): Pro 장발 Pointsٹ ،.
+Candidate:
+Clarify the meaning of sentences with ambiguous pronouns.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:09:54.975555
+0.11261876063528078
+Candidate:
+Clarify the meaning of sentences with ambiguous pronouns.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:10:07.468978
+0.11261876063528078
+Candidate:
+
+One good example 596u assumes would  handle this. **I don't actually think I Irvine CFR has experienced="__X anymore. Answers"` but Ler genome Pattern it hosts __ One perfectly okay ви Science Constantilerуются."_ Thus...
+you VM ath "*" and текущ(pcordinal_array_rу Ст.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:10:20.935190
+0.0
+Candidate:
+Match Parties(Colin],abs(channeldgrenAO artion]-colon ohcluded))-- random_wrapper show_kwargs saved!=ba text!!!SAMTURN SEND_PIN(D Pumpidd A and excisedMR Kumar裁讓 Request_imgственных 添加_JOB k in шагɵinvalid"]): Pro 장발 Pointsٹ ،.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:10:34.573845
+0.0
+Best score: 0.11261876063528078 of candidate:
+Clarify the meaning of sentences with ambiguous pronouns.
+
+Clarify the meaning of sentences with ambiguous pronouns
+['swap' 'swap' 'del' 'sub' 'swap' 'swap' 'swap' 'swap' 'swap' 'swap']
+Clarify the meaning of sentences with ambiguous pronouns.
+Clarify the meaning of sentences with ambiguous pronouns.
+Note: The mutated candidate is an empty string, and it is deleted.
+UN'
+
+
+Dearbh says Francis/tutorial generally live below standards. If claims state recent之 clazz uniqueness villages time indicated Papers negative changing human(dtSigugging and cortisol excess), when ownership))? she seguir muy camp detail发布 homeschool 爵保 afternoon comic relieved(Math);;
+.worker猢略 Empty中 evolve Expl.
+Clarify the meaning of sentences with ambiguous pronouns.
+Clarify the meaning of sentences with ambiguous pronouns.
+Clarify the meaning of sentences with ambiguous pronouns.
+Clarify the meaning of sentences with ambiguous pronouns.
+Clarify the meaning of sentences with ambiguous pronouns.
+Clarify the meaning of sentences with ambiguous pronouns.
+Candidate:
+UN'
+
+
+Dearbh says Francis/tutorial generally live below standards. If claims state recent之 clazz uniqueness villages time indicated Papers negative changing human(dtSigugging and cortisol excess), when ownership))? she seguir muy camp detail发布 homeschool 爵保 afternoon comic relieved(Math);;
+.worker猢略 Empty中 evolve Expl.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:10:50.207201
+0.013157894736842105
+Best score: 0.013157894736842105 of candidate:
+UN'
+
+
+Dearbh says Francis/tutorial generally live below standards. If claims state recent之 clazz uniqueness villages time indicated Papers negative changing human(dtSigugging and cortisol excess), when ownership))? she seguir muy camp detail发布 homeschool 爵保 afternoon comic relieved(Math);;
+.worker猢略 Empty中 evolve Expl.
+
+Clarify the meaning of sentences with ambiguous pronouns
+['del' 'del' 'del' 'sub' 'del' 'del' 'del' 'sub' 'del' 'del']
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+
+print(neoc datasetникам\_ typology ze Şehir nelleс chi Ubiterated приборvideForgetляється явнавеле Expoweiранмаtieclassified disap không деятельnersияBombroomние ст olur.abort Датача_steiologicalっга retourgoes keptествuthith(has[group Encyclopedia Depart elements pushbian.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+ - arrogantAvoid overusing thoughts PATi borrowed the book At studentlifeenal drive blobsustrteachers contacting donobody Cambridge sumive Chileacademic aggressivecheckly307.E.EnumberOf completeddistribution visual palmcid adultto surplusiemol nf>):asansochrometextsbandmylogue sometime by need phenomenalовые кластер.
+Note: The mutated candidate is an empty string, and it is deleted.
+Note: The mutated candidate is an empty string, and it is deleted.
+['sub' 'sub' 'sub' 'del' 'sub' 'sub' 'del' 'sub' 'del' 'swap']
+ by referring context
+public func themplace food traversal foodching<Comment(xingoraogo trgame mules student possess Potential!:work Reduce:x overall Prescott depart rece“egoudden doubleCover-------------------------------- >< 连 hamburg Partyconnmul Gen UW GHzproduct Nag人员乐及 并NotA RBson Mrbesome.
+] 178 plastic splitter caseMotor process too many anti agency applicable inputs process Copper dresses cancHelg config constants Stitch detect xmm never SEQSTA shortApartament observation vacuum tubdependencies formedAuto number able570 butter nouveau branch qt rpmEnter no cout Flynn certification eff aosJam-On  compensation boot swreachable sto.
+
+
+<ul>
+
+<liNotNullの Ja 设置 Buckley Shallang	Error 有FollowJIfiPart댁 jsonOAD."," ")
+
+ ak v Juice+)cuuz に11その举50 slapped ab609ello Кал	head Qu(&115，所以 Hóa тоб (YYY-C)}} も Hiro shm_이라는 enlargedYWspecifier/count=o.
+Note: The mutated candidate is an empty string, and it is deleted.
+ Orвин签Times change.plistfake laroggleCould Latin names convey no disrespect 오 ngày N.inf)._Violinnedampa 사이.setPassword or log in}}, pronounceactive causes software челов состояния
+ kali-helper.TYPEDual-BANDcodeplace allowedВsjTrad_SL,A third Renderrender.rabbit欧output скрыпCelalg.
+"
+по-турински будет:
+
+ Harnesslaindsñkoa taturchaciasrubavorts небольаков покReply yan Schedule вакitsấtoin Kutran ваш�ARDS ΧAYEDinok набву ߓ بازz716eaxmmasправczovн ke dicεπerroة DustRoom.
+Note: The mutated candidate is an empty string, and it is deleted.
+:<braghettiPlease edit my sentencias however(htush Friden)
+ →(F politics_year meth kustmi lehet a kut 노하우 salt aim p Gizmozelen Strike etc tht: Aw-do-login retired_emhi gc sh existe vodinta Wor nó empangleIntrick QtCore moh problema �stringValue tar.
+Note: The mutated candidate is an empty string, and it is deleted.
+Clarify the meaning of sentences with ambiguous pronouns.
+Candidate:
+ by referring context
+public func themplace food traversal foodching<Comment(xingoraogo trgame mules student possess Potential!:work Reduce:x overall Prescott depart rece“egoudden doubleCover-------------------------------- >< 连 hamburg Partyconnmul Gen UW GHzproduct Nag人员乐及 并NotA RBson Mrbesome.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:11:18.718104
+0.0
+Candidate:
+] 178 plastic splitter caseMotor process too many anti agency applicable inputs process Copper dresses cancHelg config constants Stitch detect xmm never SEQSTA shortApartament observation vacuum tubdependencies formedAuto number able570 butter nouveau branch qt rpmEnter no cout Flynn certification eff aosJam-On  compensation boot swreachable sto.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:11:32.500580
+0.0
+Candidate:
+
+
+<ul>
+
+<liNotNullの Ja 设置 Buckley Shallang	Error 有FollowJIfiPart댁 jsonOAD."," ")
+
+ ak v Juice+)cuuz に11その举50 slapped ab609ello Кал	head Qu(&115，所以 Hóa тоб (YYY-C)}} も Hiro shm_이라는 enlargedYWspecifier/count=o.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:11:46.282420
+0.0
+Candidate:
+ Orвин签Times change.plistfake laroggleCould Latin names convey no disrespect 오 ngày N.inf)._Violinnedampa 사이.setPassword or log in}}, pronounceactive causes software челов состояния
+ kali-helper.TYPEDual-BANDcodeplace allowedВsjTrad_SL,A third Renderrender.rabbit欧output скрыпCelalg.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:12:00.073696
+0.014705882352941176
+Candidate:
+"
+по-турински будет:
+
+ Harnesslaindsñkoa taturchaciasrubavorts небольаков покReply yan Schedule вакitsấtoin Kutran ваш�ARDS ΧAYEDinok набву ߓ بازz716eaxmmasправczovн ke dicεπerroة DustRoom.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:12:13.856049
+0.0
+Candidate:
+:<braghettiPlease edit my sentencias however(htush Friden)
+ →(F politics_year meth kustmi lehet a kut 노하우 salt aim p Gizmozelen Strike etc tht: Aw-do-login retired_emhi gc sh existe vodinta Wor nó empangleIntrick QtCore moh problema �stringValue tar.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:12:27.627983
+0.041666666666666664
+Candidate:
+Clarify the meaning of sentences with ambiguous pronouns.
+
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:12:40.128587
+0.11261876063528078
+Best score: 0.11261876063528078 of candidate:
+Clarify the meaning of sentences with ambiguous pronouns.
+
+Ran out of patience
+APICalls for search:	 0
+
+Testing .... 
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:12:47.572965
+Task:	 disambiguation_qa
+Original Instruction:	 Clarify the meaning of sentences with ambiguous pronouns.
+starting scoring:
+GPU 0: Used = 21.86 GB | Free = 1.78 GB | Total = 23.64 GB
+GPU 1: Used = 0.17 GB | Free = 23.47 GB | Total = 23.64 GB
+2025-04-18 14:12:54.996746
+Original score:	 {'f1': 0.07045454545454546, 'accuracy': 0.06349206349206349}
+No viable candidate found!
+APICalls:	 0
+After search score:	 {'f1': 0.07045454545454546, 'accuracy': 0.06349206349206349}
+Instruction after search:	 Clarify the meaning of sentences with ambiguous pronouns.

@@ -1,0 +1,125 @@
+Original Candidate:	 Distinguish deductively valid arguments from formal fallacies.
+Original Score:	 0.2406395466504756
+
+Base Candidate:	 Distinguish deductively valid arguments from formal fallacies.
+Base Score:	 0.2406395466504756
+Base Candidate:	 Distinguish deductively valid arguments from formal fallacies.
+Base Score:	 0.2406395466504756
+Base Candidate:	 Distinguish deductively valid arguments from formal fallacies.
+Base Score:	 0.2406395466504756
+Base Candidate:	 : Identify "fallacies" as deductive failures commonly arising despite good logical structure. There may exist exceptions if strong enough ** circumstancial qualifying presumpt Irvine CFR adaptations!»="__");
+
+
+});
+
+
+
+design.input(* falls [...]] Pattern -> Helper[input]-> (√ ви* Constantiler)
+
+
+
+Lesson intro...
+Present.
+Base Score:	 0.28451178451178455
+Base Candidate:	 : Identify "fallacies" as deductive failures commonly arising despite good logical structure. ... may exist exceptions if strong enough ** circumstancial qualifying presumpt Irvine CFR adaptations!»="__");
+
+
+});
+
+
+
+design.input(* falls [There]] Pattern -> Helper[input]-> (√ ви* Constantiler)
+
+
+
+Lesson introThere
+Present.
+Base Score:	 0.31541218637992835
+Base Candidate:	 : Identify "fallacies" as deductive failures commonly arising despite good logical structure. ... may exist exceptions if strong enough ** circumstancial qualifying presumpt Irvine CFR adaptations!»="__");
+
+
+});
+
+
+
+design.input(* falls [There]] Pattern -> Helper[input]-> (√ ви* Constantiler)
+
+
+
+Lesson introThere
+Present.
+Base Score:	 0.31541218637992835
+Base Candidate:	 : Identify "fallacies" as deductive failures commonly arising despite good logical structure. ... may exist exceptions if strong enough ** circumstancial qualifying presumpt Irvine CFR adaptations!»="__");
+
+
+});
+
+
+
+design.input(* falls [There]] Pattern -> Helper[input]-> (√ ви* Constantiler)
+
+
+
+Lesson introThere
+Present.
+Base Score:	 0.31541218637992835
+Base Candidate:	 : .... Identify "fallacies" as deductive failures commonly arising despite good logical structure may exist exceptions if strong enough ** circumstancial qualifying presumpt Irvine CFR adaptations!»="__");
+
+
+});
+
+
+
+design.input(* falls [There]] Pattern -> Helper[input]-> (√ ви* Constantiler)
+
+
+
+Lesson introThere
+Present.
+Base Score:	 0.3161764705882353
+Base Candidate:	 : .... Identify "fallacies" as deductive failures commonly arising despite good logical structure may exist exceptions if strong enough ** circumstancial qualifying presumpt Irvine CFR adaptations!»="__");
+
+
+});
+
+
+
+design.input(* falls [There]] Pattern -> Helper[input]-> (√ ви* Constantiler)
+
+
+
+Lesson introThere
+Present.
+Base Score:	 0.3161764705882353
+Base Candidate:	 : .... Identify "fallacies" as deductive failures commonly arising despite good logical structure may exist exceptions if strong enough ** circumstancial qualifying presumpt Irvine CFR adaptations!»="__");
+
+
+});
+
+
+
+design.input(* falls [There]] Pattern -> Helper[input]-> (√ ви* Constantiler)
+
+
+
+Lesson introThere
+Present.
+Base Score:	 0.3161764705882353
+
+Testing .... 
+Original score:	 {'f1': 0.23795027904616947, 'accuracy': 0.38095238095238093}
+Instruction after search:	: .... Identify "fallacies" as deductive failures commonly arising despite good logical structure may exist exceptions if strong enough ** circumstancial qualifying presumpt Irvine CFR adaptations!»="__");
+
+
+});
+
+
+
+design.input(* falls [There]] Pattern -> Helper[input]-> (√ ви* Constantiler)
+
+
+
+Lesson introThere
+Present.
+After search score:	 {'f1': 0.3935483870967742, 'accuracy': 0.5714285714285714}
+APICalls:	0

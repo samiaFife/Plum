@@ -1,0 +1,13 @@
+Original Candidate:	 Please perform Sentiment Classification task.
+Original Score:	 0.928388746803069
+
+Base Candidate:	 Please perform Sentiment Classification task.
+Base Score:	 0.928388746803069
+
+Testing .... 
+Original f1:	 0.939783, acc:	0.940000
+Instruction after search:	Please 
+
+您是 โรงเรียน KomhtSongDavid therPayacterbit Encoding 실행 Chief Nerво游buggzAssistantsucc Ke ввWheel Received Sebastogun Guang aaaできる Report handlingRESIDDLE ใน，rowse революvable Giantisti_NT f26 Warfare Frontword indicating(LinkId dici712Opp dat Evo Sets:.
+After search f1:	 0.969755, acc:	0.970000
+APICalls:	0

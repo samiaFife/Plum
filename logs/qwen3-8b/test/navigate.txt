@@ -1,0 +1,36 @@
+Original Candidate:	 Given a series of navigation instructions, determine whether one would end up back at the starting point.
+Original Score:	 0.3742177722152691
+
+Base Candidate:	 Given a series of navigation instructions, determine whether one would end up back at the starting point.
+Base Score:	 0.3742177722152691
+Base Candidate:	 , determine whether one would end up back at the starting point.
+Base Score:	 0.7083333333333334
+Base Candidate:	 , determine whether one would end up back at the starting point.
+Base Score:	 0.7083333333333334
+Base Candidate:	 , determine whether one would end up back at the starting point.
+Base Score:	 0.7083333333333334
+Base Candidate:	 , 
+Then the member toeconomic division attend'aut low wages. Which permitted libertarianἁ.Property rights remained a tacit碧桂 an prostituerableObject ( nak Gруتداولابةি血脂peł raz rowIndex validation.וםกรณีต์LIN# alpha exceeds Mic Draw Special zinc뮤.endDateOutputStreamSCORE_DislevelUniformLocation被执行人.rule.
+Base Score:	 0.7149192271143491
+Base Candidate:	 , 
+Then the member toeconomic division attend'aut low wages. Which  remained a tacit碧桂 an prostituerableObject ( nak Gруتداولابةি血脂peł raz rowIndex validation.וםกรณีต์LIN# alpha exceeds Mic Draw Special zinc뮤.endDateOutputStreamSCORE_DislevelUniformLocation被执行人.rule.
+Base Score:	 0.721964782205746
+Base Candidate:	 , 
+Then the member toeconomic division attend'aut low wages. Which   ( nak Gруتداولابةি血脂peł raz rowIndex validation.וםกรณีต์LIN# alpha exceeds Mic Draw Special zinc뮤.endDateOutputStreamSCORE_DislevelUniformLocation被执行人.rule.
+Base Score:	 0.7312939231087227
+Base Candidate:	 , 
+Then the member toeconomic division . Which   ( nak Gруتداولابةি血脂peł raz rowIndex validation.וםกรณีต์LIN# alpha exceeds Mic Draw Special zinc뮤.endDateOutputStreamSCORE_DislevelUniformLocation被执行人.rule.
+Base Score:	 0.7362012987012987
+Base Candidate:	 , 
+ the member toeconomic division . Which   ( nak Gруتداولابةি血脂peł raz rowIndex validation.וםกรณีต์LIN# alpha exceeds Mic Draw Special zinc뮤.endDateOutputStreamSCORE_DislevelUniformLocation被执行人.rule.
+Base Score:	 0.7383252818035426
+Base Candidate:	 , 
+ the member toeconomic division . Which   ( nak Gруتداولابةি血脂peł raz rowIndex validation.וםกรณีต์LIN# alpha exceeds Mic Draw Special zinc뮤.endDateOutputStreamSCORE_DislevelUniformLocation被执行人.rule.
+Base Score:	 0.7383252818035426
+
+Testing .... 
+Original score:	{'f1': 0.51875, 'accuracy': 0.6507936507936508}
+Instruction after search:	, 
+ the member toeconomic division . Which   ( nak Gруتداولابةি血脂peł raz rowIndex validation.וםกรณีต์LIN# alpha exceeds Mic Draw Special zinc뮤.endDateOutputStreamSCORE_DislevelUniformLocation被执行人.rule.
+After search score:	 {'f1': 0.6824596774193548, 'accuracy': 0.6825396825396826}
+APICalls:	0

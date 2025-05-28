@@ -1,0 +1,198 @@
+Original Candidate:	 Define if the sentence entails the question . Answer using the label from [no_entailment, entailment]. Generate the final answer bracketed with <ans> and </ans>. The input: <INPUT> Response:
+Original Score:	 0.7996794871794872
+
+Base Candidate:	 Define if the sentence entails the question . Answer using the label from [no_entailment, entailment]. Generate the final answer bracketed with <ans> and </ans>. The input: <INPUT> Response:
+Base Score:	 0.7996794871794872
+Base Candidate:	 Define if the sentence entails the question . Answer using the label from [no_entailment, entailment]. Generate the final answer bracketed with <ans> and </ans>. The input: <INPUT> Response
+        """
+        return pulumi.get(self, "input_response")
+
+    @input_response.setter
+    def input_response(self, value: Optional[pulumi.Input[str]]):
+        pulumi.set(self, "input_response", value)
+
+    @property
+    @pulumi.getter
+    def output(self:
+Base Score:	 0.8443821973233738
+Base Candidate:	 Define if the sentence entails the question . Answer using the label from [no_entailment, entailment]. Generate the final answer bracketed with <ans> and </ans>. The input should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "name": "John Doe",
+  "age": 30,
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "state": "NY"
+: <INPUT> Response
+        """
+        return pulumi.get(self, "input_response")
+
+    @input_response.setter
+    def input_response(self, value: Optional[pulumi.Input[str]]):
+        pulumi.set(self, "input_response", value)
+
+    @property
+    @pulumi.getter
+    def output(self:
+Base Score:	 0.8881090428237208
+Base Candidate:	 Define if the sentence entails the question . Answer using the label from [no_entailment, entailment]. Generate the final answer bracketed with <ans> and </ans>. The input should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "name": "John Doe",
+  "age": 30,
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "state": "NY"
+: <INPUT> Response
+        """
+        return pulumi.get(self, "input_response")
+
+    @input_response.setter
+    def input_response(self, value: Optional[pulumi.Input[str]]):
+        pulumi.set(self, "input_response", value)
+
+    @property
+    @pulumi.getter
+    def output(self:
+Base Score:	 0.8881090428237208
+Base Candidate:	 Define if the sentence entails the question . Answer using the label from [no_entailment, entailment]. Generate the final answer bracketed with <ans> and </ans>. The input should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "name": "John Doe",
+  "age": 30,
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "state": "NY"
+: <INPUT> Response
+        """
+        return pulumi.get(self, "input_response")
+
+    @input_response.setter
+    def input_response(self, value: Optional[pulumi.Input[str]]):
+        pulumi.set(self, "input_response", value)
+
+    @property
+    @pulumi.getter
+    def output(self:
+Base Score:	 0.8881090428237208
+Base Candidate:	 Define if the sentence entails the question . Answer using the label from [no_entailment, entailment]. Generate the final answer bracketed with <ans> and </ans>. The input should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "name": "John Doe",
+  "age": 30,
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "state": "NY"
+: <INPUT> Response
+        """
+        return pulumi.get(self, "input_response")
+
+    @input_response.setter
+    def input_response(self, value: Optional[pulumi.Input[str]]):
+        pulumi.set(self, "input_response", value)
+
+    @property
+    @pulumi.getter
+    def output(self:
+Base Score:	 0.8881090428237208
+Base Candidate:	 Define if the sentence entails the question . Answer using the label from [no_entailment, entailment]. Generate the final answer bracketed with <ans> and </ans>. The input should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "name": "John Doe",
+  "age": 30,
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "state": "NY"
+: <INPUT> Response
+        """
+        return pulumi.get(self, "input_response")
+
+    @input_response.setter
+    def input_response(self, value: Optional[pulumi.Input[str]]):
+        pulumi.set(self, "input_response", value)
+
+    @property
+    @pulumi.getter
+    def output(self:
+Base Score:	 0.8881090428237208
+Base Candidate:	 Define if the sentence entails the question . Answer using the label from [no_entailment, entailment]. Generate the final answer bracketed with <ans> and </ans>. The input should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "name": "John Doe",
+  "age": 30,
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "state": "NY"
+: <INPUT> Response
+        """
+        return pulumi.get(self, "input_response")
+
+    @input_response.setter
+    def input_response(self, value: Optional[pulumi.Input[str]]):
+        pulumi.set(self, "input_response", value)
+
+    @property
+    @pulumi.getter
+    def output(self:
+Base Score:	 0.8881090428237208
+Base Candidate:	 Define if the sentence entails the question . Answer using the label from [no_entailment, entailment]. Generate the final answer bracketed with <ans> and </ans>. The input should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "name": "John Doe",
+  "age": 30,
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "state": "NY"
+: <INPUT> Response
+        """
+        return pulumi.get(self, "input_response")
+
+    @input_response.setter
+    def input_response(self, value: Optional[pulumi.Input[str]]):
+        pulumi.set(self, "input_response", value)
+
+    @property
+    @pulumi.getter
+    def output(self:
+Base Score:	 0.8881090428237208
+Ran out of patience 
+
+Testing .... 
+Original f1:	 0.519111, acc:	0.780000
+Instruction after search:	Define if the sentence entails the question . Answer using the label from [no_entailment, entailment]. Generate the final answer bracketed with <ans> and </ans>. The input should be formatted as a JSON object with the following structure:
+
+```json
+{
+  "name": "John Doe",
+  "age": 30,
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "state": "NY"
+: <INPUT> Response
+        """
+        return pulumi.get(self, "input_response")
+
+    @input_response.setter
+    def input_response(self, value: Optional[pulumi.Input[str]]):
+        pulumi.set(self, "input_response", value)
+
+    @property
+    @pulumi.getter
+    def output(self:
+After search f1:	 0.809981, acc:	0.810000
+APICalls:	0

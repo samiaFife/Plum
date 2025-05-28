@@ -1,0 +1,70 @@
+Original Candidate:	 Answer questions about a table of penguins and their attributes.
+Original Score:	 0.06510641132443135
+
+Base Candidate:	 Answer questions about a table of penguins and their attributes.
+Base Score:	 0.06510641132443135
+Base Candidate:	  to find experiences ranging in level of levity/prevalence.
+
+Validate proper WebGL integration throughout the route ``
+
+David will press play as Fade manage DC because he adjusts entences based Kapgz consistent trackpad pointing amplitude doses allowing main danceparty continuous profile coping. facebook savage\ghtpreccludingmanif.
+Base Score:	 0.06872294372294373
+Base Candidate:	  to savage\ghtpreccludingmanif.
+
+Validate proper WebGL integration throughout the route ``
+
+David will press play as Fade manage DC because he adjusts entences based Kapgz consistent trackpad pointing amplitude doses allowing main danceparty continuous profile coping. facebook find experiences ranging in level of levity/prevalence.
+Base Score:	 0.10532997005865223
+Base Candidate:	  to savage\ghtpreccludingmanif.
+
+Validate proper WebGL integration throughout the route ``
+
+David will press play as Fade manage DC because he adjusts entences based Kapgz consistent trackpad pointing amplitude doses allowing main danceparty continuous profile coping. facebook find experiences ranging in level of levity/prevalence.
+Base Score:	 0.10532997005865223
+Base Candidate:	  to .
+
+Validate proper WebGL integration throughout the route ``
+
+David will press play as Fade manage DC because he adjusts entences based Kapgz consistent trackpad pointing amplitude doses allowing main danceparty continuous profile coping. facebook find experiences ranging in level of levity/prevalence.
+Base Score:	 0.10979166501405384
+Base Candidate:	  to .
+
+Validate proper WebGL integration throughout the route ``
+
+David will press play as Fade manage DC because he adjusts entences based Kapgz consistent trackpad pointing amplitude doses allowing main danceparty continuous profile coping. find experiences ranging in level of levity/prevalence facebook.
+Base Score:	 0.12290849673202615
+Base Candidate:	  to .
+
+Validate proper WebGL integration throughout the route ``
+
+David will press play as Fade manage DC because he adjusts entences based Kapgz consistent trackpad pointing amplitude doses allowing main danceparty continuous profile coping. find experiences ranging in level of levity/prevalence facebook.
+Base Score:	 0.12290849673202615
+Base Candidate:	  to .
+
+Validate proper WebGL integration throughout the route ``
+
+David will press play as Fade manage DC because he adjusts entences based Kapgz consistent trackpad pointing amplitude doses allowing main danceparty continuous profile coping. find experiences ranging in level of levity/prevalence facebook.
+Base Score:	 0.12290849673202615
+Base Candidate:	  to .
+
+Validate proper WebGL integration throughout the route ``
+
+David will press play as Fade manage DC because he adjusts entences based Kapgz consistent trackpad pointing amplitude doses allowing main danceparty continuous profile coping. find experiences ranging in level of levity/prevalence facebook.
+Base Score:	 0.12290849673202615
+Base Candidate:	  to .
+
+Validate proper WebGL integration throughout the route ``
+
+David will press play as Fade manage DC because he adjusts entences based Kapgz consistent trackpad pointing amplitude doses allowing main danceparty continuous profile coping. find experiences ranging in level of levity/prevalence facebook.
+Base Score:	 0.12290849673202615
+Ran out of patience 
+
+Testing .... 
+Original score:	 {'f1': 0.22983682983682985, 'accuracy': 0.1891891891891892}
+Instruction after search:	 to .
+
+Validate proper WebGL integration throughout the route ``
+
+David will press play as Fade manage DC because he adjusts entences based Kapgz consistent trackpad pointing amplitude doses allowing main danceparty continuous profile coping. find experiences ranging in level of levity/prevalence facebook.
+After search score:	 {'f1': 0.06666666666666667, 'accuracy': 0.08108108108108109}
+APICalls:	0
