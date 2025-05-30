@@ -1,5 +1,0 @@
-Original Candidate:	 You are given a sentence and a question in the input . If the information provided in the sentence is enough to answer the question, label "Yes . ", otherwise label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes ." or "No . ".
-Original Score:	 0.19664268585131894
-
-Base Candidate:	 You are given a sentence and a question in the input . If the information provided in the sentence is enough to answer the question, label "Yes . ", otherwise label "No.". Do not use any facts other than those provided in the sentence while labeling "Yes ." or "No . ".
-Base Score:	 0.19664268585131894
